@@ -1,0 +1,210 @@
+#WEAPONS#
+
+***PISTOLS***
+0008F216: .357 Magnum Revolver
+0008F215: .44 Magnum Revolver
+000E3778: 9mm Pistol
+0000434F: 10mm Pistol
+0008F213: 12.7mm Pistol
+000E377A: Silenced .22 Pistol
+0008F214: Hunting Revolver
+
+***RIFLES***
+0008F21C: Anti-Materiel Rifle
+0008F21E: Assault Carbine
+00004323: BB Gun
+00121148: Brush Gun
+0008F21A: Cowboy Repeater
+00004333: Hunting Rifle
+000906DF: Light Machine Gun
+00106FEA: Marksman Carbine
+000E9C3B: Service Rifle
+00004353: Sniper Rifle
+000CD539: Trail Carbine
+0007EA24: Varmint Rifle
+
+***SMGS***
+0008F217: 9mm Submachine Gun
+00004321: 10mm Submachine Gun
+0008F218: Silenced .22 SMG
+001429D1: 12.7mm Submachine Gun
+
+***SHOTGUNS***
+000CD53A: Caravan Shotgun
+0008ED0B: Hunting Shotgun
+0008ED0C: Lever-action Shotgun
+0008ED0A: Riot Shotgun
+0000434C: Sawed-off Shotgun
+000E393B: Single Shotgun
+
+***HEAVY WEAPONS***
+0000433F: Minigun
+
+***ENERGY PISTOLS***
+00004335: Laser Pistol
+00004343: Plasma Pistol
+00090A6B: Pulse Gun
+0009071F: Recharger Pistol
+00090727: Plasma Defender
+
+***ENERGY RIFLES***
+0015837B: Gauss Rifle
+0009073B: Laser RCW
+00004336: Laser Rifle
+00121168: Multiplas Rifle
+00004344: Plasma Rifle
+00121154: Recharger Rifle
+000E2BF4: Tri-beam Laser Rifle
+
+***HEAVY ENERGY WEAPONS***
+0000432D: Flamer
+0000432E: Gatling Laser
+000E2BFC: Heavy Incinerator
+000906DA: Incinerator
+000906CF: Plasma Caster
+000E2BEC: Tesla Cannon
+
+***PROJECTILE WEAPONS***
+0000432C: Fat Man
+00090A6A: Grenade Machinegun
+0007EA25: Grenade Launcher
+000FF576: Grenade Rifle
+00004340: Missile Launcher
+
+***THROWN EXPLOSIVES***
+000BA0F3: Dynamite
+00004330: Frag Grenade
+0014DDDE: Incendiary Grenade
+00109A0C: Long-fuse Dynamite
+00004332: Plasma Grenade
+00004331: Pulse Grenade
+
+***PLACED EXPLOSIVES***
+0000433A: Bottlecap Mine
+001221C1: C-4 plastic explosive
+0000433C: Frag Mine
+0000433D: Plasma Mine
+00109A0B: Powder Charge
+0000433E: Pulse Mine
+0013D534: Time Bomb
+
+***BLADED MELEE WEAPONS***
+000CD50D: Bumper Sword
+0015FE44: Chainsaw
+00109A0A: Cleaver
+00004326: Combat Knife
+0011A8B9: Fire Axe
+0011A8E4: Hatchet
+00004334: Knife
+000CE569: Machete
+0015430B: Machete Gladius
+00004349: Ripper
+0000434E: Shishkebab
+000F0F04: Straight Razor
+000289C3: Switchblade
+0015C881: Thermic Lance
+
+***BLUNT MELEE WEAPONS***
+000FC335: 9 Iron
+0000421C: Baseball Bat
+0013316D: Cattle Prod
+0011A8A0: Dress Cane
+00004337: Lead Pipe
+000A01DD: Nail Board
+00004346: Pool Cue
+00004345: Police Baton
+000CD50E: Rebar Club
+000B2943: Rolling Pin
+0011E46F: Shovel
+00004351: Sledgehammer
+00004352: Super Sledge
+00004328: Tire Iron
+
+***THROWN WEAPONS***
+0014DE1D: Throwing Hatchet
+00161246: Throwing Knife
+0014D2AC: Throwing Spear
+
+***UNARMED WEAPONS***
+0015BA03: Ballistic Fist
+001519E0: Bladed Gauntlet
+000E5391: Boxing Gloves
+0012D852: Boxing Tape
+00004324: Brass Knuckles
+00155E66: Displacer Glove
+00146C79: Dog Tag Fist
+001524B3: Mantis Gauntlet
+00004347: Power Fist
+00004354: Spiked Knuckles
+0015BA78: Zap Glove
+0000432B: Deathclaw Gauntlet
+
+#UNIQUE WEAPONS#
+
+***UNIQUE PISTOLS***
+000E2C86: Lucky (.357 Magnum Revolver)
+00127C6C: Mysterious Magnum (.44 Magnum Revolver)
+00133058: That Gun (5.56mm Pistol)
+000E7655: Maria (9mm Pistol)
+00129A44: Ranger Sequoia (Hunting Revolver)
+
+***UNIQUE RIFLES***
+000F062B: This Machine (Battle Rifle)
+0015FF5D: The Abilene Kid LE BB Gun (BB Gun)
+000F56F5: La Longue Carabine (Cowboy Repeater)
+00106FEB: All-American (Marksman Carbine)
+001429E1: Gobi Campaign Scout Rifle (Sniper Rifle)
+000E5B17: Ratslayer (Varmint Rifle)
+
+***UNIQUE SMGS***
+000E32F4: Vance's SMG (9mm Submachine Gun)
+
+***UNIQUE SHOTGUNS***
+000F0B12: Dinner Bell (Hunting Shotgun)
+001673CD: Big Boomer (Sawed-off Shotgun)
+001735E3: Sturdy Caravan Shotgun
+
+***UNIQUE HEAVY WEAPONS***
+001629B6: CZ57 Avenger (Minigun)
+
+***UNIQUE ENERGY PISTOLS***
+00004322: Alien Blaster
+0014EB3C: Euclid's C-Finder
+00103B1D: Pew Pew (Laser Pistol)
+
+***UNIQUE ENERGY RIFLES***
+0015B38D: YCS/186 (Gauss Rifle)
+001479B3: AER14 prototype (Laser Rifle)
+000E6064: Q-35 Matter Modulator (Plasma Rifle)
+
+***UNIQUE HEAVY ENERGY WEAPONS***
+0015A47F: Tesla-Beaton Prototype (Tesla Cannon)
+
+***UNIQUE PROJECTILE WEAPONS***
+0015FFF4: Mercy (Grenade Machinegun)
+001429E2: Thump-Thump (Grenade Rifle)
+00162019: Annabelle (Missile Launcher)
+
+***UNIQUE THROWN EXPLOSIVES***
+0014EA5A: Holy Frag Grenade
+
+***UNIQUE BLADED MELEE WEAPONS***
+00143FBA: Blade of the East (Bumper Sword)
+0014D2AA: Chopper (Cleaver)
+00162C92: Chance's Knife (Combat Knife)
+00156F7C: Knock-Knock (Fire Axe)
+00127E45: Liberator (Machete)
+0014D2A7: Figaro (Straight Razor)
+
+***UNIQUE BLUNT MELEE WEAPONS***
+000F56F6: Nephi's golf driver (9 Iron)
+00157BCA: The Humble Cudgel (Lead Pipe)
+00156968: Oh, Baby! (Super Sledge)
+
+***UNIQUE UNARMED WEAPONS***
+00151D0C: Cram Opener (Bladed Gauntlet)
+000E58BB: Golden Gloves (Boxing Gloves)
+00155E6D: Pushy (Displacer Glove)
+0012ADB8: Recompense of the Fallen (Dog Tag Fist)
+001568E6: Love and Hate (Spiked Knuckles)
+0015BA72: Paladin Toaster (Zap Glove)

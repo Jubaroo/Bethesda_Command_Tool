@@ -1,0 +1,261 @@
+#MORROWIND#
+guar: Guar
+bonewalker: Bonewalker
+guar_pack: Pack Guar
+clannfear: Clannfear
+alit: Alit
+kagouti: Kagouti
+mudcrab: Mudcrab
+scamp: Scamp
+dreugh: Dreugh
+scrib: Scrib
+slaughterfish: Slaughterfish
+nix-hound: Nix-Hound
+skeleton: Skeleton
+kwama worker: Kwama Worker
+kwama warrior: Kwama Warrior
+Kwama Queen: Kwama Queen
+scrib_vaba-amus: Vaba-Amus
+ash_ghoul: Ash Ghoul
+ancestor_ghost: Ancestor Ghost
+ash_slave: Ash Slave
+ash_zombie: Ash Zombie
+shalk_diseased: Diseased Shalk
+shalk_blighted: Blighted Shalk
+netch_bull: Bull Netch
+netch_betty: Betty Netch
+bonelord: Bonelord
+centurion_sphere: Centurion Sphere
+centurion_spider: Centurion Spider
+cliff racer: Cliff Racer
+cliff racer_diseased: Diseased Cliff Racer
+cliff racer_blighted: Blighted Cliff Racer
+corprus_stalker: Corprus Stalker
+daedroth: Daedroth
+dremora: Dremora
+dremora_lord: Dremora Lord
+alit_diseased: Diseased Alit
+alit_blighted: Blighted Alit
+dwarven ghost: Dwarven Spectre
+atronach_flame: Flame Atronach
+atronach_frost: Frost  Atronach
+kagouti_diseased: Diseased Kagouti
+kagouti_blighted: Blighted Kagouti
+kwama warrior blighted: Kwama Warrior
+kwama worker diseased: Diseased Kwama Worker
+kwama worker blighted: Kwama Worker
+kwama forager: Kwama Forager
+kwama forager blighted: Kwama Forager
+corprus_lame: Lame Corprus
+nix-hound blighted: Blighted Nix-Hound
+ogrim: Ogrim
+scrib diseased: Diseased Scrib
+scrib blighted: Blighted Scrib
+skeleton warrior: Skeleton Warrior
+skeleton champion: Skeleton Champion
+centurion_steam: Steam Centurion
+atronach_storm: Storm Atronach
+rat_diseased: Diseased Rat
+rat_blighted: Blighted Rat
+hunger: Hunger
+skeleton archer: Skeleton Archer
+guar_hrmudcrabnest: Dead Guar
+mudcrab_hrmudcrabnest: Mudcrab
+slaughterfish_hr_sfavd: Old Blue Fin
+dagoth gares: Dagoth Gares
+scamp_mg_apprentice: Scamp
+ancestor_mg_wisewoman: Kanit Ashurnisammis
+dead rat: Dead Rat
+shalk_diseased_hram: Diseased Shalk
+kagouti_hrk: Kagouti
+dagoth tanis: Dagoth Tanis
+ash_ghoul_mulyn: Dagoth Mulyn
+ash_ghoul_ganel: Dagoth Ganel
+corprus_stalker_fgcs: Corprus Stalker
+ash_ghoul_fgr: Dagoth Velos
+rat_cave_fgrh: Cave Rat
+hunger_fghl: Hunger
+ash_zombie_fgaz: Ash Zombie
+ancestor_guardian_fgdd: Ancestor Guardian
+rat_cave_hhte1: Game Rat
+rat_cave_hhte2: Blighted Game Rat
+Kwama Queen_HHEM: Kwama Queen
+dagoth reler: Dagoth Reler
+dagoth girer: Dagoth Girer
+dagoth uthol: Dagoth Uthol
+dagoth delnus: Dagoth Delnus
+dagoth baler: Dagoth Baler
+dagoth ulen: Dagoth Ulen
+skeleton hero dead: Skeletal Corpse
+dagoth ralas: Dagoth Ralas
+dagoth fervas: Dagoth Fervas
+dagoth daynil: Dagoth Daynil
+dagoth aladus: Dagoth Aladus
+dagoth elam: Dagoth Elam
+dagoth uvil: Dagoth Uvil
+yagrum bagarn: Yagrum Bagarn
+golden saint: Golden Saint
+lustidrike: Lustidrike
+scamp_creeper: Creeper
+netch_betty_ranched: Betty Netch
+netch_bull_ranched: Bull Netch
+centurion_shock_baladas: Shock Centurion
+ascended_sleeper: Ascended Sleeper
+dagoth odros: Dagoth Odros
+dagoth vemyn: Dagoth Vemyn
+dagoth endus: Dagoth Endus
+dagoth tureynul: Dagoth Tureynul
+dagoth gilvoth: Dagoth Gilvoth
+dagoth araynys: Dagoth Araynys
+dagoth fovon: Dagoth Fovon
+atronach_flame_ttmk: Flame Atronach
+atronach_frost_ttmk: Frost  Atronach
+atronach_storm_ttmk: Storm Atronach
+heart_akulakhan: Heart of Lorkhan
+scrib _0hp: Hive Scrib
+dremora_ttpc: Krazzt
+dagoth vaner: Dagoth Vaner
+dagoth ienas: Dagoth Ienas
+dead_skeleton: Skeleton
+dreugh_koal: Dreugh Warlord
+centurion_spider_tga1: Spider Centurion
+centurion_spider_tga2: Spider Centurion
+scamp_dead: Dead Scamp
+dagoth irvyn: Dagoth Irvyn
+dagoth drals: Dagoth Drals
+dagoth rather: Dagoth Rather
+dagoth muthes: Dagoth Muthes
+dagoth malan: Dagoth Malan
+dagoth mulis: Dagoth Mulis
+dagoth fandril: Dagoth Fandril
+dagoth molos: Dagoth Molos
+dagoth galmis: Dagoth Galmis
+dagoth fals: Dagoth Fals
+skeleton_aldredaynia: Skeleton War-Wizard
+dagoth goral: Dagoth Goral
+dagoth mendras: Dagoth Mendras
+kagouti_mating: Mating Kagouti
+guar_rollie_unique: Rollie the Guar
+dagoth felmis: Dagoth Felmis
+dagoth soler: Dagoth Soler
+dagoth garel: Dagoth Garel
+dagoth nilor: Dagoth Nilor
+dagoth_ur_1: Dagoth Ur
+dagoth_ur_2: Dagoth Ur
+scrib _dead: Hive Scrib
+Kwama Queen_Abaesen: Kwama Queen
+kwama queen_ahanibi: Kwama Queen
+kwama queen_akimaes: Kwama Queen
+kwama queen_eluba: Kwama Queen
+kwama queen_eretammus: Kwama Queen
+kwama queen_maesa: Kwama Queen
+kwama queen_madas: Kwama Queen
+kwama queen_hairat: Kwama Queen
+kwama queen_matus: Kwama Queen
+kwama queen_mudan: Kwama Queen
+kwama queen_panabanit: Kwama Queen
+kwama queen_sarimisun: Kwama Queen
+kwama queen_shurdan: Kwama Queen
+kwama queen_sinamusa: Kwama Queen
+kwama queen_zalkin: Kwama Queen
+kwama forager_tb: Kwama Forager
+ancestor_ghost_vabdas: Mansilamat Vabdas
+gateway_haunt: Gateway Haunt
+centurion_fire_dead: Sphere Centurion
+centurion_steam_dead: Steam Centurion
+netch_betty_ilgn: Betty Netch
+netch_bull_ilgn: Bull Netch
+golden saint_staada: Staada
+netch_bull_dead: Bull Netch
+atronach_frost_gwai_uni: Nomeg Gwai
+winged twilight_grunda_: Molag Grunda
+guar_white_unique: The White Guar
+corprus_stalker_berwen: Corprus Stalker
+dagoth_hlevul: Dagoth Hlevul
+Dagoth Draven: Dagoth Draven
+worm lord: Worm Lord
+kwama queen_gnisis: Kwama Queen
+Dahrk Mezalf: Dahrk Mezalf
+dremora_ttmg: Anhaedra
+daedroth_menta_unique: Menta Na
+dagoth velos: Dagoth Velos
+ancestor_guardian_heler: Ghost of Galos Heleran
+shalk: Shalk
+Rat: Rat
+winged twilight: Winged Twilight
+mudcrab-Diseased: Diseased Mudcrab
+Bonewalker_Greater: Greater Bonewalker
+dead_scrib: Hive Scrib
+dead_scamp: Dead Scamp
+ogrim titan: Ogrim Titan
+centurion_steam_exhibit: Steam Centurion
+wraith_sul_senipul: Wraith of Sul-Senipul
+Netch_Giant_UNIQUE: Giant Bull Netch
+corprus_stalker_fyr01: Corprus Stalker
+corprus_lame_fyr01: Lame Corprus
+corprus_stalker_fyr02: Corprus Stalker
+corprus_lame_fyr02: Lame Corprus
+corprus_lame_fyr03: Lame Corprus
+corprus_lame_fyr04: Lame Corprus
+corprus_stalker_fyr03: Corprus Stalker
+centurion_sphere_nchur: Centurion Sphere
+centurion_spider_nchur: Centurion Spider
+centurion_steam_nchur: Steam Centurion
+daedroth_fg_nchur: Hrelvesuu
+Slaughterfish_Small: Small Slaughterfish
+Bonewalker_Greater_dead: Greater Bonewalker
+bonewalker_dead: Bonewalker
+skeleton champ_sandas00: Skeleton Champion
+skeleton champ_sandas10: Skeleton Champion
+guar_pack_tarvyn_unique: Tarvyn's Guar
+mudcrab_unique: Mudcrab
+guar_llovyn_unique: Corky
+kwama worker entrance: Kwama Worker
+skeleton entrance: Skeleton
+vivec_god: Vivec
+dead_mudcrab: Mudcrab
+centurion_Mudan_unique: Steam Guardian
+skeleton_Vemynal: Beldoh the Undying
+rat_telvanni_unique: Telvanni Sewer Rat
+dwarven ghost_jeanne_U: Dwarven Spectre
+corprus_stalker_danar: Corprus Stalker
+hunger_audenian: Hunger
+kwama warrior shurdan: Blighted Kwama Warrior
+bonewalker_weak: Lesser Bonewalker
+skeleton_weak: Crippled Skeleton
+dremora_special_Fyr: Lord Dregas Volar
+guar_feral: Wild Guar
+rat_telvanni_unique_2: Telvanni Sewer Rat
+rat_cave_fgt: Cave Rat
+kwama queen_mudan_c: Kwama Queen
+kwama queen_shurdan_c: Kwama Queen
+centurion_steam_hts: Steam Centurion
+centurion_sphere_hts2: Centurion Sphere
+daedroth_baladas: Daedroth
+hunger_az_01: Hunger
+hunger_az_02: Hunger
+atronach_flame_az: Flame Atronach
+atronach_storm_az: Storm Atronach
+ogrim_az: Ogrim
+daedroth_az: Daedroth
+netch_bull_dead_2: Bull Netch
+dremora_gothren_guard1: Dremora
+dremora_gothren_guard2: Dremora
+corprus_lame_morvayn: Lame Corprus
+corprus_stalker_morvayn: Corprus Stalker
+ancestor_ghost_summon: Ancestor Ghost
+atronach_flame_summon: Flame Atronach
+atronach_frost_summon: Frost  Atronach
+atronach_storm_summon: Storm Atronach
+bonelord_summon: Bonelord
+bonewalker_summon: Bonewalker
+Bonewalker_Greater_summ: Greater Bonewalker
+centurion_sphere_summon: Centurion Sphere
+clannfear_summon: Clannfear
+daedroth_summon: Daedroth
+dremora_summon: Dremora
+golden saint_summon: Golden Saint
+hunger_summon: Hunger
+scamp_summon: Scamp
+skeleton_summon: Skeleton
+winged twilight_summon: Winged Twilight

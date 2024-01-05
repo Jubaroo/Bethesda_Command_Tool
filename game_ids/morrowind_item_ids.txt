@@ -1,0 +1,2886 @@
+#KEYS#
+key_abebaalslaves_01: Abebaal Slave Key
+key_elmussadamori: Abebaal Slave Key
+key_addamasartusslaves_01: Addamasartus Slave Key
+key_slave_addamasartus: Addamasartus Slave Key
+key_aharunartusslaves_01: Aharunartus Slave Key
+key_ahnassi: Ahnassi's Key
+key_alvur: Alvur's Key
+key_ashurninibi_lost: Ancient, rusted Daedric Key
+key_ibardad_tomb: Ancient, rusted Daedric Key
+key_ashalmawia_prisoncell: Ancient Daedric Key
+key_ashurninibi: Ancient Daedric Key
+key_Forge of Rolamus: Ancient Daedric Key
+key_fg_nchur: Ancient Dwemer Door Key
+key_anja: Anja's Key
+key_marvani_tomb: An old, ashy key
+key_Senim_tomb: An old tomb key
+key_archcanon_private: Archcanon's Private Key
+key_vivec_arena_cell: Arena Cell Key
+key_Arenim: Arenim Burial Key
+key_armigers_stronghold: Armigers Stronghold Dungeon Key
+key_arobarmanorguard_01: Arobar Manor Guard's Key
+key_arobarmanor_01: Arobar Manor Key
+key_arvs-drelen_cell: Arvs-Drelen Cell Key
+key_chest_aryniorethi_01: Aryni Orethi's Key
+key_gshipwreck: A Simple Key
+key_oritius: A Small Key
+key_assarnudslaves_01: Assarnud Slave Key
+key_assi: Assi's Key
+key_aurane1: Aurane Frernis' Key
+key_shushishi: Bandit's Key
+key_balmorag_tong_01: Basement Key
+key_gro-bagrat: Basement Key
+key_desele: Bedroom Key
+key_bivaleteneran_01: Bivale Teneran's Key
+key_bolayn: Bolayne's Chest Key
+key_brallion: Brallion's Key
+key_cell_buckmoth_01: Buckmoth Prison Cell Key
+key_cabin: Cabin Key
+key_caius_cosades: Caius Cosades' Key
+key_calderaslaves_01: Caldera Slave Key
+key_caryarel: Caryarel's Key
+key_chest_coduscallonus_01: Codus Callonus Key
+mamaea cell key: Crude Bronze Key
+key_ald_redaynia: Chest Key
+key_standard_darius_chest: Chest Key
+key_ciennesintieve_01: Cienne Sintieve's Key
+key_fals: Dagoth Fals's Key
+key_galmis: Dagoth Galmis's Key
+key_odros: Dagoth Odros's Key
+key_tureynul: Dagoth Tureynul's Key
+key_standard_01_darvam hlaren: Darvam Hlaren's Key
+key_divayth_fyr: Divayth Fyr's Key
+key_divayth05: Divayth's 1008th Key
+key_divayth06: Divayth's 1092nd Key
+key_divayth07: Divayth's 1155th Key
+key_divayth00: Divayth's 637th Key
+key_divayth01: Divayth's 678th Key
+key_divayth02: Divayth's 738th Key
+key_divayth03: Divayth's 802nd Key
+key_divayth04: Divayth's 897th Key
+key_redoran_treasury: Dralor Treasury Key
+key_drenplantationslaves_01: Dren Plantation Slave Key
+key_dren_manor: Dren's Manor Key
+key_dren_storage: Dren's Storage Sack Key
+key_dreynos: Dreynos Elvul's Key
+key_chest_drinarvaryon_01: Drinar Varyon's Key
+key_dumbuk_strongbox: Dumbuk's Strongbox Key
+key_Dura_gra-Bo: Dura gra-Bol's Key
+key_Mudan_Dragon: Dwemer Guardian Key
+key_table_Mudan00: Dwemer Key to Table in Mudan
+key_standard_01_pel_fort_prison: Fort Pelagiad Prison Key
+key_GatewayInnslaves_01: Gateway Inn Slave Key
+key_gnisis_eggmine: Gnisis Eggmine Key
+key_dralor: Guldrise Dralor's Key
+key_habinbaesslaves_01: Habinbaes Slave Key
+key_hasphat_antabolis: Hasphat Antabolis' Key
+key_cell_ebonheart_01: Hawkmoth Prison Cell Key
+key_helvi: Helvi's Key
+key_hinnabislaves_01: Hinnabi Slave Key
+key_hlaalo_manor: Hlaalo Manor Key
+key_vivec_hlaalu_cell: Hlaalu Compound Cell Key
+key_hvaults2: Hlaalu Vaults Inner Key
+key_hvaults1: Hlaalu Vaults Outer Key
+key_chest_avonravel_01: Hlormaren - Avon Ravel's Key
+key_ienakey_hlormarenslaves_01: Hlormaren Slave Key
+key_chest_brilnosullarys_01: Hlormaren Wizard's Key
+key_Suran_slave: Holding Cell Keysa
+key_tel_aruhn_slave1: Imayn Slave Cage Key
+key_camp: Iron Key
+key_persius_mercius: Iron Key
+key_itar: Itar's Key
+key_ivrosa: Ivrosa Verethi's Key
+key_jeanne: Jeanne's Key
+
+#GOLD#
+Gold_001: Gold/Septims
+
+#SOUL GEM#
+holder: Soul Gem
+
+#ALCHEMY#
+potion_skooma_01: Skooma
+Potion_Cyro_Whiskey_01: Flin
+potion_comberry_wine_01: Shein
+potion_cyro_brandy_01: Cyrodiilic Brandy
+potion_comberry_brandy_01: Greef
+Potion_Local_Brew_01: Mazte
+potion_local_liquor_01: Sujamma
+potion_t_bug_musk_01: Telvanni Bug Musk
+p_burden_s: Standard Potion of Burden
+p_fire_shield_s: Standard Potion of Fire Shield
+p_fortify_endurance_s: Standard Fortify Endurance
+p_fortify_personality_s: Standard Fortify Personality
+p_fortify_speed_s: Standard Fortify Speed
+p_fortify_strength_s: Standard Fortify Strength
+p_fortify_health_s: Standard Fortify Health Potion
+p_invisibility_s: Standard Potion of Invisibility
+p_light_s: Standard Potion of Light
+p_lightning shield_s: Standard Lightning Shield
+p_night-eye_s: Standard Potion of Night-Eye
+p_paralyze_s: Standard Potion of Paralyze
+p_reflection_s: Standard Potion of Reflection
+p_fire resistance_s: Standard Fire Resistance
+p_magicka_resistance_s: Standard Magicka Resistance
+p_poison_resistance_s: Standard Poison Resistance
+p_shock_resistance_s: Standard Shock Resistance
+p_restore_agility_s: Standard Restore Agility
+p_restore_endurance_s: Standard Restore Endurance
+p_restore_intelligence_s: Standard Restore Intelligence
+p_restore_luck_s: Standard Potion of Restore Luck
+p_restore_personality_s: Standard Restore Personality
+p_restore_speed_s: Standard Restore Speed
+p_restore_strength_s: Standard Restore Strength
+p_restore_willpower_s: Standard Restore Willpower
+p_restore_fatigue_s: Standard Restore Fatigue
+p_silence_s: Standard Potion of Silence
+p_spell_absorption_s: Standard Spell Absorption
+p_levitation_s: Standard Rising Force Potion
+p_fortify_fatigue_s: Standard Fortify Fatigue Potion
+p_burden_c: Cheap Potion of Burden
+p_burden_b: Bargain Potion of Burden
+p_burden_q: Quality Potion of Burden
+p_burden_e: Exclusive Potion of Burden
+p_drain_agility_q: Spoiled SlowFall Potion
+p_drain_endurance_q: Spoiled SlowFall Potion
+p_drain_intelligence_q: Spoiled Potion of Swift Swim
+p_drain_luck_q: Spoiled Cure Disease Potion
+p_drain_magicka_q: Spoiled Cure Poison Potion
+p_drain_personality_q: Spoiled Potion of Swift Swim
+p_drain_speed_q: Spoiled Cure Poison Potion
+p_drain_strength_q: Spoiled Cure Disease Potion
+p_drain willpower_q: Spoiled Cure Disease Potion
+p_feather_c: Cheap Potion of Feather
+p_feather_b: Bargain Potion of Feather
+p_feather_e: Exclusive Potion of Feather
+p_feather_q: Quality Potion of Feather
+p_fire_shield_c: Cheap Potion of Fire Shield
+p_fire_shield_b: Bargain Potion of Fire Shield
+p_fire_shield_e: Exclusive Potion of Fire Shield
+p_fire_shield_q: Quality Potion of Fire Shield
+p_fortify_agility_c: Cheap Fortify Agility
+p_fortify_agility_b: Bargain Fortify Agility
+p_fortify_agility_q: Quality Fortify Agility
+p_fortify_agility_e: Exclusive Fortify Agility
+p_fortify_endurance_c: Cheap Fortify Endurance
+p_fortify_endurance_b: Bargain Fortify Endurance
+p_fortify_endurance_q: Quality Fortify Endurance
+p_fortify_endurance_e: Exclusive Fortify Endurance
+p_fortify_fatigue_c: Cheap Fortify Fatigue
+p_fortify_fatigue_b: Bargain Fortify Fatigue
+p_fortify_fatigue_e: Exclusive Fortify Fatigue
+p_fortify_fatigue_q: Quality Fortify Fatigue
+p_fortify_health_c: Cheap Potion of Fortify Health
+p_fortify_health_e: Exclusive Fortify Health
+p_fortify_health_q: Quality Fortify Health
+p_fortify_intelligence_c: Cheap Fortify Intelligence
+p_fortify_intelligence_b: Bargain Fortify Intelligence
+p_fortify_intelligence_e: Exclusive Fortify Intelligence
+p_fortify_intelligence_q: Quality Fortify Intelligence
+p_fortify_luck_c: Cheap Potion of Fortify Luck
+p_fortify_luck_b: Bargain Potion of Fortify Luck
+p_fortify_luck_q: Quality Potion of Fortify Luck
+p_fortify_luck_e: Exclusive Fortify Luck
+p_fortify_magicka_c: Cheap Potion of Fortify Magicka
+p_fortify_magicka_e: Exclusive Fortify Magicka
+p_fortify_magicka_q: Quality Fortify Magicka
+p_fortify_magicka_b: Bargain Fortify Magicka
+p_fortify_personality_c: Cheap Fortify Personality
+p_fortify_personality_e: Exclusive Fortify Personality
+p_fortify_personality_b: Bargain Fortify Personality
+p_fortify_personality_q: Quality Fortify Personality
+p_fortify_speed_c: Cheap Potion of Fortify Speed
+p_fortify_speed_b: Bargain Potion of Fortify Speed
+p_fortify_speed_q: Quality Potion of Fortify Speed
+p_fortify_speed_e: Exclusive Fortify Speed
+p_fortify_strength_c: Cheap Fortify Strength
+p_fortify_strength_b: Bargain Fortify Strength
+p_fortify_strength_e: Exclusive Fortify Strength
+p_fortify_strength_q: Quality Fortify Strength
+p_fortify_willpower_c: Cheap Fortify Willpower
+p_fortify_willpower_b: Bargain Fortify Willpower
+p_fortify_willpower_q: Quality Fortify Willpower
+p_fortify_willpower_e: Exclusive Fortify Willpower
+p_frost_shield_c: Cheap Potion of Frost Shield
+p_frost_shield_b: Bargain Potion of Frost Shield
+p_frost_shield_e: Exclusive Frost Shield
+p_frost_shield_q: Quality Frost Shield
+p_invisibility_c: Cheap Potion of Invisibility
+p_invisibility_b: Bargain Potion of Invisibility
+p_invisibility_q: Quality Potion of Invisibility
+p_invisibility_e: Exclusive Invisibility
+p_jump_c: Cheap Potion of Jump
+p_jump_b: Bargain Potion of Jump
+p_jump_e: Exclusive Potion of Jump
+p_jump_s: Standard Potion of Jump
+p_jump_q: Quality Potion of Jump
+p_levitation_c: Cheap Rising Force Potion
+p_levitation_b: Bargain Rising Force Potion
+P_Levitation_Q: Quality Rising Force Potion
+p_levitation_e: Exclusive Rising Force Potion
+p_light_c: Cheap Potion of Light
+p_light_b: Bargain Potion of Light
+p_light_e: Exclusive Potion of Light
+p_light_q: Quality Potion of Light
+p_lightning shield_c: Cheap Lightning Shield
+p_lightning shield_e: Exclusive Lightning Shield
+p_lightning shield_q: Quality Lightning Shield
+p_lightning shield_b: Bargain Lightning Shield
+p_night-eye_c: Cheap Potion of Night-Eye
+p_night-eye_b: Bargain Potion of Night-Eye
+p_night-eye_q: Quality Potion of Night-Eye
+p_night-eye_e: Exclusive Potion of Night-Eye
+p_paralyze_c: Cheap Potion of Paralyze
+p_paralyze_b: Bargain Potion of Paralyze
+p_paralyze_e: Exclusive Potion of Paralyze
+p_paralyze_q: Quality Potion of Paralyze
+p_reflection_c: Cheap Potion of Reflection
+p_reflection_b: Bargain Potion of Reflection
+p_reflection_q: Quality Potion of Reflection
+p_reflection_e: Exclusive Potion of Reflection
+p_disease_resistance_c: Cheap Disease Resistance
+p_disease_resistance_s: Standard Disease Resistance
+p_disease_resistance_b: Bargain Disease Resistance
+p_disease_resistance_q: Quality Disease Resistance
+p_disease_resistance_e: Exclusive Disease Resistance
+p_fire_resistance_c: Cheap Fire Resistance
+p_fire_resistance_b: Bargain Fire Resistance
+p_fire_resistance_q: Quality Fire Resistance
+p_fire_resistance_e: Exclusive Fire Resistance
+p_frost_resistance_c: Cheap Frost Resistance
+p_frost_resistance_b: Bargain Frost Resistance
+p_frost_resistance_e: Exclusive Frost Resistance
+p_frost_resistance_q: Quality Frost Resistance
+p_magicka_resistance_c: Cheap Magicka Resistance
+p_magicka_resistance_b: Bargain Magicka Resistance
+p_magicka_resistance_e: Exclusive Magicka Resistance
+p_magicka_resistance_q: Quality Magicka Resistance
+p_poison_resistance_c: Cheap Poison Resistance
+p_poison_resistance_b: Bargain Poison Resistance
+p_poison_resistance_e: Exclusive Poison Resistance
+p_poison_resistance_q: Quality Poison Resistance
+p_shock_resistance_c: Cheap Shock Resistance
+p_shock_resistance_b: Bargain Shock Resistance
+p_shock_resistance_e: Exclusive Shock Resistance
+p_shock_resistance_q: Quality Shock Resistance
+p_restore_agility_c: Cheap Restore Agility
+p_restore_agility_b: Bargain Restore Agility
+p_restore_agility_q: Quality Restore Agility
+p_restore_agility_e: Exclusive Restore Agility
+p_restore_endurance_c: Cheap Restore Endurance
+p_restore_endurance_b: Bargain Restore Endurance
+p_restore_endurance_q: Quality Restore Endurance
+p_restore_endurance_e: Exclusive Restore Endurance
+p_restore_fatigue_c: Cheap Restore Fatigue
+p_restore_fatigue_b: Bargain Restore Fatigue
+p_restore_fatigue_q: Quality Restore Fatigue
+p_restore_fatigue_e: Exclusive Restore Fatigue
+p_restore_health_c: Cheap Restore Health
+p_restore_intelligence_c: Cheap Restore Intelligence
+p_restore_intelligence_e: Exclusive Restore Intelligence
+p_restore_intelligence_q: Quality Restore Intelligence
+p_restore_intelligence_b: Bargain Restore Intelligence
+p_restore_luck_b: Bargain Restore Luck
+p_restore_luck_q: Quality Restore Luck
+p_restore_luck_e: Exclusive Restore Luck
+p_restore_luck_c: Cheap Restore Luck
+p_restore_personality_b: Bargain Restore Personality
+p_restore_personality_c: Cheap Restore Personality
+p_restore_personality_e: Exclusive Restore Personality
+p_restore_personality_q: Quality Restore Personality
+p_restore_speed_c: Cheap Restore Speed
+p_restore_speed_b: Bargain Restore Speed
+p_restore_speed_q: Quality Restore Speed
+p_restore_speed_e: Exclusive Restore Speed
+p_restore_magicka_c: Cheap Restore Magicka
+p_restore_magicka_b: Bargain Restore Magicka
+p_restore_magicka_q: Quality Restore Magicka
+p_restore_magicka_e: Exclusive Restore Magicka
+p_restore_strength_c: Cheap Restore Strength
+p_restore_strength_b: Bargain Restore Strength
+p_restore_strength_q: Quality Restore Strength
+p_restore_strength_e: Exclusive Restore Strength
+p_restore_willpower_c: Cheap Restore Willpower
+p_restore_willpower_b: Bargain Restore Willpower
+p_restore_willpower_q: Quality Restore Willpower
+p_restore_willpower_e: Exclusive Restore Willpower
+p_chameleon_c: Cheap Potion of Shadow
+p_chameleon_b: Bargain Potion of Shadow
+p_chameleon_s: Standard Potion of Shadow
+p_chameleon_q: Quality Potion of Shadow
+p_chameleon_e: Exclusive Potion of Shadow
+p_silence_c: Cheap Potion of Silence
+p_silence_b: Bargain Potion of Silence
+p_silence_q: Quality Potion of Silence
+p_silence_e: Exclusive Potion of Silence
+p_spell_absorption_c: Cheap Spell Absorption
+p_spell_absorption_b: Bargain Spell Absorption
+p_spell_absorption_q: Quality Spell Absorption
+p_spell_absorption_e: Exclusive Spell Absorption
+p_swift_swim_c: Cheap Potion of Swift Swim
+p_swift_swim_b: Bargain Potion of Swift Swim
+p_swift_swim_q: Quality Potion of Swift Swim
+p_swift_swim_e: Exclusive Potion of Swift Swim
+p_restore_health_b: Bargain Restore Health
+p_restore_health_q: Quality Restore Health
+p_restore_health_e: Exclusive Restore Health
+potion_ancient_brandy: Ancient Dagoth Brandy
+p_almsivi_intervention_s: Potion of Fool's Luck
+p_detect_creatures_s: Potion of Detect Creatures
+p_cure_common_s: Potion of Cure Common Disease
+p_cure_blight_s: Potion of Cure Blight Disease
+p_cure_paralyzation_s: Potion of Cure Paralyzation
+p_cure_poison_s: Potion of Cure Poison
+p_detect_key_s: Potion of Detect Key
+p_dispel_s: Potion of Dispel
+p_fortify_agility_s: Standard Fortify Agility Potion
+p_fortify_intelligence_s: Standard Fortify Intelligence
+p_fortify_luck_s: Standard Fortify Luck Potion
+p_fortify_willpower_s: Standard Fortify Willpower
+p_fortify_health_b: Bargain Fortify Health Potion
+p_fortify_magicka_s: Standard Fortify Magicka Potion
+p_mark_s: Potion of Marking
+p_frost_resistance_s: Standard Resist Frost Potion
+p_slowfall_s: Potion of Slowfalling
+p_telekinesis_s: Potion of Telekinesis
+p_water_breathing_s: Potion of Water Breathing
+p_water_walking_s: Potion of Water Walking
+p_vintagecomberrybrandy1: Vintage Brandy
+p_frost_shield_s: Standard Potion of Frost Shield
+p_restore_magicka_s: Standard Restore Magicka Potion
+p_fortify_attack_e: Exclusive Fortify Attack
+p_cure_common_unique: Trebonius' Potion of Curing
+p_restore_health_s: Standard Restore Health Potion
+p_detect_enchantment_s: Potion of Detect Enchantments
+p_quarrablood_UNIQUE: Blood of the Quarra Masters
+p_sinyaramen_UNIQUE: Sinyaramen's Potion
+p_heroism_s: Potion of Heroism
+p_lovepotion_unique: Love Potion
+p_recall_s: Potion of Recall
+
+#APPARATUS#
+apparatus_a_calcinator_01: Apprentice's Calcinator
+apparatus_a_retort_01: Apprentice's Retort
+apparatus_a_alembic_01: Apprentice's Alembic
+apparatus_a_mortar_01: Apprentice's Mortar and Pestle
+apparatus_j_mortar_01: Journeyman's Mortar and Pestle
+apparatus_m_mortar_01: Master's Mortar and Pestle
+apparatus_g_mortar_01: Grandmaster's Mortar and Pestle
+apparatus_sm_mortar_01: SecretMaster's Mortar and Pestl
+apparatus_j_alembic_01: Journeyman's Alembic
+apparatus_m_alembic_01: Master's Alembic
+apparatus_g_alembic_01: Grandmaster's Alembic
+apparatus_sm_alembic_01: SecretMaster's Alembic
+apparatus_j_calcinator_01: Journeyman's Calcinator
+apparatus_m_calcinator_01: Master's Calcinator
+apparatus_g_calcinator_01: Grandmaster's Calcinator
+apparatus_sm_calcinator_01: SecretMaster's Calcinator
+apparatus_j_retort_01: Journeyman's Retort
+apparatus_m_retort_01: Master's Retort
+apparatus_g_retort_01: Grandmaster's Retort
+apparatus_sm_retort_01: SecretMaster's Retort
+apparatus_a_spipe_01: Good Skooma Pipe
+apparatus_a_spipe_tsiya: Tsiya's Skooma Pipe
+
+#ARMOR#
+chitin cuirass: Chitin Cuirass
+chitin pauldron - left: Chitin Left Pauldron
+chitin pauldron - right: Chitin Right Pauldron
+chitin boots: Chitin Boots
+chitin greaves: Chitin Greaves
+chitin helm: Chitin Helm
+chitin guantlet - left: Chitin Left Gauntlet
+chitin guantlet - right: Chitin Right Gauntlet
+indoril shield: Indoril Shield
+templar_pauldron_right: Imperial Templar Right Pauldron
+templar boots: Imperial Templar Boots
+indoril pauldron left: Indoril Left Pauldron
+indoril pauldron right: Indoril Right Pauldron
+templar bracer left: Imperial Templar Left Bracer
+templar bracer right: Imperial Templar Right Bracer
+templar_pauldron_left: Imperial Templar Left Pauldron
+templar_cuirass: Imperial Templar Knight Cuirass
+imperial left pauldron: Imperial Steel Left Pauldron
+imperial right pauldron: Imperial Steel Right Pauldron
+imperial left gauntlet: Imperial Steel Left Gauntlet
+imperial right gauntlet: Imperial Steel Right Gauntlet
+imperial boots: Imperial Steel Boots
+indoril helmet: Indoril Helmet
+imperial helmet armor: Imperial Steel Helmet
+indoril cuirass: Indoril Cuirass
+indoril left gauntlet: Indoril Left Gauntlet
+indoril right gauntlet: Indoril Right Gauntlet
+indoril boots: Indoril Boots
+right leather bracer: Right Leather Bracer
+left leather bracer: Left Leather Bracer
+cloth bracer left: Cloth Left Bracer
+cloth bracer right: Cloth Right Bracer
+imperial shield: Imperial Shield
+netch_leather_helm: Netch Leather Helm
+netch_leather_boiled_helm: Boiled Netch Leather Helm
+netch_leather_pauldron_left: Netch Leather Left Pauldron
+netch_leather_cuirass: Netch Leather Cuirass
+netch_leather_boiled_cuirass: Boiled Netch Leather Cuirass
+netch_leather_gauntlet_left: Netch Leather Left Gauntlet
+netch_leather_gauntlet_right: Netch Leather Right Gauntlet
+netch_leather_greaves: Netch Leather Greaves
+netch_leather_boots: Netch Leather Boots
+netch_leather_shield: Netch Leather Shield
+netch_leather_towershield: Netch Leather Tower Shield
+fur_helm: Nordic Fur Helm
+fur_colovian_helm: Colovian Fur Helm
+fur_pauldron_left: Nordic Fur Left Pauldron
+fur_cuirass: Nordic Fur Cuirass
+fur_bearskin_cuirass: Nordic Bearskin Cuirass
+fur_bracer_left: Nordic Fur Left Bracer
+fur_bracer_right: Nordic Fur Right Bracer
+fur_greaves: Nordic Fur Greaves
+fur_boots: Nordic Fur Boots
+nordic_leather_shield: Nordic Leather Shield
+dust_adept_helm: Telvanni Dust Adept Helm
+mole_crab_helm: Telvanni Mole Crab Helm
+cephalopod_helm: Telvanni Cephalopod Helm
+imperial_studded_cuirass: Imperial Studded Leather Cuiras
+imperial_chain_coif_helm: Imperial Chain Coif
+imperial_chain_cuirass: Imperial Chain Cuirass
+nordic_ringmail_cuirass: Nordic Ringmail Cuirass
+chitin_mask_helm: Chitin Mask Helm
+chitin_watchman_helm: Redoran Watchman's Helm
+chitin_shield: Chitin Shield
+chitin_towershield: Chitin Tower Shield
+newtscale_cuirass: Imperial Newtscale Cuirass
+silver_helm: Imperial Silver Helm
+silver_cuirass: Imperial Silver Cuirass
+silver_dukesguard_cuirass: Duke's Guard Silver Cuirass
+imperial_greaves: Imperial Steel Greaves
+nordic_iron_helm: Nordic Iron Helm
+nordic_iron_cuirass: Nordic Iron Cuirass
+templar_greaves: Imperial Templar Greaves
+steel_helm: Steel Helm
+steel_pauldron_left: Steel Left Pauldron
+steel_pauldron_right: Steel Right Pauldron
+steel_cuirass: Steel Cuirass
+steel_shield: Steel Shield
+steel_towershield: Steel Tower Shield
+steel_gauntlet_left: Steel Left Gauntlet
+steel_gauntlet_right: Steel Right Gauntlet
+steel_greaves: Steel Greaves
+iron_pauldron_left: Iron Left Pauldron
+iron_pauldron_right: Iron Right Pauldron
+iron_cuirass: Iron Cuirass
+iron_shield: Iron Shield
+iron_towershield: Iron Tower Shield
+slave_bracer_left: Slave's Left Bracer
+slave_bracer_right: Slave's Right Bracer
+iron_bracer_left: Iron Left Bracer
+iron_bracer_right: Iron Right Bracer
+iron_greaves: Iron Greaves
+bonemold_gah-julan_helm: Native Gah-Julan Bonemold Helm
+bonemold_chuzei_helm: Native Chuzei Bonemold Helm
+bonemold_armun-an_helm: Native Armun-An Bonemold Helm
+morag_tong_helm: Morag Tong Helm
+bonemold_gah-julan_pauldron_r: Gah-Julan Bonemold R Pauldron
+bonemold_armun-an_pauldron_r: Armun-An Bonemold R Pauldron
+bonemold_gah-julan_pauldron_l: Gah-Julan Bonemold L Pauldron
+bonemold_armun-an_pauldron_l: Armun-An Bonemold L Pauldron
+bonemold_gah-julan_cuirass: Gah-Julan Bonemold Cuirass
+bonemold_armun-an_cuirass: Armun-An Bonemold Cuirass
+bonemold_bracer_left: Bonemold Left Bracer
+bonemold_bracer_right: Bonemold Right Bracer
+bonemold_greaves: Bonemold Greaves
+bonemold_boots: Bonemold Boots
+bonemold_shield: Bonemold Shield
+bonemold_towershield: Bonemold Tower Shield
+trollbone_helm: Nordic Trollbone Helm
+trollbone_cuirass: Nordic Trollbone Cuirass
+trollbone_shield: Nordic Trollbone Shield
+dragonscale_helm: Imperial Dragonscale Helm
+dragonscale_cuirass: Imperial Dragonscale Cuirass
+dragonscale_towershield: Dragonscale Tower Shield
+dwemer_helm: Dwemer Helm
+dwemer_pauldron_right: Dwemer Right Pauldron
+dwemer_pauldron_left: Dwemer Left Pauldron
+dwemer_cuirass: Dwemer Cuirass
+dwemer_bracer_left: Dwemer Left Bracer
+dwemer_bracer_right: Dwemer Right Bracer
+dwemer_greaves: Dwemer Greaves
+dwemer_boots: Dwemer Boots
+dwemer_shield: Dwemer Shield
+orcish_helm: Orcish Helm
+orcish_pauldron_right: Orcish Right Pauldron
+orcish_pauldron_left: Orcish Left Pauldron
+orcish_cuirass: Orcish Cuirass
+orcish_bracer_left: Orcish Left Bracer
+orcish_greaves: Orcish Greaves
+orcish_boots: Orcish Boots
+orcish_towershield: Orcish Tower Shield
+dreugh_helm: Dreugh Helm
+dreugh_cuirass: Dreugh Cuirass
+dreugh_shield: Dreugh Shield
+redoran_master_helm: Redoran Master Helm
+glass_helm: Glass Helm
+glass_cuirass: Glass Cuirass
+glass_shield: Glass Shield
+glass_towershield: Glass Tower Shield
+ebony_closed_helm: Ebony Closed Helm
+ebony_pauldron_right: Ebony Right Pauldron
+ebony_pauldron_left: Ebony Left Pauldron
+ebony_cuirass: Ebony Cuirass
+ebony_bracer_left: Ebony Left Bracer
+ebony_bracer_right: Ebony Right Bracer
+ebony_greaves: Ebony Greaves
+ebony_boots: Ebony Boots
+ebony_shield: Ebony Shield
+ebony_towershield: Ebony Tower Shield
+daedric_fountain_helm: Daedric Face of Inspiration
+daedric_terrifying_helm: Daedric Face of Terror
+daedric_god_helm: Daedric Face of God
+daedric_pauldron_right: Daedric Right Pauldron
+daedric_pauldron_left: Daedric Left Pauldron
+daedric_cuirass: Daedric Cuirass
+daedric_gauntlet_left: Daedric Left Gauntlet
+daedric_gauntlet_right: Daedric Right Gauntlet
+daedric_greaves: Daedric Greaves
+daedric_boots: Daedric Boots
+daedric_shield: Daedric Shield
+daedric_towershield: Daedric Tower Shield
+netch_leather_pauldron_right: Netch Leather Right Pauldron
+fur_pauldron_right: Nordic Fur Right Pauldron
+orcish_bracer_right: Orcish Right Bracer
+imperial_chain_greaves: Imperial Chain Greaves
+templar_helmet_armor: Imperial Templar Helmet
+imperial cuirass_armor: Imperial Steel Cuirass
+fur_gauntlet_left: Nordic Fur Left Gauntlet
+fur_gauntlet_right: Nordic Fur Right Gauntlet
+imperial_chain_pauldron_right: Imperial Chain Right Pauldron
+imperial_chain_pauldron_left: Imperial Chain Left Pauldron
+iron_gauntlet_left: Iron Left Gauntlet
+iron_gauntlet_right: Iron Right Gauntlet
+iron_helmet: Iron Helmet
+bonemold_tshield_hlaaluguard: Hlaalu Guard Shield
+bonemold_tshield_redoranguard: Redoran Guard Shield
+bonemold_tshield_telvanniguard: Telvanni Guard Shield
+bonemold_founders_helm: Redoran Founder's Helm
+glass_pauldron_left: Glass Left Pauldron
+glass_pauldron_right: Glass Right Pauldron
+ebony_closed_helm_fghl: Sarano Ebony Helm
+merisan_cuirass: Merisan Cuirass
+shield_of_light: Shield of Light
+the_chiding_cuirass: The Chiding Cuirass
+velothian_helm: Velothian Helm
+feather_shield: Feather Shield
+velothis_shield: Velothi's Shield
+holy_shield: Holy Shield
+blessed_shield: Blessed Shield
+veloths_tower_shield: Veloth's Tower Shield
+holy_tower_shield: Holy Tower Shield
+demon helm: Demon Helm
+demon mole crab: Demon Mole Crab
+demon cephalopod: Demon Cephalopod
+right horny fist gauntlet: Right Glove of the Horny Fist
+left_horny_fist_gauntlet: Left Glove of the Horny Fist
+helm of wounding: Helm of Wounding
+shield of wounds: Shield of Wounds
+storm helm: Storm Helm
+heart wall: Heart Wall
+right gauntlet of horny fist: Right Gauntlet of Horny Fist
+left gauntlet of the horny fist: Left Gauntlet of the Horny Fist
+velothian shield: Velothian Shield
+succour of indoril: Succour of Indoril
+merisan helm: Merisan Helm
+chest of fire: Chest of Fire
+lbonemold brace of horny fist: Bonemold Brace of Horny Fist
+rbonemold bracer of horny fist: Bonemold Bracer of Horny Fist
+helm of holy fire: Helm of Holy Fire
+spirit of indoril: Spirit of Indoril
+saint's shield: Saint's Shield
+azura's servant: Azura's Servant
+bound_cuirass: Bound Cuirass
+bound_helm: Bound_Helm
+bound_boots: Bound Boots
+bound_shield: Bound Shield
+fiend helm: Fiend Helm
+devil helm: Devil Helm
+devil mole crab helm: Devil Mole Crab Helm
+devil cephalopod helm: Devil Cephalopod Helm
+right cloth horny fist bracer: Right Cloth Horny Fist Bracer
+left cloth horny fist bracer: Left Cloth Horny Fist Bracer
+steel_boots: Steel Boots
+bonemold_tshield_hrlb: Redoran Banner Shield
+bonemold_gah-julan_hhda: Native Gah-Julan Bonemold Helm
+dwemer_boots of flying: Dwemer Boots of Flying
+bonemold_helm: Bonemold Helm
+bonemold_pauldron_r: Bonemold R Pauldron
+bonemold_pauldron_l: Bonemold L Pauldron
+bonemold_cuirass: Bonemold Cuirass
+iron boots: Iron Boots
+heavy_leather_boots: Heavy Leather Boots
+daedric_cuirass_htab: Daedric Cuirass
+daedric_greaves_htab: Daedric Greaves
+shadow_shield: Shadow Shield
+wraithguard: Wraithguard
+wraithguard_jury_rig: Wraithguard
+tenpaceboots: Ten Pace Boots
+glass_boots: Glass Boots
+glass_greaves: Glass Greaves
+dreugh_cuirass_ttrm: Dreugh Cuirass
+ebony_shield_auriel: Auriel's Shield
+daedric_helm_clavicusvile: Masque of Clavicus Vile
+bound_gauntlet_right: Bound Right Gauntlet
+bound_gauntlet_left: Bound Left Gauntlet
+ebony_bracer_left_tgeb: Ebony Left Bracer
+ebony_bracer_right_tgeb: Ebony Right Bracer
+boots_of_blinding_speed[unique]: Boots of Blinding Speed
+veloths_shield: Veloth's Shield
+gauntlet_horny_fist_r: Right Gauntlet of Horny Fist
+gauntlet _horny_fist_l: Left Gauntlet of the Horny Fist
+blessed_tower_shield: Blessed Tower Shield
+lords_cuirass_unique: Lord's Mail
+ebon_plate_cuirass_unique: Ebony Mail
+spell_breaker_unique: Spell Breaker
+cuirass_savior_unique: Cuirass of the Savior's Hide
+gauntlet_fists_l_unique: Fist of Randagulf Left Gauntlet
+gauntlet_fists_r_unique: Fist of Randagulf Rt Gauntlet
+towershield_eleidon_unique: Eleidon's Ward
+dragonbone_cuirass_unique: Dragonbone cuirass
+helm_bearclaw_unique: Helm of Oreyn Bearclaw
+boots_apostle_unique: Boots of the Apostle
+shield of the undaunted: Shield of the Undaunted
+imperial_helm_frald_uniq: Helm of Graff the White
+erur_dan_cuirass_unique: Erur-Dan's Cuirass
+conoon_chodala_boots_unique: Conoon Chodala's Boots
+icecap_unique: The Icecap
+boneweave gauntlet: Boneweave Gauntlet
+bonedancer gauntlet: Bonedancer Gauntlet
+Mountain Spirit: Mountain Spirit
+darksun_shield_unique: Darksun Shield
+bloodworm_helm_unique: Bloodworm Helm
+cephalopod_helm_HTNK: Gothren's Cephalopod Helm
+Blood_Feast_Shield: Blood Feat Shield
+Gauntlet_of_Glory_left: Left Gauntlet of Glory
+gauntlet_of_glory_right: Right Gauntlet of Glory
+gondolier_helm: Gondolier's Helm
+imperial helmet armor_Dae_curse: Imperial Steel Helmet
+glass_bracer_left: Left Glass Bracer
+glass_bracer_right: Right Glass Bracer
+
+#CLOTHING#
+templar belt: Imperial Templar Belt
+imperial belt: Imperial Belt
+templar skirt obj: Imperial Templar Skirt
+indoril_belt: Indoril Belt
+common_shoes_01: Common Shoes
+common_shoes_02: Common Shoes
+common_shoes_03: Common Shoes
+common_shoes_04: Common Shoes
+common_shoes_05: Common Shoes
+expensive_shoes_01: Expensive Shoes
+expensive_shoes_02: Expensive Shoes
+expensive_shoes_03: Expensive Shoes
+extravagant_shoes_01: Extravagant Shoes
+extravagant_shoes_02: Extravagant Shoes
+exquisite_shoes_01: Exquisite Shoes
+common_pants_01_u: Common Pants
+common_pants_01_a: Common Pants
+common_pants_01_z: Common Pants
+common_pants_01_e: Common Pants
+common_pants_02: Common Pants
+common_pants_03: Common Pants
+common_pants_04: Common Pants
+common_pants_05: Common Pants
+expensive_pants_01: Expensive Pants
+expensive_pants_01_u: Expensive Pants
+expensive_pants_01_a: Expensive Pants
+expensive_pants_01_z: Expensive Pants
+expensive_pants_01_e: Expensive Pants
+expensive_pants_02: Expensive Pants
+expensive_pants_03: Expensive Pants
+extravagant_pants_01: Extravagant Pants
+extravagant_pants_02: Extravagant Pants
+exquisite_pants_01: Exquisite Pants
+common_shirt_02: Common Shirt
+common_shirt_03: Common Shirt
+common_shirt_04: Common Shirt
+common_shirt_05: Common Shirt
+expensive_shirt_01: Expensive Shirt
+expensive_shirt_02: Expensive Shirt
+expensive_shirt_03: Expensive Shirt
+extravagant_shirt_01: Extravagant Shirt
+extravagant_shirt_02: Extravagant Shirt
+exquisite_shirt_01: Exquisite Shirt
+common_skirt_02: Common Skirt
+common_skirt_03: Common Skirt
+common_skirt_04: Common Skirt
+common_skirt_05: Common Skirt
+expensive_skirt_01: Expensive Skirt
+expensive_skirt_02: Expensive Skirt
+expensive_skirt_03: Expensive Shirt
+extravagant_skirt_01: Extravagant Skirt
+extravagant_skirt_02: Extravagant Skirt
+exquisite_skirt_01: Exquisite Skirt
+common_shirt_01_u: Common Shirt
+common_shirt_01_z: Common Shirt
+common_shirt_01_a: Common Shirt
+common_shirt_01_e: Common Shirt
+common_shirt_02_r: Common Shirt
+common_shirt_02_h: Common Shirt
+common_shirt_02_t: Common Shirt
+common_shirt_03_b: Common Shirt
+expensive_shirt_01_u: Expensive Shirt
+expensive_shirt_01_a: Expensive Shirt
+expensive_shirt_01_z: Expensive Shirt
+expensive_shirt_01_e: Expensive Shirt
+extravagant_shirt_01_r: Extravagant Shirt
+extravagant_shirt_01_h: Extravagant Shirt
+extravagant_shirt_01_t: Extravagant Shirt
+common_belt_01: Common Belt
+common_belt_02: Common Belt
+common_belt_03: Common Belt
+common_belt_04: Common Belt
+common_belt_05: Common Belt
+expensive_belt_01: Expensive Belt
+expensive_belt_02: Expensive Belt
+expensive_belt_03: Expensive Belt
+extravagant_belt_01: Extravagant Belt
+extravagant_belt_02: Extravagant Belt
+exquisite_belt_01: Exquisite Belt
+common_robe_02: Common Robe
+common_robe_02_r: Common Robe
+common_robe_02_h: Common Robe
+common_robe_02_t: Common Robe
+common_robe_03: Common Robe
+common_robe_03_a: Common Robe
+common_robe_03_b: Common Robe
+common_robe_04: Common Robe
+common_robe_05: Common Robe
+common_robe_05_a: Common Robe
+common_robe_05_b: Common Robe
+common_robe_05_c: Common Robe
+expensive_robe_01: Expensive Robe
+expensive_robe_02: Expensive Robe
+expensive_robe_02_a: Expensive Robe
+expensive_robe_03: Expensive Robe
+extravagant_robe_01: Extravagant Robe
+extravagant_robe_01_a: Extravagant Robe
+extravagant_robe_01_b: Extravagant Robe
+extravagant_robe_01_c: Extravagant Robe
+extravagant_robe_01_r: Extravagant Robe
+extravagant_robe_01_h: Extravagant Robe
+extravagant_robe_01_t: Extravagant Robe
+extravagant_robe_02: Extravagant Robe
+exquisite_robe_01: Exquisite Robe
+common_glove_left_01: Common Left Glove
+expensive_glove_left_01: Expensive Left Glove
+extravagant_glove_left_01: Extravagant Left Glove
+common_glove_right_01: Common Right Glove
+expensive_glove_right_01: Expensive Right Glove
+extravagant_glove_right_01: Extravagant Right Glove
+common_ring_01: Common Ring
+common_ring_02: Common Ring
+common_ring_03: Common Ring
+common_ring_04: Common Ring
+common_ring_05: Common Ring
+expensive_ring_01: Expensive Ring
+expensive_ring_02: Expensive Ring
+expensive_ring_03: Expensive Ring
+extravagant_ring_01: Extravagant Ring
+extravagant_ring_02: Extravagant Ring
+exquisite_ring_02: Exquisite Ring
+common_amulet_01: Common Amulet
+common_amulet_02: Common Amulet
+common_amulet_03: Common Amulet
+common_amulet_04: Common Amulet
+common_amulet_05: Common Amulet
+expensive_amulet_01: Expensive Amulet
+expensive_amulet_02: Expensive Amulet
+expensive_amulet_03: Expensive Amulet
+extravagant_amulet_01: Extravagant Sapphire Amulet
+extravagant_amulet_02: Extravagant Ruby Amulet
+exquisite_amulet_01: Exquisite Amulet
+common_pants_03_b: Common Pants
+imperial skirt_clothing: Imperial Skirt
+common_pants_01: Common Pants
+common_shirt_01: Common Shirt
+common_skirt_01: Common Skirt
+common_robe_01: Common Robe
+common_shirt_04_a: Common Shirt
+common_shirt_04_b: Common Shirt
+common_shirt_04_c: Common Shirt
+common_pants_04_b: Common Pants
+common_pants_02_hentus: Hentus Pants
+common_skirt_04_c: Common Skirt
+othril_ring: Othril Ring
+amulet of mighty blows: Amulet of Mighty Blows
+robe of st roris: Robe of St Roris
+Extravagant_Robe_01_Red: Redas Robe of Deeds
+mandas_locket: Mandas Family Locket
+bone guard belt: Bone Guard Belt
+first barrier ring: First Barrier Ring
+red despair amulet: Red Despair Amulet
+flameguard robe: Flameguard Robe
+frostguard robe: Frostguard Robe
+shockguard robe: Shockguard Robe
+magickguard robe: Magickguard Robe
+poisonguard robe: Poisonguard Robe
+life belt: Life Belt
+life ring: Life Ring
+blind ring: Blind Ring
+hawkshaw ring: Hawkshaw Ring
+chameleon ring: Chameleon Ring
+ondusi's key: Ondusi's Key
+stumble charm: Stumble Charm
+gripes charm: Gripes Charm
+fuddle charm: Fuddle Charm
+hex charm: Hex Charm
+evil eye charm: Evil Eye Charm
+clench charm: Clench Charm
+bonebiter charm: Bonebiter Charm
+woe charm: Woe Charm
+distraction ring: Distraction Ring
+mother's ring: Mother's Ring
+fenrick's doorjam ring: Fenrick's Doorjam Ring
+watcher's belt: Watcher's Belt
+herder's belt: Herder's Belt
+hunter's belt: Hunter's Belt
+belt of orc's strength: Belt of Orc's Strength
+belt of iron will: Belt of Iron Will
+belt of nimbleness: Belt of Nimbleness
+belt of feet of notorgo: Belt of Iron Will
+belt of fortitude: Belt of Fortitude
+belt of charisma: Belt of Charisma
+belt of jack of trades: Belt of Jack of Trades
+belt of wisdom: Belt of Wisdom
+first barrier belt: First Barrier Belt
+belt of balyna's soothing balm: Belt of Balyna's Soothing Balm
+amulet of balyna's soothing bal: Amulet of Soothing Balm
+amulet of stamina: Amulet of Stamina
+amulet of light: Amulet of Light
+amulet of locking: Amulet of Locking
+amulet of opening: Amulet of Opening
+amulet of water walking: Amulet of Water Walking
+amulet of slowfalling: Amulet of Slowfalling
+amulet of divine intervention: Amulet of Divine Intervention
+amulet of almsivi intervention: Amulet of Almsivi Intervention
+light amulet: Light Amulet
+sleep amulet: Sleep Amulet
+balm amulet: Balm Amulet
+ring of fleabite: Ring of Fleabite
+flamebolt ring: Flamebolt Ring
+sparkbolt ring: Sparkbolt Ring
+shardbolt ring: Shardbolt Ring
+viperbolt ring: Viperbolt Ring
+caliginy ring: Caliginy Ring
+wild sty ring: Wild Sty Ring
+ring of shadow form: Ring of Shadow Form
+hoptoad ring: Hoptoad Ring
+juicedaw ring: Juicedaw Feather Ring
+doze charm: Doze Charm
+spirit charm: Spirit Charm
+soulpinch charm: Soulpinch Charm
+bone charm: Bone Charm
+ghost charm: Ghost Charm
+silence charm: Silence Charm
+father's belt: Father's Belt
+hearth belt: Hearth Belt
+champion belt: Champion Belt
+khan belt: Khan Belt
+blood belt: Blood Belt
+crying ring: Crying Ring
+sacrifice ring: Sacrifice Ring
+witch charm: Witch Charm
+heartbite ring: Heartbite Ring
+cruel flamebolt ring: Cruel Flamebolt Ring
+cruel shardbolt ring: Cruel Shardbolt Ring
+cruel sparkbolt ring: Cruel Sparkbolt Ring
+cruel viperbolt ring: Cruel Viperbolt Ring
+ring of hornhand: Ring of Hornhand
+ring of ironhand: Ring of Ironhand
+second barrier belt: Second Barrier Belt
+amulet of rest: Amulet of Rest
+feather ring: Feather Ring
+amulet of health: Amulet of Health
+light ring: Light Ring
+ancestor's ring: Ancestor's Ring
+feather belt: Feather Belt
+firestone: Firestone
+lifestone: Lifestone
+heartstone: Heartstone
+amulet of frost: Amulet of Frost
+thunderfall: Thunderfall
+belt of vigor: Belt of Vigor
+bugharz's belt: Bugharz's Belt
+founder's belt: Founder's Belt
+second barrier ring: Second Barrier Ring
+crimson despair amulet: Crimson Despair Amulet
+ring of aversion: Ring of Aversion
+eye-maze ring: Eye-Maze Ring
+shadowmask ring: Shadowmask Ring
+shadowweave ring: Shadowweave Ring
+Exquisite_Amulet_Arobar1: Arobar's Amulet
+Expensive_Ring_01_HRDT: Nervion Ancestor Ring
+shoes of st. rilms: Shoes of St. Rilms
+dire flamebolt ring: Dire Flamebolt Ring
+dire shardbolt ring: Dire Shardbolt Ring
+dire sparkbolt ring: Dire Sparkbolt Ring
+dire viperbolt ring: Dire Viperbolt Ring
+third barrier belt: Third Barrier Belt
+ring of knuckle luck: Ring of Knuckle Luck
+ring of firefist: Ring of Firefist
+ring of icegrip: Ring of Icegrip
+ring of stormhand: Ring of Stormhand
+ring of the black hand: Ring of the Black Hand
+ring of the five fingers of pai: Ring of the Five Fingers of Pai
+robe of burdens: Robe of Burdens
+st. felm's fire: St. Felm's Fire
+st. sotha's judgement: St. Sotha's Judgement
+shame ring: Shame Ring
+summon ancestor amulet: Ancestor's Amulet
+weeping robe: Weeping Robe
+veloth's robe: Veloth's Robe
+robe of trials: Robe of Trials
+ring of exhaustion: Ring of Exhaustion
+ring of fireballs: Ring of Fireballs
+spiritstrike ring: Spiritstrike Ring
+ring of ice bolts: Ring of Ice Bolts
+ring of poisonblooms: Ring of Poisonblooms
+ring of shockballs: Ring of Shockballs
+ring of wounds: Ring of Wounds
+amulet of shades: Amulet of Shades
+graveward amulet: Graveward Amulet
+third barrier ring: Third Barrier Ring
+blood despair amulet: Blood Despair Amulet
+belt of free action: Belt of Free Action
+amulet of balyna's antidote: Amulet of Balyna's Antidote
+amulet of spell absorption: Amulet of Spell Absorption
+amulet of far silence: Amulet of Far Silence
+amulet of mark: Amulet of Mark
+amulet of recall: Amulet of Recall
+amulet of silence: Amulet of Silence
+amulet of shield: Amulet of Shield
+ring of shocking touch: Ring of Shocking Touch
+ring of vampire's kiss: Ring of Vampire's Kiss
+ring of wizard's fire: Ring of Wizard's Fire
+ring of fireball: Ring of Fireball
+ring of ice storm: Ring of Ice Storm
+ring of lightning bolt: Ring of Lightning Bolt
+ring of fire storm: Ring of Fire Storm
+ring of lightning storm: Ring of Lightning Storm
+ring of sphere of negation: Ring of Sphere of Negation
+ring of toxic cloud: Ring of Toxic Cloud
+ring of medusa's gaze: Ring of Medusa's Gaze
+ring of wildfire: Ring of Wildfire
+warden's ring: Warden's Ring
+flamemirror robe: Flamemirror Robe
+frostmirror robe: Frostmirror Robe
+shockmirror robe: Shockmirror Robe
+poisonmirror robe: Poisonmirror Robe
+flameeater robe: Flameeater Robe
+frosteater robe: Frosteater Robe
+shockeater robe: Shockeater Robe
+poisoneater robe: Poisoneater Robe
+ring of transfiguring wisdom: Ring of Transfiguring Wisdom
+ring of transcendent wisdom: Ring of Transcendent Wisdom
+expensive_shirt_hair: Hair Shirt of Saint Aralor
+common_shirt_02_hh: Common Shirt
+common_shirt_02_rr: Common Shirt
+common_shirt_02_tt: Common Shirt
+common_robe_02_hh: Common Robe
+common_robe_02_rr: Common Robe
+common_robe_02_tt: Common Robe
+aryongloveleft: Aryon's Dominator
+aryongloveright: Aryon's Helper
+therana's skirt: Therana's Skirt
+ring_blackjinx_uniq: Black Jinx
+ring_dahrkmezalf_uniq: Ring of Dahrk Mezalf
+extravagant_belt_hf: Belt of Heartfire
+extravagant_rt_art_wild: Gambolpuddy
+exquisite_ring_01: Exquisite Ring
+ring_keley: Engraved Ring of Healing
+exquisite_robe_drake's pride: Robe of the Drake's Pride
+ring_equity_uniq: Ring of Equity
+amulet_unity_uniq: Amulet of Unity
+amuletfleshmadewhole_uniq: Amulet of Flesh Made Whole
+hortatorbelt: Belt of the Hortator
+hortatorring: Ring of the Hortator
+hortatorrobe: Robe of the Hortator
+malipu_ataman's_belt: Malipu-Ataman's Belt
+moon_and_star: Moon-and-Star
+teeth: Teeth of the Urshilaku
+madstone: Madstone of the Ahemmusa
+thong: Thong of Zainab
+exquisite_shirt_01_wedding: Ashkhan's Wedding Gift
+seizing: The Seizing of the Erabenimsun
+heart_of_fire: Sanit-Kil's Heart of Fire
+robe_of_erur_dan: Robe of Erur-Dan the Wise
+sanguinebeltfleetness: Belt of Sanguine Fleetness
+sanguinebeltdenial: Belt of Sanguine Denial
+sanguinebeltimpaling: Belt of Sanguine Impaling Thrus
+sanguinebeltstolidarmor: Belt of Sanguine Stolid Armor
+sanguinebeltsmiting: Belt of Sanguine Smiting
+sanguinebeltmartialcraft: Belt of Sanguine Martial Craft
+sanguinebeltdeepbiting: Belt of Sanguine Deep Biting
+sanguinebeltbalancedarmor: Belt of Sanguine Balanced Armor
+sanguinebelthewing: Belt of Sanguine Hewing
+sanguinebeltsureflight: Belt of Sanguine Sureflight
+sanguineamuletglibspeech: Amulet of Sanguine Glib Speech
+sanguineamuletenterprise: Amulet of Sanguine Enterprise
+sanguineamuletnimblearmor: Amulet of Sanguine Nimble Armor
+sanguinerglovehornyfist: Glove of Sanguine Horny Fist
+sanguinergloveswiftblade: Glove of Sanguine Swiftblade
+sanguinelglovesafekeeping: Glove of Sanguine Safekeeping
+sanguineshoesstalking: Shoes of Sanguine Stalking
+sanguineshoesleaping: Shoes of Sanguine Leaping
+sanguineringsublimew: Ring of Sanguine Sublime Wisdom
+sanguineringgoldenw: Ring of Sanguine Golden Wisdom
+sanguineringsilverw: Ring of Sanguine Silver Wisdom
+sanguineringunseenw: Ring of Sanguine Unseen Wisdom
+sanguineringgreenw: Ring of Sanguine Green Wisdom
+sanguineringfluidevasion: Ring of Sanguine Fluid Evasion
+sanguineringtranscendw: Ring of Sanguine Transcendence
+sanguineringtransfigurw: Ring of Sanguine Transfiguring
+sanguineringredw: Ring of Sanguine Red Wisdom
+common_glove_l_moragtong: Black Left Glove
+common_glove_r_moragtong: Black Right Glove
+common_glove_l_balmolagmer: Left Bal Molagmer Glove
+common_glove_r_balmolagmer: Right Bal Molagmer Glove
+common_pants_03_c: Common Pants
+common_shirt_03_c: Common Shirt
+amulet_usheeja: Amulet of Usheeja
+belt of heartfire: Belt of Heartfire
+blood ring: Blood Ring
+soul ring: Soul Ring
+heart ring: Heart Ring
+artifact_belt_of_heartfire: Belt of Heartfire
+artifact_blood_ring: Blood Ring
+artifact_soul_ring: Soul Ring
+artifact_heart_ring: Heart Ring
+exquisite_amulet_hlervu1: Hlervu Locket
+exquisite_ring_brallion: Brallion's Exquisite Ring
+exquisite_shirt_01_rasha: Exquisite Shirt
+expensive_amulet_aeta: Expensive Amulet
+expensive_ring_aeta: Expensive Ring
+extravagant_glove_left_maur: Maurrie's Left Glove
+extravagant_glove_right_maur: Maurrie's Right Glove
+common_ring_tsiya: Tsiya's Ring
+ring of azura: Ring of Azura
+amulet of levitating: Amulet of Levitating
+scamp slinker belt: Scamp Slinker Belt
+ring of tears: Ring of Tears
+murdrum ring: Murdrum Ring
+black_blindfold_glove: Elvul's Black Blindfold
+ring_denstagmer_unique: Denstagmer's Ring
+ring_khajiit_unique: Ring of Khajiit
+ring_mentor_unique: Mentor's Ring
+ring_phynaster_unique: Ring of Phynaster
+ring_surrounding_unique: Ring of Surroundings
+ring_vampiric_unique: Vampiric Ring
+ring_warlock_unique: Warlock's Ring
+ring_wind_unique: Ring of the Wind
+artifact_amulet of heartheal: Amulet of Heartheal
+artifact_amulet of heartrime: Amulet of Heartrime
+artifact_amulet of heartfire: Amulet of Heartfire
+artifact_amulet of heartthrum: Amulet of Heartthrum
+sarandas_amulet: Firejade Amulet
+sarandas_belt: Racer Suede Belt
+sarandas_ring_1: Glass Ring
+sarandas_ring_2: Ebony Ring
+sarandas_pants_2: Silk Pants
+sarandas_shirt_2: Brocade Shirt
+sarandas_shoes_2: Designer Shoes
+belt of the armor of god: Belt of the Armor of God
+fighter_ring: Fighter Ring
+mage_ring: Mage Ring
+thief_ring: Thief Ring
+exquisite_ring_processus: Processus Vitellius' Ring
+amulet of ashamanu (unique): Amulet of Ashamanu
+expensive_amulet_methas: Methas Hlaalu's Amulet
+peakstar_pants_unique: Travel-stained Pants
+peakstar_belt_unique: Embroidered belt
+hort_ledd_robe_unique: Hort-Ledd's Robe
+brawlers_belt: Brawler's Belt
+Sheogorath's Signet Ring: Sheogorath's Signet Ring
+expensive_ring_01_BILL: Expensive Ring
+amulet of shadows: Amulet of Shadows
+Adusamsi's_robe: Adusamsi's Robe
+Adusamsi's_Ring: Adusamsi's Ring
+Zenithar's_Warning: Zenithar's Warning
+Zenithar's_Wiles: Zeinthar's Wiles
+ring of nullification: Ring of Nullification
+expensive_glove_left_ilmeni: Ilmeni's glove
+hlervu_locket_unique: Hlervu Locket
+amulet of igniis: Amulet of Igniis
+amulet of admonition: Amulet of Admonition
+Shoes_of_Conviction: Shoes of Conviction
+Zenithar_Frock: Zenithar's Frock
+Nuccius_ring: Nuccius's Cursed Ring
+Belt of Northern Knuck Knuck: Belt of Northern Knuck Knuck
+amulet of 6th house: 6th House Amulet
+slippers_of_doom: Slippers of Doom
+Ring of Night-Eye: Ring of Night-Eye
+common_ring_01_fg_nchur01: Common Ring
+common_ring_01_fg_nchur02: Common Ring
+common_ring_01_fg_nchur03: Common Ring
+common_ring_01_fg_nchur04: Common Ring
+common_ring_01_fg_corp01: Common Ring
+Caius_pants: Caius' Black Pants
+caius_shirt: Caius' Black Shirt
+Caius_ring: Caius' Ring
+necromancers_amulet_uniq: Necromancer's Amulet
+common_ring_01_arena: Common Ring
+common_ring_01_mge: Common Ring
+amulet_Agustas_unique: Augustus' Amulet
+amulet_Pop00: Pop's Amulet
+amulet of domination: Amulet of Domination
+extravagant_ring_aund_uni: Aundae Signet Ring
+bitter_hand: Bitter Hand
+ember_hand: Ember Hand
+common_ring_01_tt_mountkand: Common Ring
+cl_ringofregeneration: Ring of Regeneration
+Mark_Ring: Mark Ring
+Recall_Ring: Recall Ring
+tailored_trousers: Tailored Trousers
+Right_Hand_of_Zenithar: Right Hand of Zenithar
+Left_Hand_of_Zenithar_EN: Left Hand of Zenithar
+Left_Hand_of_Zenithar: Left Hand of Zenithar
+zenithar_whispers: Zenithar Whispers
+ring_marara_unique: Marara's Ring
+ring_fathasa_unique: Fathasa's Ring
+amulet_aundae: Aundae Amulet
+amulet_berne: Berne Amulet
+amulet_quarra: Quarra Amulet
+common_ring_danar: Danar's Ring
+Daedric_special01: Tel Fyr amulet
+Daedric_special: Daedric Sanctuary Amulet
+Maran Amulet: Maran Amulet
+Stendarran Belt: Stendarran Belt
+Septim Ring: Septim Ring
+Akatosh's Ring: Akatosh's Ring
+ember hand: Ember Hand
+Julielle_Aumines_Amulet: Julielle Aumine's Amulet
+Linus_Iulus_Stendarran_Belt: Linus Iulus' Stendarran Belt
+Linus_Iulus_Maran Amulet: Linus Iulus' Maran Amulet
+Restoration_Shirt: Restoration Shirt
+Detect_Enchantment_ring: Detect Enchantment Ring
+Maras_Skirt: Mara's Skirt
+Maras_Blouse: Mara's Blouse
+common_shoes_02_surefeet: Surefeet
+amulet_skink_unique: Skink's Amulet
+common_ring_01_haunt_Ken: Common Ring
+expensive_amulet_delyna: Delyna's Locket
+common_ring_01_mgbwg: Common Ring
+foe-quern: Foe-Quern
+foe-grinder: Foe-Grinder
+Akatosh Ring: Akatosh's Ring
+common_shirt_gondolier: Gondolier Shirt
+amulet_gem_feeding: Amulet of Gem Feeding
+ring of telekinesis_UNIQUE: Ring of Far Reaching
+ring_shashev_unique: Shashev's Ring
+
+#BOOKS#
+BookSkill_Enchant1: Feyfolken I
+BookSkill_Enchant2: The Wolf Queen, Book VIII
+bookskill_enchant3: Palla, Book II
+bookskill_enchant4: 36 Lessons of Vivec, Sermon 19
+bookskill_enchant5: The Final Lesson
+bookskill_destruction1: The Horror of Castle Xyr
+bookskill_destruction2: Response to Bero's Speech
+bookskill_destruction3: A Hypothetical Treachery
+bookskill_destruction4: The Art of War Magic
+BookSkill_Destruction5: Mystery of Talara, Part 3
+BookSkill_Alteration1: Breathing Water
+BookSkill_Alteration2: The Dragon Break Re-Examined
+BookSkill_Alteration3: Sithis
+BookSkill_Alteration4: 36 Lessons of Vivec, Sermon 13
+BookSkill_Alteration5: The Lunar Lorkhan
+bookskill_illusion1: The Wolf Queen, Book III
+bookskill_illusion2: Silence
+bookskill_illusion3: Incident in Necrom
+bookskill_illusion4: Palla, Book I
+bookskill_illusion5: Mystery of Talara, Part 4
+BookSkill_Conjuration1: Feyfolken II
+BookSkill_Conjuration2: Feyfolken III
+BookSkill_Conjuration3: 2920, Hearth Fire
+BookSkill_Conjuration4: 2920, FrostFall
+bookskill_conjuration5: The Warrior's Charge
+bookskill_mysticism1: The Firsthold Revolt
+BookSkill_Mysticism2: 2920, Sun's Dawn
+BookSkill_Mysticism3: 36 Lessons of Vivec, Sermon 4
+BookSkill_Mysticism4: 36 Lessons of Vivec, Sermon 36
+BookSkill_Mysticism5: Charwich-Koniinge, Volume 3
+bookskill_restoration1: Withershins
+bookskill_restoration2: Notes on Racial Phylogeny
+bookskill_restoration3: The Four Suitors of Benitah
+BookSkill_Restoration4: 2920, Rain's Hand
+BookSkill_Restoration5: Mystery of Talara, Part 2
+BookSkill_Alchemy1: A Game at Dinner
+BookSkill_Alchemy2: The Cake and the Diamond
+BookSkill_Alchemy3: Song of the Alchemists
+BookSkill_Alchemy4: 36 Lessons of Vivec, Sermon 2
+BookSkill_Alchemy5: 36 Lessons of Vivec, Sermon 18
+bookskill_unarmored1: The Wraith's Wedding Dowry
+bookskill_unarmored2: Charwich-Koniinge, Volume 1
+bookskill_unarmored3: 36 Lessons of Vivec, Sermon 11
+bookskill_unarmored4: 36 Lessons of Vivec, Sermon 15
+bookskill_unarmored5: 36 Lessons of Vivec, Sermon 34
+BookSkill_Block1: Death Blow of Abernanit
+bookskill_block2: The Mirror
+BookSkill_Block3: A Dance in Fire, Chapter 2
+BookSkill_Block4: 36 Lessons of Vivec, Sermon 7
+BookSkill_Block5: 36 Lessons of Vivec, Sermon 32
+BookSkill_Armorer1: The Armorer's Challenge
+BookSkill_Armorer2: Last Scabbard of Akrash
+BookSkill_Armorer3: 36 Lessons of Vivec, Sermon 6
+BookSkill_Armorer4: 36 Lessons of Vivec, Sermon 25
+BookSkill_Armorer5: 36 Lessons of Vivec, Sermon 29
+bookskill_medium armor1: Cherim's Heart of Anequina
+BookSkill_Medium Armor2: Bone, Part One
+BookSkill_Medium Armor3: Bone, Part Two
+bookskill_medium armor4: 36 Lessons of Vivec, Sermon 22
+bookskill_medium armor5: 36 Lessons of Vivec, Sermon 33
+bookskill_heavy armor1: Hallgerd's Tale
+BookSkill_Heavy Armor2: 2920, MidYear
+BookSkill_Heavy Armor3: Chimarvamidium
+bookskill_heavy armor4: How Orsinium Passed to the Orcs
+bookskill_heavy armor5: 36 Lessons of Vivec, Sermon 12
+bookskill_blunt weapon1: The Hope of the Redoran
+BookSkill_Blunt Weapon2: The Importance of Where
+bookskill_blunt weapon3: Night Falls On Sentinel
+BookSkill_Blunt Weapon4: 36 Lessons of Vivec, Sermon 3
+BookSkill_Blunt Weapon5: 36 Lessons of Vivec, Sermon 9
+BookSkill_Long Blade1: Words and Philosophy
+BookSkill_Long Blade2: 2920, Morning Star
+bookskill_long blade3: 36 Lessons of Vivec, Sermon 17
+bookskill_long blade4: 36 Lessons of Vivec, Sermon 20
+bookskill_long blade5: 36 Lessons of Vivec, Sermon 23
+BookSkill_Axe1: The Third Door
+bookskill_axe2: The Axe Man
+BookSkill_Axe3: The Seed
+BookSkill_Axe4: 36 Lessons of Vivec, Sermon 5
+BookSkill_Axe5: 36 Lessons of Vivec, Sermon 16
+bookskill_spear1: Smuggler's Island
+BookSkill_Spear2: 2920, First Seed
+bookskill_spear3: 36 Lessons of Vivec, Sermon 14
+bookskill_spear4: 36 Lessons of Vivec, Sermon 24
+bookskill_spear5: 36 Lessons of Vivec, Sermon 35
+BookSkill_Athletics1: The Ransom of Zarek
+BookSkill_Athletics2: A Dance in Fire, Chapter 3
+BookSkill_Athletics3: 36 Lessons of Vivec, Sermon 1
+BookSkill_Athletics4: 36 Lessons of Vivec, Sermon 8
+BookSkill_Athletics5: 36 Lessons of Vivec, Sermon 31
+bookskill_security1: The Locked Room
+bookskill_security2: The Wolf Queen, Book I
+BookSkill_Security3: The Dowry
+bookskill_security4: Chance's Folly
+bookskill_security5: Surfeit of Thieves
+bookskill_sneak1: The Wolf Queen, Book VI
+BookSkill_Sneak2: 2920, Last Seed
+BookSkill_Sneak3: Azura and the Box
+bookskill_sneak4: Trap
+bookskill_sneak5: 36 Lessons of Vivec, Sermon 26
+bookskill_acrobatics1: Realizations of Acrobacy
+BookSkill_Acrobatics2: A Dance in Fire, Chapter 1
+BookSkill_Acrobatics3: A Dance in Fire, Chapter 4
+BookSkill_Acrobatics4: The Black Arrow, Volume 1
+BookSkill_Acrobatics5: Mystery of Talara, Part 1
+BookSkill_Light Armor1: The Rear Guard
+BookSkill_Light Armor2: Ice and Chiton
+bookskill_light armor3: Lord Jornibret's Last Dance
+bookskill_light armor4: 36 Lessons of Vivec, Sermon 21
+bookskill_light armor5: 36 Lessons of Vivec, Sermon 28
+bookskill_short blade1: Unnamed Book
+BookSkill_Short Blade2: 2920, Sun's Dusk
+BookSkill_Short Blade3: 2920, Evening Star
+BookSkill_Short Blade4: 36 Lessons of Vivec, Sermon 10
+BookSkill_Short Blade5: 36 Lessons of Vivec, Sermon 30
+bookskill_marksman1: The Gold Ribbon of Merit
+BookSkill_Marksman2: A Dance in Fire, Chapter 5
+bookskill_marksman3: Vernaccus and Bourlor
+bookskill_marksman4: The Marksmanship Lesson
+bookskill_marksman5: The Black Arrow, Volume II
+bookskill_mercantile1: The Buying Game
+bookskill_mercantile2: The Wolf Queen, Book IV
+BookSkill_Mercantile3: 2920, Sun's Height
+bookskill_mercantile4: A Dance in Fire, Chapter 6
+bookskill_mercantile5: A Dance in Fire, Chapter 7
+BookSkill_Speechcraft1: Biography of the Wolf Queen
+bookskill_speechcraft2: The Wolf Queen, Book V
+BookSkill_Speechcraft3: 2920, Second Seed
+bookskill_speechcraft4: The Wolf Queen, Book VII
+bookskill_speechcraft5: 36 Lessons of Vivec, Sermon 27
+bookskill_hand to hand1: The Prayers of Baranat
+bookskill_hand to hand2: The Wolf Queen, Book II
+bookskill_hand to hand3: Charwich-Koniinge, Volume 2
+bookskill_hand to hand4: Charwich-Koniinge, Volume 4
+bookskill_hand to hand5: Master Zoaraym's Tale
+bk_LivesOfTheSaints: Lives of the Saints
+bk_SaryonisSermons: Saryoni's Sermons
+bk_HomiliesOfBlessedAlmalexia: Homilies of Blessed Almalexia
+bk_PilgrimsPath: The Pilgrim's Path
+bk_HouseOfTroubles_o: The House of Troubles
+bk_DoorsOfTheSpirit: The Doors of the Spirit
+bk_MysteriousAkavir: Mysterious Akavir
+bk_spiritofnirn: Spirit of Nirn, God of Mortals
+bk_vivecandmephala: Vivec and Mephala
+bk_istunondescosmology: A Less Rude Song
+bk_firmament: The Firmament
+bk_manyfacesmissinggod: The Monomyth
+bk_frontierconquestaccommodat: Frontier, Conquest...
+bk_truenatureoforcs: The True Nature of Orcs
+bk_varietiesoffaithintheempire: Varieties of Faith...
+bk_tamrielicreligions: The Ruins of Kemel-Ze
+bk_fivesongsofkingwulfharth: Five Songs of King Wulfharth
+bk_wherewereyoudragonbroke: Where Were You ... Dragon Broke
+bk_nchunaksfireandfaith: Nchunak's Fire and Faith
+bk_vampiresofvvardenfell1: Vampires of Vvardenfell, v I
+bk_reflectionsoncultworship...: Reflections on Cult Worship
+bk_galerionthemystic: Galerion The Mystic
+bk_madnessofpelagius: The Madness of Pelagius
+bk_realbarenziah2: The Real Barenziah v II
+bk_realbarenziah3: The Real Barenziah v III
+bk_realbarenziah4: The Real Barenziah v IV
+bk_OverviewOfGodsAndWorship: Overview of Gods and Worship
+bk_fragmentonartaeum: Fragment: On Artaeum
+bk_onoblivion: On Oblivion
+bk_InvocationOfAzura: Invocation of Azura
+bk_Mysticism: Mysticism
+bk_OriginOfTheMagesGuild: Origin of the Mages Guild
+bk_specialfloraoftamriel: Special Flora of Tamriel
+bk_oldways: The Old Ways
+bk_wildelves: The Wild Elves
+bk_PigChildren: The Pig Children
+bk_redbookofriddles: The Red Book of Riddles
+bk_yellowbookofriddles: The Yellow Book of Riddles
+bk_guylainesarchitecture: Guylaine's Architecture
+bk_progressoftruth: Progress of Truth
+bk_easternprovincesimpartial: The Eastern Provinces...
+bk_vampiresofvvardenfell2: Vampires of Vvardenfell, v II
+bk_gnisiseggmineledger: Gnisis Eggmine Ledger
+bk_fortpelagiadprisonerlog: Fort Pelagiad Prisoner Log
+bk_MixedUnitTactics: Mixed Unit Tactics v1
+bk_gnisiseggminepass: Gnisis Eggmine Pass
+bk_HouseOfTroubles_c: The House of Troubles
+bk_truenoblescode: The True Noble's Code
+bk_NGastaKvataKvakis_c: N'Gasta! Kvata! Kvakis!
+bk_legionsofthedead: Legions of the Dead
+bk_darkestdarkness: Darkest Darkness
+bk_NGastaKvataKvakis_o: N'Gasta! Kvata! Kvakis!
+bk_hanginggardenswasten: Hanging Gardens...
+bk_itermerelsnotes: Itermerel's Notes
+bk_tiramgadarscredentials: Tiram Gadar's Credentials
+bk_corpsepreperation1_c: Corpse Preparation v I
+bk_corpsepreperation1_o: Corpse Preparation v I
+bk_sharnslegionsofthedead: Sharn's Legions of the Dead
+bk_SamarStarloversJournal: Starlover's Log
+bk_SpiritOfTheDaedra: Spirit of the Daedra
+bk_VagariesOfMagica: The Vagaries of Magicka
+bk_WatersOfOblivion: The Waters of Oblivion
+bk_LegendaryScourge: The Legendary Scourge
+bk_PostingOfTheHunt: The Posting of the Hunt
+bk_TalMarogKersResearches: Tal Marog Ker's Researches
+bk_seniliasreport: Senilius' Report
+bk_graspingfortune: Grasping Fortune
+bk_notefromsondaale: Note from Sondaale
+bk_shishireport: Shishi Report
+bk_galtisguvronsnote: Galtis Guvron's Note
+bk_sottildescodebook: Sottilde's Code Book
+bk_NoteFromJ'Zhirr: Note from J'zhirr
+bk_eastempirecompanyledger: East Empire Company Ledger
+bk_nemindasorders: Neminda's Orders
+bk_ordersforbivaleteneran: Orders for Bivale Teneran
+bk_treasuryreport: Treasury Report
+bk_treasuryorders: Treasury Orders
+bk_BlasphemousRevenants: Blasphemous Revenants
+bk_ConsolationsOfPrayer: The Consolations of Prayer
+bk_BookDawnAndDusk: The Book of Dawn and Dusk
+bk_CantatasOfVivec: The Cantatas of Vivec
+bk_Anticipations: The Anticipations
+bk_AncestorsAndTheDunmer: Ancestors and the Dunmer
+bk_AedraAndDaedra: Aedra and Daedra
+bk_AnnotatedAnuad: The Annotated Anuad
+bk_ChildrensAnuad: The Annotated Anuad
+bk_ArcturianHeresy: The Arcturian Heresy
+bk_ChangedOnes: The Changed Ones
+bk_ChildrenOfTheSky: Children of the Sky
+bk_AntecedantsDwemerLaw: Antecedants of Dwemer Law
+bk_ChroniclesNchuleft: Chronicles of Nchuleft
+bk_BiographyBarenziah1: Biography of Barenziah v I
+bk_BiographyBarenziah2: Biography of Barenziah v II
+bk_BiographyBarenziah3: Biography of Barenziah v III
+bk_BriefHistoryEmpire1: Brief History of the Empire v 1
+bk_BriefHistoryEmpire2: Brief History of the Empire v 2
+bk_BriefHistoryEmpire3: Brief History of the Empire v 3
+bk_BriefHistoryEmpire4: Brief History of the Empire v 4
+bk_BrothersOfDarkness: The Brothers of Darkness
+bk_BlackGlove: The Black Glove
+bk_BlueBookOfRiddles: The Blue Book of Riddles
+bk_BoethiahPillowBook: Boethiah's Pillow Book
+bk_a1_1_directionscaiuscosades: Directions to Caius Cosades
+bk_a1_2_antabolistocosades: Hasphat's notes for Cosades
+bk_a1_2_introtocadiusus: Letter to Senilias Cadiusus
+bk_a1_4_sharnsnotes: Nerevarine cult notes
+bk_a1_v_vivecinformants: Mission to Vivec -- from Caius
+bk_A1_7_HuleeyaInformant: Notes from Huleeya
+bk_BookOfDaedra: The Book of Daedra
+bk_ArcanaRestored: Arcana Restored
+bk_BookOfLifeAndService: Book of Life and Service
+bk_BookOfRestAndEndings: Book of Rest and Endings
+bk_AffairsOfWizards: The Affairs of Wizards
+bk_CalderaRecordBook1: Caldera Ledger
+bk_CalderaRecordBook2: Secret Caldera Ledger
+bk_AuraneFrernis1: Aurane Frernis' Recipies
+bk_auranefrernis2: Aurane Frernis' Recipies
+bk_auranefrernis3: Aurane Frernis' Recipies
+bk_6thhouseravings: Parchment with Scrawlings
+bk_CalderaMiningContract: Caldera Mining Contract
+bk_ABCs: ABCs for Barbarians
+bk_a1_11_zainsubaninotes: Zainsubani's Notes
+note to hrisskar: Note to Hrisskar
+chargen statssheet: Release Identification
+bk_notetocalderaslaves: Note to Slaves
+bk_notetoinorra: Note to Inorra
+bk_notetocalderaguard: NoteToCalderaGuard
+bk_notetocalderamages: Note to Mages
+bk_falanaamonote: Note to Falanaamo
+bk_notetovalvius: Note to Valvius
+bk_notefromirgola: Note from Irgola
+bk_notefrombildren: Note From Bildren
+bk_notesoldout: Sold Out Notice
+bk_notefromferele: Note from Ferele
+bk_Dren_Hlevala_note: Note to Hlevala
+bk_Dren_shipping_log: Dren's shipping log
+bk_saryonisermonsmanuscript: Saryoni's Sermons Manuscript
+bk_messagefrommasteraryon: Message from Master Aryon
+bk_responsefromdivaythfyr: Response from Divayth Fyr
+bk_honorthieves: Honor Among Thieves
+bk_redbook426: Red Book of 3E 426
+bk_yellowbook426: Yellow Book of 3E 426
+bk_BrownBook426: Brown Book of 3E 426
+bk_orderfrommollismo: Order From Mollismo
+bk_BlightPotionNotice: Cure Blight Potion Notice
+bk_propertyofjolda: Property of Jolda
+bk_joldanote: A hastily scrawled note
+bk_eggorders: Order Manifest
+bk_notefromradras: Note From Radras
+bk_thesevencurses: The Seven Curses
+bk_thelostprophecy: The Lost Prophecy
+bk_kagrenac'stools: Kagrenac's Tools
+bk_NoteToAmaya: Note to Amaya
+bk_vivecs_plan: Plan to Defeat Dagoth Ur
+bk_vivec_murders: Nerevar at Red Mountain
+bk_saryoni_note: note from the Archcanon
+bk_vivec_no_murder: The Battle of Red Mountain
+bk_Dagoth_Urs_Plans: Dagoth Ur's Plans
+bk_notefromberwen: Note from Berwen
+bk_varoorders: Shipping Notice
+bk_storagenotice: Notice
+bk_notetomenus: Note to Menus
+bk_notefrombugrol: Note from Bugrol
+bk_notefrombashuk: Note from Bashuk
+bk_notebyaryon: Notes by Aryon
+bk_BeramJournal1: Beram Journal Entry 1
+bk_BeramJournal2: Beram Journal Entry 2
+bk_BeramJournal3: Beram Journal Entry 3
+bk_BeramJournal4: Beram Journal Entry 4
+bk_BeramJournal5: Beram Journal Entry 5
+bk_impmuseumwelcome: Imperial Museum Welcome
+bk_dwemermuseumwelcome: Dwemer Museum Welcome
+bk_pillowinvoice: Invoice
+bk_ravilamemorial: Ravila Memorial
+bk_fishystick: Capn's Guide to the Fishy Stick
+bk_kagrenac'splans_excl: Kagrenac's Planbook
+bk_miungei: Letter from Tsrazami
+bk_ynglingledger: Yngling's Ledger
+bk_ynglingletter: Yngling's Letter
+bk_indreledeed: Deed to Indrele's House
+bk_BriefHistoryEmpire1_oh: Odral's History of the Empire 1
+bk_BriefHistoryEmpire2_oh: Odral's History of the Empire 2
+bk_BriefHistoryEmpire3_oh: Odral's History of the Empire 3
+bk_BriefHistoryEmpire4_oh: Odral's History of the Empire 4
+bk_dispelrecipe_tgca: Dispel Potion Formula
+bk_a1_1_caiuspackage: Package for Caius Cosades
+bk_Ashland_Hymns: Ashland Hymns
+bk_words_of_the_wind: Words of the Wind
+bk_five_far_stars: The Five Far Stars
+bk_provinces_of_tamriel: Provinces of Tamriel
+bk_galur_rithari's_papers: Galur Rithari's Papers
+bk_kagrenac'sjournal_excl: Kagrenac's Journal
+bk_notes-kagouti mating habits: Kagouti Mating Habits
+bk_notefromnelos: Note from Nelos
+bk_notefromernil: Note From Ernil
+bk_enamor: Note to Salyn Sarethi
+bk_wordsclanmother: Words of Clan Mother Ahnissi
+bk_corpsepreperation2_c: Corpse Preparation v II
+bk_corpsepreperation3_c: Corpse Preparation v III
+bk_ArkayTheEnemy: Arkay the Enemy
+bk_poisonsong1: Poison Song I
+bk_poisonsong2: Poison Song II
+bk_poisonsong3: Poison Song III
+bk_poisonsong4: Poison Song IV
+bk_poisonsong5: Poison Song V
+bk_poisonsong6: Poison Song VI
+bk_poisonsong7: Poison Song VII
+bk_Confessions: Confessions of a Skooma-Eater
+bk_hospitality_papers: Hospitality Papers
+bk_uleni's_papers: Ghost-Free Papers
+bk_redorancookingsecrets: Redoran Cooking Secrets
+bk_widowdeed: Widow Vabdas' Land Deed
+bk_guide_to_vvardenfell: Guide to Vvardenfell
+bk_guide_to_vivec: Guide to Vivec
+bk_guide_to_balmora: Guide to Balmora
+bk_guide_to_ald_ruhn: Guide to Ald'ruhn
+bk_guide_to_sadrithmora: Guide to Sadrith Mora
+text_paper_roll_01: Rolled Paper
+bk_seydaneentaxrecord: Tax Record
+bk_a1_1_packagedecoded: decoded package
+bk_a2_1_sevenvisions: The Seven Visions
+bk_a2_1_thestranger: The Stranger
+sc_hellfire: Scroll of Hellfire
+sc_ninthbarrier: Scroll of The Ninth Barrier
+sc_restoration: Scroll of Restoration
+sc_blackstorm: Scroll of The Black Storm
+sc_balefulsuffering: Scroll of Baleful Suffering
+sc_bloodthief: Scroll of The Blood Thief
+sc_mindfeeder: Scroll of The Mind Feeder
+sc_psychicprison: Scroll of Psychic Prison
+sc_lesserdomination: Scroll of Lesser Domination
+sc_greaterdomination: Scroll of Greater Domination
+sc_supremedomination: Scroll of Supreme Domination
+sc_argentglow: Scroll of The Argent Glow
+sc_redsloth: Scroll of Red Sloth
+sc_reddeath: Scroll of Red Death
+sc_redmind: Scroll of Red Mind
+sc_redfate: Scroll of Red Fate
+sc_redscorn: Scroll of Red Scorn
+sc_redweakness: Scroll of Red Weakness
+sc_reddespair: Scroll of Red Despair
+sc_manarape: Scroll of Manarape
+sc_elevramssty: Scroll of Elevram's Sty
+sc_fadersleadenflesh: Scroll of Fader's Leaden Flesh
+sc_dedresmasterfuleye: Scroll of Dedres' Masterful Eye
+sc_golnaraseyemaze: Scroll of Golnara's Eye-Maze
+sc_didalasknack: Scroll of Didala's Knack
+sc_daerirsmiracle: Scroll of Daerir's Miracle
+sc_daydenespanacea: Scroll of Daydene's Panacea
+sc_salensvivication: Scroll of Salen's Vivication
+sc_vaerminaspromise: Scroll of Vaermina's Promise
+sc_blackdeath: Scroll of Black Death
+sc_blackdespair: Scroll of Black Despair
+sc_blackfate: Scroll of Black Fate
+sc_blackmind: Scroll of Black Mind
+sc_blackscorn: Scroll of Black Scorn
+sc_blacksloth: Scroll of Black Sloth
+sc_blackweakness: Scroll of Black Weakness
+sc_tendilstrembling: Scroll of Tendil's Trembling
+sc_feldramstrepidation: Scroll of Feldram's Trepidation
+sc_reynosbeastfinder: Scroll of Reynos' Beast Finder
+sc_mageseye: Scroll of The Mage's Eye
+sc_tevralshawkshaw: Scroll of Tevral's Hawkshaw
+sc_radrenesspellbreaker: Scroll of Radrene'sSpellBreaker
+sc_alvusiaswarping: Scroll of Alvusia's Warping
+sc_corruptarcanix: Scroll of Corrupt Arcanix
+sc_greydeath: Scroll of Grey Death
+sc_greydespair: Scroll of Grey Despair
+sc_greyfate: Scroll of Grey Fate
+sc_greymind: Scroll of Grey Mind
+sc_greyscorn: Scroll of Grey Scorn
+sc_greysloth: Scroll of Grey Sloth
+sc_greyweakness: Scroll of Grey Weakness
+sc_ulmjuicedasfeather: Scroll of Ulm Juiceda's Feather
+sc_taldamsscorcher: Scroll of Taldam's Scorcher
+sc_elementalburstfire: Scroll of Elemental Burst:Fire
+sc_selisfieryward: Scroll of Selis' Fiery Ward
+sc_dawnsprite: Scroll of The Dawn Sprite
+sc_bloodfire: Scroll of Bloodfire
+sc_vigor: Scroll of Vigor
+sc_vitality: Scroll of Vitality
+sc_insight: Scroll of Insight
+sc_gamblersprayer: Scroll of The Gambler's Prayer
+sc_heartwise: Scroll of Heartwise
+sc_celerity: Scroll of Celerity
+sc_mageweal: Scroll of Mageweal
+sc_savagemight: Scroll of Savage Might
+sc_oathfast: Scroll of The Oathfast
+sc_gonarsgoad: Scroll of Gonar's Goad
+sc_mondensinstigator: Scroll of Monden's Instigator
+sc_illneasbreath: Scroll of Illnea's Breath
+sc_radiyasicymask: Scroll of Radiya's Icy Mask
+sc_brevasavertedeyes: Scroll of Breva's Averted Eyes
+sc_tinurshoptoad: Scroll of Tinur's Hoptoad
+sc_uthshandofheaven: Scroll of Uth's Hand of Heaven
+sc_princeovsbrightball: Scroll of Prince Ov's Brightbal
+sc_lordmhasvengeance: Scroll of Lord Mhas' Vengeance
+sc_elementalburstfrost: Scroll of Elemental Burst:Frost
+sc_windform: Scroll of Windform
+sc_stormward: Scroll of Stormward
+sc_purityofbody: Scroll of Purity of Body
+sc_warriorsblessing: Scroll of Warrior's Blessing
+sc_galmsesseal: Scroll of Galmes' Seal
+sc_mark: Scroll of Mark
+sc_llirosglowingeye: Scroll of Lliros' Glowing Eye
+sc_ondusisunhinging: Scroll of Ondusi's Unhinging
+sc_sertisesporphyry: Scroll of Sertises' Porphyry
+sc_toususabidingbeast: Scroll of Tousu's Abiding Beast
+sc_telvinscourage: Scroll of Telvin's Courage
+sc_leaguestep: Scroll of Leaguestep
+sc_tranasasspelltrap: Scroll of Tranasa's Spelltrap
+sc_flameguard: Scroll of Flameguard
+sc_shockguard: Scroll of Shockguard
+sc_healing: Scroll of Healing
+sc_firstbarrier: Scroll of The First Barrier
+sc_secondbarrier: Scroll of The Second Barrier
+sc_thirdbarrier: Scroll of The Third Barrier
+sc_fourthbarrier: Scroll of The Fourth Barrier
+sc_fifthbarrier: Scroll of The Fifth Barrier
+sc_sixthbarrier: Scroll of The Sixth Barrier
+sc_inaschastening: Scroll of Inas' Chastening
+sc_elementalburstshock: Scroll of Elemental Burst:Shock
+sc_nerusislockjaw: Scroll of Nerusi's Lockjaw
+sc_fphyggisgemfeeder: Scroll of Fphyggi's Gem-Feeder
+sc_tranasasspellmire: Scroll of Tranasa's Spellmire
+sc_reynosfins: Scroll of Reynos' Fins
+sc_inasismysticfinger: Scroll of Inasi's Mystic Finger
+sc_daynarsairybubble: Scroll of Daynar's Airy Bubble
+sc_selynsmistslippers: Scroll of Selyn's Mist Slippers
+sc_flamebane: Scroll of Flamebane
+sc_frostbane: Scroll of Frostbane
+sc_shockbane: Scroll of Shockbane
+bk_BriefHistoryofWood: No-h's Picture Book of Wood
+bk_RealBarenziah1: The Real Barenziah v I
+bk_RealBarenziah5: The Real Barenziah v V
+sc_divineintervention: Scroll of Divine Intervention
+sc_messengerscroll: Messenger Scroll
+sc_cureblight_ranged: Scroll of Daerir's Blessing
+sc_summondaedroth_hto: Milyn Faram's Scroll
+sc_summongoldensaint: Scroll of Summon Golden Saint
+bk_bartendersguide: Hanin's Wake
+bk_NerevarineNotice: Public notice
+bk_Warehouse_log: Warehouse shipping log
+sc_invisibility: Scroll of Invisibility
+sc_windwalker: Scroll of Windwalker
+sc_tranasasspelltwist: Scroll of Tranasa's Spelltwist
+sc_tevilspeace: Scroll of Tevil's Peace
+bk_red_mountain_map: Map of Red Mountain
+bk_arrilles_tradehouse: tradehouse notice
+sc_FiercelyRoastThyEnemy_unique: Scroll of Fiercely Roasting
+bk_talostreason: Note from Oritius Maro
+bk_a2_2_dagoth_message: Message from Dagoth Ur
+bk_EggOfTime: The Egg of Time
+bk_DivineMetaphysics: Divine Metaphysics...
+bk_a1_1_elone_to_Balmora: Elone's Directions to Balmora
+bk_note: A worn and weathered note
+writ_yasalmibaal: Honorable Writ of Execution
+writ_oran: Honorable Writ of Execution
+writ_saren: Honorable Writ of Execution
+writ_sadus: Honorable Writ of Execution
+writ_vendu: Honorable Writ of Execution
+writ_guril: Honorable Writ of Execution
+writ_galasa: Honorable Writ of Execution
+writ_mavon: Honorable Writ of Execution
+writ_belvayn: Honorable Writ of Execution
+writ_bemis: Honorable Writ of Execution
+writ_brilnosu: Honorable Writ of Execution
+writ_navil: Honorable Writ of Execution
+writ_varro: Honorable Writ of Execution
+writ_baladas: Honorable Writ of Execution
+writ_bero: Honorable Writ of Execution
+writ_therana: Honorable Writ of Execution
+bk_great_houses: Great Houses of Morrowind
+sc_summonskeletalservant: Scroll of Summon Skeleton
+sc_summonflameatronach: Scroll of Summon Flame Atronach
+sc_summonfrostatronach: Scroll of Summon Frost Atronach
+bk_charterMG: Mages Guild Charter
+bk_charterFG: Fighters Guild Charter
+bk_Ibardad_Elante_notes: Elante's Notes
+BookSkill_Destruction5_open: Mystery of Talara, Part 3
+BookSkill_Axe5_open: 36 Lessons of Vivec, Sermon 16
+bk_Boethiah's Glory_unique: Boethiah's Glory
+bk_Aedra_Tarer_Unique: Tarer's Aedra and Daedra
+bk_ocato_recommendation: Letter from Ocato
+bk_Ajira1: Ajira's Mushroom Report
+bk_Ajira2: Ajira's Flower Report
+Cumanya's Notes: A Fair Warning
+sc_Malaki: A scroll written in blood
+sc_drathissoulrot: Scroll of Drathis' Soulrot
+sc_drathiswinterguest: Scroll of Drathis' Winter Guest
+sc_Vulpriss: A scrawled note
+bk_BriefHistoryofWood_01: No-h's Picture Book of Wood
+bk_landdeed_hhrd: Ascadian Isles Land Deed
+bk_landdeedfake_hhrd: Odral's Land Deed
+bk_stronghold_c_hlaalu: Construction Contract
+bk_stronghold_ld_hlaalu: Rethan Manor Land Deed
+bk_V_hlaaluprison: Prisoner Checklist
+bk_Hlaalu_Vaults_Ledger: Hlaalu Vaults Ledger
+sc_Indie: A dying man's last words
+bk_Nerano: Note from Bakarak
+sc_Tyronius: Scroll of Tyronius
+bk_shalitjournal_deal: Rels Tenim Journal Page
+bk_shalit_note: Note to Giden
+bk_drenblackmail: Dren's Note
+bk_notetomalsa: Note to Malsa Ules
+bk_Redoran_Vaults_Ledger: Redoran Vaults Ledger
+bk_ILHermit_Page: Page from History of the Empire
+note_Peke_Utchoo: Peke Utchoo's last words
+bk_clientlist: Client List
+bk_contract_ralen: Weapons and Armor Contract
+bk_letterfromllaalam: Letter From Llaalam Dredil
+bk_letterfromjzhirr: Letter From J'Zhirr
+bk_letterfromllaalam2: Letter From Llaalam Dredil
+bk_letterfromgadayn: Letter from Gadayn
+bk_leaflet_false: A Leaflet
+bk_Telvanni_Vault_Ledger: Telvanni Vault Ledger
+sc_almsiviintervention: Scroll of Almsivi Intervention
+bk_Yagrum's_Book: Tamrielic Lore
+bk_lustyargonianmaid: The Lusty Argonian Maid
+bk_AlchemistsFormulary: The Alchemists Formulary
+bk_SecretsDwemerAnimunculi: Secrets of Dwemer Animunculi
+sc_icarianflight: Scroll of Icarian Flight
+bk_fellowshiptemple: Fellowship of the Temple
+bk_formygodsandemperor: For my Gods and Emperor
+bk_ordolegionis: Ordo Legionis
+bk_bartendersguide_01: Hanin's Wake
+bookskill_mystery5: Mystery of Talara, Part 5
+bk_notetotelvon: Note to Telvon
+bk_WaroftheFirstCouncil: The War of the First Council
+bk_OnMorrowind: On Morrowind
+bk_RealNerevar: The Real Nerevar
+bk_NerevarMoonandStar: Nerevar Moon-and-Star
+bk_SaintNerevar: Saint Nerevar
+bk_ShortHistoryMorrowind: A Short History of Morrowind
+bk_falljournal_unique: Journal of Tarhiel
+sc_ekashslocksplitter: Scroll of Ekash's Lock Splitter
+sc_frostguard: Scroll of Frostguard
+sc_paper plain: paper
+sc_paper_plain_01_canodia: paper
+
+#INGREDIENTS#
+ingred_dreugh_wax_01: Dreugh Wax
+food_kwama_egg_01: Small Kwama Egg
+food_kwama_egg_02: Large Kwama Egg
+ingred_kwama_cuttle_01: Kwama Cuttle
+ingred_marshmerrow_01: Marshmerrow
+ingred_saltrice_01: Saltrice
+ingred_diamond_01: Diamond
+ingred_emerald_01: Emerald
+ingred_pearl_01: Pearl
+ingred_raw_ebony_01: Raw Ebony
+ingred_ruby_01: Ruby
+ingred_ash_salts_01: Ash Salts
+ingred_corprus_weepings_01: Corprus weepings
+ingred_crab_meat_01: Crab Meat
+ingred_daedras_heart_01: Daedra's Heart
+ingred_daedra_skin_01: Daedra Skin
+ingred_resin_01: Resin
+ingred_alit_hide_01: Alit Hide
+ingred_ash_yam_01: Ash Yam
+ingred_bittergreen_petals_01: Bittergreen Petals
+ingred_black_anther_01: Black Anther
+ingred_black_lichen_01: Black Lichen
+ingred_bloat_01: Bloat
+ingred_bonemeal_01: Bonemeal
+ingred_comberry_01: Comberry
+ingred_chokeweed_01: Chokeweed
+ingred_corkbulb_root_01: Corkbulb Root
+ingred_ectoplasm_01: Ectoplasm
+ingred_fire_salts_01: Fire Salts
+ingred_frost_salts_01: Frost Salts
+ingred_ghoul_heart_01: Ghoul Heart
+ingred_gold_kanet_01: Gold Kanet
+ingred_gravedust_01: Gravedust
+ingred_green_lichen_01: Green Lichen
+ingred_guar_hide_01: Guar Hide
+ingred_hackle-lo_leaf_01: Hackle-Lo Leaf
+ingred_heather_01: Heather
+ingred_hound_meat_01: Hound Meat
+ingred_kagouti_hide_01: Kagouti Hide
+ingred_kresh_fiber_01: Kresh Fiber
+ingred_moon_sugar_01: Moon Sugar
+ingred_muck_01: Muck
+ingred_netch_leather_01: Netch Leather
+ingred_racer_plumes_01: Racer Plumes
+ingred_rat_meat_01: Rat Meat
+ingred_raw_glass_01: Raw Glass
+ingred_red_lichen_01: Red Lichen
+ingred_roobrush_01: Roobrush
+ingred_scales_01: Scales
+ingred_scamp_skin_01: Scamp Skin
+ingred_scathecraw_01: Scathecraw
+ingred_scrap_metal_01: Scrap Metal
+ingred_scrib_jelly_01: Scrib Jelly
+ingred_scuttle_01: Scuttle
+ingred_shalk_resin_01: Shalk Resin
+ingred_sload_soap_01: Sload Soap
+ingred_stoneflower_petals_01: Stoneflower Petals
+ingred_trama_root_01: Trama Root
+ingred_vampire_dust_01: Vampire Dust
+ingred_void_salts_01: Void Salts
+ingred_wickwheat_01: Wickwheat
+ingred_willow_anther_01: Willow Anther
+ingred_scrib_jerky_01: Scrib Jerky
+ingred_fire_petal_01: Fire Petal
+ingred_bread_01: Bread
+ingred_coprinus_01: Violet Coprinus
+ingred_russula_01: Luminous Russula
+ingred_bc_ampoule_pod: Ampoule Pod
+ingred_bc_bungler's_bane: Bungler's Bane
+ingred_bc_hypha_facia: Hypha Facia
+ingred_bc_spore_pod: Spore Pod
+ingred_bc_coda_flower: Coda Flower
+ingred_guar_hide_girith: Girith's Guar Hide
+ingred_guar_hide_marsus: Marsus' Guar Hide
+ingred_raw_glass_tinos: Raw Glass
+ingred_treated_bittergreen_uniq: Treated Bittergreen Petals
+ingred_gold_kanet_unique: Roland's Tear
+ingred_bread_01_UNI2: Bread
+poison_goop00: Poison
+ingred_Dae_cursed_emerald_01: Emerald
+ingred_Dae_cursed_pearl_01: Pearl
+ingred_cursed_daedras_heart_01: Daedra's Heart
+ingred_Dae_cursed_diamond_01: Diamond
+ingred_Dae_cursed_ruby_01: Ruby
+ingred_Dae_cursed_raw_ebony_01: Raw Ebony
+ingred_human_meat_01:  Human Flesh
+ingred_6th_corprusmeat_01: Large Wrapped Corprusmeat
+ingred_6th_corprusmeat_02: Small Wrapped Corprusmeat
+ingred_6th_corprusmeat_03: Medium Wrapped Corprusmeat
+ingred_6th_corprusmeat_04: Wrapped Corprusmeat Hunk
+ingred_6th_corprusmeat_05: Large Corprusmeat Hunk
+ingred_6th_corprusmeat_06: Medium Corprusmeat Hunk
+ingred_6th_corprusmeat_07: Small Corprusmeat Hunk
+ingred_scrib_jelly_02: Meteor Slime
+ingred_bread_01_UNI3: Muffin
+
+#KEYS#
+key_hasphat_antabolis: Hasphat Antabolis' Key
+key_hasphat_antabolis2: Small Key
+key_shushishi: Bandit's Key
+key_huleen's_hut: Key to Huleen's Hut
+key_assemanu_01: Rusty Key
+key_assemanu_02: Old Key
+key_nund: Simple Key
+key_divayth_fyr: Divayth Fyr's Key
+key_ra'zhid: Simple Key
+key_ministry_cells: Ministry of Truth Cell Key
+key_ministry_sectors: Ministry of Truth Sector Key
+key_rothran: Slave Cell Key
+key_aldsotha: Small Key
+key_kogoruhn_sewer: Lower Kogoruhn Key
+key_ministry_ext: Ministry of Truth Key
+key_persius mercius: Iron Key
+key_impcomsecrdoor: Worn Imperial Key
+key_saryoni: Saryoni's Key
+key_gen_tomb: Tomb Door Key
+key_hodlismod: Simple Key
+key_falaanamo: Old Key
+key_irgola: Simple Key
+key_savilecagekey: Savile's Slavepod Key
+key_dren_manor: Dren's Manor Key
+key_helvi: Helvi's Key
+key_dralor: Guldrise Dralor's Key
+key_ivrosa: Ivrosa Verethi's Key
+key_dren_storage: Dren's Storage Sack Key
+key_orvas_dren: Orvas Dren's Key
+key_nelothtelnaga: Key to Tel Naga
+key_keelraniur: Small Key
+key_nedhelas: Nedhelas' key
+key_fedar: Worn Key
+key_sethan: Llorayna Sethan's Key
+key_telbranoratower: Simple Key
+key_tel_aruhn_slave1: Imayn Slave Cage Key
+key_savilecagekey02: Savile's Slavepod Key
+key_archcanon_private: Archcanon's Private Key
+key_vivec_secret: Secret Palace Entrance Key
+key_gro-bagrat: Basement Key
+key_shipwreck9-11: Rusty Key
+key_varostorage: Key to Varo Tradehouse Storage
+key_dreynos: Dreynos Elvul's Key
+key_ienasa: Ienasa Radas's Key
+key_ulvil: Ulvil's Key
+key_varoprivate: Private Quarters Key
+key_mette: Mette's Key
+key_itar: Itar's Key
+key_anja: Anja's Key
+key_cabin: Cabin Key
+key_shilipuran: Shilipuran's Key
+key_assi: Assi's Key
+key_kind: Kind's Key
+key_galmis: Dagoth Galmis's Key
+key_fals: Dagoth Fals's Key
+key_tureynul: Dagoth Tureynul's key
+key_yagram: Yagrum's Key
+key_vivec_arena_cell: Arena Cell Key
+key_olms_storage: St. Olms Storage Room Key
+key_vorarhelas: Vorar Helas' Key
+key_tgbt: Nads Tharen's Key
+key_neranomanor: Key to Nerano Manor
+key_ald_redaynia: Chest Key
+key_berandas: Stolen Key
+key_divayth00: Divayth's 637th Key
+key_divayth01: Divayth's 678th Key
+key_divayth02: Divayth's 738th Key
+key_divayth03: Divayth's 802nd Key
+key_divayth04: Divayth's 897th Key
+key_divayth05: Divayth's 1008th Key
+key_divayth06: Divayth's 1092nd Key
+key_divayth07: Divayth's 1155th Key
+key_odros: Dagoth Odros's Key
+key_eldrar: Simple Key
+key_alvur: Alvur's Key
+key_morvaynmanor: Morvayn Manor Key
+key_gshipwreck: A Simple Key
+key_nelothtelnaga2: Key to Tel Naga
+key_nelothtelnaga3: Key to Tel Naga
+key_nelothtelnaga4: Key to Tel Naga
+key_adibael: Small Key
+key_omani_01: Omani Manor Key
+key_redoran_treasury: Dralor Treasury Key
+key_ahnassi: Ahnassi's key
+key_vivec_hlaalu_cell: Hlaalu Compound Cell Key
+key_vivec_redoran_cell: Redoran Compound Cell Key
+key_vivec_telvanni_cell: Telvanni Compound Cell Key
+key_slave_addamasartus: Addamasartus Slave Key
+key_balmorag_tong_01: Basement Key
+key_balmorag_tong_02: Storage Room Key
+key_aldruhn_underground: Small Key
+key_desele: Bedroom Key
+key_Suran_slave: Holding Cell Key
+Key_SN_Warehouse: Warehouse Key
+key_menta_na: Menta Na's Key
+key_marvani_tomb: An old, ashy key
+key_ebon_tomb: Shrine Key
+key_draramu: Standard Key
+key_oritius: A Small Key
+key_saetring: Small Key
+key_molagmarslaves_01: Molag Mar Slave Key
+key_kudanatslaves_01: Kudanat Slave Key
+key_yakanalitslaves_01: Yakanalit Slave Key
+key_GatewayInnslaves_01: Gateway Inn Slave Key
+key_sinsibadonslaves_01: Sinsibadon Slave Key
+key_minabislaves_01: Minabi Slave Key
+key_abebaalslaves_01: Abebaal Slave Key
+key_zainsipiluslaves_01: Zainsipilu Slave Key
+key_drenplantationslaves_01: Dren Plantation Slave Key
+key_aharunartusslaves_01: Aharunartus Slave Key
+key_telvosjailslaves_01: Tel Vos Jail Slave Key
+key_sadrithmoraslaves_01: Sadrith Mora Slave Key
+key_shushanslaves_01: Shushan Slave Key
+key_rotheranslaves_01: Rotheran Slave Key
+key_addamasartusslaves_01: Addamasartus Slave Key
+key_zebabislaves_01: Zebabi Slave Key
+key_hinnabislaves_01: Hinnabi Slave Key
+key_telaruhnslaves_01: Tel Aruhn Slave Key
+key_calderaslaves_01: Caldera Slave Key
+key_vivectelvannislaves_01: Telvanni Canalworks Slave Key
+key_panatslaves_01: Panat Slave Key
+key_saturanslaves_01: Saturan Slave Key
+key_shaadniusslaves_01: Sha-Adnius Slave Key
+key_suranslaves_01: Suran Slave Key
+key_telbranoraslaves_01: Tel Branora Slave Key
+key_viveclizardheadslave_01: Lizard's Head Slave Key
+key_habinbaesslaves_01: Habinbaes Slave Key
+key_assarnudslaves_01: Assarnud Slave Key
+key_Llethri: Llaro Llethri's Key
+key_shushishislaves: Slave key
+key_shaadnius: Sha-Adnius  Key
+key_eldafire: Small Key
+key_farusea_salas: Worn Key
+key_relien_rirne: Small Key
+key_sirilonwe: Sirilonwe's Key
+key_fg_nchur: Ancient Dwemer Door Key
+key_Odibaal: Odibaal Outlaw's Key
+key_ashurninibi: Ancient daedric Key
+key_ashurninibi_lost: Ancient, rusted Daedric Key
+key_ashalmawia_prisoncell: Ancient daedric Key
+key_drarayne_thelas: Storage Key
+key_dulnea_ralaal: Storeroom Key
+key_ralen_hlaalo: Small Key
+key_nileno_dorvayn: Small Key
+key_Ibardad: Plain key
+key_ibardad_tomb: Ancient, rusted Daedric Key
+key_hanarai_assutlanipal: Small Key
+key_Sandas: Key to Nobleman's chest
+key_aurane1: Aurane Frernis' Key
+key_Arenim: Arenim burial key
+key_odral_helvi: Odral Helvi's Key
+key_assi_serimilk: Rusty Key
+key_cell_buckmoth_01: Buckmoth Prison Cell Key
+key_cell_ebonheart_01: Hawkmoth Prison Cell Key
+key_hlaalo_manor: Hlaalo Manor Key
+key_Ashirbadon: Old Key
+key_Senim_tomb: An old tomb key
+key_Gimothran: Key to Gimothran master burial
+key_murudius_01: Murudius' Key
+key_Punsabanit: Large Key
+key_yinglingbasement: Yngling Manor Basement Key
+key_elmussadamori: Abebaal Slave Key
+key_volrina_01: Volrina Quarra's Key
+key_FQT: Worn Key
+key_skeleton: Rusty Key
+key_hvaults1: Hlaalu Vaults Outer Key
+key_hvaults2: Hlaalu Vaults Inner Key
+key_Indaren: Rusty key into Indaren Tomb
+key_Venim: Key engraved Venim
+key_Aralen: Key Aralen Tombs
+key_Sarys_chest: Sarys chest key
+key_Tharys_chest: Tharys chest key
+key_Thelas_chest: Thelas chest key
+key_Othrelas_door: Key to Othrelas tomb door
+Key_Arano_door: Key to Arano Tomb Door
+Key_Arano_chest: Key to Arano Tomb chest
+key_Andrethi_chest: Key to Andrethi tomb chest
+key_Heran: Key to Heran tomb door
+key_Lleran_tomb: Key to Lleran tomb
+key_Brinne_chest: Key to Lord Brinne's chest
+key_Aran_tomb: Key to Aran tomb
+key_Sandas_tomb: Key to Sandas tomb
+key_Sarano_tomb: Key to Sarano tomb
+key_Sarano_chest: Key to Sarano chest
+key_Saren_chest: Key to Saren chest
+key_Saren_tomb: Key to Saren tomb
+key_Vandus_tomb: Key to Vandus tomb
+key_Maren_tomb: Key to Maren tomb
+key_Raviro_tomb: Key to Raviro tomb
+key_Andalen_tomb: Key to Andalen tomb
+key_Andalen_chest: Key to Andalen chest
+key_Arenim_chest: Key to Arenim chest
+key_Ravel_tomb: Key to Ravel tomb
+key_Ravel_chest: Key to Ravel chest
+key_Savel_tomb: Key to Savel tomb
+key_Indalen_tomb: Key to Indalen tomb
+key_Norvayn_tomb: Key to Norvayn tomb
+key_Norvayn_chest: Key to Norvayn chest
+key_Aryon_chest: Key to Aryon chest
+key_Fadathram_tomb: Key to Fadathram tomb
+key_Helas_tomb: Key to Helas tomb
+key_Thalas_tomb: Key to Thalas tomb
+key_Andas_tomb: Key to Andas tomb
+key_Andules_chest: Key to Andules chest
+Key_Gimothran_chest: Key to Gimothran chest
+key_Gimothran_tomb: Key to Gimothran tomb
+key_Ienith_tomb: Key to Ienith tomb
+key_Ienith_chest: Key to Ienith chest
+key_Thiralas_tomb: Key to Thiralas tomb
+key_Baram_tomb: Key to Baram tomb
+key_Dreloth_tomb: Key to Dreloth tomb
+key_Omaren_chest: Key to Omaren chest
+key_Sadryon_tomb: Key to Sadryon tomb
+key_Verelnim_tomb: Key to Verelnim tomb
+key_Falas_tomb: Key to Falas tomb
+key_Falas_chest: Key to Falas Tomb chest
+key_Llervu: Key to Llervu tomb
+key_Rethandus_tomb: Key to Rethandus tomb
+key_Rethandus_chest: Key to Rethandus chest
+key_Rothan_tomb: Key to Rothan tomb
+key_Dareleth_tomb: Key Dareleth tomb
+key_Salvel_tomb: Key to Salvel tomb
+key_Salvel_chest: Key to Salvel chest
+key_Nerano_chest: Key to Nerano chest
+key_Andavel_tomb: Key to Andavel tomb
+Key_Dralas_tomb: Key to Dralas tomb
+Key_Dralas_chest: Key to Dralas chest
+key_Nelas_chest: Key to Nelas chest
+key_Omalen_tomb: Key to Omalen tomb
+key_Orethi_tomb: Key to Orethi tomb
+key_Sarethi_tomb: Key to Sarethi tomb
+key_Favel_chest: Key to Favel Tomb chest
+key_Senim_chest: Key to Senim chest
+key_widow_vabdas: Widow Vabdas' Key
+key_Galom_Daeus: Key to Galom Daeus
+key_Ashmelech: Key to Asmelech
+key_Ashmelech_chest: Key to Asmelech chest
+key_Nchuleftingth_chest: Key to Nchuleftingth chest
+key_Nchuleftingth: Key to Nchuleftingth
+key_Mzahnch_chest: Key to Mzahnch chest
+key_Aleft_chest: Key to Aleft chest
+key_Mzanchend_chest: Key to Mzanchend chest
+key_Arkngthunch_chest: Key to Arkngthunch chest
+key_Bthanchend_chest: Key to Bthanchend chest
+key_Bthuand: Key to Bthuand
+key_Mzuleft: Key to Mzuleft
+key_Nchardahrk: Key to Nchardahrk
+key_Nchardahrk_chest: Key to Nchardahrk chest
+key_venimmanor: Venim Manor Key
+key_rvaults1: Upper Redoran Vault Key
+key_table_Mudan00: Dwemer key to table in Mudan
+key_door_Mudan00: Key to Mudan Dwemer Vault
+key_Mudan_Dragon: Dwemer Guardian Key
+key_Odirniran: Key to Odirniran
+key_dawnvault: Tower of Dawn Vault Key
+key_duskvault: Tower of Dusk Vault Key
+key_j'zhirr: J'zhirr's Key
+key_tvault: Telvanni Vault Key
+key_armigers_stronghold: Armigers Stronghold dungeon key
+key_thorek: Thorek's Key
+key_TV_CT: Key to Imperial Museum Jail
+key_Private Quarters: Milo's Quarters Key
+key_caryarel: Caryarel's Key
+key_Dubdilla: Old Key
+key_Forge of Rolamus: Ancient daedric Key
+key_WormLord_tomb: Key to Worm Lord's tomb
+key_mebastien: Mebastien's Key
+key_miles: Shiny Key
+key_Palansour: Worn Key
+key_miun_gei: Shiny Key
+key_brallion: Brallion's Key
+key_shashev: Shashev's Key
+key_camp: Iron Key
+key_Dura_gra-Bol: Dura gra-Bol's Key
+key_caius_cosades: Caius Cosades' Key
+key_Rufinus_Alleius: Rufinus Alleius' Key
+key_jeanne: Jeanne's Key
+key_bolayn: Bolayne's chest key
+key_gindrala: Standard Key
+key_standard_01: Standard Key
+key_temple_01: Temple Key
+key_standard_01_pel_guard_tower: Pelagiad Guard Tower Key
+key_kagouti_colony: Rusty Key
+key_obscure_alit_warren: Worn Key
+key_fetid_dreugh_grotto: Preserved Ancient Key
+key_redoran_basic: Redoran Iron Key
+key_chest_aryniorethi_01: Aryni Orethi's Key
+key_chest_coduscallonus_01: Codus Callonus' Key
+key_chest_drinarvaryon_01: Drinar Varyon's Key
+key_standard_01_pel_fort_prison: Fort Pelagiad Prison Key
+key_falas tomb keepers: Preserved Ancient Key
+key_falas tomb keepers_2: Tomb Door Key
+key_assarnud: Simple Key
+key_pellecia aurrus: Redoran Iron Key
+key_bivaleteneran_01: Bivale Teneran's Key
+key_hlormarenslaves_01: Hlormaren Slave Key
+key_chest_avonravel_01: Hlormaren - Avon Ravel's Key
+key_chest_brilnosullarys_01: Hlormaren Wizard's Key
+key_llethervari_01: Llether Vari's Key
+key_llethrimanor_01: Llethri Manor Key
+key_standard_darius_chest: Chest Key
+key_tukushapal_1: Rusty Old Key
+key_sarethimanor_01: Llethri Manor Key
+key_tuvesobeleth_01: Tuveso Beleth's Key
+key_malpenixblonia_01: Malpenix Blonia's Key
+key_arobarmanor_01: Arobar Manor Key
+key_arobarmanorguard_01: Arobar Manor Guard's Key
+key_ciennesintieve_01: Cienne Sintieve's Key
+key_dumbuk_strongbox: Dumbuk's Strongbox Key
+key_gnisis_eggmine: Gnisis Eggmine Key
+key_madach_room: Madach Room Key
+key_arvs-drelen_cell: Arvs-Drelen Cell Key
+key_summoning_room: Summoning Room Key
+key_standard_01_darvam hlaren: Darvam Hlaren's Key
+key_standard_01_hassour zainsub: Standard Key
+key_hinnabi: Simple Key
+key_minabi: Simple Key
+key_arrile: Tomb Door Key
+
+#MISC#
+Gold_001: Gold
+Gold_005: Gold
+Gold_010: Gold
+Gold_025: Gold
+Gold_100: Gold
+Misc_SoulGem_Petty: Petty Soul Gem
+Misc_SoulGem_Lesser: Lesser Soul Gem
+Misc_SoulGem_Common: Common Soul Gem
+Misc_SoulGem_Greater: Greater Soul Gem
+Misc_SoulGem_Grand: Grand Soul Gem
+Misc_SoulGem_Azura: Azura's Star
+misc_vivec_ashmask_01: Vivec Ashmask
+misc_com_basket_01: Basket
+misc_com_basket_02: Basket
+misc_com_broom_01: Broom
+misc_com_bucket_01: Bucket
+misc_com_iron_ladle: Iron Ladle
+Misc_Com_Pitcher_Metal_01: Pitcher
+misc_com_silverware_fork: Fork
+misc_com_silverware_knife: Knife
+misc_com_silverware_spoon: Spoon
+misc_com_tankard_01: Tankard
+misc_com_wood_fork: Fork
+misc_com_wood_knife: Knife
+misc_com_wood_spoon_01: Spoon
+misc_com_wood_spoon_02: Spoon
+misc_com_plate_05: Plate
+misc_com_metal_plate_04: Plate
+misc_com_metal_plate_05: Plate
+misc_com_metal_plate_07: Plate
+misc_com_plate_01: Plate
+misc_com_plate_02: Plate
+misc_com_plate_03: Plate
+misc_com_plate_04: Plate
+misc_com_metal_plate_03: Plate
+misc_com_plate_06: Plate
+Misc_Com_Wood_Bowl_01: Bowl
+misc_com_wood_bowl_02: Bowl
+misc_com_wood_bowl_03: Bowl
+misc_com_plate_07: Plate
+misc_com_plate_08: Plate
+misc_com_wood_bowl_04: Bowl
+Misc_Com_Wood_Bowl_05: Bowl
+misc_com_wood_cup_01: Cup
+misc_com_wood_cup_02: Cup
+misc_com_bottle_01: Bottle
+misc_com_bottle_02: Bottle
+misc_com_bottle_03: Jug
+Misc_Com_Bottle_04: Bottle
+misc_com_bottle_05: Bottle
+misc_com_metal_goblet_01: Goblet
+misc_com_metal_goblet_02: Goblet
+misc_com_bottle_06: Bottle
+misc_com_bottle_07: Jug
+Misc_Com_Bottle_08: Bottle
+misc_com_bottle_09: Bottle
+misc_com_bottle_10: Bottle
+misc_com_bottle_11: Bottle
+misc_com_bottle_12: Jug
+misc_com_bottle_13: Bottle
+Misc_Com_Bottle_14: Bottle
+misc_com_bottle_15: Bottle
+misc_de_basket_01: Basket
+misc_de_bowl_01: Bowl
+misc_de_goblet_01: Goblet
+misc_de_goblet_02: Goblet
+misc_de_goblet_03: Goblet
+misc_de_goblet_04: Goblet
+misc_de_goblet_05: Goblet
+misc_de_goblet_06: Goblet
+misc_de_goblet_07: Goblet
+misc_de_goblet_08: Goblet
+misc_de_goblet_09: Goblet
+misc_de_pitcher_01: Pitcher
+misc_de_tankard_01: Tankard
+misc_uni_pillow_01: Pillow
+misc_de_pot_redware_01: Redware Pot
+misc_de_bowl_orange_green_01: Ceramic Bowl
+misc_de_bowl_redware_03: Redware Bowl
+Misc_DE_glass_green_01: Green Glass
+misc_de_glass_yellow_01: Yellow Glass
+misc_de_muck_shovel_01: Muck Shovel
+misc_de_pot_glass_peach_01: Peach Glass Pot
+misc_de_pot_glass_peach_02: Peach Glass Pot
+misc_de_pot_redware_02: Redware Pot
+Misc_DE_pot_redware_03: Redware Pot
+misc_de_bowl_redware_01: Redware Bowl
+misc_de_bowl_bugdesign_01: Decorative Bowl
+misc_de_bowl_glass_peach_01: Peach Glass Bowl
+misc_de_bowl_glass_yellow_01: Yellow Glass Bowl
+misc_de_pot_green_01: Green Pot
+misc_de_pot_blue_01: Blue Glass Pot
+misc_de_pot_blue_02: Blue Clay Pot
+misc_de_pot_mottled_01: Clay Pot
+misc_de_bowl_redware_02: Large Redware Bowl
+misc_de_cloth10: Cloth
+misc_de_cloth11: Cloth
+misc_de_foldedcloth00: Folded Cloth
+misc_de_pot_redware_04: Redware Pot
+misc_de_bowl_white_01: Bowl
+misc_de_bellows10: Bellows
+misc_imp_silverware_plate_01: Silverware Plate
+misc_imp_silverware_plate_02: Silverware Plate
+misc_imp_silverware_plate_03: Silverware Plate
+misc_com_redware_bowl: Bowl
+misc_com_redware_bowl_01: Bowl
+Misc_Com_Redware_Cup: Cup
+misc_com_redware_flask: Flask
+misc_com_redware_pitcher: Pitcher
+misc_com_redware_plate: Plate
+misc_com_redware_platter: Platter
+misc_com_redware_vase: Vase
+Misc_Imp_Silverware_Cup_01: Silverware Cup
+misc_imp_silverware_cup: Silverware Cup
+Misc_Imp_Silverware_Bowl: Silverware Bowl
+misc_imp_silverware_pitcher: Silverware Pitcher
+misc_vivec_ashmask_01_fake: Vivec Ashmask
+misc_dwrv_artifact00: Dwemer Cylinder
+misc_dwrv_bowl00: Ornate Dwemer Bowl
+misc_dwrv_goblet00: Ornate Dwemer Goblet
+misc_dwrv_goblet10: Ornate Dwemer Goblet
+misc_dwrv_mug00: Dwemer Mug
+misc_dwrv_pitcher00: Ornate Dwemer Pitcher
+misc_dwrv_artifact10: Dwemer Scarab Plans
+misc_dwrv_artifact20: Dwemer Airship Plans
+misc_dwrv_artifact30: Anumidium Plans
+misc_dwrv_artifact40: Dwemer Scarab Schematics
+misc_dwrv_artifact50: Dwemer Coherer
+misc_dwrv_artifact60: Dwemer Tube
+misc_dwrv_coin00: Dwemer Coin
+misc_dwrv_ark_key00: Key to Lower Arkngthand
+misc_dwrv_gear00: Rusty Dwemer Cog
+misc_dwrv_ark_cube00: Dwemer puzzle box
+misc_skull00: Skull
+misc_skull10: Servant's Skull
+misc_de_fishing_pole: Fishing Pole
+mamaea cell key: Crude Bronze Key
+mamaea quarters key: Small Shiny Key
+misc_6th_ash_statue_01: Ash Statue
+misc_6th_ash_hrcs: Suspicious Ash Statue
+misc_6th_ash_hrmm: Morvayn Ash Statue
+misc_de_goblet_01_redas: Redas Goblet
+misc_beaker_01: Beaker
+misc_flask_01: Flask
+misc_flask_02: Flask
+misc_flask_03: Flask
+misc_flask_04: Flask
+ministry_truth_ext: Ministry of Truth Entrance
+misc_de_goblet_04_dagoth: House Dagoth cup
+misc_wraithguard_no_equip: Unique Dwemer Artifact
+misc_skooma_vial: Empty Vial
+misc_argonianhead_01: The Head Of Scourge
+artifact_bittercup_01: Bittercup
+misc_de_lute_01: Lute
+misc_shears_01: Shears
+misc_rollingpin_01: Rolling Pin
+misc_de_drum_01: Drum
+misc_spool_01: Spool
+misc_de_drum_02: Guarskin Drum
+misc_com_bottle_14_float: Bottle
+misc_dwrv_goblet10_tgcp: Large Dewmer Goblet
+misc_dwrv_artifact70: Dwemer Schematic
+misc_dwrv_artifact80: Dwemer Centurion Plans
+index_andra: Andasreth Propylon Index
+index_beran: Berandas Propylon Index
+index_falas: Falasmaryon Propylon Index
+index_falen: Falensarano Propylon Index
+index_hlor: Hlormaren Propylon Index
+index_indo: Indoranyon Propylon Index
+index_maran: Marandus Propylon Index
+index_roth: Rotheran Propylon Index
+index_telas: Telasero Propylon Index
+index_valen: Valenvaryon Propylon Index
+misc_uniq_egg_of_gold: Golden Egg
+misc_lw_bowl: Limeware Bowl
+misc_lw_cup: Limeware Cup
+misc_lw_flask: Limeware Flask
+misc_lw_platter: Limeware Platter
+misc_com_plate_06_tgrc: Commemorative Plate
+misc_com_plate_02_tgrc: Commemorative Plate
+misc_hook: Hook
+misc_de_lute_01_phat: Fat Lute
+misc_dwrv_artifact_ils: Drinar Varyon's Dwemer Tube
+misc_com_bucket_01_float: Bucket
+misc_com_bottle_07_float: Jug
+misc_com_bucket_boe_UNI: Bucket
+misc_Beluelle_silver_bowl: Beluelle's Silver bowl
+misc_Skull_Llevule: Skull of Llevule Andrano
+devote_Brinne_Dust_00: Ashes of Lord Brinne
+devote_Nan_Dust_00: Ashes of D. Bryant
+misc_com_metal_plate_07_UNI2: Plate
+misc_com_metal_plate_07_UNI1: Plate
+misc_com_wood_fork_UNI1: Fork
+misc_com_wood_spoon_01_UNI1: Spoon
+misc_com_wood_knife_UNI1: Knife
+misc_com_wood_knife_UNI2: Knife
+misc_com_wood_spoon_01_UNI2: Spoon
+misc_com_wood_fork_UNI2: Fork
+Misc_fakesoulgem: Fake Soul Gem
+Misc_Uni_Pillow_02: Pillow
+devote_Lyngas_Dust_00: Ashes of G. Lyngas
+devote_bone_Pop00: Bone from Pop Je
+Misc_Com_Bucket_Metal: Metal Bucket
+misc_clothbolt_01: Bolt of Cloth
+misc_clothbolt_02: Bolt of Cloth
+misc_clothbolt_03: Bolt of Cloth
+Misc_Inkwell: Inkwell
+Misc_Quill: Quill Pen
+misc_dwrv_cursed_coin00: Dwemer Coin
+misc_dwarfbone_unique: Dwarven Bone
+misc_lw_bowl_chapel: Chapel Limeware Bowl
+Gold_Dae_cursed_001: Gold
+Gold_Dae_cursed_005: Gold
+lucky_coin: Old Man's Lucky Coin
+misc_uni_pillow_unique: Extra-Comfy Pillow
+misc_goblet_dagoth: House Dagoth cup
+misc_com_bucket_boe_UNIa: Bucket
+misc_com_bucket_boe_UNIb: Bucket
+
+#LOCKPICKS#
+pick_apprentice_01: Apprentice's Lockpick
+pick_journeyman_01: Journeyman's Lockpick
+pick_master: Master's Lockpick
+pick_grandmaster: Grandmaster's Pick
+pick_secretmaster: Secret Master's Lockpick
+skeleton_key: The Skeleton Key
+
+#PROBES#
+probe_apprentice_01: Apprentice's Probe
+probe_journeyman_01: Journeyman's Probe
+probe_bent: Bent Probe
+probe_master: Master's Probe
+probe_grandmaster: Grandmaster's Probe
+probe_secretmaster: Secret Master's Probe
+
+#REPAIR#
+hammer_repair: Apprentice's Armorer's Hammer
+repair_prongs: Repair Prongs
+repair_journeyman_01: Journeyman's Armorer's Hammer
+repair_master_01: Master's Armorer's Hammer
+repair_grandmaster_01: GrandMaster's Armorer's Hammer
+repair_secretmaster_01: Sirollus Saccus' Hammer
+
+#WEAPONS#
+steel mace: Steel Mace
+steel dagger: Steel Dagger
+spiked club: Spiked Club
+steel broadsword: Steel Broadsword
+steel shortsword: Steel Shortsword
+imperial shortsword: Imperial Shortsword
+steel spear: Steel Spear
+steel tanto: Steel Tanto
+imperial broadsword: Imperial Broadsword
+iron longsword: Iron Longsword
+iron shortsword: Iron Shortsword
+nordic claymore: Nordic Claymore
+steel dai-katana: Steel Dai-katana
+iron claymore: Iron Claymore
+silver longsword: Silver Longsword
+ebony shortsword: Ebony Shortsword
+ebony longsword: Ebony Longsword
+silver shortsword: Silver Shortsword
+daedric longsword: Daedric Longsword
+nordic battle axe: Nordic Battle Axe
+steel axe: Steel Axe
+iron battle axe: Iron Battle Axe
+steel claymore: Steel Claymore
+steel katana: Steel Katana
+steel saber: Steel Saber
+steel wakizashi: Steel Wakizashi
+long bow: Long Bow
+iron arrow: Iron Arrow
+steel staff: Steel Staff
+steel war axe: Steel War Axe
+steel longsword: Steel Longsword
+steel club: Steel Club
+steel battle axe: Steel Battle Axe
+steel warhammer: Steel Warhammer
+steel halberd: Steel Halberd
+steel crossbow: Steel Crossbow
+steel throwing star: Steel Throwing Star
+steel throwing knife: Steel Throwing Knife
+steel dart: Steel Dart
+chitin dagger: Chitin Dagger
+chitin shortsword: Chitin Shortsword
+chitin club: Chitin Club
+chitin war axe: Chitin War Axe
+chitin spear: Chitin Spear
+chitin short bow: Chitin Short Bow
+chitin throwing star: Chitin Throwing Star
+iron dagger: Iron Dagger
+iron tanto: Iron Tanto
+iron wakizashi: Iron Wakizashi
+iron broadsword: Iron Broadsword
+iron saber: Iron Saber
+iron club: Iron Club
+iron mace: Iron Mace
+iron warhammer: Iron Warhammer
+iron war axe: Iron War Axe
+iron spear: Iron Spear
+iron halberd: Iron Halberd
+daedric battle axe: Daedric Battle Axe
+daedric claymore: Daedric Claymore
+daedric club: Daedric Club
+daedric dagger: Daedric Dagger
+daedric dai-katana: Daedric Dai-katana
+daedric dart: Daedric Dart
+daedric katana: Daedric Katana
+daedric long bow: Daedric Long Bow
+daedric mace: Daedric Mace
+daedric shortsword: Daedric Shortsword
+daedric spear: Daedric Spear
+daedric staff: Daedric Staff
+daedric tanto: Daedric Tanto
+daedric wakizashi: Daedric Wakizashi
+daedric war axe: Daedric War Axe
+daedric warhammer: Daedric Warhammer
+dreugh club: Dreugh Club
+dreugh staff: Dreugh Staff
+dwarven battle axe: Dwarven Battle Axe
+dwarven claymore: Dwarven Claymore
+dwarven crossbow: Dwarven Crossbow
+dwarven halberd: Dwarven Halberd
+dwarven mace: Dwarven Mace
+dwarven shortsword: Dwarven Shortsword
+dwarven spear: Dwarven Spear
+dwarven war axe: Dwarven War Axe
+dwarven warhammer: Dwarven Warhammer
+ebony broadsword: Ebony Broadsword
+ebony dart: Ebony Dart
+ebony mace: Ebony Mace
+ebony spear: Ebony Spear
+ebony staff: Ebony Staff
+ebony throwing star: Ebony Throwing Star
+ebony war axe: Ebony War Axe
+glass claymore: Glass Claymore
+glass dagger: Glass Dagger
+glass halberd: Glass Halberd
+glass longsword: Glass Longsword
+glass staff: Glass Staff
+glass throwing knife: Glass Throwing Knife
+glass throwing star: Glass Throwing Star
+glass war axe: Glass War Axe
+iron throwing knife: Iron Throwing Knife
+short bow: Short Bow
+silver claymore: Silver Claymore
+silver dagger: Silver Dagger
+silver dart: Silver Dart
+silver spear: Silver Spear
+silver staff: Silver Staff
+silver throwing star: Silver Throwing Star
+silver war axe: Silver War Axe
+wooden staff: Wooden Staff
+nordic broadsword: Nordic Broadsword
+Iron Long Spear: Iron Spear
+lugrub's axe: Lugrub's Axe
+magic_bolt: FOR SPELL CASTING
+steel blade of heaven: Steel Blade of Heaven
+ebony wizard's staff: Wizard's Staff
+steel jinkblade of the aegis: Steel Jinkblade of the Aegis
+fiend tanto: Fiend Tanto
+bonemold arrow: Bonemold Arrow
+dire viperarrow: Dire Viperarrow
+6th bell hammer: Sixth House Bell Hammer
+dwarven war axe_redas: Redas War Axe
+bonemold long bow: Bonemold Long Bow
+clutterbane: Clutterbane
+water spear: Water Spear
+spear_of_light: Spear of Light
+fireblade: Fireblade
+icebreaker: Icebreaker
+stormblade: Stormblade
+spiderbite: Spiderbite
+flamestar: Flamestar
+shardstar: Shardstar
+viperstar: Viperstar
+demon tanto: Demon Tanto
+corkbulb arrow: Corkbulb Arrow
+chitin arrow: Chitin Arrow
+arrow of wasting flame: Arrow of Wasting Flame
+silver arrow: Silver Arrow
+glass arrow: Glass Arrow
+ebony arrow: Ebony Arrow
+daedric arrow: Daedric Arrow
+corkbulb bolt: Corkbulb Bolt
+iron bolt: Iron Bolt
+steel bolt: Steel Bolt
+silver bolt: Silver Bolt
+bonemold bolt: Bonemold Bolt
+orcish bolt: Orcish Bolt
+flame_bolt: Flamebolt
+shard_bolt: Shardbolt
+spark_bolt: Sparkbolt
+viper_bolt: Viperbolt
+flame arrow: Flame Arrow
+shard arrow: Shard Arrow
+spark arrow: Spark Arrow
+viper arrow: Viper Arrow
+steel arrow: Steel Arrow
+arrow of wasting shard: Arrow of Wasting Shard
+arrow of wasting spark: Arrow of Wasting Spark
+arrow of wasting viper: Arrow of Wasting Viper
+grey shaft of holding: Grey Shaft of Holding
+grey shaft of nonsense: Grey Shaft of Nonsense
+grey shaft of unraveling: Grey Shaft of Unraveling
+demon katana: Demon Katana
+steel longbow: Steel Longbow
+demon longbow: Demon Longbow
+peacemaker: Peacemaker
+cruel flameblade: Cruel Flameblade
+cruel shardblade: Cruel Shardblade
+cruel sparkblade: Cruel Sparkblade
+cruel viperblade: Cruel Viperblade
+cruel flamesword: Cruel Flamesword
+cruel shardsword: Cruel Shardsword
+cruel sparksword: Cruel Sparksword
+cruel vipersword: Cruel Vipersword
+steel jinkblade: Steel Jinkblade
+steel jinksword: Steel Jinksword
+steel firesword: Steel Firesword
+steel frostsword: Steel Frostsword
+steel stormsword: Steel Stormsword
+steel poisonsword: Steel Poisonsword
+iron flameblade: Iron Flameblade
+iron shardblade: Iron Shardblade
+iron sparkblade: Iron Sparkblade
+iron viperblade: Iron Viperblade
+iron flamecleaver: Iron Flamecleaver
+iron shardcleaver: Iron Shardcleaver
+iron sparkcleaver: Iron Sparkcleaver
+iron vipercleaver: Iron Vipercleaver
+iron flamesword: Iron Flamesword
+iron sparksword: Iron Sparksword
+iron shardsword: Iron Shardsword
+iron vipersword: Iron Vipersword
+iron flamemace: Iron Flamemace
+iron shardmace: Iron Shardmace
+iron sparkmace: Iron Sparkmace
+iron sparkaxe: Iron Sparkaxe
+iron viperaxe: Iron Viperaxe
+iron flameslayer: Iron Flameslayer
+iron shardslayer: Iron Shardslayer
+iron sparkslayer: Iron Sparkslayer
+iron viperslayer: Iron Viperslayer
+iron flameskewer: Iron Flameskewer
+iron shardskewer: Iron Shardskewer
+iron sparkskewer: Iron Sparkskewer
+iron viperskewer: Iron Viperskewer
+iron flamemauler: Iron Flamemauler
+iron sparkmauler: Iron Sparkmauler
+iron shardmauler: Iron Shardmauler
+iron vipermauler: Iron Vipermauler
+wooden staff of peace: Wooden Staff of Peace
+wooden staff of war: Wooden Staff of War
+wooden staff of shaming: Wooden Staff of Shaming
+wooden staff of chastening: Wooden Staff of Chastening
+wooden staff of divine: Wooden Staff of Judgement
+firebite sword: Firebite Sword
+firebite star: Firebite Star
+firebite war axe: Firebite War Axe
+firebite dagger: Firebite Dagger
+firebite club: Firebite Club
+shockbite mace: Shockbite Mace
+shockbite halberd: Shockbite Halberd
+shockbite battle axe: Shockbite Battle Axe
+shockbite war axe: Shockbite War Axe
+shockbite warhammer: Shockbite Warhammer
+last wish: Last Wish
+icicle: Icicle
+foeburner: Foeburner
+snowy crown: Snowy Crown
+last rites: Last Rites
+cruel flame bolt: Cruel Flame Bolt
+cruel shard bolt: Cruel Shard Bolt
+cruel spark bolt: Cruel Spark Bolt
+cruel viper bolt: Cruel Viper Bolt
+cruel flamearrow: Cruel Flamearrow
+cruel shardarrow: Cruel Shardarrow
+cruel sparkarrow: Cruel Sparkarrow
+cruel viperarrow: Cruel Viperarrow
+cruel flamestar: Cruel Flamestar
+cruel sparkstar: Cruel Sparkstar
+cruel shardstar: Cruel Shardstar
+cruel viperstar: Cruel Viperstar
+dire flameblade: Dire Flameblade
+dire shardblade: Dire Shardblade
+dire sparkblade: Dire Sparkblade
+dire viperblade: Dire Viperblade
+dire flamesword: Dire Flamesword
+dire shardsword: Dire Shardsword
+dire sparksword: Dire Sparksword
+dire vipersword: Dire Vipersword
+orcish warhammer: Orc Warhammer
+orcish battle axe: Orcish Battle Axe
+steel flameblade: Steel Flameblade
+steel shardblade: Steel Shardblade
+steel sparkblade: Steel Sparkblade
+steel viperblade: Steel Viperblade
+steel flamesword: Steel Flamesword
+steel shardsword: Steel Shardsword
+steel sparksword: Steel Sparksword
+steel vipersword: Steel Vipersword
+steel flamemace: Steel Flamemace
+steel shardmace: Steel Shardmace
+steel sparkmace: Steel Sparkmace
+steel vipermace: Steel Vipermace
+steel flameaxe: Steel Flameaxe
+steel sparkaxe: Steel Sparkaxe
+steel shardaxe: Steel Shardaxe
+steel viperaxe: Steel Viperaxe
+steel flameslayer: Steel Flameslayer
+steel shardslayer: Steel Shardslayer
+steel sparkslayer: Steel Sparkslayer
+steel viperslayer: Steel Viperslayer
+steel flamescythe: Steel Flamescythe
+steel shardscythe: Steel Shardscythe
+steel sparkscythe: Steel Sparkscythe
+steel viperscythe: Steel Viperscythe
+steel flamecleaver: Steel Flamecleaver
+steel shardcleaver: Steel Shardcleaver
+steel sparkcleaver: Steel Sparkcleaver
+steel vipercleaver: Steel Vipercleaver
+steel flameskewer: Steel Flameskewer
+steel shardskewer: Steel Shardskewer
+steel sparkskewer: Steel Sparkskewer
+steel viperskewer: Steel Viperskewer
+steel flamemauler: Steel Flamemauler
+steel shardmauler: Steel Shardmauler
+steel sparkmauler: Steel Sparkmauler
+steel vipermauler: Steel Vipermauler
+flying viper: Flying Viper
+steel staff of peace: Steel Staff of Peace
+steel staff of war: Steel Staff of War
+steel staff of shaming: Steel Staff of Shaming
+steel staff of chastening: Steel Staff of Chastening
+steel staff of divine judgement: Steel Staff of Divine Judgement
+steel staff of the ancestors: Steel Staff of the Ancestors
+battle axe of wounds: Battle Axe of Wounds
+war axe of wounds: War Axe of Wounds
+warhammer of wounds: Warhammer of Wounds
+silver staff of reckoning: Silver Staff of Reckoning
+dire flame bolt: Dire Flamebolt
+dire shard bolt: Dire Shardbolt
+dire spark bolt: Dire Sparkbolt
+dire viper bolt: Dire Viperbolt
+dire flamearrow: Dire Flamearrow
+dire shardarrow: Dire Shardarrow
+dire sparkarrow: Dire Sparkarrow
+wild flameblade: Wild Flameblade
+wild shardblade: Wild Shardblade
+wild sparkblade: Wild Sparkblade
+wild viperblade: Wild Viperblade
+wild flamesword: Wild Flamesword
+wild shardsword: Wild Shardsword
+wild sparksword: Wild Sparksword
+wild vipersword: Wild Vipersword
+glass jinkblade: Glass Jinkblade
+dwemer jinksword: Dwemer Jinksword
+glass firesword: Glass Firesword
+glass frostsword: Glass Frostsword
+glass stormsword: Glass Stormsword
+glass poisonsword: Glass Poisonsword
+silver flameblade: Silver Flameblade
+silver shardblade: Silver Shardblade
+silver sparkblade: Silver Sparkblade
+silver viperblade: Silver Viperblade
+silver flamesword: Silver Flamesword
+silver shardsword: Silver Shardsword
+silver sparksword: Silver Sparksword
+silver vipersword: Silver Vipersword
+silver flameaxe: Silver Flameaxe
+silver sparkaxe: Silver Sparkaxe
+silver shardaxe: Silver Shardaxe
+silver viperaxe: Silver Viperaxe
+silver flameslayer: Silver Flameslayer
+silver shardslayer: Silver Shardslayer
+silver sparkslayer: Silver Sparkslayer
+silver viperslayer: Silver Viperslayer
+silver flameskewer: Silver Flameskewer
+silver shardskewer: Silver Flameskewer
+silver sparkskewer: Silver Sparkskewer
+silver viperskewer: Silver Viperskewer
+silver staff of peace: Silver Staff of Peace
+steel warhammer of smiting: Steel Warhammer of Smiting
+steel broadsword of hewing: Steel Broadsword of Hewing
+steel claymore of hewing: Steel Claymore of Hewing
+steel war axe of deep biting: Steel War Axe of Deep Biting
+steel spear of impaling thrust: Steel Spear of Impaling Thrust
+steel dagger of swiftblade: Steel Dagger of Swiftblade
+shortbow of sanguine sureflight: Shortbow of Sanguine Sureflight
+throwing knife of sureflight: Throwing Knife of Sureflight
+gavel of the ordinator: Gavel of the Ordinator
+light staff: Light Staff
+merisan club: Merisan Club
+spirit-eater: Spirit-Eater
+daunting mace: Daunting Mace
+sword of white woe: Sword of White Woe
+staff of the forefathers: Staff of the Forefathers
+boethiah's walking stick: Boethiah's Walking Stick
+mephala's teacher: Mephala's Teacher
+bound_longsword: Bound Longsword
+bound_mace: Bound Mace
+bound_battle_axe: Bound Battle Axe
+bound_spear: Bound Spear
+bound_longbow: Bound Longbow
+fiend katana: Fiend Katana
+fiend battle axe: Fiend Battle Axe
+fiend spear: Fiend Spear
+fiend longbow: Fiend Longbow
+silver staff of war: Silver Staff of War
+divine judgement silver staff: Divine Judgement Silver Staff
+silver staff of chastening: Silver Staff of Chastening
+silver staff of shaming: Silver Staff of Shaming
+devil tanto: Devil Tanto
+devil katana: Devil Katana
+devil spear: Devil Spear
+devil longbow: Devil Longbow
+saint's black sword: Saint's Black Sword
+daedric wakizashi_hhst: Daedric Wakizashi
+demon mace: Demon Mace
+chargen dagger: Iron Dagger
+ebony staff caper: Felen's Ebony Staff
+war_axe_airan_ammu: War Axe of Airan Ammu
+sunder: Sunder
+keening: Keening
+cruel frostarrow: Cruel Frostarrow
+dire frostarrow: Dire Frostarrow
+steelstaffancestors_ttsa: Ancestral Wisdom Staff
+cleaverstfelms: Cleaver of St. Felms
+crosierstllothis: Crosier of St. Llothis
+ebony_bow_auriel: Auriel's Bow
+dwarven_hammer_volendrung: Volendrung
+devil_tanto_tgamg: Anarenen's Devil Tanto
+ebony_dagger_mehrunes: Ebony Shortsword
+bound_dagger: Bound Dagger
+ebony_staff_tges: Maryon's Staff
+daedric dagger_mtas: Black Hands Dagger
+iron_arrow_uniq_judgement: Dart of Judgment
+daedric_club_tgdc: Anora's Club
+miner's pick: Miner's Pick
+glass_dagger_enamor: Enamor
+sparkstar: Sparkstar
+daedric_scourge_unique: Scourge
+claymore_chrysamere_unique: Chrysamere
+staff_magnus_unique: Staff of Magnus
+spear_mercy_unique: Spear of Bitter Mercy
+longbow_shadows_unique: Bow of Shadows
+claymore_iceblade_unique: Ice Blade of the Monarch
+staff_hasedoki_unique: Staff of Hasedoki
+warhammer_crusher_unique: Skull Crusher
+katana_goldbrand_unique: Goldbrand
+dagger_fang_unique: Fang of Haynekhtnamet
+longsword_umbra_unique: Umbra Sword
+axe_queen_of_bats_unique: Wings of the Queen of Bats
+shock_bolt: FOR SPELL CASTING
+shield_bolt: FOR SPELL CASTING
+dagoth dagger: Dagoth Dagger
+mehrunes'_razor_unique: Mehrunes' Razor
+azura_star_unique: Azura's Star
+mace of molag bal_unique: Mace of Molag Bal
+erur_dan_spear_unique: Erud-Dan's Spear
+ane_teria_mace_unique: Ane Teria's Mace
+conoon_chodala_axe_unique: Conoon Chodala's Axe
+Rusty_Dagger_UNIQUE: A Rusty Dagger
+false_sunder: * Sunder *
+fork_horripilation_unique: Fork of Horripilation
+widowmaker_unique: Widowmaker
+bonebiter_bow_unique: Bonebiter Bow of Sul-Senipul
+herder_crook: Herder's Crook
+iron fork: Iron Fork
+cloudcleaver_unique: Cloudcleaver
+sunder_fake: * Sunder *
+we_hellfirestaff: Hellfire Staff
+we_stormforge: Stormforge
+we_temreki: Temreki, Shackler of Souls
+staff_of_llevule: Staff of Llevule
+Dagger of Judgement: Dagger of Judgement
+we_illkurok: Illkurok
+Silver Dagger_Hanin Cursed: Ancient Silver Dagger
+ebony_staff_trebonius: Trebonius' Staff
+Fury: Fury
+Greed: Greed
+banhammer_unique: BanHammer
+racerbeak: Racerbeak
+Wind of Ahaz: Wind of Ahaz
+Karpal's Friend: Karpal's Friend
+we_shimsil: Shimsil
+iron spider dagger: Iron Spider Dagger
+steel spider blade: Steel Spider Blade
+imperial netch blade: Imperial Netch Blade
+glass netch dagger: Glass Netch Dagger
+claymore_Agustas: Sword of Agustas
+ebony spear_hrce_unique: Ebony Spear
+lightofday_unique: Light of Day
+glass stormblade: Glass Stormblade
+daedric_crescent_unique: Daedric Crescent
+silver_staff_dawn_uniq: Silver Staff
+Airan_Ahhe's_Spirit_Spear_uniq: Airan-Ahhe's Spirit Spear
+katana_bluebrand_unique: Eltonbrand
+glass dagger_Dae_cursed: Glass Dagger
+glass claymore_magebane: Magebane
+daedric warhammer_ttgd: Veloth's Judgement
+dart_uniq_judgement: Dart of Judgment
+Stormkiss: Stormkiss
+dwarven axe_soultrap: Dwemer Pneuma-Trap
+silver staff of hunger: Silver Staff of Hunger
+daedric dagger_soultrap: Soul Drinker
+dwarven halberd_soultrap: Bthuangth's Harvester
+fiend spear_Dae_cursed: Fiend Spear
+ebony broadsword_Dae_cursed: Ebony Broadsword
+iron shardaxe: Iron Shardaxe
+dwe_jinksword_curse_Unique: Flawed Dwemer Jinksword
+iron dagger_telasero_unique: Iron Dagger

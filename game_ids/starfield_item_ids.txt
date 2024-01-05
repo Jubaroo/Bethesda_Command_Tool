@@ -1,0 +1,2406 @@
+#SKILL BOOKS#
+002009E3: Colonization Guide 01
+002009E2: Colonization Guide 02
+002009E1: Colonization Guide 03
+002009E0: Colonization Guide 04
+002009DF: Colonization Guide 05
+002009DE: Colonization Guide 06
+002009DD: Colonization Guide 07
+002009DC: Colonization Guide 08
+002009DB: Colonization Guide 09
+002009DA: Colonization Guide 10
+00212940: CombaTech Catalog 01
+0021293E: CombaTech Catalog 02
+0021293D: CombaTech Catalog 03
+0021293C: CombaTech Catalog 04
+0021293B: CombaTech Catalog 05
+00208E91: Constellation Guide 01
+00208E90: Constellation Guide 02
+00208E8F: Constellation Guide 03
+00208E8E: Constellation Guide 04
+00208E8D: Constellation Guide 05
+00201BD7: Freestar Captain's Log 01
+00201BD6: Freestar Captain's Log 02
+00201BD5: Freestar Captain's Log 03
+00201BD4: Freestar Captain's Log 04
+00201BD3: Freestar Captain's Log 05
+0021D05A: GRUNT Issue 01
+0021B050: GRUNT Issue 02
+0021B04F: GRUNT Issue 03
+0021B04E: GRUNT Issue 04
+0021B04D: GRUNT Issue 05
+0021B04C: GRUNT Issue 06
+0021B04B: GRUNT Issue 07
+0021B04A: GRUNT Issue 08
+0021B049: GRUNT Issue 09
+0021B048: GRUNT Issue 10
+0020BB30: Gunslinger's Guide 01
+0020BB2F: Gunslinger's Guide 02
+0020BB2E: Gunslinger's Guide 03
+0020BB2D: Gunslinger's Guide 04
+0020BB2C: Gunslinger's Guide 05
+0020B4B5: Mining Monthly Issue 01
+0020B4B4: Mining Monthly Issue 02
+0020B4B3: Mining Monthly Issue 03
+0020B4B2: Mining Monthly Issue 04
+0020B4B1: Mining Monthly Issue 05
+0020B4B0: Mining Monthly Issue 06
+0020B4AF: Mining Monthly Issue 07
+0020B4AE: Mining Monthly Issue 08
+0020B4AD: Mining Monthly Issue 09
+0020B4AC: Mining Monthly Issue 10
+00200A88: Neon Nights 01
+00200A87: Neon Nights 02
+00200A86: Neon Nights 03
+00200A85: Neon Nights 04
+00200A84: Neon Nights 05
+002009B6: Nova Galactic Manual 01
+002009B5: Nova Galactic Manual 02
+002009B4: Nova Galactic Manual 03
+002009B3: Nova Galactic Manual 04
+002009B2: Nova Galactic Manual 05
+002009B1: Nova Galactic Manual 06
+002009AF: Nova Galactic Manual 08
+002009AE: Nova Galactic Manual 09
+002009AD: Nova Galactic Manual 10
+00202D9E: Peak Performance 01
+00202D9D: Peak Performance 02
+00202D9C: Peak Performance 03
+00202D9B: Peak Performance 04
+00202D9A: Peak Performance 05
+001FF726: The New Atlantian 01
+001FF725: The New Atlantian 02
+001FF724: The New Atlantian 03
+001FF723: The New Atlantian 04
+001FF722: The New Atlantian 05
+0020909B: Trackers Primer 01
+0020909A: Trackers Primer 02
+00209099: Trackers Primer 03
+00209098: Trackers Primer 04
+00209097: Trackers Primer 05
+00209FBA: UC Defense Manual 01
+00209FB9: UC Defense Manual 02
+00209FB8: UC Defense Manual 03
+00209FB7: UC Defense Manual 04
+00209FB6: UC Defense Manual 05
+002009D8: Vanguard Space Tactics 01
+002009D7: Vanguard Space Tactics 02
+002009D6: Vanguard Space Tactics 03
+002009D5: Vanguard Space Tactics 04
+002009D4: Vanguard Space Tactics 05
+0020A924: Va'ruun Scripture 01
+0020A923: Va'ruun Scripture 02
+0020A922: Va'ruun Scripture 03
+0020A921: Va'ruun Scripture 04
+0020A920: Va'ruun Scripture 05
+0020A91F: Va'ruun Scripture 06
+0020A91E: Va'ruun Scripture 07
+0020A91D: Va'ruun Scripture 08
+0020A91C: Va'ruun Scripture 09
+0020A91B: Va'ruun Scripture 10
+
+#WEAPONS#
+002BF65B: AA-99
+0026D965: Arc Welder
+0026D964: AutoRivet
+0004716C: Beowulf
+0026D963: Big Bang
+000547A3: Breach
+0026D96A: Bridger
+0026D96B: Coachman
+00016758: Cutter
+0018DE2C: Drum Beat
+002F413A: Discarded Sidestar
+0026D96E: Ecliptic Pistol
+000476C4: Eon
+0001BC4F: Equinox
+000115EF: Frag Grenade
+00028A02: Grendel
+00546CC: Hard Target
+00253A16: Kodama
+0021FEB4: Kraken
+0002D7F4: Lawgiver
+002984DF: Maelstrom
+0002EB3C: Mag Shear
+00023606: MagPulse
+0002EB42: MagShot
+0002EB45: MagSniper
+0026035E: MagStorm
+000546CD: Microgun
+0026D968: Novablast Disputor
+0026D967: Novalight
+0026ED2A: Old Earth Assault Rifle
+0021BBCD: Old Earth Hunting Rifle
+00278F74: Old Earth Shotgun
+002773C8: Orion
+0026D966: Osmium Dagger
+002953F8: Pacifier
+00040826: Rattler
+00000FD6: Razorback
+0002CB5F: Regulator
+0004F760: Rescue Axe
+0026D960: Shotty
+0026D95D: Sidestar
+0026D961: Solstice
+0002EB36: Tombstone
+0026D96D: Urban Eagle
+0026D8A0: Va'Ruun Inflictor
+0026D8A2: VaRuun Painblade
+0026D8A4: Va'Ruun Starshard
+0024561C: XM-2311
+00070D40: Revenant
+000019F5: Fiscal Quarter
+001F27F5: Sir Livingstone's Pistol
+002F99FF: Ember
+001BBF2A: Deadeye
+001BAA3C: Justifier
+0026D8A1: Wakizashi
+002F3B1A: Street Sweeper
+0011381D: Unmitigated Violence
+00327627: Fortune's Glory
+00327615: Gallow's Reach
+002F99FE: Marksman's A-99
+000EC2F1: Desperation
+002E1929: The First Shot
+002E3E83: Hunterwulf
+00162CF8: Riot Shotgun
+00162CFA: Rapidshot
+000EC2F9: Shattered Shock
+0022A8E1: Power Beat
+00207711: Radburn
+000EC310: Brawler's Equinox
+002E3E85: Acid Rain
+0020772C: The Buzzcut
+0022A8E2: The Last Breath
+0022A90C: Terror Inflictor
+0022A90D: Reflection
+002FAC66: Vampire's Gift
+002FAD3F: Head Ranger
+00207739: Vampire's Sidearm
+002FAC64: Pirate Legend
+002AC049: Mind Tear
+001AC6B1: Trickshot
+001AC6B4: Avatar
+001AC6B8: Poisonstorm
+001AC6BB: N67 Smartgun
+001AC6C0: The Spacer
+001AC6CC: Amped-Up Orion
+001AC6E0: Brute Force
+001AC6E7: The Cursed
+002D7913: The Zapper
+002E0725: Elegance
+002E0727: Reckless Bombardment
+002E0729: Fury
+002E0731: Speechless Fire
+002E0735: Boom Boom
+002E073B: Ace Sidearm
+002E7C9C: Short Circuit
+002E82A0: Feather
+002E82A2: Marathon
+00259DCD: Haphazard Handgun
+
+#AMMO#
+002B559C: .27 Caliber ammo
+002B5598: .45 ACP ammo
+002B559A: .43 MI Array ammo
+002B5597: .50 Caliber Caseless ammo
+002B5596: .50 MI Array ammo
+002BAE3F: 1.5kV LZR Cartridge ammo
+0000E8EC: 3kV LZR Cartridge ammo
+002B5595: 11MM Caseless ammo
+002B5594: 12.5MM ST Rivet ammo
+000547A1: 12G Shotgun Shell ammo
+002B4AFB: 15X25 CLL Shotgun Shell ammo
+002B5592: 40MM XPL ammo
+002B5599: 43 Ultramag ammo
+002B5590: 6.5MM CT ammo
+002B558F: 6.5MM MI Array ammo
+002B558E: 7.5MM Whitehot ammo
+002B558D: 7.62x39MM ammo
+0004AD3E: 7.77MM Caseless ammo
+002B559B: 9x39MM ammo
+002B558B: Heavy Particle Fuse ammo
+002783C7: Light Particle Fuse ammo
+
+#ARMOR#
+00065925: Incendiary Experimental Nishina Spacesuit
+0007B2B9: Sentinel's UC Antixeno Spacesuit
+0022B8F6: Repulsing Explorer Spacesuit
+0013F97D: Peacemaker Spacesuit
+00228570: Bounty Hunter Spacesuit
+001E2B18: Constellation Spacesuit
+0005278E: Deep Mining Spacesuit
+002265AE: Deep Recon Spacesuit
+0006AC00: Deepcore Spacesuit
+0016D2C4: Deepseeker Spacesuit
+00026BF1: Deimos Spacesuit
+0022856F: Ecliptic Spacesuit
+002265AF: Explorer Spacesuit
+001F22BB: Gran-Gran's Spacesuit
+002392B5: Ground Crew Spacesuit
+00226299: Mantis Spacesuit
+0001754D: Mark I Spacesuit
+001D0F96: Mercury Spacesuit
+00225FC9: Monster Costume
+00067C94: Navigator Spacesuit
+0003084E: Old Earth Spacesuit
+00066821: Pirate Assault Spacesuit
+00066826: Pirate Charger Spacesuit
+00066828: Pirate Corsair Spacesuit
+0006682A: Pirate Sniper Spacesuit
+00227CA0: Ranger Spacesuit
+002265AD: Shocktroop Spacesuit
+0021C780: Space Trucker Spacesuit
+00004E78: Star Roamer Spacesuit
+0012E187: Starborn Spacesuit Astra
+001CBA52: Starborn Spacesuit Avitus
+001CBA4E: Starborn Spacesuit Bellum
+0021C77E: Starborn Spacesuit Gravitas
+001CBA4A: Starborn Spacesuit Locus
+001CBA49: Starborn Spacesuit Materia
+002D7365: Starborn Spacesuit Solis
+002D7346: Starborn Spacesuit Tempus
+001CBA4D: Starborn Spacesuit Tenebris
+0021C77F: Starborn Spacesuit Venator
+002AAF44: SysDef Ace Spacesuit
+00398104: SysDef Assault Spacesuit
+0039810A: SysDef Combat Spacesuit
+00398108: SysDef Sec Recon Spacesuit
+00398103: SysDef Spacesuit
+00166404: Trackers Alliance Spacesuit
+00166410: UC Ace Spacesuit
+00206130: UC AntiXeno Spacesuit
+00257808: UC Combat Spacesuit
+00257805: UC Marine Spacesuit
+000EF9B0: UC Sec Combat Spacesuit
+000EF9AF: UC Sec Recon Spacesuit
+000EF9AE: UC Sec Starlaw Spacesuit
+000EF9AD: UC Security Spacesuit
+00257809: UC Startroop Spacesuit
+0021A86A: UC Urbanwar Spacesuit
+00248C0F: UC Vanguard Spacesuit
+0025780A: UC Wardog Spacesuit
+00227CA3: Va'Ruun Spacesuit
+0065925: Incendiary Experimental Nishina Spacesuit
+0065926: Reactive Experimental Nishina Helmet
+0010A25E: Incendiary UC AntiXeno Space Helmet
+001C0F32: Bounty Hunter Space Helmet
+0013F97B: Peacemaker Space Helmet
+0001754F: Mark I Space Helmet
+0025780B: UC Armored Space Helmet
+00398107: SysDef Armored Space Helmet
+000EF9B2: UC Sec Spaceriot Helmet
+00248C0E: UC Vanguard Space Helmet
+0016E0C3: Operative Helmet
+0010A25D: Armor-Plated UC AntiXeno Pack
+001C0F35: Bounty Hunter Stalk
+001C0F34: Bounty Hunter Seek
+001C0F33: Bounty Hunter Track
+0001754E: Mark 1 Pack
+0021A86C: UC Shock Power Pack
+
+#CLOTHING#
+002C6E7D: UC Navy Armored Fatigues
+003E3ACF: UC Navy Duty Fatigues
+002C6E7F: UC Navy Fatigues
+003E3AD1: UC Navy Recon Fatigues
+00251F56: Utility Flightsuit
+003E3D51: Ambassador Suit
+001C84DB: Argos Jacketed Jumpsuit
+003FDBF7: B.Morgan's Suit
+003E8E7F: Bayu's Corpwear
+0029E174: Blue Labor Jumpsuit
+00235B7D: Clean Suit
+001A4253: Corpo Boardroom Suit
+00190D0B: Corpo Executive Suit
+002265B0: Corpo Power Suit
+0019F9C1: Corpo Salary Suit
+002265B1: Corpo Sleek Suit
+001F1DCE: Cream and Blue Dress
+00177494: Dalton Fienne's Suit
+002262D3: Disciples Tagwear
+002262D5: Farming Outfit
+00250C86: Fashionable Suit
+0010799A: Faye Sensavahn's Outfit
+003EC02E: Filthy Physician Uniform
+003E5D26: First Mercenary Outfit
+0021113E: First Officer Outfit
+00228825: First Soldier Outfit
+0024EF40: Fishworker Splash Wear
+0024EF41: Fishworker Wet Wear
+0021BBF1: Franklin Roosevelt's Outfit
+00224FE9: Freestar Dustwear
+00228827: Freestar Militia Uniform
+00177492: Genavieve Monohan's Suit
+002262D2: Genghis Khan's Outfit
+0029E175: Gray Labor Jumpsuit
+002619EF: Green Fashionable Suit
+0029AEAE: HAZMAT suit
+00177493: Imogen Salzo's Suit
+00177495: Linden Calderi's Suit
+00226298: Masako Imada's Outfit
+00030B4B: Matteo's Outfit
+000028A5: Medic Uniform
+001A52D1: Megacorp Executive Suit
+002262D1: Mei Devine's Outfit
+0009B72F: Miner Dredbreaker Outfit
+0026D8AA: Miner Hard Hat Outfit
+0001D1D9: Miner Jacketed Jumpsuit
+0001D1D7: Miner Jumpsuit
+0001D1E7: Miner Utility Outfit
+00225FCA: Naeva's Outfit
+000C47A0: NASA Lab Uniform
+001F1DC9: Navy Tan Dress
+002266A2: Neocity Corp Wear
+002266A3: Neon Businesswear
+001F1DD0: Neon Clublife Skirt
+00225FCC: Neon Dancer Outfit
+003556E7: Neon Nightlife Jumpsuit
+001F1DCF: Neon Nightlife Skirt
+00225D9E: Neon Security Uniform
+00165720: Neon Socialite Skirt
+0021BBF2: New Atlantis Security Uniform
+00225DA0: Nightwear
+00036AFC: Noel's Outfit
+002BC183: Patient's Clothes
+00226297: Physician Uniform
+002491EA: Prison Scrubs
+001BF2F8: Pryce's Suit
+0013730B: Ranger Deputy Uniform
+0022856C: Ranger Duelwear
+000028A6: Reliant Medical Uniform
+00003C4E: Resort Wear
+00003BF6: Resort Wear
+00003C4D: Resort Wear
+001823CB: Ryujin Lab Worker Outfit
+001823CC: Ryujin Lab Worker Suit
+0001D1DE: Sam Coe's Outfit
+00225D9F: Sanctum Priest Vestment
+0021C784: Security Guard Uniform
+000CC4D1: Security Flight Suit
+002470D1: Space Trucker Flannel (jacket)
+002470D2: Space Trucker Flannel (no jacket)
+00165722: Space Undersuit
+00064A2E: Striker Streetwear
+00027189: Suit with Lapel Pin
+00002FA4: Swimsuit
+0011F3AD: Syndicate Boss Suit
+0011F3A8: Syndicate Capo Suit
+0011F3AC: Syndicate Club Suit
+0011F3B0: Syndicate Pinstripes
+0011F3A7: Syndicate Thug Suit
+000D981C: SYSDEF Prison Scrubs
+003B2A81: Ularu's Suit
+0004008C: Xenofresh Clean Suit
+0029E173: Yellow Labor Jumpsuit
+0021BBEC: Argos Extractor Jumpsuit
+001466EE: Black Elbow Grease Gear
+001466F2: Black Engineering Outfit
+001466EA: Black Leather Jumpsuit
+001466F6: Black Graviplas Helmet
+001466FA: Black Open Graviplas Helmet
+00246B32: !Blue Collar Offwork Duds
+003A264E: Blue Lab Outfit
+001B52FF: Blue Neocity Formwear
+002619F1: Blue Neocity Poncho
+00077810: Blue UC Leather Jumpsuit
+001466EF: Brown Elbow Grease Gear
+001466F3: Brown Engineering Outfit
+00062EA3: Brown Leather Jumpsuit
+001466EB: Brown Leather Jumpsuit
+001B5300: Brown Neocity Formwear
+002619F6: Casual Street Suit
+00185A6F: Chunks Cap
+001A8DDD: Chunks Service Uniform
+000788AB: Cyberware Streetwear
+00185A6E: Deimos Cap
+001625DC: DJ Headphones
+001625DB: DJ Headphones Cap
+0017A439: ECS Captain Actionwear
+0017A437: ECS Officer Uniform
+0017A438: ECS Uniform
+001A8DE6: Enhance Service Uniform
+00077816: Engineering Outfit
+003FC344: Explorer Adventure Hat
+00204002: Farming Hat
+0009F0F6: Festive Neocity Poncho
+000788A1: Formal Slack Suit
+001CB843: GalBank Service Uniform
+003CD812: Generdyne Guard Helmet
+003CD80F: Generdyne Lab Uniform
+003CD810: Generdyne Security Uniform
+001466F0: Gray Elbow Grease Gear
+001466EC: Gray Leather Jumpsuit
+00273C05: Homesteader Scout Hat
+00185A6C: Hopetech Cap
+00108353: Ikande's SysDef Officer Uniform
+0025DEF0: Inclement Weather Outfit
+000788AA: Jacketed Leatherwear
+00009CC7: Leatherwear
+002619FD: Leather Streetwear
+002619FE: Leather Pocketwear
+000788A4: Neocity Hustler Outfit
+0018DE02: Nyx's Outfit
+0018B54A: Operative Suit
+00261A03: Padded Hat
+0002FE70: Paradiso Staff Uniform
+003E5D27: Paxton's Officer Hat
+0022766B: Pirate Captain Outfit
+00208E8B: Prisoner Uniform
+001CFA01: Red Mile Service Uniform
+003EB4B4: Rokov's Officer Hat
+0037A34F: Ryujin Guard Helmet
+0037A34E: Ryujin Guard Uniform
+00034110: Ryujin Lab Outfit
+001823CB: Ryujin Lab Worker Hood
+00034114: Ryujin R&D Outfit
+0016571D: Sanctum Priest Headwear
+00055905: Sarah Morgan's Outfit
+0021C786: Sari Dress
+0021C783: Service Industry Uniform
+0025DEEF: Settler Adventure Hat
+00258039: Settler Casual Hat
+0024EF65: Settler Hat
+000753F4: Shielded Lab Outfit
+0021C782: Shinya Voss Outfit
+0021C781: Ship Captain's Uniform
+0029080F: Space Rogue Muscle Gear
+0029080E: Space Rogue Outfit
+002456F2: Space Trucker Bar Duds
+002456F3: Space Trucker Cap
+00246B31: Space Trucker Cargowear
+002456F4: Space Trucker Casualwear
+0029080D: Space Trucker Hat
+002470D0: Space Trucker Haul Wrap
+002E18F6: Striker Maskwear
+000D41F8: SY-920 Fatigues
+002619FC: Synth Leatherwear
+002619FC: Synthleather Streetwear
+003329BB: SysDef Crew Uniform
+003329B4: SysDef Formal Uniform
+0021C1FB: SysDef Officer Uniform
+00185A69: Taiyo Astroneering Cap
+001466F1: Teal Elbow Grease Gear
+001466F9: Teal Engineering Outfit
+001466ED: Teal Leather Jumpsuit
+001466FD: Teal Open Graviplas Helmet
+003CF431: TerraBrew Barista Outfit
+0007F88D: TerraBrew Uniform
+001CB7E7: Trade Authority Uniform
+00164BDD: Trident Crew Uniform
+0014E44E: Trident Guard Helmet
+000DBFDA: Trident Guard Uniform
+00185A68: Trident Luxury Lines Cap
+00034111: TRItek Lab Outfit
+00077818: UC Gray Utility Jumpsuit
+0018E260: UC Navy Crew Hat
+0021A86E: UC Navy Crew Uniform
+0021A86D: UC Navy Officer Uniform
+0025E8D5: UC Security Helmet
+0025E8D4: UC Security Uniform
+003329BC: UC SysDef Crew Hat
+00185A67: United Colonies Cap
+002619FB: Urban Operator Outfit
+000788A2: Urban Slackwear
+000781F9: Utility Headphone Cap
+00252AE7: Utility Headphones
+003CAF7E: Vanguard Officer Uniform
+002619F7: Vested Suit
+0002B5EE: White Neocity Poncho
+001466FF: Xenofresh Tech Outfit
+
+#HEADWEAR#
+002BA0E3: Deputy Hat
+00228826: First Officer Hat
+0021F3F4: First Soldier Helmet
+0024EF42: Fish Worker Mask
+001D8426: Genghis Khan's Hat
+00030B4D: Matteo Khatri's Hat
+000C900A: Neon Dancer Headwear
+001F73EF: Neon Security Helmet
+001A2507: Neuroboost Mark I
+00100517: Neuroboost Mark II
+00100518: Neuroboost Mark III
+00100519: Neurocom Mark I
+0010051A: NeuroCom Mark II
+0010051B: NeuroCom Mark III
+0010051C: NeuroTac Mark I
+0010051D: NeuroTac Mark II
+0010051F: NeuroTac Mark III
+00165718: Security Guard Helmet
+0016E0B9: Ship Captain Hat
+0012B4B3: Akila Security Hat
+001E426E: Amanirenas Hat
+0019219C: Batball Cap
+00077814: Blue Elbow Grease Gear
+00246B30: Blue Collar Offwork Hat
+00030B4B: Matteo Khatri's Hat
+00185A6F: Chunks Cap
+00185A6E: Deimos Cap
+001625DC: DJ Headphones
+001625DB: DJ Headphones Cap
+003FC344: Explorer Adventure Hat
+00204002: Farming Hat
+0021712A: Freestar Militia Hat
+00273C05: Homesteader Scout Hat
+00185A6C: Hopetech Cap
+003CD812: Generdyne Guard Helmet
+00261A03: Padded Hat
+003E5D27: Paxton's Officer Hat
+002BA0E1: Ranger Hat
+003EB4B4: Rokov's Officer Hat
+0037A34F: Ryujin Guard Helmet
+001823CB: Ryujin Lab Worker Hood
+0016571D: Sanctum Priest Headwear
+0021C783: Service Industry Uniform
+0025DEEF: Settler Adventure Hat
+00258039: Settler Casual Hat
+0024EF65: Settler Hat
+0029080D: Space Trucker Hat
+00185A69: Taiyo Astroneering Cap
+0014E44E: Trident Guard Helmet
+00185A68: Trident Luxury Lines Cap
+003329BC: UC SysDef Crew Hat
+00185A67: United Colonies Cap
+
+#AID#
+0029A851: Addichrone
+001F3E85: AddiJack
+000C1F57: Alien Genetic Material
+0029A856: Amp
+0003D8B2: Analgesic Poultice
+0003D3AD: Anchored Immobilizers
+0003D3A9: Antibiotic Cocktail
+0003D3AF: Antibiotic Injector
+0003D3AE: Antibiotic Paste
+00299590: Antibiotic Paste
+002F4436: Antibiotics
+002C5884: Aurora
+002F4459: Bandages
+002A5024: Battlestim
+001F3E87: BattleUp
+00122EA8: Black Hole Heart
+0003D3AC: Boosted Injector
+0029959F: Boudicca
+0029A85E: CQB-X
+00299599: Dwarf Star Heart
+002A9DE8: Emergency Kit
+002C5885: Frostwolf
+0029959A: Giant Heart
+0003D3AB: Heal Gel
+002F445C: Heal Paste
+0029CAD9: Heart+
+002C5883: Hippolyta
+00122E9C: Hypergiant Heart
+002F445B: Immobilizer
+0029A85C: Infantry Alpha
+0029A860: Infantry Alpha
+0003D3B0: Infused Bandages
+00143CB1: Junk Flush
+0000ABF9: Med Pack
+001F3E84: O2 Shot
+002A5025: Panopticon
+002C5881: Paramour
+0029A84F: Penicillin X
+00255DCB: Pick-Me-Up
+0029A855: Recon Stim
+002C587F: Red Trench
+001F3E86: RedAMP
+00224D61: Repairing Immobilizer
+0003FB19: Ship Spare Part
+00139E4B: S.T.E.V.E.
+0029A850: Snake Oil
+002A9DE7: Squall
+00122EB1: Subgiant Heart
+002C5880: Synapse Alpha
+0029A847: Trauma Pack
+000C8721: Unprocessed Aurora
+00143CB2: Whiteout
+0003D3AA: Zipper Bandages
+
+#RESOURCES#
+00005DEC: Aldumite
+0000557D: Aluminium
+00005570: Alkanes
+0000557B: Antimony
+0000557C: Aqueous Hematite
+00005588: Argon
+00005585: Benzene
+000057D9: Beryllium
+000788D6: Caelumite
+000057DF: Caesium
+00005586: Carboxylic Acids
+0000557C: Chlorine
+0000557E: Chlorosilanes
+00005575: Cobalt
+00005576: Copper
+00005569: Dysprosium
+000057E1: Europium
+00005577: Fluorine
+00005579: Gold
+0000558E: Helium-3
+0004BA37: Indicite
+0000557A: Ionic Liquids
+0000558A: Iridium
+0000556E: Iron
+00005568: Lead
+0000557F: Lithium
+0027C4A1: Mercury
+00005580: Neodymium
+00005587: Neon
+00005572: Nickel
+00005574: Palladium
+00005573: Platinum
+0000558C: Plutonium
+000028DF: Rothicite
+0000556A: Silver
+0000556F: Tantalum
+00005DED: Tasine
+00005578: Tetrafluorides
+0000556D: Titanium
+0000556B: Tungsten
+00005589: Uranium
+0000558B: Vanadium
+00005DEE: Veryl
+00005DEF: Vytinium
+00005591: Water
+000057DD: Xenon
+00005571: Ytterbium
+000055B1: Adhesive
+000055CD: Amino Acids
+000055A9: Analgesic
+000055AB: Antimicrobial
+000055B8: Aromatic
+000055B2: Biosuppressant
+000055A8: Cosmetic
+000055AF: Fiber
+000055B3: Gastronomic Delight
+000055AA: High Tenside Spidroin
+0029F405: Hallucinogen
+0029F40D: Hypercatalyst
+0000559E: Immunostimulant
+000055BA: Lubricant
+000055B0: Membrane
+0029F3FC: Metabolic Agent
+000055AE: Neurologic
+000777FD: Nutrient
+000055A7: Ornamental Material
+0029F400: Pigment
+00122EB8: Quark-Degenerate Tissues
+000055A6: Polymer
+000055CC: Sealant
+000055AD: Sedative
+000055CE: Solvent
+00202F5A: Stimulant
+000055B9: Structural Material
+000055AC: Spice
+000055CB: Toxin
+00246B6A: Adaptive Frame
+002155C2: Austenitic Manifolds
+00246B64: Comm Relay
+00246B7B: Control Rod
+0020A02F: Drilling Rig
+00203EB4: Indicite Wafer
+00246B77: Isocentered Magnet
+00246B76: Isotopic Coolant
+00246B70: Mag Pressure Tank
+00246B5F: Microsecond Regulator
+00246B75: Molecular Sieve
+00246B74: Monopropellant
+00246B79: Nuclear Fuel Rod
+00246B73: Paramagon Conductor
+00246B72: Polytextile
+00246B71: Positron Battery
+00246B5C: Power Circuit
+00246B6F: Reactive Gauge
+00203EB2: Rothicite Magnet
+00246B6D: Semimetal Wafer
+00246B6C: Sterile Nanotubes
+00202782: Substrate Molecule Sieve
+00246B69: Supercooled Magnet
+00203EAF: Tasine Superconductor
+00246B68: Tau Grade Rheostat
+00246B66: Zero-G Gimbal
+00246B65: Zero Wire
+
+#FOOD/DRINK#
+0029B046: Alien Broth
+0029B047: Alien Energy Drink
+002C7C0C: Alien Jerky
+0029B061: Alien Kebabs
+0029B04F: Alien Liquor
+0029B063: Alien Pie
+0029B062: Alien Sandwich
+0029B065: Alien Scramble
+0029B066: Alien Stew
+0029B064: Alien Stir Fry
+0029B052: Alien Tea
+0029B048: Alien Tonic
+00249C2C: Astral Lounge Special Sangria
+00249C31: Astral Sliders
+002543B9: Baguette
+0029B054: Barbacoa Wrap
+00249C46: Bart's Chili
+00249C2B: Bayu Private Reserve
+00249C22: Beer Brat Platter
+00249C0D: Beertini
+002543B7: Bitten Sandwich
+0029B050: Boba Alien Tea
+002C7210: Bog's Grog
+002C71F8: Boom Pop! Black Licorice
+0029A863: Boom Pop! Cherry
+002C71F5: Boom Pop! Cola
+0029B040: Boom Pop! Dynamite
+002C71F6: Boom Pop! Orange
+003038FE: Boom Pop! Reactor
+002C71F7: Boom Pop! Rhubarb
+002C71F4: Boom Pop! Root Beer
+002C7211: Bourbon
+002C723E: Bread
+0029B04B: Bullet Coffee
+002C7C0A: Butter
+00249C51: Cabernet Chunkignon
+0003D3A8: Café et thé Prime
+002C722D: CAN-uck! Bacon
+00249C49: CAN-uck! Double Double
+00249C4A: CAN-uck! Edmontonian
+00249C4D: CAN-uck! Haligonian
+00249C4C: CAN-uck! Ham Boys
+00249C48: CAN-uck! Maple Cola
+002C7230: CAN-uck! Pancakes Plus
+002C720D: CAN-uck! Pilsner
+002C7231: CAN-uck! Poutine
+00249C4B: CAN-uck! Shepherd's Pie
+002C7232: CAN-uck! Tourtiere
+00092B98: Carrot
+00092B99: Celery
+0029B03E: Chai Latte
+002C7202: Chandra Cabernet Sauvignon
+002C7204: Chandra Chardonnay
+002C7203: Chandra Malbec
+002C7208: Chandra Merlot
+002C7206: Chandra Pinot Noir
+002C7209: Chandra Port
+002C7205: Chandra Riesling
+002C7C0D: Chappaguri
+002C7236: Cheddar Snack Crackers
+001FC9C1: Cheese
+0029B05C: Chicken Marsala
+0029B05A: Chicken Tikka
+00249C28: Chimera
+002C723B: Chocolate Labs
+00206770: Chunks Apple
+00206771: Chunks Apple - Packaged
+00206763: Chunks Beef
+0020676F: Chunks Beef - Packaged
+0020676D: Chunks Cake
+0020676E: Chunks Cake - Packaged
+0020676B: Chunks Cheesesteak
+0020676C: Chunks Cheesesteak - Packaged
+0020676A: Chunks Chick - Packaged
+00206764: Chunks Chicken
+00206769: Chunks Choco
+00206768: Chunks Choco - Packaged
+00249C52: Chunks Cola
+00206767: Chunks Cola - Packaged
+00206765: Chunks Egg
+001E29A8: Chunks Egg - Packaged
+0020675F: Chunks Pie
+00206760: Chunks Pie - Packaged
+00206761: Chunks Potato
+00206762: Chunks Potato - Packaged
+0020675D: Chunks Wine
+0020675E: Chunks Wine - Packaged
+00249C1A: Codos Crater
+0025B0FB: Coffee Bag
+0029B04E: Colonel's Choice
+00287D76: Container of Cereal
+00249C32: Crawler Bisque
+0029B05E: Creature Jam
+0029B060: Crispy Alien Nuggets
+0029B056: Dal Makhani
+00139E45: Dark Lager
+00249C30: Dawn's Roost Strip
+00249C0F: Departure Time
+0029B042: Disastrous Shipwreck
+0029B053: Distilled Water
+0029B059: Doro Wat
+002C7217: Drink Pack: Beer
+002C7216: Drink Pack: Milk
+002C721A: Drink Pack: Orange Juice
+002C7215: Drink Pack: Red Wine
+0029B00E: Drink Pack: Vodka
+002C7218: Drink Pack: Water
+002C7219: Drink Pack: Whiskey
+002C7214: Drink Pack: White Wine
+001FF69C: Erdebrau Dark Can
+001FF69E: Erdebrau Lager Can
+001FF69A: Erdebrau Pils Can
+001FF6A0: Erdebraw Light Can
+00249C20: Fried Pickles
+000304CE: Fullfood Spiced Worms
+0029B03F: Fully-Loaded Bloody Mary
+00122E94: Galaxy Lo Mein
+00249C33: Gazpacho
+00165073: Grandpa's Meatloaf
+002C7235: Granola Mix
+00092B9A: Grapes
+0029B05D: Grilled Cheese Sandwich
+002C722B: Ham and Cheese Sandwich
+0037CEF7: High Gravity Reserve
+002C7234: Instant Oatmeal
+00249C0E: Jake's Stout
+00249C35: Jemison Wellington
+002C7213: Kefir
+00249C14: Kiffles
+002382E9: Latkes
+004B1D8: Lemon
+00092B9B: Lettuce
+0004B1D7: Lime
+00249C36: Liver Pate
+00249C2D: Lounge Special
+0029B04D: Lumberjack Julep
+002C7238: Marshmallow Treat Cereal
+00191214: Meal Kit
+002C7221: Meal Pack - Cereal
+002C721C: Meal Pack - Chicken
+002C721F: Meal Pack - Ramen
+002C721D: Meal Pack - Shrimp
+002C7220: Meal Pack - Sushi
+002C721E: Meal Pack - Tofu
+002C7222: Meal Pack Eggs
+00240220: Meal Tray
+0029B05B: Meatloaf
+002C7223: Snack Pack - Apple Bites
+002C7225: Snack Pack - Choco Bites
+002C7226: Snack Pack - Gummy Bugs
+002C7224: Snack Pack - Protein Bar
+001EDDE5: Soba
+001EDDE4: Soba Minibite
+001EDDE6: Soba Multipack
+00122E96: Nebula Wat
+00249C11: New Arrival
+00003A1F: Onion
+001DFCB5: Opened Superfood Paste Kit
+00003A22: Orange
+002DFB0B: Orange Juice of Transcendence
+00139E44: Pale Ale
+00249C38: Panache
+0029B958: Spaghetti Carbonara
+0029B04C: Sparkling Water
+001DFCB4: Sparkling Wine
+00122E95: Star Cluster Marsala
+00122E98: Stellar Kebabs
+001DFCB2: Superfood Paste Kit
+001DFCB3: Superfood Paste Set
+0029959D: Supermassive Black Heart
+001DFCAA: Sushi Rolls
+001DFCAB: Sushi Rolls Minibite
+001DFCAC: Sushi Rolls Multipack
+00137524: Sweet Rolls
+002C7242: Synthameat Chicken
+002C7246: Synthameat Ham
+002C7243: Synthameat Hamburger
+000304D0: Synthameat Multi
+002C7244: Synthameat Steak
+0029A861: Synthameat Turkey
+002C7245: Synthameat Veal
+00249C15: Ta'Ameya Pita
+00249C4E: TerraBrew Cappuccino
+00249C50: TerraBrew Classic
+003E3407: TerraBrew Cortado
+0029A894: TerraBrew Espresso
+00249C4F: TerraBrew Latte
+003E3408: TerraBrew Macchiato
+00249C3C: The Deep
+001F36F2: The Rack
+00249C3D: The Strip
+00249C3A: The Top Shelf
+001DFCAE: Toast
+00092B96: Tomato
+0010FA0A: Tranquilitea Breakfast
+0009F549: Tranquilitea Chamomile
+00002449: Tranquilitea Classic
+0010FA08: Tranquilitea Dynastic
+0010FA09: Tranquilitea Earl Gray
+0010FA0C: Tranquilitea Lemon
+0010FA0F: Tranquilitea Lotus
+003B7115: Tranquilitea Sleepy Pack
+003B7117: Tranquilitea Sunray
+00249C3F: Trawl
+00249C37: Trilo Bites
+0029A893: UC Battlemeal
+0030283E: UC Battlemeal Multipack
+001EDF0F: Udon
+00249C1F: Veggie Grinder
+003BF793: Velocity Blue
+003BF792: Velocity Green
+00249C26: Velocity Orange
+00249C27: Velocity Red
+00249C25: Velocity Violet
+001EBE9E: Velocity Yellow
+0029B041: Very Heavy Water
+00240C10: Viewport Original
+00092B97: Watermelon
+00249C42: Xenofresh Paella
+0029B05F: Xenowurst
+00249C40: Xenoyaki
+0029B051: Yellow Giant Splash
+002C7C09: Yogurt
+0014098A: Yuko's Coffee
+
+#CREDITS#
+0000000F: Credits
+
+#DIGIPICK#
+0000000A: Digipicks
+
+#MISC#
+00235109: Soccer Balls
+002FB1F6: Yoga Balls
+0005B4B5: Portable CD Player
+00198EA1: Antique Computer
+00198EA4: Antique Earth Video Tape
+0020AA57: Push Broom
+0000081C: Plushie Cuddleosaur
+00000829: Plushie Xenosnuggle
+00000883: Plushie Starpal
+0000088B: Toy Spaceship
+00000890: Antique Toy Motorcycle
+00000892: Antique Toy Motorcycle
+00000894: Antique Toy Motorcycle
+00000896: Antique Toy Motorcycle
+0000089C: Toy Space Shuttle
+00001403: Dr Reginald Orlase D
+000028A0: Empty Drink Pack
+000028A1: Empty Coffee Bag
+000028A2: Empty Drink Pack
+000028A3: Empty Food Container
+000028A4: Food Container Lid
+0000559B: Memory Substrate
+0000559D: Gastronomic Delight
+00006657: Benjamin Bayu Figurine
+00009A2F: London Snow Globe
+00009A31: Opportunity Snow Globe
+00009A34: Los Angeles Snow Globe
+00009A39: Dubai Snow Globe
+00009A3F: Cairo Snow Globe
+0000A4D3: Empty Oxygen Booster
+0000AB59: Tissues
+0000AB5A: Tissues
+0000AB5B: Tissues
+0000AB5C: Tissues
+0000DEB9: Succulent
+0000DEBA: Succulent
+0000DEBC: Succulent
+0000DEC1: Succulent
+0000DEC2: Succulent
+0000DEC5: Succulent
+0000DEC6: Succulent
+0000FBDB: Portable Desk Fan
+0001BE5F: Microdrive
+00026EA7: Hong Kong Snow Globe
+00026EAD: Osaka Snow Globe
+00026EB1: Apollo Snow Globe
+0002775C: Snow Globe
+0002775F: Snow Globe
+000285ED: Toy Rocket
+00028F0C: Cydonia Snow Globe
+00028F0D: New York Snow Globe
+00028F0E: Shanghai Snow Globe
+00028F0F: St. Louis Snow Globe
+0002C25D: Mercury Camera
+000304BF: Dumbbell
+000304C0: Crimping Tool
+000304C3: Food Tray
+000304D7: Molecule Extractor
+000378BF: Impact Driver
+000378C1: Impact Driver
+000378C4: Impact Driver
+000378C6: Impact Driver
+000378C7: Impact Driver
+00037E67: Logan's Present
+0003B875: Salinas's Package
+0003ED99: Martini Glass
+0003ED9B: Cocktail Glass
+0003ED9D: Shot Glass
+0003ED9E: Cocktail Tumbler
+0003ED9F: Whiskey Glass
+0003EDA2: Wine Glass
+0003EDA4: Stylish Shot Glass
+0003EDA9: Fancy Ice Bucket
+0003EDAB: Salt Shaker
+0003EDAC: Pepper Shaker
+0003EDB2: Liquor Decanter
+0003EDB3: Wine Decanter
+0003EDB6: Sealed Cocktail Mixer
+0003EDB8: Dinner Plate
+0003EDB9: Fine Dining Fork
+0003EDBA: Spoon
+0003EDBD: Knife
+0003EDC8: Coffee Mug
+0004415D: Tower of Pisa Snow Globe
+000445B5: HopeTech Trophy
+000445B6: HopeTech Trophy
+000445B7: HopeTech Trophy
+000445B8: HopeTech Trophy
+0004883D: Notepad
+0004883E: Nasa Notebook
+0004883F: Nasa Notebook
+00048841: Nasa Coffee Mug
+0004A6C7: Poison Canister
+0004F206: Nova Galactic Coffee Mug
+00050340: Playing Card - King of Hearts
+0005AF20: Paul's Tools
+0005B4E4: Antique Video Tape
+0005B8FF: Star Parcel Package
+0006287E: Tranquilitea To Go Cup
+000638A6: Plate
+000638A9: Steel Fork
+000638AA: Knife
+000638AB: Spoon
+000642A4: Crate of Adaptive Clothing
+000642A5: Crate of Medical Treatments
+000642A6: Crate of Anti-Venin
+000667FF: Stylized TerraBrew Cup
+00066800: Stylized TerraBrew Mug
+000670FF: Genetic Sample Bottle
+0006AADC: Alien Egg
+00071454: Solomon's Art
+00080E74: Chronomark Watch Case
+00085FCF: Aceles Gene Sample (Gamma)
+00085FD0: Aceles Gene Sample (Beta)
+0008691B: Siren of the Stars Access Card
+00087011: Prime Meat
+0008753C: FreeStar Deputy Badge
+0008753D: Cased FreeStar Deputy Badge
+0008753E: FreeStar Ranger Badge
+0008753F: Cased FreeStar Ranger Badge
+0008905C: Medical Supplies
+0008B011: Crate of Contraband
+00091A76: Playing Card - 2 of Hearts
+00091C9D: Engagement Ring
+00092DC4: Playing Card - 3 of Hearts
+00092DC5: Playing Card - 4 of Hearts
+00092DCC: Playing Card - 5 of Hearts
+00092DDE: Playing Card - 6 of Hearts
+00092DE5: Playing Card - 7 of Hearts
+00092DE6: Playing Card - 10 of Hearts
+00092DE7: Playing Card - Queen of Hearts
+00092E56: Playing Card - 3 of Clubs
+00092E57: Playing Card - 4 of Clubs
+00092E58: Playing Card - 5 of Clubs
+00092FEA: Ancient Branch
+00094732: Tranquilitea Sunray Pack
+00094733: Tranquilitea Sleepy Pack
+00094BE5: Antique Piggy Bank
+0009642E: Agent Plato's Package
+00097F0B: Bulk Tranquilitea Dynastic
+00097F0C: Bulk Tranquilitea Sleepy
+00097F0D: Bulk Tranquilitea Earl Grey
+0009B18A: Desk Phone
+0009C328: Earth Savior Award
+0009DE66: MicroCell
+0009DE68: MicroCell Power Source
+0009DE69: MicroCell Conductor Array
+0009DE6A: MicroCell Shielding
+000A7312: Warlord's Credits
+000AA37D: Synthefoam Container
+000AF3FD: Food Tray
+000AF3FE: Foam Cup
+000AF3FF: Foam Cup
+000AF400: Synthefoam Container
+000B2EE4: Bulk Tranquilitea Classic
+000B74CC: New Atlantis Resident's ID Card
+000B74D0: Well Resident's ID Card
+000B74D5: Akila City Resident's ID Card
+000B78FA: Playing Card - 6 of Clubs
+000B7910: Playing Card - 7 of Clubs
+000B799E: Playing Card - 10 of Clubs
+000B79A5: Playing Card - Queen of Clubs
+000B7C3B: Notebook
+000B7C3C: Notebook
+000B7C3D: Notebook
+000B7C3E: Notebook
+000B7C3F: Notebook
+000B7C40: Notebook
+000B7C87: Playing Card - 3 of Diamonds
+000B8573: Andreja's Commitment Gift
+000C556A: Old-Earth Plate
+000C556B: Priceless Gem
+000C55B9: Olive Seed
+000D4B5B: Water Pitcher
+000D4B5C: Water Pitcher
+000D4B5E: Water Pitcher
+000D6FA2: Lucky Boots
+000DD209: FreeStar Deputy Badge
+000E1BD9: Folder
+000E1BDA: Folder
+000E1BDB: Folder
+000E1BDC: Folder
+000E1BDD: Folder
+000E1BDE: Folder
+000ECCED: Emergency Power Cell
+000F2C84: Bulk Tranquilitea Sunray
+000F6351: Toilet Paper Tube
+000F72D1: Facility Security Override Code
+000F72D2: Encrypted Security Override Code
+000FA97A: Steel Cup
+000FD7D1: Plate
+000FE272: Fork
+000FE274: Knife
+000FE275: Spoon
+00101273: Bulk Tranquilitea Breakfast
+00101274: Bulk Tranquilitea Lotus
+0010736B: Playing Card - Ace of Hearts
+0010736C: Playing Card - 8 of Hearts
+0010736D: Playing Card - 9 of Hearts
+0010736E: Playing Card - 2 of Clubs
+0010736F: Playing Card - 8 of Clubs
+00107370: Playing Card - 9 of Clubs
+00107371: Playing Card - Ace of Clubs
+00107372: Playing Card - Jack of Clubs
+00107373: Playing Card - King of Clubs
+00107374: Playing Card - 2 of Diamonds
+00107375: Playing Card - 8 of Diamonds
+00107376: Playing Card - 9 of Diamonds
+00107377: Playing Card - Ace of Diamonds
+00107378: Playing Card - Jack of Diamonds
+00107379: Playing Card - King of Diamonds
+0010737A: Playing Card - 2 of Spades
+0010737B: Playing Card - 8 of Spades
+0010737C: Playing Card - 9 of Spades
+0010737D: Playing Card - Ace of Spades
+0010737E: Playing Card - Jack of Spades
+00107380: Playing Card - King of Spades
+0010A793: Playing Card - 4 of Diamonds
+0010A794: Playing Card - 5 of Diamonds
+0010A795: Playing Card - 6 of Diamonds
+0010A796: Playing Card - 7 of Diamonds
+0010A797: Playing Card - Queen of Diamonds
+0010A798: Playing Card - 10 of Diamonds
+0010A799: Playing Card - 3 of Spades
+0010A79A: Playing Card - 4 of Spades
+0010A79B: Playing Card - 5 of Spades
+0010A79C: Playing Card - 6 of Spades
+0010A79D: Playing Card - 7 of Spades
+0010A79E: Playing Card - 10 of Spades
+0010A79F: Playing Card - Queen of Spades
+0010CC10: Synthefoam Container
+0010DFDE: Neuroamp Mod
+0010E68E: Weight Plate
+0010FA05: Bulk Tranquilitea Chamomile
+00110F93: Tranquilitea Lotus Pack
+00111EA8: Samson’s Art
+00115977: Toilet Paper
+00116F44: Champagne Glass
+0011C0EC: Overseer Program
+0011C11B: Project Dominion
+0011C12B: Untraceable Storage Slate
+0011D576: Prototype Equipment
+0011D577: Prototype Equipment
+0011D578: Prototype Equipment
+0011EDD1: Pack of Cigarettes
+0011EE56: Pack of Smokes
+00120D33: Bulk Tranquilitea Lemon
+0012A05C: Theodolite
+0012A05D: Spyglass
+0012A05E: Spyglass Case
+0012A060: Sundial
+0012A061: Antique Submarine Clock
+0012A062: Sextant
+0012A063: Traditional Microscope
+0012A064: Fancy Compass
+0012A065: Nautical Compass
+0012A066: Mariner's Compass
+0012A067: Binoculars
+0012AA78: Pamphlet Holder
+0012AA79: Bell
+0012AB65: Funky Sphere Sculpture
+0012B4F7: E-Pipe
+0012B4F8: E-Pipe
+0012B4F9: Triangular Organizer
+0012B4FA: Stylized Desk Fan
+0012C68E: Playing Card - Jack of Hearts
+0012C68F: Deck of Cards
+0012C6CD: Space Rock Display
+0012C6CF: Double Bone Horn
+0012C9F0: Desktop Digiframe
+0012D060: Pen
+0012D062: Tablet
+0012D93E: Ornate Startar
+0012D940: Wooden Face Sculpture
+0012D94A: Gold Pyramid Sculpture
+0012D94C: Scroll Holder
+0012DFFC: Plushie Parsecpooch
+0012DFFD: Plushie Galacticat
+0012E1A9: Desktop Speakers
+0012E1AD: Hourglass
+0012E1AF: Personal Groomer
+0012E1B1: Street Java Coffee Cup
+0012E5A4: Old Earth Flip Lighter
+0012E983: Levitating Desk Planet
+0012F0F8: Desktop Sundial
+0012F0FA: Decorative Pendulum
+0012F0FC: Art Deco Sun Sculpture
+0012F0FE: Planetary System Sculpture
+0012F100: Desktop Mask Decoration
+0012F103: Quick Boil Coffee Brewer
+0012F104: Coffee Glass
+0012F106: Exotic Bottle
+00133365: Foam Cup
+00133366: Synthefoam Container
+00133367: Food Tray
+00133D11: Note Pads
+00133D12: Note Pads
+00133D13: Note Pads
+00133D14: Note Pads
+001344D8: Mr. Sood's Package
+001346D9: Tranquilitea Lemon Pack
+00134BB9: Wooden Puzzle Box
+00136DBE: Jam Jar
+00136DBF: Small Jam Jar
+0013704C: Moonshine Thermometer
+0013704D: Moonshine Pot Lid
+0013704E: Moonshine Pot
+00137050: Liquor Jug
+00137051: Small Moonshine Jug
+00137052: Large Moonshine Jug
+00138F2F: Bowl
+00139E6B: Ancient Branch
+0013BD9C: Chasmbass Oil
+0013F2FB: Bar Spoon
+0013F2FC: Bar Spoon
+0013F2FD: Bar Spoon
+0013F2FE: Bottle Opener
+0013F2FF: Cocktail Muddler
+0013F300: Jigger
+0013F301: Jigger
+0013F302: Jigger
+0013F303: Cocktail Shaker Lid
+0013F304: Cocktail Shaker Strainer
+0013F305: Cocktail Shaker
+0013F306: Sealed Cocktail Shaker
+0013F307: Cocktail Strainer
+0013F74D: Corkscrew
+001401D8: Sand Garden Tool
+001401DD: Origami Sculpture
+001401DF: Desktop Soil Bowl
+001401E1: Newton's Cradle
+001401EC: Pencil Case
+001401EE: My Friend Wilby
+001401F3: Incense Burner
+001401F5: Document Tray
+001401F7: Desktop Paper Tray
+001401F9: Old Earth Baseball
+001401FB: Humidifier
+00140202: Personal Digiframe
+0014020A: Desktop Sand Garden
+0014020C: Soil Box
+0014020E: Sand Pendulum
+00140210: Exotic Wood Decoration
+00140212: Desktop Geode Sculpture
+00140215: Desktop Fish Bowl
+00140217: Desktop Sphere Toy
+00140219: Desktop Globe Sculpture
+0014021B: Cube
+0014021D: Lamp Planter
+0014021F: Sand Sculpture
+00140220: Microfloater Terrarium
+0014022D: Eggmund Desk Assistant
+00140985: Alexis' Coffee
+00140986: Linden's Coffee
+00140987: Genevieve's Coffee
+00140988: Imogene's Coffee
+00140989: Camden's Coffee
+001434EB: Ryujin Internal Neuroamp
+001434EC: Internal Neuroamp Prototype
+0014486A: Display Projector
+0014B8F5: Yellow Plant Vase
+0014B8F6: Mustard Plant Vase
+0014B8F7: Green Plant Vase
+0014B8F8: Blue Plant Vase
+0014B8F9: Yellow Xenoflower Vase
+0014B8FA: Mustard Xenoflower Vase
+0014B8FB: Green Xenoflower Vase
+0014B8FC: Blue Xenoflower Vase
+0014B8FD: Yellow Fluted Vase
+0014B8FE: Mustard Fluted Vase
+0014B8FF: Green Fluted Vase
+0014B900: Blue Fluted Vase
+0014B901: Yellow Olpe Vase
+0014B902: Mustard Olpe Vase
+0014B903: Green Olpe Vase
+0014B904: Blue Olpe Vase
+0014B906: Yellow Microvase
+0014B908: Mustard Microvase
+0014B910: Green Microvase
+0014B911: Blue Microvase
+0014B93D: Right Slipper
+0014B93E: Left Slipper
+0015148A: Stylized Desk Fan
+00153DA4: Empty Priority Package
+00155678: General Supply Crate
+0015567C: Xenowarfare Tech
+0015567D: Va'ruun Heretic Writings
+0015567E: Harvested Organs
+0015567F: Stolen Artwork
+00155680: Sentient AI Adapters
+00155681: Mech Components
+00155682: Black Market Antiquities
+001557F5: Tranquilitea Earl Grey Pack
+001557FD: Tranquilitea Dynastic Pack
+00155985: Deployment Deck
+0015C44A: Burkina Faso Bobo Mask
+0015C504: Tea Pot
+0015C505: Tea Cup
+0015FD72: Steel Cup
+0015FD74: Canteen
+0015FD76: Steel Bottle
+0015FD79: Sports Bottle
+00160E9F: Lamp
+00160EA0: Lamp
+00162A08: Case T-18: Terrormorphs
+00162A1C: Varuun Biometric Key
+00162A1D: Freestar Biometric Key
+0016B4D3: Derelict Ship Flight Data
+0016D4C6: Va'ruun Archival Code
+0016D4C8: UC Archival Code
+0016D4C9: Freestar Archival Code
+0017159D: Barrett's Commitment Gift
+00178DAA: Ping Pong Ball
+00178DAB: Yellow Ping Pong Paddle
+00179537: Smiling Ping Pong Ball
+00179958: Party Cup
+0017995E: Party Cup
+0017AF77: My Friend Wilby
+0017AF7C: My Friend Wilby
+0017AF7E: My Friend Wilby
+0017C04C: Sarah's Commitment Gift
+0017C04D: Sam's Commitment Gift
+00182C5F: Triple Grip Dumbbell
+00185A5E: Metal Plate
+001863C0: Vial
+001863C1: Scientific Sample
+001863C2: Vial
+001876AF: Recruitment Materials
+00188248: Tranquilitea Chamomile Pack
+0018A86B: Bogdonov's Boutique Liquor (Box Set)
+0018B5F6: Internal Neuroamp Prototype
+00190D40: Syringe
+00190D41: Syringe
+00190D42: Swab Container
+00190D43: Swabs
+00190D44: Scissors
+00190D45: Scissors
+00190D46: Scissors
+00190D47: Scalpel
+00190D48: Retractor
+00190D4A: Lid
+00190D4B: Kidney Dish
+00190D4C: Lid
+00190D4D: Kidney Dish
+00190D4E: Lid
+00190D4F: Kidney Dish
+00190D51: Surgical Bowl
+00190D52: Surgical Bowl
+00191226: Game Piece - Shadowqueen
+0019122C: Symbol Game Mat
+0019122D: Game Piece - Snowlord
+00191232: Red-Flighted Dart
+00191234: Yellow-Flighted Dart
+00191235: Blue-Flighted Dart
+00198EAA: Antique Earth CD Player
+0019A689: Notebook
+0019A6A5: Notebook
+0019B4D4: Ping Pong Ball
+0019B4D5: Red Ping Pong Paddle
+0019F5DE: Foam Cup
+001A03BE: Right Slipper
+001A03BF: Left Slipper
+001A525D: Keoni's Sensor
+001A7274: Left Easyslip Shoe
+001A7275: Right Easyslip Shoe
+001AC09E: Antique Piggy Bank
+001AF661: Empty Chunks Packaging
+001AF662: Baking Pan
+001B0680: Crate of Stolen Artwork
+001B0681: Crate of Black Market Antiquities
+001B0682: Crate of Sentient AI Adapters
+001B170A: Crate of Xenowarfare Tech
+001B170B: Crate of Harvested Organs
+001B170C: Crate of Va'ruun Heretic Writings
+001B170D: Crate of Mech Components
+001B1DCD: Crate of Aurora
+001B6159: Medical Supplies
+001BAF89: Note Pad
+001C0E9B: Soccer Ball Display
+001C34C6: Vase
+001C68F3: Lost Slate
+001C68F4: Lost Room Keycard
+001C68F5: Lost Wedding Ring
+001C68F6: Lost Thermos
+001C761E: Air Purifier Parts
+001D8FED: Updated Overseer Program
+001DFC9F: Brochure
+001DFCA0: Brochure
+001DFCA1: Brochure
+001DFCA2: Brochure
+001DFCA4: Brochure
+001DFCA7: Brochure
+001E61D4: Marker
+001E61D5: Marker
+001E61D6: Marker
+001E61D7: Marker
+001E61D8: Marker
+001E61D9: Marker
+001E61DA: Marker
+001E61DB: Marker
+001E70FA: UC Security Keycard
+001E78FB: Vae Victis Poster
+001E79B0: Cell Sample
+001EA1F1: Aurora Stash
+001EB3B3: Note Pad
+001EB3B4: Note Pad
+001EB3B5: Note Pad
+001EB3B6: Folder
+001EB3B7: Folder
+001EB44A: Pen
+001EB44B: Pen
+001EB5F5: Robotics Part
+001EC311: Maddie's Ring
+001F003B: Fire Extinguisher
+001F115B: Paper Airplane
+001F2582: GalBank Data Core
+001F2583: GalBank Data Core
+001F2ACA: Alien Trilobyte Display
+001F2ACB: Encased Alien Trilobyte
+001F2ACF: Empty Stadium Display
+001F2AD2: Nosegrub Paperweight
+001F2AD3: Eargrub Paperweight
+001F2AD6: Insectoid Paperweight
+001F2AD8: Alien Bug Paperweight
+001F2ADC: Empty Half-Globe Display
+001F2ADF: Eargrub Display
+001F2AE0: Nosegrub Display
+001F2AE3: Alien Tick Display
+001F2AE7: Alien Critter Display
+001F2AEA: Empty Desktop Display
+001F2AF0: Sculpture
+001F2AF1: Sculpture
+001F2AF2: Sculpture
+001F2AF3: Sculpture
+001F2AF7: Sculpture
+001FA786: Kitchen Tea Steeper
+001FAC99: Encrypted Files
+001FB79A: Nyx's Program: Rover
+001FBDF3: Storage Container
+001FBDF4: Container Lid
+001FBDF5: Sealed Container
+001FBDF6: Opened Container
+001FF6B6: Empty Planter
+001FF6BB: Succulent
+001FF6BC: Succulent
+001FF6BD: Succulent
+001FF6BE: Succulent
+001FF6C1: Succulent
+001FF6C2: Succulent
+001FF6C4: Succulent
+001FF6C6: Succulent
+001FFC86: Plunger
+001FFC87: Plunger
+002009C7: Succulent
+002009D0: Blender Jar
+002009D1: Blender Base
+002009D2: Blender Lid
+00202F30: Cylindrical Glass
+00203EB0: Veryl-Treated Manifold
+00203EB3: Vytinium Fuel Rod
+00203EBD: Veryl Explosive
+002060EA: Metamorphed Tissue Sample
+00206108: Anomalous Sample
+00206109: Aceles Gene Sample (Alpha)
+00207F1B: Tissues
+002097E4: Cement Bucket
+00209FEC: Screwdriver
+00209FED: Ratchet
+00209FEE: Pliers
+00209FEF: Tape Measure
+00209FF0: Hammer
+00209FF1: Caliper
+00209FF2: Chisel
+00209FF3: Chisel
+00209FF4: Chisel
+0020B97C: Wrench
+0020B97D: Vice Grip
+0020B97E: Screwdriver
+0020B97F: Hose Clamp Pliers
+0020B980: Cutting Pliers
+0020B981: Pipe Wrench
+0020B982: Bubble Level
+0020B983: Hydraulic Clamp
+0020B984: Hydraulic Clamp
+0020B985: Hammer
+0020B986: Wrench
+002120B3: Tablet
+002120B5: Teal Stylus
+002120B6: Red Stylus
+002120B7: Gray Stylus
+002120B8: Blue Stylus
+002120B9: Yellow Stylus
+002120BA: Black Stylus
+00216F85: Artifact XI
+00216F86: Artifact THETA
+00216F87: Artifact TAU
+00216F88: Artifact SIGMA
+00216F89: Artifact RHO
+00216F8A: Artifact PSI
+00216F8B: Artifact PI
+00216F8C: Artifact PHI
+00216F8D: Artifact OMICRON
+00216F8E: Artifact OMEGA
+00216F8F: Artifact NU
+00216F90: Artifact MU
+00216F91: Artifact LAMBDA
+00216F92: Artifact KAPPA
+00216F93: Artifact IOTA
+00216F94: Artifact GAMMA
+00216F95: Artifact ETA
+00216F96: Artifact EPSILON
+00216F97: Artifact DELTA
+00216F98: Artifact CHI
+00216F99: Artifact BETA
+00216F9A: Artifact ZETA
+00216F9B: Artifact ALPHA
+00216F9C: Artifact UPSILON
+00218297: Crate of Vegetables
+00218298: Crate of Unusual Wines
+00218299: Crate of Ultra Reflective Mirrors
+0021829A: Crate of Ultra Light Frames
+0021829B: Crate of Ultra Batteries
+0021829C: Crate of Telemetry Processors
+0021829D: Crate of Synthetic Vaccines
+0021829E: Crate of Synthetic Synapses
+0021829F: Crate of Super Luminescent Dye
+002182A0: Crate of Specialty Crops
+002182A1: Crate of Smart Sensors
+002182A2: Crate of Signal Amplifiers
+002182A3: Crate of Robotic Inverters
+002182A4: Crate of Recursion Modules
+002182A5: Crate of Reactive Paints
+002182A6: Crate of Radiological Amplifers
+002182A7: Crate of Psychoactive Spices
+002182A8: Crate of Protein Delicacies
+002182A9: Crate of Preservative
+002182AA: Crate of Polysensorial Art
+002182AB: Crate of Photovoltaic Cells
+002182AC: Crate of Parcels and Mail
+002182AD: Crate of Organic Mortar
+002182AE: Crate of Optical Resonators
+002182AF: Crate of Neocranial Probes
+002182B0: Crate of Nanobots
+002182B1: Crate of Monofilament Drill Bits
+002182B2: Crate of Micro Motors
+002182B3: Crate of Micro Drones
+002182B4: Crate of Medical Scanners
+002182B5: Crate of Meat Byproducts
+002182B6: Crate of Low-K Superconductors
+002182B7: Crate of LED Illuminators
+002182B8: Crate of Laser Diodes
+002182B9: Crate of Integrity Response Drones
+002182BA: Crate of Integrated Circuits
+002182BB: Crate of Inertial Batteries
+002182BC: Crate of Industrial Masers
+002182BD: Crate of Heat Sinks
+002182BE: Crate of Hazmat Detectors
+002182BF: Crate of Guidance Systems
+002182C0: Crate of Grain
+002182C1: Crate of Geothermal Probes
+002182C2: Crate of Fruits
+002182C3: Crate of Frozen Meat
+002182C4: Crate of Fermented Brews
+002182C5: Crate of Exotic Liquors
+002182C6: Crate of Exotic Furniture
+002182C7: Crate of Electro-Plated Wafers
+002182C8: Crate of Electrolytic Substrates
+002182C9: Crate of Disinfectants
+002182CA: Crate of Hygiene Products
+002182CB: Crate of Choice Meat Cuts
+002182CC: Crate of Cherenkov Converters
+002182CD: Crate of Cellular Inhibitors
+002182CE: Crate of Catalysts
+002182CF: Crate of Broadcast Nodes
+002182D0: Crate of Assorted Jewelry
+0021952C: Chunks Special Sauce
+0021B7F6: Bowl
+0021B7F7: Utensil Holder
+0021B7F8: Bowl
+0021B7F9: Pestle
+0021B7FA: Tray
+0021B7FB: Mortar
+0021B7FC: Ladle
+0021B7FD: Spatula
+002266DB: Red Harvest Reserve
+0022BDEF: Wooden Duck
+0022BDF5: Baseball Display
+0022BDF8: Basketball Display
+0022D401: Probe Control Unit
+0022EF02: Medical Supplies
+00231333: Genetag: Sanon
+0023510A: Soccer Ball
+00235922: Peter Brennan's Package
+0023F7E7: Stack of Space Frog Drawings
+002407DA: Test 3
+002407DB: Test 2
+002407DC: Test 1
+00246B5A: Stochastic Emitter
+00246B5B: Quasi-neutralizer
+00246B5D: Plasma Igniter
+00246B5E: Neutral Capacitor
+00246B60: Thread-Logic Circuit
+00246B61: Helical Equalizer
+00246B62: Gravity Inducer
+00246B63: Electron Pump
+00246B67: Vac Grade Explosive
+00246B6B: Stimulated Shielding
+00246B6E: Regenerative Illuminator
+00246B78: Gravitic Laminate
+00246B7A: Deformable Nozzle
+00246B7C: Austenitic Manifold
+00248C06: UC Science Division ID: Orlase
+0024F5BF: Antimicrobial (Tissue)
+0024F5C0: Antimicrobial (Hide)
+0024F5C1: Antimicrobial (Vital Fluids)
+0024F5C2: Nutrient (Tissue)
+0024F5C3: Fiber (Tissue)
+0024F5C4: Fiber (Hide)
+0024F5C5: Toxin (Tissue)
+0024F5C6: Toxin (Vital Fluids)
+0024F848: Case T-18: Terrormorphs
+0025152F: Folder
+00252010: Microscope
+00252256: Medical Sample Tray
+00256B12: TerraBrew Cup
+00256B13: TerraBrew Lid
+00256B14: TerraBrew Cup Carrier
+00256B15: TerraBrew To Go Cup
+00257EB8: Aqueous Hematite Data
+0025A922: Volleyball
+0025CF03: Sealed Meal Tray
+0025CF04: Meal Tray Lid
+0025CF05: Meal Tray
+0025CF06: Meal Tray Three-Stack
+00260BF2: Solvent (Stalk)
+00260BF3: Solvent (Seed)
+00260BF4: Solvent (Sap)
+00260BF5: Solvent (Root)
+00260BF6: Solvent (Leaf)
+00260BF7: Solvent (Flower)
+00260BFF: Polymer (Stalk)
+00260C1C: Polymer (Seed)
+00260C2D: Polymer (Sap)
+00260C36: Polymer (Root)
+00260C38: Polymer (Leaf)
+00260C3B: Polymer (Flower)
+00260C3C: Stimulant (Stalk)
+00260C3E: Stimulant (Seed)
+00260C3F: Stimulant (Sap)
+00260C5C: Stimulant (Root)
+00260C62: Stimulant (Leaf)
+00260C66: Stimulant (Flower)
+00260C74: Lubricant (Stalk)
+00260C79: Lubricant (Seed)
+00260CB6: Lubricant (Sap)
+00260CE2: Lubricant (Root)
+00260D0A: Lubricant (Leaf)
+00260D0B: Lubricant (Flower)
+00260D0C: Hypercatalyst (Stalk)
+00260D25: Hypercatalyst (Seed)
+00260D30: Hypercatalyst (Sap)
+00260D5F: Hypercatalyst (Root)
+00260D60: Hypercatalyst (Leaf)
+00260D61: Hypercatalyst (Flower)
+00260D62: Biosuppressant (Stalk)
+00260D63: Biosuppressant (Seed)
+00260D64: Biosuppressant (Sap)
+00260D65: Biosuppressant (Root)
+00260D66: Biosuppressant (Leaf)
+00260D67: Biosuppressant (Flower)
+00260D68: Structural (Leaf)
+00260D69: Structural (Root)
+00260D6A: Structural (Stalk)
+00260D6B: Sedative (Stalk)
+00260D6C: Sedative (Seed)
+00260D6D: Sedative (Sap)
+00260D6E: Sedative (Root)
+00260D6F: Sedative (Leaf)
+00260D70: Sedative (Flower)
+00260D71: Hallucinogen (Stalk)
+00260D72: Hallucinogen (Seed)
+00260D73: Hallucinogen (Sap)
+00260D74: Hallucinogen (Root)
+00260D75: Hallucinogen (Leaf)
+00260D76: Hallucinogen (Flower)
+00260D77: Analgesic (Stalk)
+00260D78: Analgesic (Seed)
+00260DAC: Analgesic (Sap)
+00260DAD: Analgesic (Root)
+00260DAE: Analgesic (Leaf)
+00260DAF: Analgesic (Flower)
+00260DB0: Amino Acids (Stalk)
+00260DB1: Amino Acids (Seed)
+00260DB2: Amino Acids (Sap)
+00260DB3: Amino Acids (Root)
+00260DB4: Amino Acids (Leaf)
+00260DB5: Amino Acids (Flower)
+00260DB6: Adhesive (Stalk)
+00260DB7: Adhesive (Seed)
+00260DB8: Adhesive (Sap)
+00260DB9: Adhesive (Root)
+00260DBA: Adhesive (Leaf)
+00260DBB: Adhesive (Flower)
+00260DBC: Spice (Stalk)
+00260DBD: Spice (Seed)
+00260DBE: Spice (Sap)
+00260DBF: Spice (Root)
+00260DC0: Spice (Leaf)
+00260DC1: Spice (Flower)
+00260DC2: Sealant (Stalk)
+00260DC3: Sealant (Seed)
+00260DC4: Sealant (Sap)
+00260DC5: Sealant (Root)
+00260DC6: Sealant (Leaf)
+00260DC7: Sealant (Flower)
+00260DC8: Pigment (Stalk)
+00260DC9: Pigment (Seed)
+00260DCA: Pigment (Sap)
+00260DCB: Pigment (Root)
+00260DCC: Pigment (Leaf)
+00260DCD: Pigment (Flower)
+00260DCE: Membrane (Stalk)
+00260DCF: Membrane (Root)
+00260DD0: Membrane (Leaf)
+00260DD1: Membrane (Flower)
+00260DD2: Cosmetic (Stalk)
+00260DD3: Cosmetic (Seed)
+00260DD4: Cosmetic (Sap)
+00260DD5: Cosmetic (Root)
+00260DD6: Cosmetic (Leaf)
+00260DD7: Cosmetic (Flower)
+00260DD8: Aromatic (Seed)
+00260DD9: Aromatic (Sap)
+00260DDA: Aromatic (Root)
+00260DDB: Aromatic (Leaf)
+00260DDC: Aromatic (Flower)
+00260DDD: Toxin (Seed)
+00260DDE: Toxin (Sap)
+00260DDF: Toxin (Root)
+00260DE0: Toxin (Leaf)
+00260DE1: Toxin (Flower)
+00260DE2: Ornamental (Stalk)
+00260DE3: Ornamental (Seed)
+00260DE4: Ornamental (Sap)
+00260DE5: Ornamental (Root)
+00260DE6: Ornamental (Leaf)
+00260DE7: Ornamental (Flower)
+00260DE8: Metabolic Agent (Seed)
+00260DE9: Metabolic Agent (Sap)
+00260DEA: Metabolic Agent (Root)
+00260DEB: Metabolic Agent (Leaf)
+00260DEC: Metabolic Agent (Flower)
+00260DED: Metabolic Agent (Stalk)
+00260DEE: Fiber (Leaf)
+00260DEF: Fiber (Stalk)
+00260DF0: Fiber (Root)
+00260DF1: Nutrient (Stalk)
+00260DF2: Nutrient (Seed)
+00260DF3: Nutrient (Sap)
+00260DF4: Nutrient (Root)
+00260DF5: Nutrient (Leaf)
+00260DF6: Nutrient (Flower)
+00260DF7: Antimicrobial (Sap)
+00260DF8: Antimicrobial (Seed)
+00260DF9: Antimicrobial (Leaf)
+00260DFA: Antimicrobial (Root)
+00260DFB: Antimicrobial (Flower)
+00260DFC: Antimicrobial (Stalk)
+00260F37: Surgical Tray
+00261256: Solvent (Tissue)
+00261257: Solvent (Gland)
+00261258: Solvent (Vital Fluids)
+00261259: Polymer (Tissue)
+0026125A: Polymer (Hide)
+0026125B: Polymer (Gland)
+0026125C: Polymer (Vital Fluids)
+0026125D: Polymer (Carapace)
+0026125E: Polymer (Bone)
+0026125F: Stimulant (Tissue)
+00261260: Stimulant (Gland)
+00261261: Stimulant (Hide)
+00261262: Stimulant (Vital Fluids)
+00261263: Stimulant (Carapace)
+00261264: Stimulant (Bone)
+00261265: Lubricant (Tissue)
+00261266: Lubricant (Hide)
+00261267: Lubricant (Gland)
+00261268: Lubricant (Vital Fluids)
+00261269: Hypercatalyst (Tissue)
+0026126A: Hypercatalyst (Hide)
+0026126B: Hypercatalyst (Gland)
+0026126C: Hypercatalyst (Vital Fluids)
+0026126D: Hypercatalyst (Carapace)
+0026126E: Biosuppressant (Tissue)
+0026126F: Hypercatalyst (Bone)
+00261270: Biosuppressant (Hide)
+00261271: Biosuppressant (Gland)
+00261272: Biosuppressant (Vital Fluids)
+00261273: Biosuppressant (Carapace)
+00261274: Biosuppressant (Bone)
+00261275: Structural (Hide)
+00261276: Structural (Carapace)
+00261277: Structural (Bone)
+00261278: Sedative (Tissue)
+00261279: Sedative (Hide)
+0026127A: Sedative (Gland)
+0026127B: Sedative (Vital Fluids)
+0026127C: Sedative (Carapace)
+0026127D: Sedative (Bone)
+0026127E: Hallucinogen (Tissue)
+0026127F: Hallucinogen (Hide)
+00261280: Hallucinogen (Gland)
+00261281: Hallucinogen (Vital Fluids)
+00261282: Hallucinogen (Carapace)
+00261283: Hallucinogen (Bone)
+00261284: Analgesic (Tissue)
+00261285: Analgesic (Hide)
+00261286: Analgesic (Gland)
+00261287: Analgesic (Vital Fluids)
+00261288: Analgesic (Carapace)
+00261289: Analgesic (Bone)
+0026128A: Amino Acids (Tissue)
+0026128B: Amino Acids (Hide)
+0026128C: Amino Acids (Gland)
+0026128D: Amino Acids (Vital Fluids)
+0026128E: Amino Acids (Carapace)
+0026128F: Amino Acids (Bone)
+00261290: Adhesive (Vital Fluids)
+00261291: Adhesive (Tissue)
+00261292: Adhesive (Hide)
+00261293: Adhesive (Gland)
+00261294: Adhesive (Carapace)
+00261295: Adhesive (Bone)
+00261296: Spice (Tissue)
+00261297: Spice (Hide)
+00261298: Spice (Gland)
+00261299: Spice (Vital Fluids)
+0026129A: Spice (Carapace)
+0026129B: Spice (Bone)
+0026129C: Sealant (Gland)
+0026129D: Sealant (Carapace)
+0026129E: Pigment (Tissue)
+0026129F: Pigment (Hide)
+002612A0: Pigment (Gland)
+002612A1: Pigment (Vital Fluids)
+002612A2: Pigment (Carapace)
+002612A3: Pigment (Bone)
+002612A4: Membrane (Tissue)
+002612A5: Membrane (Hide)
+002612A6: Membrane (Gland)
+002612A7: Membrane (Carapace)
+002612A8: Cosmetic (Tissue)
+002612A9: Cosmetic (Hide)
+002612AA: Cosmetic (Gland)
+002612AB: Cosmetic (Vital Fluids)
+002612AC: Cosmetic (Carapace)
+002612AD: Cosmetic (Bone)
+002612AE: Aromatic (Hide)
+002612AF: Aromatic (Carapace)
+002612B0: Aromatic (Vital Fluids)
+002612B1: Aromatic (Tissue)
+002612B2: Aromatic (Gland)
+002612B3: Aromatic (Bone)
+002612B4: Toxin (Hide)
+002612B5: Toxin (Gland)
+002612B6: Toxin (Carapace)
+002612B7: Toxin (Bone)
+002612B8: Ornamental (Tissue)
+002612B9: Ornamental (Gland)
+002612BA: Ornamental (Hide)
+002612BB: Ornamental (Vital Fluids)
+002612BC: Ornamental (Carapace)
+002612BD: Ornamental (Bone)
+002612BE: Metabolic Agent (Hide)
+002612BF: Metabolic Agent (Gland)
+002612C0: Metabolic Agent (Carapace)
+002612C1: Metabolic Agent (Bone)
+002612C2: Fiber (Bone)
+002612C3: Fiber (Carapace)
+002612C4: Nutrient (Carapace)
+002612C5: Nutrient (Gland)
+002612C6: Nutrient (Bone)
+002612C7: Antimicrobial (Carapace)
+002612C8: Antimicrobial (Bone)
+002612C9: Antimicrobial (Gland)
+0026175F: Aurora Sample
+00265AD6: Vial
+00265AD7: Vial
+00265AD8: Vial
+00265AD9: Vial
+00265ADA: Beaker
+00265ADB: Bottle
+00265ADC: Erlenmeyer Flask
+00265ADD: Funnel
+00265ADE: Graduated Cylinder
+00265ADF: Graduated Cylinder
+00265AE0: Vial
+00265AF7: Beaker Tongs
+00265AF9: Vial
+00265AFC: Vial
+00265AFD: Bottle
+00265B01: Vial
+0026B040: Bio-Sensor
+0026B042: Bio-Sensor
+0026B050: Package for Nyssa
+0026D851: Refined Rothicite Shipment
+0026E2CF: Hypno Art Lamp
+0026E2D1: AI Control Board
+0026E41C: Pool Ball - 2
+0026E41D: Pool Ball - 1
+0026E41E: Pool Ball - 3
+0026E41F: Pool Ball - 4
+0026E420: Pool Ball - 5
+0026E421: Pool Ball - 6
+0026E422: Pool Ball - 7
+0026E423: Pool Ball - 8
+0026E424: Pool Ball - 9
+0026E425: Pool Ball - 10
+0026E426: Pool Ball - 11
+0026E427: Pool Ball - 12
+0026E428: Pool Ball - 13
+0026E429: Pool Ball - 14
+0026E42A: Pool Ball - 15
+0026E42B: Cue Ball
+0026E4EE: Tea Cup
+0026E4EF: Tea Cup
+0026E4F0: Small Fancy Dispenser
+0026E4F1: Jar
+0026E4F2: Jar
+0026E4F3: Jar
+0026E4F4: Jar
+0026E4F5: Tea Pot
+0026FF8D: Terrormorph Cell Sample
+00270224: UC Military Genetag
+002733BD: Dauntless Crew Genetag
+002733C2: Dauntless Power Cell
+00273C01: Prime Meat
+00278A15: Comms Repair Suite
+0028B085: Pill Bottle
+0028B08A: Tweezers
+0028B08C: Tweezers
+0028B08F: Medical Injector
+0028B11D: Cosmetics Supply Box
+0028B123: Skin Cream Bottle
+0028B23E: Cafeteria Tray
+0028B376: Wire Spool
+0028E7AB: Tranquilitea Breakfast Pack
+0028E7AC: Tranquilitea Classic Pack
+0029A417: Malfunctioning Engine
+0029D022: Aqueous Hematite
+0029F3F6: Nutrient (Hide)
+0029F3F7: Nutrient (Vital Fluids)
+0029F3F8: Metabolic Agent (Tissue)
+0029F3F9: Metabolic Agent (Vital Fluids)
+0029F409: Neurologic
+002A3906: Prototype Schematic
+002A4B9E: Solomon's Maps
+002A82EB: ARC Device
+002AAC25: Nina's Presentation (Fake)
+002AAC2C: Nina's Presentation
+002AB397: Sealant (Hide)
+002AB398: Sealant (Vital Fluids)
+002AB399: Sealant (Tissue)
+002AC1C9: Marker
+002AC1CB: Folder
+002AC1F0: Plant
+002AC1F1: Plant
+002AC1F2: Plant
+002AC1F4: Electric Tea Pot
+002AC1F6: Pitcher
+002AC1FA: Grinder Lid
+002AC1FB: Grinder
+002AC1FC: Grinder
+002AC1FE: Oven Mitt
+002AC200: Scissors
+002AC205: Opened Container
+002AC206: Container Lid
+002AC207: Sealed Container
+002AC20C: Container Lid
+002AC20D: Sealed Container
+002AC20E: Opened Container
+002AC212: Bowl
+002AC213: Bowl
+002AC214: Bowl Lid
+002AC216: Dishrag
+002AC95C: Staple Gun
+002AC95D: Utility Knife
+002AC95E: Bolt Cutter
+002AC95F: Vacuum Tape
+002AC960: Clamp
+002AC961: Hammer
+002B0668: Mixing Bowl
+002B066A: Mixing Bowl
+002B066D: Pot Lid
+002B066E: Pot
+002B0675: Pan Lid
+002B0676: Pan
+002B0677: Pot Lid
+002B0678: Pot
+002B0679: Pot Lid
+002B067A: Pot
+002B182A: Cutting Board
+002B182C: Cutting Board
+002B182E: Cutting Board
+002B1830: Mixing Bowl
+002B1834: Utensil Tray
+002B185D: Crystal Desk Phial
+002B185E: Small Crystal Desk Phial
+002B1860: Vase
+002B1862: Vase
+002B1864: White Microvase
+002B1866: White Olpe Vase
+002B1868: White Fluted Vase
+002B186A: White Xenoflower Vase
+002B186C: White Plant Vase
+002B186E: Thermos
+002B1871: Desktop Organizer
+002B1873: Pencil Holder
+002B18A2: Soap Dispenser
+002B18A4: Tissues
+002B18AC: Portable Desk Fan
+002B6534: Starlocked Board Game
+002B6537: Solar Frontiers Game
+002BA8AD: Security Keycard
+002BE5ED: Dishrag
+002C2531: Confidential Files
+002C56C6: Unmarked Data Slate
+002C9BCD: TerraBrew Order
+002CE19C: Mech Scrap Parts
+002D0628: Game Piece - Defender
+002D0629: Game Piece - Assaulter
+002D261E: IntelliWheat Delivery
+002E01CD: Hookah Canister
+002E01CE: Hookah Canister
+002E01CF: Hookah Canister
+002E01D0: Hookah Canister
+002E025A: Empty Hookah Canister
+002E025B: Hookah Hose
+002F7481: Coffee Mug
+002F7482: Coffee Mug
+002F7483: Coffee Mug
+002F7484: Coffee Mug
+002F7485: Coffee Mug
+002F7486: Coffee Mug
+002F7487: Coffee Mug
+002F7488: Coffee Mug
+002F7489: Coffee Mug
+002F748A: Coffee Mug
+002F748B: Coffee Mug
+002F748C: Coffee Mug
+002F748D: Coffee Mug
+002F748E: Coffee Mug
+002F748F: Coffee Mug
+002F7490: Coffee Mug
+002F7491: Coffee Mug
+002F7492: Coffee Mug
+002F749D: Coffee Mug
+002F74A1: Coffee Mug
+00302791: Heart Of Mars
+00305920: Pen
+00307A59: Pamphlet
+00307A69: Pamphlet
+003087D9: Snow Globe
+003087DA: Snow Globe
+00309DA0: Garden Trowel
+00309DA1: Trowel
+00309DA2: Trowel
+0030B894: Tracking Sensor
+003402A6: Neshar's Package
+0034D589: Yannick's Package
+0036CCEF: Antique Computer
+0036CCF0: Antique Earth Baseball
+0036CCF1: Antique Earth Basketball
+0036CCF2: Antique Earth Hockey Stick
+0036CCF3: Antique Earth Soccer Ball
+0036CCF4: Antique Earth Duck Figure
+0037E1BC: Cydonia Resident's ID Card
+00383BB1: Harvey
+0038A4CD: Desktop Globe
+003A85F4: Planter
+003B6F89: Xenofresh Container
+003C17B2: Circuit Board
+003C17B4: Circuit Board
+003C17B5: Circuit Board
+003C17B6: Circuit Board
+003C17B7: Circuit Board
+003C184F: Circuit Board
+003C1869: Circuit Board
+003C1878: Circuit Board
+003C1879: Circuit Board
+003C187A: Circuit Board
+003C18B0: Circuit Board
+003C18BF: High-Speed Data Cable
+003C18C2: High-Speed Data Cable
+003C18C6: High-Speed Data Cable
+003E498A: Empty Beer Bottle
+
+#SHIPS#
+003A2E59: Asphalt CB
+003A2E57: Asphalt CB II
+003A2E55: Asphalt CB III
+0038D65C: Autobahn
+0038D65A: Autobahn II
+0038D658: Autobahn III
+003A2DFF: Babylon
+003A2DFD: Babylon II
+003E60E3: Big Rig
+003E60E5: Big Rig II
+0002C24B: Blackhawk
+0002C24F: Blackhawk II
+0002C251: Blackhawk III
+003A2E29: Caravan
+003A2E27: Caravan II
+003A2E25: Caravan III
+003A2E53: Carry ALL
+003A2E51: Carry ALL II
+003A2E4F: Carry ALL III
+0038D656: Civshuttle
+0038D654: Civshuttle II
+0038D652: Civshuttle III
+0002C2C2: Conqueror
+0002C2CA: Conqueror II
+0002C302: Conqueror III
+003A2E17: Crossbow
+003A2E15: Crossbow I
+003A2E13: Crossbow III
+002E7461: Discovery
+000B196D: Dolphin
+0002C3C2: Dolphin II
+003A2E11: Dragonfire
+003A2E0F: Dragonfire II
+003A2E0B: Dullahan
+003A2E09: Dullahan II
+003A2E07: Dullahan III
+000D5578: Econohaul
+003E60E9: Econohaul II
+001BE87D: Endeavor
+001BE87F: Endeavor II
+001BE881: Endeavor III
+000B196B: Falcon
+0002C6D2: Falcon II
+0002C711: Falcon III
+FF00EB29: Frontier
+FF0047B5: Galileo
+002EF772: Galileo II
+0004239D: Galileo III
+0004239F: Generic Citizen F02
+000CA4F7: Generic Citizen F03
+000CA4F9: Generic Citizen F05
+002EB24D: Generic Citizen F10
+002EB24F: Generic Citizen FEven Toned Template
+000CA4F3: Generic Citizen FRough
+000CA4F5: Generic Citizen M01
+000CA4FF: Generic Citizen M06
+000CA501: Generic Citizen M07
+002EB251: Generic Citizen M08
+002EB253: Generic Citizen MEven Toned
+000CA4FB: Generic Citizen MRough
+000CA4FD: Hammerhead
+000B1969: Hammerhead II
+0002C723: Helix
+001DE40C: Helix I
+000F509F: Helix II
+000F50C0: Helix I
+000F50A0: Highlander
+003A2DF9: Highlander II
+003A2DF7: Highlander III
+003A2DF5: Homesteader FEvenToned Template
+00027A80: Homesteader M06
+00027A7A: Homesteader M08
+00027A79: Kfir
+000D059D: Kfir II
+00042391: Kfir III
+00042393: Kfir IV
+00042395: Lil Muv
+000D2D30: Lil Muv II
+003E60DF: Mako
+002EF76E: Mako II
+000423A7: Mako III
+000423A9: Mustang
+002EF774: Mustang II
+00042397: Mustang III
+00042399: Naginata
+003A2E41: Naginata II
+003A2E3F: Naginata III
+003A2E3D: UC Narcissus
+0004237B: Freestar Narcissus
+000D059B: Narcissus
+0004237D: Narcissus (Stroud)
+000423A1: Narcissus II
+000B1986: Narcissus II (Stroud)
+0003CFAE: Nimitz
+0003CFAC: Nimitz II
+000D05A3: Nimitz III
+0002C247: PCH
+0002C215: PCH II
+0002C216: Pelican
+000D05A6: Pelican II
+003E60E1: Pik Up
+0004238F: Pik Up II
+000D0597: Pik Up III
+000B197B: Privateer
+0002C33A: Privateer II
+003A2E3B: Privateer III
+003A2E39: Pterosaur
+003A2E37: Pterosaur II
+00042372: Pterosaur III
+00042374: Rambler
+000D1861: Rambler II
+0002C253: Ranger
+0002C263: Ranger II
+003A2E79: Ranger III
+003A2DF3: Raptor III
+0038D666: Renegade
+0038D664: Renegade II
+003A2E6B: Renegade III
+003A2E69: Responder
+003A2E67: Responder II
+000D0593: Responder III
+0002C3A8: Roanoke
+0002C3AC: Roanoke II
+001DE40A: Roanoke III
+000F6DD6: Scorpius
+000FEC32: Scorpius II
+000FEC33: Scorpius III
+001B21C3: Scorpius IV
+001B21BD: Settler Carry-All III
+001B21BF: Settler Econohaul
+001B21C1: Settler Econohaul II
+001B21B9: Settler Lil Muv II
+001B21BB: Settler MULE
+001B21C7: Settler MULE III
+001B21C8: Settler Pelican II
+001B21C5: Settler Slipstream
+001B21CA: Settler Space OX
+001B21CC: Settler Venture II
+003A2E23: Slipstream
+003A2E21: Slipstream II
+003A2E4D: Space OX
+003A2E4B: Space OX II
+003A2E49: Space OX III
+00322C19: Spacer Coyote
+0033CA57: Spacer Coyote II
+0033CA59: Spacer Coyote III
+000B1984: Spacer F01 template
+000B1983: Spacer F02
+000B1982: Spacer F03
+00322C1F: Spacer Hyena
+0033CA63: Spacer Hyena II
+0033CA65: Spacer Hyena III
+00322C1B: Spacer Jackal
+0033CA5B: Spacer Jackal II
+000B1980: Spacer M01
+000B197F: Spacer M02
+000B197E: Spacer M03
+000B197D: Spacer M04
+00322C13: Spacer Raccoon
+0033CA4B: Spacer Raccoon II
+0033CA4D: Spacer Raccoon III
+00322C15: Spacer Raven
+0033CA4F: Spacer Raven II
+0033CA51: Spacer Raven III
+00322C17: Spacer Scarab
+0033CA53: Spacer Scarab II
+00315875: SSNN Sunsail
+00099ED4: SSNN Sunsail II
+00099ED2: Star Parcel F01 template
+0003CFAA: Star Parcel F02
+00099EDO: Star Parcel Kirov IV
+00099ECF: Star Parcel M01
+00099ECD: Star Parcel M02
+00315877: Star Parcel Pikup
+0031587B: Star Parcel Pikup II
+0031587D: Star Parcel Pikup III
+0002C269: Star Parcel Spacetruk
+0002C26B: Star Parcel Spacetruk II
+0002C2C0: Star Parcel Spacetruk III
+0003CFA8: Star Parcel Star Semi
+0003732A: Star Semi
+0003734A: Starborn Guardian
+00037360: Starborn Guardian II
+00363CA5: Starborn Guardian III
+00363CA7: Starborn Guardian IV
+00363CA9: Starborn Guardian V
+003A2E35: Starborn Guardian VI
+003A2E33: Starhawk
+003A2E2F: Starhawk II
+003A2E03: Starhawk III
+003A2E01: Stormrider II
+003A2E1D: Stormrider III
+003A2E1B: Sunsail
+003A2E77: Sunsail II
+003A2E75: Thresher
+003A2E5F: Thresher II
+003A2E5D: Transpo
+003A2E5B: Transpo II
+002EF770: Transpo III
+000423A3: Trebuchet
+000423A5: Trebuchet II
+FF00AAF0: Trebuchet III
+00323450: Va'ruun Dirge
+003157BC: Va'ruun Dirge II
+003157C1: Va'ruun Dirge III
+00323454: Va'ruun Eulogy
+003157FC: Va'ruun Eulogy II
+00315805: Va'ruun Eulogy III
+000B19CB: Va'ruun F01 template
+0003B2A3: Va'ruun F02
+00323452: Va'ruun Hymn
+003157CD: Va'ruun Hymn II
+003157ED: Va'ruun Hymn III
+000B19CD: Va'ruun M01
+0003B2A5: Va'ruun M02
+0032345A: Va'ruun Prophecy
+00315842: Va'ruun Prophecy II
+00315852: Va'ruun Prophecy III
+0032345C: Va'ruun Revelation
+00315854: Va'ruun Revelation II
+00323458: Va'ruun Vigil
+00315817: Va'ruun Vigil II
+0031581C: Va'ruun Vigil III
+000D0595: Venture
+0002C3BD: Venture II
+0002C3BF: Venture III
+003A2E05: Vindicator
+000D5575: Vindicator
+0003CFA4: Vindicator II
+0003CFA2: Vindicator III
+0038D650: Vista
+0038D64E: Vista II
+0038D64C: Vista III
+0038D662: Voyager
+0038D660: Voyager II
+0038D65E: Voyager III
+003A2E47: Wagontrain
+003A2E45: Wagontrain II
+003A2E43: Wagontrain III
+003A2E2F: Warhammer
+003A2E2D: Warhammer II
+003A2E2B: Warhammer III
+000D1864: Watchdog
+000B198A: Watchdog II
+00281F69: Watchdog IV
+003A2E71: Wendigo
+003A2E6F: Wendigo II
+0014A219: Zumwalt
+0014A21B: Zumwalt II
+0014A21D: Zumwalt III

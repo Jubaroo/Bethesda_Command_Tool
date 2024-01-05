@@ -1,0 +1,644 @@
+#ARMOR#
+0003307A: Advanced Radiation Suit
+000CB605: All-Purpose Science Suit
+000CB5F6: Apocalypse Gladiator Armor
+000CB5F7: Apocalypse Gladiator Helmet
+00034121: Armored Vault 101 Jumpsuit
+0006C587: Armored Vault 101 Jumpsuit
+00061A72: Army Power Armor
+000340FB: Athlete of the Wastes Outfit
+00028FFA: Ballcap with Glasses
+00073D57: Bandana
+0009B188: Biker Goggles
+0007CFF0: Birthskirt
+0007494C: Blast Off Helmet
+0005B6EA: Blast Off Pajamas
+0008F775: Boogeyman's Hood
+00018DE5: Brahmin-Skin Outfit
+00075203: Brotherhood of Steel Powered Armor
+00075201: Brotherhood of Steel Powered Helmet
+00075201: Brotherhood Power Armor
+00075203: Brotherhood Power Helmet
+000854CF: Brotherhood Scribe Robe
+0008A6DD: Button's Wig
+0007C109: Child Blastoff Helmet
+00078646: Chinese Commando Hat
+000340D2: Chinese Jumpsuit
+0005157E: Colonel Autumn's Uniform
+00020420: Combat Armor
+00020426: Combat Helmet
+000CB544: Commando Armor
+000CB5FA: Composite Recon Armor
+000CB5FB: Composite Recon Helmet
+000B17A0: Crow's Eyebot Helmet
+000B17A0: Crow's Eyebot Helmet
+00079F09: Dad's Wasteland Outfit
+000CB543: Defender Armor
+000340D3: Dirty Chinese Jumpsuit
+000CB603: Dirty Chinese Jumpsuit
+0005C682: Dirty Pre-War Businesswear
+000340CF: Dirty Pre-War Casualwear
+000340C4: Dirty Pre-War Kid's Outfit
+0005BB70: Dirty Pre-War Parkstroller Outfit
+0005BB6F: Dirty Pre-War Relaxedwear
+000340D1: Dirty Pre-War Spring Outfit
+00066C71: Dirty Pre-War Spring Outfit
+0005C9A0: Doctor Li's Glasses
+000340DA: Doctor Li's Outfit
+00087274: Elder Lyons' Robe
+00078647: Enclave Officer Hat
+000340DE: Enclave Officer Uniform
+00023B62: Enclave Power Armor
+0004443E: Enclave Power Armor
+0001B5BD: Enclave Scientist Outfit
+000CB5F3: Enclave Shocktrooper Armor
+000CB5F4: Enclave Shocktrooper Helmet
+000C09D4: Environment Suit
+00034126: Eulogy Jones' Hat
+000CB549: Explorer's Gear
+0004E6A0: Eyebot Helmet
+000340FD: Eyeglasses
+0001DC1C: Ghoul Mask
+0005DC82: Glassesreadingchild
+000B1056: Grimy Pre-War Businesswear
+000CB5FE: Hand-Me-Down Raider Armor
+000BF6FD: Handyman Jumpsuit
+000CB604: Hat of the People
+00074296: Head Wrap
+00074334: Head Wrap
+00074335: Head Wrap
+00074336: Head Wrap
+000CB5FF: Highway Scar Armor
+00033598: Hockey Mask
+000340F9: Junior Officer Outfit
+0009B185: Kid's Ballcap with Glasses
+000340C1: Kid's Baseball Cap
+000340E4: Kid's Cave Rat Outfit
+00078643: Kid's Murray the Mole Hat
+00028FF8: Kid's Party Hat
+000340E1: Kid's Police Hat
+000340D7: Lab Technician Outfit
+00020423: Leather Armor
+0002DC05: Leather Armor
+00066C72: Leather Armor
+00066C74: Leather Armor
+0007401C: Ledoux's Hockey Mask
+000C24F9: Lesko's Lab Coat
+0004445B: Lincoln's Hat
+00070877: Linden's Outcast Power Armor
+000CB54B: Lucky Shades
+00061A73: Lyons' Pride Power Armor
+0002D11B: Macready's Helmet
+000C111A: Makeshift Gas Mask
+0005A6CA: Maple's Garb
+000340E7: Mayor Maccready's Outfit
+00034124: Merc Adventurer Outfit
+00034122: Merc Charmer Outfit
+000CB606: Merc Charmer Outfit
+000C5D34: Merc Cruiser Outfit
+000CB60B: Merc Cruiser Outfit
+000A3045: Merc Grunt Outfit
+000CB60A: Merc Grunt Outfit
+00034123: Merc Troublemaker Outfit
+0008C83C: Merc Veteran Outfit
+0003307F: Metal Armor
+00033080: Metal Helmet
+0007C17C: Modified Utility Jumpsuit
+0009B186: Motorcycle Helmet
+0006B467: Mysterious Stranger Hat
+0006696D: Mysterious Stranger Outfit
+000C8E07: Naughty Nightwear
+0009B18A: Oasis Druid Hood
+000C942D: Oasis Exile Hood
+000340E8: Oasis Robe
+000340E9: Oasis Villager Robe
+00060C70: Outcast Power Armor
+00060C72: Outcast Power Helmet
+000645ED: Outcast Recon Helmet
+00050E44: Party Hat
+000B75E2: Party Hatstanley
+000340FC: Pint-Sized Slasher Mask
+00015038: Pip-Boy 3000
+000236D8: Pip-Boy 3000
+00025B83: Pip-Boy Glove
+000AB491: Police Hat
+0005A6CB: Poplar's Hood
+00014E13: Power Armor
+00025083: Power Armor
+00066C73: Power Armor
+00014C08: Power Helmet
+000CB60C: Power-Suit Armor
+00028FF9: Pre-War Baseball Cap
+000340CD: Pre-War Bonnet
+0001EA6D: Pre-War Casualwear
+000CB60D: Pre-War Casualwear
+000340C8: Pre-War Hat
+000340C3: Pre-War Kid's Outfit
+0008198C: Pre-War Outfit and Watch
+000ABBE2: Pre-War Outfit and Watch
+0005BB66: Pre-War Parkstroller Outfit
+000CB60F: Pre-War Parkstroller Outfit
+0005BB63: Pre-War Relaxedwear
+000340D0: Pre-War Spring Outfit
+0007836E: Prototype Medic Power Armor
+000CB600: Pyro Helmet
+00033078: Radiation Suit
+000340F8: Ragamuffin Outfit
+00074950: Ragamuffin Tophat
+00078644: Raider Arclight Helmet
+0003307D: Raider Badlands Armor
+0003307E: Raider Blastmaster Armor
+0005B6E8: Raider Blastmaster Helmet
+0002042F: Raider Painspike Armor
+00020432: Raider Psycho-Tic Helmet
+0003307C: Raider Sadist Armor
+00078645: Raider Wastehound Helmet
+00023030: Ranger Armor
+00023030: Ranger Battle Armor
+00034105: Ranger Battle Helmet
+00028EAD: Recon Armor Helmet
+0003064D: Recon Armor
+0003411B: Red Racer Jumpsuit
+000340EB: Red's Bandana
+000340EA: Red's Jumpsuit
+0003E54A: Regulator Duster
+000239CB: Rivet City Security Helmet
+000239CC: Rivet City Security Uniform
+000CB5F5: Road Rascal Leather Armor
+0003411A: Robco Jumpsuit
+000CB5F8: Robo-Thor Helmet
+00078648: Roving Trader Hat
+0002B385: Roving Trader Outfit
+000340D9: Scientist Outfit
+000340E6: Sexy Sleepwear
+0007C17D: Shady Hat
+000CB5FC: Sharp-Dressed Raider's Armor
+000CB5EF: Shellshocked Combat Armor
+000CB5F0: Shellshocked Combat Helmet
+00020429: Sheriff's Duster
+0002DD80: Sheriff's Hat
+0002F563: Slave Collar
+0003D1FE: Slave Collar
+000CB60E: Sleepwear
+0009B189: Stormchaser Hat
+0005C99F: Sunglasses
+0003E591: Surgical Mask
+000A6F77: T-51B Power Armor
+000A6F78: T-51B Power Helmet
+000C72FB: Takoma Park Little Leaguer Cap
+000A6F76: Talon Combat Armor
+000CB5F2: Talon Combat Armor
+000B0278: Talon Combat Helmet
+000CB5F1: Talon Combat Helmet
+000A6F76: Talon Company Armor
+0005B6EB: Tenpenny Security Helmet
+00034119: Tenpenny Security Uniform
+00096CB7: Tenpenny's Suit
+0006B464: Tesla Armor
+0008F571: Tesla Armor
+0006B465: Tesla Helmet
+0003411D: The Antagonizer's Costume
+0003411F: The Antagonizer's Helmet
+000CB5FD: The Devil's Pigtails
+0003411E: The Mechanist's Costume
+00034120: The Mechanist's Helmet
+000C71E1: The Surgeon's Lab Coat
+000ACDA4: Three Dog's Glasses
+00073FEC: Three Dog's Head Wrap
+0001C295: Tinted Reading Glasses
+000C7C4E: Torcher's Mask
+0005C9A1: Tortoiseshell Glasses
+0002042E: Tunnel Snake Outfit
+00061D98: Tunnel Snake Outfit
+00089B52: Underwear
+00083C5C: Vance's Longcoat Outfit
+000340F2: Vault 101 Child's Jumpsuit
+0001CBDD: Vault 101 Security Armor
+0003411C: Vault 101 Security Helmet
+000425BA: Vault 101 Utility Jumpsuit
+000B73F2: Vault 106 Jumpsuit
+000B73F1: Vault 108 Jumpsuit
+000340EF: Vault 112 Jumpsuit
+000CAFBE: Vault 77 Jumpsuit
+000340ED: Vault 87 Jumpsuit
+000B73F3: Vault 92 Jumpsuit
+0001CBDC: Vault Lab Uniform
+000C7C54: Wanderer's Leather Armor
+000340FE: Wasteland Doctor Fatigues
+000CB609: Wasteland Legend Outfit
+00074952: Wasteland Scout Hat
+000340FA: Wasteland Scout Uniform
+000340FF: Wasteland Surgeon Outfit
+0001BA00: Wasteland Wanderer Outfit
+
+#WEAPONS#
+0000080A: .32 Pistol
+00050F92: .44 magnum
+0001A334: 10mm Pistol
+0000434F: 10mm Pistol
+0006F210: 10mm Pistol
+0006E7CC: 10mm SMG (Sydney's "Ultra")
+00004321: 10mm Sub Machine gun
+0006B539: A3-21's Plasma Rifle
+000B8793: Acid Spit
+0006E8CE: Acid Spit
+00004322: Alien Blaster
+000C553E: Ant's Sting
+0001FFEC: Assault Rifle
+0000421C: Baseball Bat
+000C0327: BB Gun
+00004323: BB Gun
+0006B535: Black Bart's Bane
+000303A2: Blackhawk
+000C310F: Board of Education
+0000433A: Bottlecap Mine
+00004324: Brass Knuckles
+000CB546: Breaker
+00078440: Butch's Toothpick
+0003BC6F: Buzzsaw
+00046BDD: Chinese Assault Rifle
+0000080B: Chinese Assault Rifle
+0006415D: Chinese Officer's Sword
+0002B3CB: Chinese Officer's Sword
+00004325: Chinese Pistol
+00060C2C: Chinese Pistol (Zhu-Rong v418)
+000C80B8: Clover's Cleaver
+0006B531: Col. Autumn's 10mm Pistol
+000ABBE4: Col. Autumn's Laser Pistol
+00004326: Combat Knife
+00064093: Combat Knife
+0003713D: Combat Shotgun
+00004327: Combat Shotgun
+000C80BB: Curse Breaker
+0000432A: Dart Gun
+0000432B: Deathclaw Gauntlet
+00022FF1: Electrical Zap
+0006B538: Eugene
+000C80BC: Excalibat
+0003422B: Experimental MIRV
+0000432C: Fat Man
+0007843F: Fawkes' Super Sledge
+00021367: Fire Hydrant
+000C80BA: Firelance
+000CB601: Fisto!
+00078C60: Flamer
+0000432D: Flamer
+000C58EE: Flamer
+000A0C02: Flamer
+0009E8DF: Flamer
+0007C10B: Flamer
+00039550: Flamer
+00004330: Frag Grenade
+0000433C: Frag Mine
+00028172: Frag Mine
+000001F6: GasTrap Dummy
+0000432E: Gatling Laser
+0000432E: Gatling Laser
+00018B9E: Hand Laser
+00078442: Highwayman's Friend
+00004333: Hunting Rifle
+000C6E5B: Jack
+00004334: Knife
+00050ED0: Laser
+0007B23A: Laser
+0007B237: Laser
+000B4178: Laser Pistol
+00063E8A: Laser Pistol
+00004335: Laser Pistol
+00074795: Laser Rifle
+00004336: Laser Rifle
+0006B532: Law Dog
+00004337: Lead Pipe
+00033FE2: Liberty Laser
+0005932F: LibertyPrimeWeapBomb
+0003C07A: Lincoln's Repeater
+000C80B9: Love Tap
+00004339: Mesmeron
+000BF5A4: Mesmetron
+0000433F: Minigun
+00030664: Mirelurk Bait Grenade
+000B2644: Miss Launcher
+00057E8F: Missile Launcher
+00004340: Missile Launcher
+000A01DD: Nail Board
+00063FDC: Nail Board
+00004342: Nuka-Grenade
+0007843D: O'Grady's Peacemaker
+000CB602: Occam's Razor
+00066C76: Ol' Painless
+00004332: Plasma Grenade
+0007C10C: Plasma Gun
+0003954F: Plasma Gun
+0000433D: Plasma Mine
+00004343: Plasma Pistol
+00004344: Plasma Rifle
+000CAFA9: Plunkett's Valid Points
+00004345: Police Batton
+00004346: Pool Cue
+00004347: Power Fist
+000C553F: Protectron's Gaze
+00004331: Pulse Grenade
+0000433E: Pulse Mine
+00058717: Radioactive Spit
+00004348: Railway Rifle
+0002D3B7: Repellent Stick
+00092966: Reservist's Rifle
+00004349: Ripper
+0000434B: Rock-it launcher
+00029769: Rolling Pin
+000B2943: Rolling Pin
+0000434C: Sawed-Off Shotgun
+000AE8AE: Sawed-Off Shotgun
+0000434D: Scoped .44 Magnum
+000389AF: SentryBot Laser Gatling
+00057E8E: SentryBot Minigun
+0000434E: Shishkebab
+0007F598: Shriek
+00004350: Silenced 10mm Pistol
+0002869C: Slasher Knife
+00004351: Sledge Hammer
+00063FA2: Sledgehammer
+0006B536: Smuglers End (Laser Pistol)
+00004353: Sniper Rifle
+00004354: Spiked Knuckels
+000C80BE: Stabhappy
+000B0E7C: Super Sledge
+00004352: Super Sledge
+0006407F: Switchblade
+000289C3: Switchblade
+0005DEEE: Sydney's 10mm "Ultra" SMG
+00066C77: The Break
+0006B53A: The Kneecapper
+000BFF62: The Shocker
+000A874B: The Tenderizer
+0006B534: The Terrible Shotgun
+00004328: Tire Iron
+00078441: Vampire's Edge
+0003E5E2: Vertibird Bomb Gun
+00089C51: Vertibird Gun
+000CB548: Victory Rifle
+00061793: Wazer Wifle
+
+#AMMO#
+0006B53C: .308 Caliber Round
+000207F7: .32 Caliber Round
+0002937E: .44 Round Magnum
+00004241: 10mm Round
+00078CC4: 5.56mm Round
+00004240: 5.56mm Round
+0006B53D: 5mm Round
+000615A8: 5mm Round
+00029364: Alien Powercell
+0002935B: BB - Ammo
+0000433A: Bottlecap Mines
+00047419: Dart
+0002936E: Dart
+000615AF: Electron Charge Pack
+0006B53E: Electron Charge Pack
+00020772: Energy Cell
+00078CC2: Energy Cell
+00029371: Flamer Fuel
+00078CC1: Flamer Fuel
+00004330: Frag Grenades
+0000433C: Frag Mines
+0006A80D: Mesmetron Power Cell
+00078CC3: Microfusion Cell
+00004485: Microfusion Cell
+00020799: Mini Nuke
+000B8791: Missile
+0005F706: Missile
+00078CC5: Missile
+00029383: Missiles
+00004331: Pulse Grenades
+00029384: Railway Spikes
+00028EEA: Shotgun Shell
+0004C5F9: Shotgun Shell
+00056634: Sonic Energy
+
+#BOBBY PINS#
+0000000A: Bobby Pin
+
+#BOTTLE CAPS#
+0000000F: Bottle Cap
+
+#BOOKS#
+0003403C: Big Book of Science
+0002D3A4: Big Book of Science
+00034045: Chinese Spec-Ops Training Manual
+00034043: D.C. Journal of Internal Medicine
+0003403D: Dean's Electronics
+0006A80C: Duck and Cover!
+000199C2: Footlocker
+00034040: Grognak the Barbarian
+0003403E: Guns and Bullets
+00034044: Lying, Congressional Style
+0002D3A3: Motivational Secrets of the Stars
+00034041: Nikola Tesla and You
+000BACFE: Paradise Lost
+0003403F: Pugilism Illustrated
+0002D3B2: Survival Guide Manuscript
+00034042: Tales of a Junktown Jerky Vendor
+00034046: Tumblers Today
+00034048: U.S. Army: 30 Handy Flamethrower Recipes
+000C5634: Wasteland Survival Guide
+000AB2EF: You're SPECIAL!
+
+#FOOD & MEDS#
+0003C345: Ant Meat
+00033068: Ant Queen Pheromones
+00015197: Beer
+000BF7C6: Berry Mentats
+0008C556: Blamco Mac and Cheese
+0007C10D: Bloatfly Meat
+00034051: Blood Pack
+00015198: Brahmin Steak
+0008C560: Bubblegum
+00015163: Buffout
+00038E0C: Cave Fungus
+0008C552: Cram
+00031948: Crispy Squirrel Bits
+0001519C: Crunchy Mutfruit
+0008C554: Dandy Boy Apples
+000151A4: Dirty Water
+00034050: Dog Meat
+0008C55A: Fancy Lads Snack Cakes
+00085ABB: Fire Ant Nectar
+00015196: Fresh Apple
+00015199: Fresh Carrot
+0001519F: Fresh Pear
+000151A0: Fresh Potato
+000BF7C5: Grape Mentats
+0008C564: Gum Drops
+00065175: Hatchling Mirelurk Meat
+0003404F: Human Flesh
+00040DCB: Ice Cold Nuka-Cola
+0001519A: Iguana Bits
+0001519B: Iguana on a Stick
+0008C558: InstaMash
+00015164: Jet
+0003359C: Junk Food
+00050F8F: Med-X
+00015165: Mentats
+0003404D: Mirelurk Cakes
+0003404E: Mirelurk Meat
+00049076: Miss. Quantum Pie
+0003404C: Mole Rat Meat
+000ABD17: Mole Rat Wonder Meat
+00034049: Mutfruit
+0001519D: Noodles
+0001519E: Nuka-Cola
+000284F9: Nuka-Cola Quantum
+00095F48: NukaLurk Meat
+000BF7C7: Orange Mentats
+0008C55E: Pork N' Beans
+0008C562: Potato Crisps
+00015166: Psycho
+000151A3: Purified Water
+0009C957: Radroach Meat
+000293A9: Salisbury Steak
+000151A1: Scotch
+000552CE: Softshell Mirelurk Meat
+00031949: Squirrel on a Stick
+0003194A: Squirrel Stew
+00015169: Stimpaks
+0002E376: Strange Meat
+0007E173: Strange Meat Pie
+0008C551: Sugar Bombs
+00030A23: Sweetroll
+000C9CF4: Ultrajet
+00032C74: Vodka
+00032C75: Whiskey
+0003404A: Wine
+0003404B: Yao Guai Meat
+0008C55C: YumYum Deviled Eggs
+
+#CONSUMABLES#
+00043E94: Stealth Boy
+
+#DLC WEAPONS#
+
+***Operation Anchorage***
+xx00C07D: Gauss Rifle
+xx00C06C: 10mm Pistol
+xx00C06D: 10mm Pistol Silenced
+xx00C070: Chinese Assault Rifle
+xx00C071: Chinese Pistol
+xx00C07B: Trench Knife
+xx00C07C: Jingwei’s Shocksword
+
+***The Pitt***
+xx0032E1: Auto Axe
+xx00737C: Infiltrator
+xx00B66C: Man Opener
+xx00B513: Metal Blaster
+xx00B512: Perforator
+xx00B643: Steel Saw
+xx00B514: The Mauler
+xx00A7CB: Wild Bill’s Sidearm
+
+***Broken Steel***
+xx00B806: Callahan’s Magnum
+xx001084: Heavy Incinerator
+xx008895: Precision Gatling Laser
+xx0091B1: Rapid-torch Flamer
+xx0091B3: Slo-burn Flamer
+xx006725: Tesla Cannon
+xx005818: Tri-beam Laser Rifle
+
+***Point Lookout***
+xx00838F: Axe
+xx00ED14: Backwater Rifle
+xx00D1E4: Bio-gas Canister
+xx007473: Double-barrel Shotgun
+xx00D5A8: Fertilizer Shovel
+xx0088DE: Lever-action Rifle
+xx00C1C3: Microwave Emitter
+xx01098A: Ritual Knife
+xx0082B5: Shovel
+xx00ED0F: The Dismemberer
+xx006AB7: Toy Knife
+
+***Mothership Zeta***
+xx00083F: Alien Atomizer
+xx000842: Alien Disintegrator
+xx00A77F: Alien Pulverizer
+xx00A9DD: Captain’s Sidearm
+xx002A71: Cryo Grenade
+xx006FC0: Cryo Mine
+xx00A77E: Destabilizer
+xx000845: Drone Cannon
+xx00A77D: Drone Cannon Ex-B
+xx003C54: Electro-Suppressor
+xx00AB86: MPLX Novasurge
+xx00829F: Paulson’s Revolver
+xx00083B: Samurai’s Sword
+xx00083D: Shock Baton
+
+#DLC ARMOR#
+
+***Operation Anchorage***
+xx00C18F: Chinese Stealth Armor
+xx00AD7B: General Chase’s Overcoat
+xx003AF9: Winterized Combat Armor
+xx003AFC: Winterized Combat Helmet
+xx00C18E: Winterized T-51b Power Helmet
+xx00C18D: Winterized T-51b Power Armor
+xx00A0EC: Army Mechanic Jumpsuit
+xx00C1CA: Chinese Jump Suit
+xx00C1C8: Chinese General Hat
+xx00C190: Chinese Stealth Helmet
+xx003F3A: Winterized Chinese Jump Suit
+xx003F39: Winterized Chinese Hat
+x00A6C0: Neural Suit
+
+***The Pitt***
+xx006852: Ashur’s power armor
+xx00B510: Bombshell armor
+xx00B4B1: Filtration helmet
+xx009383: Gamma shield armor
+00CB604: Hat of the People
+xx00B4B2: Laborer outfit
+xx00B50E: Leather Rebel
+xx00B511: Metal Master armor
+xx0032DD: Raider iconoclast armor
+xx00A39D: Raider commando armor
+xx00A39A: Raider throwdown armor
+xx00A39B: Raider ordinance armor
+xx00A398: Raider paingiver armor
+xx007FC5: Supervisor helmet
+xx00087A: Tattered slave outfit
+xx00B50F: Tribal power armor
+xx009AC1: Worn slave outfit
+xx008B8C: Welder’s mask
+
+***Broken Steel***
+xx00B964: All-nighter nightwear
+xx0088B5: Composite recon helmet
+xx001081: Enclave Hellfire armor
+xx001080: Enclave Hellfire helmet
+xx00B960: Lag-Bolt’s shades
+xx00B95F: Lag-Bolt’s combat armor
+000AB491: Police hat
+xx003B66: Wig
+xx0088E8: Lab coat
+
+***Point Lookout***
+xx00DE01: Confederate hat
+xx00DE12: Cryptochromatic spectacles
+xx00832E: Desmond’s eyeglasses
+xx00B431: Grifter’s Fit
+xx00A0EC: Handyman jumpsuit
+xx006AB4: Pint-Sized Slasher mask
+xx00D74F: Tribal garb
+xx00D5C0: Workman’s coveralls
+
+***Mothership Zeta***
+xx00BB63: Astronaut helmet
+xx00AB6D: General Chase’s overcoat
+xx003306: Paulson’s outfit
+xx006940: Samurai armor
+xx00693F: Samurai helmet
+xx003305: Sheriff’s hat
+xx0058EB: Spacesuit
+xx00A9A1: Winterized medic armor
+xx00A9A2: Winterized medic helmet

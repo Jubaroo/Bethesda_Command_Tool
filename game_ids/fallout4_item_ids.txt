@@ -1,0 +1,334 @@
+#BOBBLEHEADS#
+00178B5D: Perception Bobblehead
+00178B64: Unarmed Bobblehead
+00178B63: Strength Bobblehead
+00178B62: Speech Bobblehead
+00178B61: Sneak Bobblehead
+00178B60: Small Guns Bobblehead
+00178B5F: Science Bobblehead
+00178B5E: Repair Bobblehead
+00178B5C: Melee Bobblehead
+00178B5B: Medicine Bobblehead
+00178B5A: Luck Bobblehead
+00178B58: Intelligence Bobblehead
+00178B55: Endurance Bobblehead
+00178B54: Charisma Bobblehead
+00178B53: Big Guns Bobblehead
+00178B52: Barter Bobblehead
+00178B51: Agility Bobblehead
+00178B59: Lock Picking Bobblehead
+00178B57: Explosive Bobblehead
+00178B56: Energy Weapons Bobblehead
+#AMMO#
+0001F66B: .308 Round
+0004CE87: .38 Round
+0009221C: .44 Round
+0001F66A: .45 Round
+0001F279: .50 Caliber
+0001F66C: 5mm Round
+0001F278: 5.56 Round
+0001F276: 10mm Round
+0001F673: Shotgun Shell
+000FE269: Railway Spike
+0018ABDF: 2mm Electromagnetic Cartridge
+0001DBB7: Plasma Cartridge
+0018ABE2: Cryo Cell
+000C1897: Fusion Cell
+00245D69: Fusion Cell
+000CAC78: Flamer Fuel
+001025AA: Alien Blaster Round
+000DF279: Gamma Round
+000FD11C: Cannonball
+000CABA3: Missile
+000E6B2E: Mini Nuke
+#CLOTHING ITEMS#
+001BDDF9: Clean Blue Suit
+001BDDFA: Clean Grey Suit
+001BDDFB: Clean Striped Suit
+00151E34: Clean Tan Suit
+001BDE04: Dirty Black Suit
+001BDE05: Dirty Blue Suit
+001BDE06: Dirty Grey Suit
+001BDE07: Dirty Striped Suit
+00151E30: Dirty Tan Suit
+0014941A: Summer Shorts
+000E628A: Sunglasses
+0018AC6E: Synth Uniform
+0010C3CA: Faded Trench Coat
+0010C3CC: Worn Fedora
+000FC395: Tuxedo
+000FC396: Formal Hat
+000E2E2C: Faded Trench Coat
+000E2E2E: Worn Fedora
+000DF455: Yellow Trench Coat
+001223CB: Dirty Trench Coat
+000DF457: Yellow Fedora
+001223CD: Dirty Fedora
+00068CF3: Vault-Tec Lab Coat
+00178B68: Lab Coat
+0012571C: Faded Visor
+001942D6: Green Shirt and Combat Boots
+001B828C: Ratty Skirt
+00165602: Pompadour Wig
+000F6D83: Ushanka Hat
+001641F8: DB Tech Varsity Uniform
+001C0382: Nucleostrictive Torso Armor
+0011E46D: Mascot Head
+0014A0DC: Zeke’s Jacket and Jeans
+001828CC: Grognak Costume
+00122246: Grandpa Savoldi’s Hat
+001B5B26: Liam’s Glasses
+00118864: Submariner Uniform
+00118865: Submariner Hat
+0002F525: Silver Shroud Costume
+000DED27: Silver Shroud Costume
+000DED28: Silver Shroud Costume
+000DED29: Silver Shroud Costume
+000E1A25: Silver Shroud Costume
+0014E58E: Silver Shroud Hat
+001467F5: Lorenzo’s Crown
+000F15CF: Agatha’s Dress
+000F15D0: Reginald’s Suit
+000F15D2: Rex’s Suit
+000F6D85: Captain Ironsides’ Hat
+0013BCD1: Railroad Armored Coat
+0009AC97: Covert Sweater Vest
+#WEAPONS#
+000E9A43: 2076 World Series Baseball Bat
+000FF995: Alien Blaster
+00144A6C: Anchor
+0012E2CA: Artillery Smoke Grenade
+0000463F: Assault Rifle
+000DD4B1: Assaultron Laser
+0008E736: Baseball Bat
+00107BD6: Baseball Grenade
+000662A7: Behemoth Bolder
+0014BBDA: Behemoth Bolder
+00031FB8: Bloodbug Blood Spray
+0005C250: Board
+0014245D: Bomb
+0010771F: Bottlecap Mine
+0016498F: Boxing Glove
+000FD11B: Broadsider
+00147BE4: Chinese Officer Sword
+000913CA: Combat Knife
+000DF42E: Combat Rifle
+0014831C: Combat Shotgun
+0010C669: Cryo Mine
+000FF21D: Cryogenic Grenade
+00171B2B: Cryolator
+000D8576: Deathclaw Gauntlet
+000DC8E7: Deliverer
+00062AA4: Double-Barrel Shotgun
+0005DF30: Double-Barrel Shotgun
+00092217: Double-Barrel Shotgun
+0018325E: Institute EM Pulse Grenade
+000FF21F: Pulse Grenade
+000BD56F: Fat Man
+000E6B2E: Mini Nuke
+000DF621: Fire Hydrant Bat
+000E5881: Flamer
+001025AC: Flare Gun
+000EEBED: Fragmentation Grenade
+000E56C2: Fragmentation Mine
+000865E9: Fusion Core Ejector
+000897FF: Fusion Core Ejector
+000DDB7C: Gamma Gun
+000001F6: GasTrap Dummy
+000E27BC: Gatling Laser
+000D1EB0: Gauss Rifle
+00183FCD: Grognak’s Axe
+000E98E5: HalluciGen Gas Grenade
+0014831D: Handmade Gun
+00065DEC: Homing Beacon
+0005BBA4: Hunting Rifle
+0004F46A: Hunting Rifle
+0005A665: Institute
+001633CC: Institute
+00174F8F: Institute Beacon
+000E942B: Junk Jet
+00062AA3: Knife
+0005524B: Knuckles
+0003175B: Larva Spit
+0005BBA6: Laser
+0009983B: Laser
+00148B48: Laser Gun
+0001DACF: Laser Musket
+000FC9C3: Lead Pipe
+00110414: LibertyPrime Laser
+00033FE0: Machete
+00064B87: Minigun
+001299A6: Minigun
+0001F669: Minigun
+0003F6F8: Missile Launcher
+0010C3C6: Molotov Cocktail
+00063B73: Mortar
+00063B72: Mortar
+0005DE31: Mortar
+000E5750: Nuka Grenade
+00065DF2: Nuke
+0010A340: Nuke Mine
+000EDCEB: Pincher
+000EDCEA: Pincher
+00092A60: Pincher
+00024F55: Pipe
+0014831A: Pipe Bolt-Action
+0005BBA7: Pipe Revolver
+0014831B: Pipe Revolver
+000D83BF: Pipe Wrench
+0010A33D: Plasma Grenade
+00100AE9: Plasma
+0010A342: Plasma Mine
+0008C14D: Baton
+000FA3E8: Pool Cue
+0011B336: Power Fist
+00062AA6: Preston’s Laser Musket
+00144FAD: Protectron Head Laser
+00144FAA: Protectron Head Laser
+000E07C4: Protectron Head Laser
+0010A344: Pulse Mine
+000FE268: Railway Rifle
+00143AB5: Revolutionary Sword
+000FA2F6: Ripper
+00142FAB: Rolling Pin
+001AD8CA: Saw
+00148B42: Saw
+000EDCED: Saw
+000EDCEC: Saw
+00092A61: Saw
+000B0F56: Sentry Bot Left Minigun
+000CFB49: Sentry Bot Right Minigun
+000CFB4D: SentryBotLeftRocketLauncher
+000B0F58: SentryBotRightRocketLauncher
+000FA2FB: Shishkebab
+0005DF2E: Sledgehammer
+000E7AB9: Sledgehammer
+000FC3EC: Sonic Attack
+0009F24D: Spit Attack
+0015B043: Submachine Gun
+000FF964: Super Sledge
+000FDC81: Switchblade
+000589F2: Synth Relay Grenade
+0014D09E: Syringer
+000CA0B0: Test Grenade launcher
+00185D25: Tire Iron
+00056917: Vertibird Signal Grenade
+000FDC7D: Walking Cane
+#AID#
+00023736: Stimpak
+00023742: Rad Away
+0004835F: Nuka-Cola Quantum
+#CROPS#
+0009DCC4: Tato
+00033102: Mutfruit
+000F742E: Carrot
+000330F8: Corn
+000EF24D: Gourd
+000FAFEB: Melon
+000E0043: Razorgrain
+#CRAFTING MATERIALS#
+000731A4: Steel
+000731A3: Wood
+00106D98: Rubber
+00106D99: Concrete
+0006907F: Plastic
+0006907A: Aluminum
+0006907B: Circuitry
+0006907C: Copper
+0006907D: Crystal
+00069087: Fiber Optics
+0006907E: Gears
+00069085: Glass
+000AEC63: Lead
+00069081: Screw
+00069082: Spring
+001BF72D: Acid
+001BF72E: Adhesive
+000AEC5B: Ballistic Fiber
+001BF72F: Antiseptic
+000AEC5C: Asbestos
+000AEC5D: Bone
+000AEC5E: Ceramic
+000AEC5F: Cloth
+000AEC60: Cork
+001BF730: Fertilizer
+000AEC61: Fiberglass
+000AEC62: Gold
+00069086: Nuclear Material
+001BF732: Oil
+000AEC66: Silver
+000AEC64: Leather
+#SHIPMENTS#
+001EC131: Shipment of Steel - 100
+001EC132: Shipment of Steel - 50
+001EC133: Shipment of Acid - 25
+001EC134: Shipment of Adhesive - 50
+001EC135: Shipment of Adhesive - 25
+001EC136: Shipment of Aluminum - 50
+001EC137: Shipment of Aluminum - 25
+001EC138: Shipment of Ballistic Fiber - 25
+001EC139: Shipment of Antiseptic - 25
+001EC13A: Shipment of Asbestos - 25
+001EC13B: Shipment of Ceramic - 25
+001EC13C: Shipment of Circuitry - 25
+001EC13D: Shipment of Circuitry - 50
+001EC13E: Shipment of Cloth - 25
+001EC13F: Shipment of Concrete - 50
+001EC140: Shipment of Copper - 25
+001EC141: Shipment of Cork - 25
+001EC142: Shipment of Crystals - 25
+001EC143: Shipment of Fertilizer - 25
+001EC144: Shipment of Fiberglass - 25
+001EC145: Shipment of Fiber Optics - 25
+001EC146: Shipment of Gears - 25
+001EC147: Shipment of Glass - 25
+001EC148: Shipment of Gold - 25
+001EC149: Shipment of Lead - 25
+001EC14A: Shipment of Leather - 25
+001EC14B: Shipment of Nuclear Material - 25
+001EC14C: Shipment of Oil - 25
+001EC14D: Shipment of Plastic - 25
+001EC14E: Shipment of Rubber - 25
+001EC14F: Shipment of Screws - 25
+001EC150: Shipment of Silver - 25
+001EC151: Shipment of Springs - 25
+001EC152: Shipment of Wood - 50
+001EC153: Shipment of Wood - 100
+#DOGMEAT ITEMS#
+001C32C8: Dog Armor
+001B5ACC: Light Dog Armor
+001C32C7: Heavy Dog Armor
+00034602: Dog Collar
+0018B210: Chain Dog Collar
+0009C05B: Red Bandana
+0017E917: Blue Bandana
+0017E922: Gunner’s Camo Bandana
+0017E923: Gunner’s Green Bandana
+0017E91B: Leopard Print Bandana
+0017E91C: Jangles Bandana
+0017E91D: Skull Bandana
+0017E925: Stars and Stripes Bandana
+0017E924: Striped Bandana
+#PIP-BOY MINI GAMES#
+0006167B: Atomic Command
+000727FA: Grognak & The Ruby Ruins
+00072802: Pipfall
+000E5082: Red Menace
+00072803: Zeta Invaders
+#UNIQUE WEAPONS#
+000D8576: Deathclaw Gauntlets
+000E9A43: 2076 World Series Baseball Bat
+00183FCD: Grognak’s Axe
+000FA2FB: Shishkebab
+000DC8E7: Deliverer
+000E942B: Junk Jet
+000E98E5: HalluciGen Gas Grenade
+00065DEC: Homing Beacon
+00174F8F: Institute Beacon
+000FD11B: Broadsider
+000FE268: Railway Rifle
+000CE97D: Old Faithful
+00198A16: Kellogg’s Pistol
+00143AB5: Revolutionary Sword
+00147BE4: Chinese Officer’s Sword
+000FA2F6: Ripper

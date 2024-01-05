@@ -1,0 +1,4720 @@
+#ELIXIRS, POTIONS, ETC.#
+000B1200: Ale
+000B1202: Beer
+00037F7F: Cheap Wine
+000977E4: Cure for Vampirism
+00033569: Cyrodilic Brandy
+0004E93A: Grand Elixir of Exploration
+0003356A: Hist Sap
+00098309: Human Blood
+000B1201: Mead
+0004E938: Moderate Elixir of Exploration
+000B1241: Newheim's Special Brew
+0007BCC9: Philter of Frostward
+0008DC5C: Poison of Affliction
+00009283: Poison of Apathy
+000984A5: Poison of Burden
+00009281: Poison of Catastrophe
+0008DC58: Poison of Clumsiness
+0008DC5E: Poison of Confusion
+00056E54: Poison of Cowardice
+0000927D: Poison of Debilitation
+0008DC70: Poison of Fatigue
+00009280: Poison of Feeblemind
+00009285: Poison of Frailty
+0008DC6D: Poison of Fright
+0000927C: Poison of Fumbling
+0008DC73: Poison of Illness
+0008DC61: Poison of Misfortune
+00009302: Poison of Paralysis
+00009282: Poison of Repulsion
+00009284: Poison of Separation
+0008DC76: Poison of Severing
+0000927F: Poison of Sickness
+00009320: Poison of Silence
+0008DC67: Poison of Slowing
+0008DC64: Poison of the Fool
+0008DC6A: Poison of Weakness
+0000927E: Poison of Weariness
+00009321: Potion of Absorption
+00098471: Potion of Agility
+0009849B: Potion of Alacrity
+00009308: Potion of Antivenom
+00088B1C: Potion of Chameleon
+0009849A: Potion of Charisma
+0000920E: Potion of Cure Disease
+0000922E: Potion of Cure Paralysis
+0000920F: Potion of Cure Poison
+00056E55: Potion of Dedication
+000984A6: Potion of Detect Life
+00009307: Potion of Disbelief
+0000927B: Potion of Dispel
+00098472: Potion of Endurance
+00098473: Potion of Fatigue
+000092E6: Potion of Feather
+000092E7: Potion of Fire Shield
+00098494: Potion of Fortitude
+00098498: Potion of Fortune
+000092FE: Potion of Frost Shield
+00098493: Potion of Grace
+00009309: Potion of Grounding
+00098496: Potion of Healing
+00098474: Potion of Health
+00098497: Potion of Insight
+00009305: Potion of Insulation
+00098475: Potion of Intelligence
+000092FF: Potion of Invisibility
+00009300: Potion of Light
+00098476: Potion of Luck
+00098477: Potion of Magicka
+0009849C: Potion of Might
+00009301: Potion of Nighteye
+00098478: Potion of Personality
+00009303: Potion of Reflection
+00009304: Potion of Resistance
+00098495: Potion of Respite
+000984A4: Potion of Seastride
+00009AE3: Potion of Shock Shield
+00098499: Potion of Sorcery
+00098479: Potion of Speed
+0009847A: Potion of Strength
+000984A3: Potion of the Sea
+00009306: Potion of Warmth
+00056E53: Potion of Willpower
+000B97EA: Rosethorn Mead
+00185DCD: Shadowbanish Wine
+0004E0A9: Skooma
+0004E939: Strong Elixir of Exploration
+0008DC5D: Strong Poison of Affliction
+0009846A: Strong Poison of Apathy
+0000920D: Strong Poison of Burden
+00098464: Strong Poison of Catastrophe
+0008DC5A: Strong Poison of Clumsiness
+0008DC60: Strong Poison of Confusion
+00056E56: Strong Poison of Cowardice
+000984AC: Strong Poison of Debilitation
+0008DC72: Strong Poison of Fatigue
+00098462: Strong Poison of Feeblemind
+0009846C: Strong Poison of Frailty
+0008DC6F: Strong Poison of Fright
+000984AA: Strong Poison of Fumbling
+0008DC75: Strong Poison of Illness
+0008DC63: Strong Poison of Misfortune
+00098484: Strong Poison of Paralysis
+00098468: Strong Poison of Repulsion
+00098466: Strong Poison of Separation
+0008DC78: Strong Poison of Severing
+00098460: Strong Poison of Sickness
+0009849E: Strong Poison of Silence
+0008DC69: Strong Poison of Slowing
+0008DC66: Strong Poison of the Fool
+0008DC6C: Strong Poison of Weakness
+000984AE: Strong Poison of Weariness
+000984A0: Strong Potion of Absorption
+000092E9: Strong Potion of Agility
+00009319: Strong Potion of Alacrity
+00098490: Strong Potion of Antivenom
+00088B1E: Strong Potion of Chameleon
+00009317: Strong Potion of Charisma
+00056E58: Strong Potion of Dedication
+00009230: Strong Potion of Detect Life
+0009848E: Strong Potion of Disbelief
+000984A8: Strong Potion of Dispel
+000092EB: Strong Potion of Endurance
+000092ED: Strong Potion of Fatigue
+0009846E: Strong Potion of Feather
+00098470: Strong Potion of Fire Shield
+0000930D: Strong Potion of Fortitude
+00009315: Strong Potion of Fortune
+0009847C: Strong Potion of Frost Shield
+0000930B: Strong Potion of Grace
+00098492: Strong Potion of Grounding
+00009311: Strong Potion of Healing
+000092EF: Strong Potion of Health
+00009313: Strong Potion of Insight
+00098489: Strong Potion of Insulation
+000092F1: Strong Potion of Intelligence
+0009847E: Strong Potion of Invisibility
+00098480: Strong Potion of Light
+000092F3: Strong Potion of Luck
+000092F9: Strong Potion of Magicka
+0000931D: Strong Potion of Might
+00098482: Strong Potion of Nighteye
+000092F5: Strong Potion of Personality
+00098486: Strong Potion of Reflection
+00098488: Strong Potion of Resistance
+0000930F: Strong Potion of Respite
+00009327: Strong Potion of Seastride
+00009AE4: Strong Potion of Shock Shield
+0000931B: Strong Potion of Sorcery
+000092F7: Strong Potion of Speed
+000092FB: Strong Potion of Strength
+00009325: Strong Potion of the Sea
+0009848C: Strong Potion of Warmth
+00056E57: Strong Potion of Willpower
+00037F84: Surilie Brothers Vintage 399
+00037F82: Surilie Brothers Vintage 415
+00037F80: Surilie Brothers Wine
+00037F7E: Tamika Vintage 399
+00037F83: Tamika Vintage 415
+00037F81: Tamika's West Weald Wine
+0018BD5A: Turpentine
+000CD2DB: Turpentine
+000CD2DC: Turpentine
+000CD2DD: Turpentine
+000CD2DE: Turpentine
+000CD2DF: Turpentine
+0004E937: Weak Elixir of Exploration
+0008DC5B: Weak Poison of Affliction
+00098469: Weak Poison of Apathy
+0000920C: Weak Poison of Burden
+00098463: Weak Poison of Catastrophe
+0008DC59: Weak Poison of Clumsiness
+0008DC5F: Weak Poison of Confusion
+00056E59: Weak Poison of Cowardice
+000984AB: Weak Poison of Debilitation
+0008DC71: Weak Poison of Fatigue
+00098461: Weak Poison of Feeblemind
+0009846B: Weak Poison of Frailty
+0008DC6E: Weak Poison of Fright
+000984A9: Weak Poison of Fumbling
+0008DC74: Weak Poison of Illness
+0008DC62: Weak Poison of Misfortune
+00098483: Weak Poison of Paralysis
+00098467: Weak Poison of Repulsion
+00098465: Weak Poison of Separation
+0008DC77: Weak Poison of Severing
+000984AF: Weak Poison of Sickness
+0009849D: Weak Poison of Silence
+0008DC68: Weak Poison of Slowing
+0008DC65: Weak Poison of the Fool
+0008DC6B: Weak Poison of Weakness
+000984AD: Weak Poison of Weariness
+0009849F: Weak Potion of Absorption
+000092E8: Weak Potion of Agility
+00009318: Weak Potion of Alacrity
+0009848F: Weak Potion of Antivenom
+00088B1D: Weak Potion of Chameleon
+00009316: Weak Potion of Charisma
+00056E52: Weak Potion of Dedication
+0000922F: Weak Potion of Detect Life
+0009848D: Weak Potion of Disbelief
+000984A7: Weak Potion of Dispel
+000092EA: Weak Potion of Endurance
+000092EC: Weak Potion of Fatigue
+0009846D: Weak Potion of Feather
+0009846F: Weak Potion of Fire Shield
+0000930C: Weak Potion of Fortitude
+00009314: Weak Potion of Fortune
+0009847B: Weak Potion of Frost Shield
+0000930A: Weak Potion of Grace
+00098491: Weak Potion of Grounding
+00009310: Weak Potion of Healing
+000092EE: Weak Potion of Health
+00009312: Weak Potion of Insight
+0009848A: Weak Potion of Insulation
+000092F0: Weak Potion of Intelligence
+0009847D: Weak Potion of Invisibility
+0009847F: Weak Potion of Light
+000092F2: Weak Potion of Luck
+000092F8: Weak Potion of Magicka
+0000931C: Weak Potion of Might
+00098481: Weak Potion of Nighteye
+000092F4: Weak Potion of Personality
+00098485: Weak Potion of Reflection
+00098487: Weak Potion of Resistance
+0000930E: Weak Potion of Respite
+00009326: Weak Potion of Seastride
+00009AE0: Weak Potion of Shock Shield
+0000931A: Weak Potion of Sorcery
+000092F6: Weak Potion of Speed
+000092FA: Weak Potion of Strength
+00009324: Weak Potion of the Sea
+0009848B: Weak Potion of Warmth
+00056E51: Weak Potion of Willpower
+#ALCHEMY EQUIPTMENT#
+0006E310: Apprentice Alembic
+0006E311: Apprentice Calcinator
+0006E312: Apprentice Mortar & Pestle
+0006E313: Apprentice Retort
+0006EE5C: Expert Alembic
+0006EE5E: Expert Calcinator
+0006EE60: Expert Mortar & Pestle
+0006EE62: Expert Retort
+0006EE52: Journeyman Alembic
+0006EE55: Journeyman Calcinator
+0006EE57: Journeyman Mortar & Pestle
+0006EE59: Journeyman Retort
+0006EE64: Master Alembic
+0006EE66: Master Calcinator
+0006EE68: Master Mortar & Pestle
+0006EE6A: Master Retort
+00010604: Novice Alembic
+0001057D: Novice Calcinator
+000C7968: Novice Mortar & Pestle
+000105E3: Novice Mortar & Pestle
+00000C4F: Novice Retort
+#ARMOR#
+00053D77: Aegis of Reflection
+000CA117: Aegis of the Apocalypse
+0003B1DC: Agronak's Raiment
+0004965F: Ambassador's Cuirass
+000C8540: Ancient Blades Helmet
+000C8541: Ancient Blades Shield
+000150BA: Ancient Elven Helm
+0004939B: Annealed Cuirass
+0002766D: Anvil Cuirass
+000352C3: Anvil Shield
+000C5B4F: Apron of Adroitness
+00049170: Archer's Gauntlets
+00029920: Arena Light Raiment
+0004F3F7: Armor Crafter's Gauntlets
+0001FECF: Armor of Tiber Septim
+000BE5DA: Ayleid Crown of Lindai
+000BE5D8: Ayleid Crown of Nenalata
+000C47B1: Bands of Kwang Lao
+0003C803: Bands of the Chosen
+0004950B: Barkeep's Gauntlets
+00049362: Battle Medic's Cuirass
+00049685: Battlehunter Gauntlets
+00049686: Battlehunter Helmet
+00049397: Beveled Gauntlets
+000CA110: Birthright of Astalon
+0004951A: Black Marsh Helmet
+00038514: Blackwood Boots
+00038510: Blackwood Cuirass
+00038511: Blackwood Gauntlets
+00038512: Blackwood Greaves
+00038513: Blackwood Helmet
+0003647D: Blackwood Shield
+00049389: Bladefall Cuirass
+00022F20: Blades Boots
+00022F65: Blades Cuirass
+00022F6F: Blades Gauntlets
+00023329: Blades Greaves
+000738D6: Blades Helmet
+000738D7: Blades Shield
+0007BE43: Bloodworm Helm
+000A577F: Blower's Cuirass
+0004F401: Bonfire Greaves
+000348AC: Boots of Bloody Bounding
+0004917A: Boots of Grounding
+00049160: Boots of Insulation
+0004916A: Boots of Legerity
+0004F3F2: Boots of Plain Striding
+00049509: Boots of Running
+00049370: Boots of Shock Resistance
+00049173: Boots of Silence
+000A5785: Boots of Soft Walking
+00047892: Boots of the Atronach
+00049392: Boots of the Calming Sea
+0004899E: Boots of the Cheetah
+0004914E: Boots of the Cutpurse
+000489AF: Boots of the Eel
+000A5784: Boots of the Forest Stalker
+00049652: Boots of the Harbinger
+00049667: Boots of the Jument
+0004788D: Boots of the Olympian
+0004F3F8: Boots of the Savannah
+000489B3: Boots of the Shark
+00049377: Boots of the Silt~runner
+0002C23F: Boots of the Storm
+000CA111: Boots of the Swift Merchant
+0002C21E: Boots of the Taskmaster
+0002C215: Boots of the Thrall
+000489A6: Boots of the Tiger
+0004951D: Boots of the Unburdened
+000493A6: Borosilicate Boots
+0002626A: Bound Boots
+0002626B: Bound Cuirass
+0002626C: Bound Gauntlets
+00026270: Bound Greaves
+00026272: Bound Helmet
+00033525: Bound Mythic Dawn Armor
+00026263: Bound Shield
+00027673: Bravil Cuirass
+000352C5: Bravil Shield
+000A577A: Broadhead Gauntlets
+0006E2E1: Broken Shield
+00027677: Bruma Cuirass
+000352C7: Bruma Shield
+0012DD1B: Brusef Amelion's Boots
+000091FA: Brusef Amelion's Cuirass
+0012DD1A: Brusef Amelion's Gauntlets
+0012DD18: Brusef Amelion's Greaves
+0012DD19: Brusef Amelion's Helmet
+0012DD1C: Brusef Amelion's Shield
+00049688: Burning Shield
+00049388: Canopy Helmet
+00049684: Cave Diver's Helmet
+00049676: Cave Scout Helmet
+00049674: Cavern Guide Gauntlets
+0001C6D4: Chainmail Boots
+0001C6D3: Chainmail Cuirass
+0001C6D6: Chainmail Gauntlets
+0001C6D5: Chainmail Greaves
+000977BC: Chainmail Helmet
+0001C6D7: Chainmail Helmet
+00049165: Chameleon Cuirass
+00027678: Cheydinhal Cuirass
+000352C9: Cheydinhal Shield
+00027679: Chorrol Cuirass
+000352CB: Chorrol Shield
+0004F3F9: Clannfear Hide Shield
+000A577C: Clear Sight Gauntlets
+0004915F: Copperhead Cuirass
+0004939A: Crystal Greaves
+00049393: Crystalline Cuirass
+00049380: Cuirass of Anu's Blessing
+00049672: Cuirass of Battle
+000493A5: Cuirass of Cleansing
+0002C218: Cuirass of Fortitude
+0004916C: Cuirass of Health
+0004966C: Cuirass of Lifeblood
+0004938B: Cuirass of Natural Assi~milation
+0004969B: Cuirass of Pain Resistance
+0004969D: Cuirass of Poison Blood
+00049179: Cuirass of Protection
+00049520: Cuirass of Resilience
+00049515: Cuirass of Resistance
+0004950C: Cuirass of Skill
+0004968A: Cuirass of Tenacity
+00049147: Cuirass of the Assassin
+0004899F: Cuirass of the Bear
+0002C223: Cuirass of the Blood Legion
+00048997: Cuirass of the Cameleon
+0004967C: Cuirass of the Cave Viper
+000489AE: Cuirass of the Cobra
+00049660: Cuirass of the Diplomat
+000489AD: Cuirass of the Elephant
+000A577E: Cuirass of the Farlands Trader
+000489A4: Cuirass of the Fox
+00049521: Cuirass of the Herald
+00049692: Cuirass of the Jugger~naut
+0002C23B: Cuirass of the Pit Viper
+00049378: Cuirass of the Ranger
+00049359: Cuirass of the Spy
+0004914F: Cuirass of the Thief~catcher
+0002C21B: Cuirass of the Undefeated
+0004966A: Cuirass of Vitality
+0004914C: Cured Shield
+00036359: Daedric Boots
+0003635B: Daedric Cuirass
+0000C582: Daedric Gauntlets
+0003635A: Daedric Greaves
+000733F4: Daedric Helmet
+000733F0: Daedric Shield
+00049696: Darksplitter Helmet
+0002C21A: Deathmarch Greaves
+00049668: Deepdweller's Shield
+00048999: Deer Skin Gauntlets
+0004899B: Deer Skin Helmet
+00049670: Defender's Shield
+000CA10F: Dondoran's Juggernaut
+0003E9BA: Dremora Caitiff Boots
+0003E9BE: Dremora Caitiff Cuirass
+0003E9BF: Dremora Caitiff Greaves
+0008B882: Dremora Caitiff Helmet
+00066A34: Dremora Caitiff Robe
+0003E9C0: Dremora Caitiff Shield
+0003E9B9: Dremora Churl Boots
+0003E9BD: Dremora Churl Cuirass
+0003E9BC: Dremora Churl Greaves
+00066A33: Dremora Churl Robe
+0003E9B3: Dremora Kynmarcher Boots
+0003E9B4: Dremora Kynmarcher Cuirass
+0003E9B5: Dremora Kynmarcher Greaves
+0008B88C: Dremora Kynmarcher Helmet
+00066A38: Dremora Kynmarcher Robe
+0003E9AF: Dremora Kynreeve Boots
+0003E9B0: Dremora Kynreeve Cuirass
+0003E9B1: Dremora Kynreeve Greaves
+0008B88A: Dremora Kynreeve Helmet
+00066A36: Dremora Kynreeve Robe
+0000C57E: Dremora Kynreeve Shield
+0003E9BB: Dremora Kynval Boots
+0003E9C1: Dremora Kynval Cuirass
+0003E9AE: Dremora Kynval Greaves
+0008B888: Dremora Kynval Helmet
+00066A35: Dremora Kynval Robe
+0003E9B6: Dremora Markynaz Boots
+0000C580: Dremora Markynaz Cuirass
+0003E9B8: Dremora Markynaz Greaves
+00066A39: Dremora Markynaz Robe
+00066A3A: Dremora Valkynaz Robe
+00036347: Dwarven Boots
+000C5610: Dwarven Ceremonial Shield
+00036349: Dwarven Cuirass
+00036346: Dwarven Gauntlets
+00036348: Dwarven Greaves
+000733F1: Dwarven Helmet
+000733EE: Dwarven Shield
+0002C220: Dwarvenskin Shield
+000489AA: Eagle Feather Shield
+00036353: Ebony Boots
+000C5615: Ebony Ceremonial Gauntlets
+000C561E: Ebony Ceremonial Shield
+0002AD85: Ebony Cuirass
+00036352: Ebony Gauntlets
+00036354: Ebony Greaves
+000733F3: Ebony Helmet
+000733EF: Ebony Shield
+00014F13: Elven Boots
+000C55FE: Elven Ceremonial Cuirass
+000CAB65: Elven Ceremonial Helmet
+000C7984: Elven Ceremonial Shield
+0002299C: Elven Cuirass
+0002299E: Elven Gauntlets
+00014F10: Elven Gauntlets
+0002299D: Elven Greaves
+00014F12: Elven Helmet
+000229A0: Elven Shield
+0001FECE: Emperor's Boots
+0003ABB9: Emperor's Cuirass
+0001FED0: Emperor's Gauntlets
+0001FED1: Emperor's Greaves
+0001FED2: Emperor's Helmet
+0000C4D5: Emperor's Robe
+00049514: Enchanterbane Helmet
+0006BDFE: Escutcheon of Chorrol
+0004951E: Extinguishing Shield
+0004951B: Eyes of Akatosh
+00049154: Fence Cuirass
+0004968C: Ferocious Cuirass
+00082DD8: Fin Gleam
+00049512: Fire Greaves
+00049699: Fire Ritual Greaves
+00049176: Firewalker Greaves
+000CA11A: Fists of the Drunkard
+0002C229: Flamewalker Greaves
+00049360: Fleetfoot Boots
+0004939C: Flowing Greaves
+00049156: Footpad's Boots
+00049523: Forgemaster's Gauntlets
+00049653: Fortress Shield
+00049656: Frost Shield
+00049693: Frozen Shield
+00024767: Fur Boots
+00024766: Fur Cuirass
+00024765: Fur Gauntlets
+00024764: Fur Greaves
+00024768: Fur Helmet
+000977BE: Fur Shield
+00047891: Gauntlets of Blinding Speed
+00049691: Gauntlets of Brutality
+0002C217: Gauntlets of Brutality
+0004F3F3: Gauntlets of Force
+000CA11C: Gauntlets of Gluttony
+00049155: Gauntlets of Infiltration
+00049167: Gauntlets of Life Detection
+0004935C: Gauntlets of Life Seeing
+0004937C: Gauntlets of Life Sight
+000A5780: Gauntlets of Lockbreaking
+00049669: Gauntlets of Might
+000A5781: Gauntlets of Passing
+0004951F: Gauntlets of Potence
+0002C221: Gauntlets of Punishment
+00049507: Gauntlets of Revelation
+0004969A: Gauntlets of Survival
+00047894: Gauntlets of the Battle~mage
+0004936C: Gauntlets of the Equinox
+00049524: Gauntlets of the Forge
+00049671: Gauntlets of the Fray
+00049654: Gauntlets of the Gladiator
+000489AB: Gauntlets of the Horker
+0004F3F0: Gauntlets of the Hunter
+0004965D: Gauntlets of the North
+0004789B: Gauntlets of the Pugilist
+000489A5: Gauntlets of the Rat
+0004914A: Gauntlets of the Scout
+00049665: Gauntlets of the Sentinel
+0004915C: Gauntlets of the Tundra
+0004788C: Gauntlets of the Weaponmaster
+000489A3: Gauntlets of the Woodsman
+00049500: Gauntlets of Vigor
+0004F402: Gauntlets of Winter
+00049655: General's Cuirass
+00049369: General's Shield
+00036341: Glass Boots
+000C560B: Glass Ceremonial Cuirass
+000C560D: Glass Ceremonial Gauntlets
+000C560E: Glass Ceremonial Shield
+00036343: Glass Cuirass
+00036340: Glass Gauntlets
+00036342: Glass Greaves
+000733E6: Glass Helmet
+00036344: Glass Shield
+00047893: Gloves of the Caster
+00049364: Greaves of Canyon Striding
+0004936B: Greaves of Fire Resistance
+000493A4: Greaves of Fluid Motion
+0004936F: Greaves of Free Movement
+0004F404: Greaves of Freedom
+0004937D: Greaves of Grace
+00049169: Greaves of Legerity
+0004938A: Greaves of Movement
+00049398: Greaves of Poise
+00049365: Greaves of Proficiency
+00049382: Greaves of Protection
+000493AB: Greaves of Purity
+0004914D: Greaves of Quickness
+000478A3: Greaves of Resilient Flesh
+00049387: Greaves of Shaded Rest
+00049152: Greaves of Skill
+0004917E: Greaves of Spell Absorption
+00049376: Greaves of Spell Consumption
+0004916E: Greaves of the Acrobat
+0004899D: Greaves of the Cat
+00049679: Greaves of the Deep Dweller
+0004937F: Greaves of the Everlasting
+0004965C: Greaves of the Flame
+0004916F: Greaves of the Foot~soldier
+000493A1: Greaves of the Kiln
+0004966B: Greaves of the Laborer
+000489A1: Greaves of the Monkey
+000489A2: Greaves of the Rhino
+000478A1: Greaves of the Sun
+00049381: Greaves of the Tree Runner
+00049151: Greaves of the Tumbler
+0004969C: Greaves of the Unstoppable
+0004968B: Greaves of the Warmonger
+0004788F: Greaves of Well-Being
+000478A2: Grounded Boots
+0002767C: Guard Helmet
+0004950A: Hammerfell Shield
+00049657: Hand of Akatosh
+00082DDF: Hands of Midnight
+000CA118: Hands of the Atronach
+000493A9: Hardened Shield
+000355FA: Heavy Raiment of Valor
+000CA11B: Helm of Ferocity
+000A5659: Helm of Oreyn Bearclaw
+000CA119: Helm of the Deep Delver
+00049506: Helmet of Arkay
+00049363: Helmet of Enlightenment
+00049396: Helmet of Exposition
+00049168: Helmet of Life Detection
+0004935D: Helmet of Life Seeing
+0004937B: Helmet of Life Sight
+0004936D: Helmet of Magicka Resistance
+00049175: Helmet of Night Eye
+00049522: Helmet of Power
+0004F403: Helmet of Spell Resistence
+0004915D: Helmet of the Apprentice
+00049664: Helmet of the Deep
+000496A5: Helmet of the Drowned
+0002C24E: Helmet of the Flood
+0004F3F1: Helmet of the Hunter
+000489AC: Helmet of the Lemur
+0004789E: Helmet of the Mage
+00047890: Helmet of the Mind
+000489A0: Helmet of the Owl
+0004914B: Helmet of the Scout
+00049666: Helmet of the Sentinel
+00049503: High Rock Helmet
+0004F3FB: Horselord's Cuirass
+000A577B: Huntsman Gauntlets
+000478A0: Ice Cuirass
+000ADDA3: Imperial Dragon Boots
+000ADD50: Imperial Dragon Cuirass
+000ADDAA: Imperial Dragon Cuirass
+000ADE26: Imperial Dragon Gauntlets
+000ADE27: Imperial Dragon Greaves
+000ADE2A: Imperial Dragon Helmet
+0009416A: Imperial Horseman Helmet
+00064F75: Imperial Palace Cuirass
+0018AE4B: Imperial Watch Boots
+0018AE4C: Imperial Watch Cuirass
+0018AE4D: Imperial Watch Gauntlets
+0018AE4E: Imperial Watch Greaves
+0018AE4F: Imperial Watch Helmet
+000653F7: Imperial Watch Shield
+00049172: Infiltrator's Gauntlets
+0002C214: Inquisitor's Gauntlets
+0002C212: Inquisitor's Helmet
+000493AA: Insulated Shield
+0001C6CF: Iron Boots
+0001C6D1: Iron Cuirass
+0001C6D2: Iron Gauntlets
+0001C6D0: Iron Greaves
+000733EB: Iron Helmet
+00049681: Iron Mountain Shield
+000733ED: Iron Shield
+00049502: Ironheart Cuirass
+0012DD1D: Knights of the Thorn Shield
+0002767A: Kvatch Cuirass
+000352CD: Kvatch Shield
+0002319B: Leather Boots
+000229A9: Leather Bracer
+0002319A: Leather Cuirass
+00023199: Leather Gauntlets
+00023198: Leather Greaves
+0002319C: Leather Helmet
+00025058: Leather Shield
+00028ADE: Legion Boots
+00028ADF: Legion Cuirass
+00028AE0: Legion Gauntlets
+00028AE1: Legion Greaves
+00028AE2: Legion Helmet
+000352D3: Legion Shield
+0002767B: Leyawiin Cuirass
+000352CF: Leyawiin Shield
+00032D49: Light Iron Shield
+000733E0: Light Iron Shield
+0003563E: Light Raiment of Valor
+00049508: Lightfoot Boots
+00049399: Lightning Run Boots
+0004F405: Lightning Strider Boots
+0002ADCF: Lightning Strider Shield
+0004F3FA: Lion's Paw Gauntlets
+00049683: Mage Fighter's Greaves
+0002C247: Magebane Greaves
+00049178: Magehunter's Helmet
+000496A4: Magekiller Greaves
+0004916D: Mage's Helmet
+0002C235: Mageslayer's Helmet
+000A5782: Magnifying Gauntlets
+0004916B: Marathon Greaves
+000228EE: Masque of Clavicus Vile
+0004966E: Master Forge Gauntlets
+00049171: Merchant's Cuirass
+00049678: Mercury Shield
+0004966F: Miner's Boots
+0004789F: Mirror Shield
+0002C0FC: Mithril Boots
+0002C0FE: Mithril Cuirass
+0002C100: Mithril Gauntlets
+0002C102: Mithril Greaves
+000733E4: Mithril Helmet
+000977C0: Mithril Shield
+000CA112: Monkeypants
+0002C244: Monolithic Shield
+0004F3FE: Moonlight Gauntlets
+0004F3FD: Moonlight Shield
+0002C224: Moonshadow Gauntlets
+0002C226: Moonshadow Shield
+0004967A: Mountaineer's Gauntlets
+00049673: Mountaineer's Shield
+000489B2: Mudcrab Shield
+00049368: Nighteye Helmet
+0004935F: Nimble Greaves
+00049177: Nord Gauntlets
+0002C233: Nordslayer Gauntlets
+0002ADCE: Ogre Skin Shield
+0003634D: Orcish Boots
+0003634F: Orcish Cuirass
+0003634C: Orcish Gauntlets
+0003634E: Orcish Greaves
+000733F2: Orcish Helmet
+00036350: Orcish Shield
+00049163: Outrider Shield
+0004968F: Peak Climber's Boots
+000CBD4F: Pinarus' Iron Cuirass
+00008A78: Pit Boots
+00008A76: Pit Cuirass
+00008A79: Pit Gauntlets
+00008A77: Pit Greaves
+00008A7A: Pit Helmet
+000493A3: Quartz Cuirass
+000CA113: Quicksilver Boots
+000CA114: Rasheda's Special
+000493A2: Reflecting Helmet
+00049511: Retributive Justice
+00049164: Riverwalking Boots
+0015985B: Rough Leather Boots
+0015985C: Rough Leather Cuirass
+0015985D: Rough Leather Gauntlets
+0015985F: Rough Leather Helmet
+00047AC8: Rough Leather Shield
+00049516: Royal Cuirass
+00049501: Rugged Cuirass
+0001C161: Ruined Akaviri Shield
+000661C1: Rusty Iron Cuirass
+000661C2: Rusty Iron Gauntlets
+000661C3: Rusty Iron Greaves
+000661C4: Rusty Iron Helmet
+000661C5: Rusty Iron Shield
+0004899C: Salamander Scale Shield
+0004F3F6: Salubrious Cuirass
+00049689: Savage Gauntlets
+00027107: Saviour's Hide
+0002ADD1: Seastrider's Helmet
+0004968D: Shaman Helmet
+0002C228: Shield of Animus
+0004950E: Shield of Elsweyr
+00049157: Shield of Frost
+00053D79: Shield of Grounding
+00053D76: Shield of Justice
+000496A3: Shield of Lightning
+000493A0: Shield of Mirrors
+00049385: Shield of Nature's Vengence
+0004F400: Shield of Reflection
+00049677: Shield of Retribution
+0004F3FF: Shield of Retributive Strike
+0004936A: Shield of Returning
+0004939F: Shield of Shattering
+00049375: Shield of Storms
+00049366: Shield of Summer
+0004965A: Shield of the Divine
+0004789D: Shield of the Elements
+00049510: Shield of the Empire
+00053D74: Shield of the Flame
+00053D75: Shield of the North
+00049675: Shield of the Pathfinder
+0004935E: Shield of the Red Moun~tain
+00049658: Shield of the Sun
+00049519: Shield of the Tower
+00053D78: Shield of the Turtle
+000496A2: Shield of the Unbroken
+00049663: Shield of the Undefeated
+00049690: Shield of the Unrelenting
+00049698: Shield of the Untamed
+0002C227: Shield of Vengence
+0004915A: Shield of Vindication
+00049383: Shield of Winter Solstice
+000347F7: Shrouded Armor
+000347F4: Shrouded Hood
+000493AC: Silica Boots
+0001DC4B: Skingrad Cuirass
+000352D1: Skingrad Shield
+00049513: Skyrim Gauntlets
+0002C239: Slavemaster's Greaves
+000494FF: Smelter Shield
+000A5783: Smuggler's Boots
+00049153: Sniper Gauntlets
+00049694: Snowblind Gauntlets
+00049695: Snowblind Shield
+00049374: Solid Shield
+000897C2: Spell Breaker
+0002ADD0: Spellbinder Greaves
+0004915B: Spellblocker Shield
+00049391: Spelltaker's Greaves
+00049697: Spiked Shield
+0004F3F4: Stalwart Cuirass
+000229A5: Steel Boots
+000229A2: Steel Cuirass
+0001C6D8: Steel Gauntlets
+000229A3: Steel Greaves
+000229A4: Steel Helmet
+00023923: Steel Shield
+0004969E: Storm Stomper Boots
+0004967D: Stormhammer Boots
+00049682: Stormhammer Shield
+0002C245: Stormlord's Shield
+0004938C: Stormrider Boots
+00049390: Stormrider Shield
+0004950D: Sunburst Gauntlets
+00049687: Swamp Boots
+0004938F: Sylvan Barkshield
+0004937E: Sylvan Scout Boots
+0004939D: Tempered Greaves
+0002996A: The Gray Aegis
+0004951C: Thiefhunter's Gauntlets
+00049386: Threefold Shield
+000489A9: Tiger Fang Shield
+00049361: Tireless Greaves
+000CA116: Tower of the Nine
+0000A307: Umbra's Ebony Boots
+0000A308: Umbra's Ebony Cuirass
+0000A309: Umbra's Ebony Gauntlets
+0000A30A: Umbra's Ebony Greaves
+0000A311: Umbra's Ebony Helmet
+0000A312: Umbra's Ebony Shield
+0004936E: Unyielding Cuirass
+00187BBC: Valdemar's Shield
+00036355: Viperbane Cuirass
+000A577D: Vvardenfell Trader's Cuirass
+0002C21D: Warforger's Gauntlets
+0004966D: Warmage's Helmet
+0004968E: Warmaster Gauntlets
+0004917F: Waterwalking Boots
+0004967B: Weaponbane Cuirass
+0004915E: Weaponward Cuirass
+0004F3FC: Winterbane Shield
+0004965B: Witchfinder's Shield
+0004965E: Witchhunter Helmet
+00049150: Wizard's Helmet
+#ARROWS#
+0004BF0B: Arrow of Blizzards
+00008A4D: Arrow of Brilliance
+0004BEFB: Arrow of Burning
+000CD53F: Arrow of Cleansing
+0004BF02: Arrow of Cold
+0003DFDB: Arrow of Cowardice
+0003BF67: Arrow of Discord
+0004BF11: Arrow of Dispel
+0004BF00: Arrow of Drain Magicka
+0004BF10: Arrow of Embers
+00022DB5: Arrow of Extrication
+0003DFD6: Arrow of Fatigue
+0003DFD8: Arrow of Fear
+0004BF07: Arrow of Fire
+0004BF04: Arrow of Flames
+0004BF05: Arrow of Freezing
+0004BEF9: Arrow of Frost
+0003DFD7: Arrow of Harm
+00159676: Arrow of Hexing
+00008A4C: Arrow of Illumination
+000CD542: Arrow of Immolation
+0004BEFF: Arrow of Jinxing
+0004BEFD: Arrow of Jolts
+00008A4F: Arrow of Light
+0004BF0C: Arrow of Lightning
+0003DFD9: Arrow of Misery
+0004BEFC: Arrow of Numbing
+0003DFDA: Arrow of Qualms
+000CD540: Arrow of Savage Frost
+0004BF01: Arrow of Scorching
+0004BF03: Arrow of Shocking
+0003DFDC: Arrow of Silence
+0004BEFA: Arrow of Sparks
+0003DFDD: Arrow of Stillness
+000CD543: Arrow of Storm Strike
+0004BF0F: Arrow of Storms
+0000BAD9: Arrow of Sunlight
+0004BF0A: Arrow of the Blaze
+0004BF09: Arrow of the Dynamo
+0004BF08: Arrow of the Glacier
+0004BF0D: Arrow of the Inferno
+000CD545: Arrow of the North Winds
+0004BF06: Arrow of Voltage
+0004BF0E: Arrow of Winter
+0003CB6C: Arrow of Withering
+0001EFD3: Daedric Arrow
+000872A7: Dremora Barbed Arrow
+000872A6: Dremora Broadhead Arrow
+000872A5: Dremora Field Arrow
+00022BE2: Dwarven Arrow
+0001EFD5: Ebony Arrow
+000229C0: Elven Arrow
+00008A4E: Flare Arrow
+00022BE1: Glass Arrow
+00014EB3: Hatreds Soul Arrow
+00017829: Iron Arrow
+000CD544: Magebane Arrow
+0003266D: Rose of Sithis
+0001EFD4: Silver Arrow
+000229C1: Steel Arrow
+000CD541: Stormcall Arrow
+#BOOKS AND SCROLLS#
+000243DB: 2920, Evening Star (v12)
+000243D7: 2920, First Seed (v3)
+000243F5: 2920, Frostfall (v10)
+000243F4: 2920, Hearth Fire (v9)
+00024547: 2920, Last Seed (v8)
+00024402: 2920, MidYear (v6)
+000243E4: 2920, Morning Star (v1)
+0002453F: 2920, Rain's Hand (v4)
+0002454D: 2920, Second Seed (v5)
+00024538: 2920, Sun's Dawn (v2)
+000243D3: 2920, Sun's Dusk (v11)
+00024534: 2920, Sun's Height (v7)
+0002FF32: A Bloody Journal
+00024576: A Children's Anuad
+00024536: A Dance in Fire, v 7
+000243CB: A Dance in Fire, v1
+000243EA: A Dance in Fire, v2
+000243DF: A Dance in Fire, v3
+000243CC: A Dance in Fire, v4
+00024411: A Dance in Fire, v5
+00024535: A Dance in Fire, v6
+000243CF: A Game at Dinner
+000243F9: A Hypothetical Treachery
+00024569: A Less Rude Song
+000AA07D: A Life of Uriel Septim VII
+00098682: A New Guild for Fighters?
+000C45B3: A Poorly Scrawled Note
+000849F7: Absorb Agility
+000849D2: Absorb Endurance
+000849D8: Absorb Fatigue
+000849D9: Absorb Health
+000849D3: Absorb Intelligence
+000849D4: Absorb Luck
+0000A94E: Absorb Magicka
+0000A94F: Absorb Major Magicka
+0000A950: Absorb Maximal Magicka
+000849DD: Absorb Minimal Magicka
+0000A94D: Absorb Minor Magicka
+000849DE: Absorb Skill: Acrobatics
+000849DF: Absorb Skill: Alchemy
+000849E0: Absorb Skill: Alteration
+000849E1: Absorb Skill: Armorer
+000849E2: Absorb Skill: Athletics
+000849E3: Absorb Skill: Blade
+000849E4: Absorb Skill: Block
+000849E5: Absorb Skill: Blunt
+000849E6: Absorb Skill: Conjuration
+000849E7: Absorb Skill: Destruction
+000849E8: Absorb Skill: Hand to Hand
+000849E9: Absorb Skill: Heavy Armor
+000849EA: Absorb Skill: Illusion
+000849ED: Absorb Skill: Light Armor
+000849EC: Absorb Skill: Marksman
+000849EB: Absorb Skill: Mercantile
+000849EE: Absorb Skill: Mysticism
+000849EF: Absorb Skill: Restoration
+000849F0: Absorb Skill: Security
+000849F1: Absorb Skill: Sneak
+000849F2: Absorb Skill: Speechcraft
+000849D5: Absorb Speed
+000849D6: Absorb Strength
+000849D7: Absorb Willpower
+0006D6ED: Adamus Phillida Slain!
+00073A65: Advances in Lock Picking
+0008991F: Aegis
+00024543: Aevar Stone-Singer
+000C55DF: Agnar's Journal
+000243FE: Ahzirr Traajijazeri
+0001C162: Akaviri Diary Translation
+00084AEF: Alluring Gaze
+00066200: Alval Uvani's Schedule
+000355ED: Amantius Allectus' Diary
+00185934: Ancotar's Journal
+000C56D9: Andre's Letter
+000CA11F: Annal of the Fire Nexus
+00066CD5: Anvil Tarts Thwarted!
+0008ADA8: Aquatic Adaptation
+0008ADAA: Aquatic Evolution
+0008ADAB: Aquatic Transcendence
+00024584: Arcana Restored
+000888EE: Arctic Blow
+000274EE: Assassination!
+0003353B: Ayleid Reference Text
+0002453B: Azura and the Box
+00073A61: Battle of Sancre Tor
+000888B9: Beast of Burden
+00073A63: Before the Ages of Man
+000243E1: Beggar
+0001FB53: Beggar Prince
+000150B9: Beguile
+00084AF1: Beguiling Touch
+000C7B33: Bible of the Deep Ones
+00024550: Biography of Barenziah, v 1
+00024551: Biography of Barenziah, v 2
+00024552: Biography of Barenziah, v 3
+00024553: Biography of Barenziah, v 3
+0002454B: Biography of the Wolf Queen
+000888C0: Blazing Spear
+000888E5: Blizzard
+000849F3: Bound Axe
+000849F4: Bound Boots
+000849F5: Bound Bow
+000849F6: Bound Cuirass
+000849F8: Bound Dagger
+000849F9: Bound Gauntlets
+000849FA: Bound Greaves
+000849FB: Bound Helmet
+000849FC: Bound Mace
+000849FD: Bound Shield
+000849FE: Bound Sword
+0002A577: Brenus Astis' Journal
+00024554: Brief History of the Empire, v 1
+00024555: Brief History of the Empire, v 2
+00024556: Brief History of the Empire, v 3
+00024557: Brief History of the Empire, v 4
+00084AE2: Burdening Touch
+000888C3: Burning Touch
+00073A5F: Calcinator Treatise
+00084AEA: Calming Touch
+000898EE: Candlelight
+00084AEB: Chameleon
+000243DC: Cherim's Heart of Anequina
+00066CD3: Cheydinhal Heir Saved!
+00024587: Children of the Sky
+00024403: Chimarvamidium
+000CA11D: Chronicle of Sacrifice
+0002C8DD: Cleansing of the Fane
+00084AED: Cloak
+000888EB: Cold Touch
+00084AF3: Command Creature
+00084AF5: Command Humanoid
+00084AF7: Commanding Touch
+000849DB: Consume Health
+000C7666: Convalescence
+00088891: Corrode Armor
+00088893: Corrode Weapon
+00074A8A: Crumpled Note
+000624D1: Crumpled Piece of Paper
+000624D2: crumpled piece of paper
+000AA07E: Crumpled Piece of Paper
+000AA07F: Crumpled Piece of Paper
+000AA080: Crumpled Piece of Paper
+000AA081: Crumpled Piece of Paper
+000AA082: Crumpled Piece of Paper
+000AA083: Crumpled Piece of Paper
+0008DC4A: Crumpled Piece of Paper
+0008DC4C: Crumpled Piece of Paper
+00087293: Cure Disease
+00087294: Cure Paralysis
+00087295: Cure Poison
+00087296: Damage Agility
+0008729D: Damage Fatigue
+00087298: Damage Intelligence
+00087299: Damage Luck
+0008729A: Damage Speed
+0008729B: Damage Strength
+0008729C: Damage Willpower
+00024564: Darkest Darkness
+000280A9: Dar-Ma's Diary
+000243D4: Daughter of the Niben
+000898F0: Daylight
+000243D2: De Rerum Dirennis
+0002FB3E: Dead Drop Orders #1
+00031B2A: Dead Drop Orders #2
+0002FB3B: Dead Drop Orders #3
+00030146: Dead Drop Orders #4
+00030194: Dead Drop Orders #5
+00030195: Dead Drop Orders #6
+000301AD: Dead Drop Orders #7
+0000396B: Dead Drop Orders #8
+000243E8: Death Blow of Abernanit
+000898FB: Debilitate
+0000A1BC: Deed to Benirus Manor
+0008991C: Defend
+000849DC: Devour Health
+000152FC: Diary of Springheel Jak
+000888A4: Dire Enervation
+00088885: Dire Sever Magicka
+000888A7: Dire Wound
+0006BFAC: Dirty Scroll
+00088892: Disintegrate Armor
+00088894: Disintegrate Weapon
+0008ADA6: Dismiss Undead
+00088895: Dispel
+00088899: Dispel Other
+0000A254: Divining the Elder Scolls
+000CA11E: Document of Purile Banter
+00084AF4: Dominate Creature
+00084AF6: Dominate Humanoid
+00084AF8: Dominating Touch
+00002DAB: Draconis Gift List
+000888AD: Drain Skill: Alteration
+000888AE: Drain Skill: Blade
+0008DC82: Drain Skill: Block
+0008DC81: Drain Skill: Blunt
+000888AF: Drain Skill: Conjuration
+000888B0: Drain Skill: Destruction
+000888B1: Drain Skill: Hand to Hand
+000888B2: Drain Skill: Heavy Armor
+0008DC83: Drain Skill: Heavy Armor
+000888B3: Drain Skill: Illusion
+000888B4: Drain Skill: Marksman
+0008DC84: Drain Skill: Mysticism
+000888B5: Drain Skill: Restoration
+0008DC85: Drain Skill: Sneak
+00022B17: Dwemer History and Culture
+000277AE: Earana's Notes
+000888B6: Ease Burden
+00022DB0: Elder Scroll
+0008992C: Electric Shell
+0008992D: Electric Shield
+00089929: Electric Touch
+00089927: Electrocution
+00008874: Elevate Magicka
+00084AE4: Encumbering Touch
+00084AEE: Enthralling Presence
+0008729E: Entropic Bolt
+00088881: Entropic Touch
+000898F5: Eyes of Eventide
+000898F6: Eyes of Midnight
+00024544: Fall of the Snow Prince
+00024530: Father Of The Niben
+00088888: Fearful Gaze
+000243E7: Feyfolken I
+000243ED: Feyfolken II
+000243F1: Feyfolken III
+000A915C: Fighters Guild History, 1st Ed.
+00001101: Fingers of the Mountain
+000243E5: Fire and Darkness
+000888BA: Fire Ball
+000888C9: Fire Shield
+000888BB: Fire Storm
+00024588: Five Songs of King Wulfharth
+000888C8: Flame Shield
+000888BC: Flame Tempest
+000888C4: Flame Touch
+000888BE: Flare
+000888BF: Flash Bolt
+000624D3: Folded Page
+00024595: Followers of the Gray Fox
+0000C229: Forged List of Candidates
+000888DB: Fortify Health
+000888DD: Fortify Magicka
+00024589: Fragment: On Artaeum
+0000A256: Fragment: Song of Hrormir
+000888DF: Frenzy
+00024566: Frontier, Conquest
+000888E8: Frost Bolt
+000888EF: Frost Shell
+000888EC: Frost Touch
+00024567: Fundaments of Alchemy
+00024568: Galerion The Mystic
+00038447: Gelebourne's Journal
+000898EA: Ghost Walk
+0008ADA9: Gills
+000888F1: Glacial Wall
+000831B0: Glarthir's Notes
+000831B1: Glarthir's Notes
+000831B2: Glarthir's Notes
+000831B3: Glarthir's Notes
+000831B4: Glarthir's Notes
+000831B5: Glarthir's Notes
+000831B6: Glarthir's Notes
+000831B7: Glarthir's Notes
+000831B8: Glarthir's Notes
+000831B9: Glarthir's Notes
+0000A2B3: Glories and Laments
+0002456F: Gods and Worship
+000366B3: Grantham Blakeley's Map
+0008888B: Grasp of Terror
+0006D6EF: Gray Fox Unmasked!
+0006D6EE: Gray Fox, Man or Myth?
+000C7667: Greater Convalescence
+0008888F: Greater Detect Life
+00088896: Greater Dispel
+0008889A: Greater Dispel Other
+000888DA: Greater Fortify Fatigue
+000888DC: Greater Fortify Health
+000888DE: Greater Fortify Magicka
+00089906: Greater Restore Agility
+00089908: Greater Restore Endurance
+0008990A: Greater Restore Intelligence
+0008990C: Greater Restore Luck
+0008990E: Greater Restore Personality
+00089910: Greater Restore Speed
+00089912: Greater Restore Strength
+00089914: Greater Restore Willpower
+0008AD94: Greater Soul Trap
+00089902: Greater Spell Reflection
+00066CD4: Greatest Painter Safe!
+0008991D: Guard
+0002455B: Guide to Anvil
+0002455F: Guide to Bravil
+0002455E: Guide to Bruma
+00024561: Guide to Cheydinhal
+0002455D: Guide to Chorrol
+00024560: Guide to Leyawiin
+0002455C: Guide to Skingrad
+00024562: Guide to the Imperial City
+000888E3: Hail Storm
+000888E7: Hailstone
+00024401: Hallgerd's Tale
+0006B5C8: Handbill
+0006B5C9: Handbill
+0006B5CA: Handbill
+0006B5CB: Handbill
+0006B5CC: Handbill
+0006B5CD: Handbill
+0006B5CE: Handbill
+0006B5CF: Handbill
+0006B5D0: Handbill
+0006B5D1: Handbill
+0006B5D2: Handbill
+0006B5D3: Handbill
+0006B5D4: Handbill
+0006B5D5: Handbill
+0006B5D6: Handbill
+0006B5D7: Handbill
+0006B5D8: Handbill
+0006B5D9: Handbill
+00071765: Handbill
+00071766: Handbill
+00071767: Handbill
+00071768: Handbill
+00071769: Handbill
+0007176A: Handbill
+0007176B: Handbill
+0007176C: Handbill
+0007176D: Handbill
+0007176E: Handbill
+0007176F: Handbill
+00071770: Handbill
+00071771: Handbill
+00071772: Handbill
+00071773: Handbill
+00071774: Handbill
+00071775: Handbill
+00071776: Handbill
+00071777: Handbill
+00071778: Handbill
+00071779: Handbill
+0007177A: Handbill
+0007177B: Handbill
+0007177C: Handbill
+0007177D: Handbill
+0007177E: Handbill
+0007177F: Handbill
+00071780: Handbill
+00071781: Handbill
+00071782: Handbill
+00071783: Handbill
+00071784: Handbill
+00071785: Handbill
+00071786: Handbill
+00071787: Handbill
+00071788: Handbill
+00071789: Handbill
+0007178A: Handbill
+0007178B: Handbill
+000C7631: Handwritten Note
+0018BC65: Handwritten Note
+0008DC48: Handwritten Note
+000908C7: Handwritten Note
+0002458A: Hanging Gardens
+00033DEC: Hastily Scrawled Note
+000888C1: Heat Burst
+000888C7: Heat Shell
+00073A68: Heavy Armor Repair
+00089901: Heroic Touch
+000898FF: Heroism
+0001FB52: Hiding with the Shadow
+00084AE3: Hindering Touch
+0001FB51: History of Lock Picking
+00024405: History of the Fighters Guild
+000B1626: House Balcony Area
+000B1627: House Balcony Upgrade
+000B1581: House Bedroom Area
+000B1593: House Bedroom Area
+000B15AD: House Bedroom Area
+000B15DA: House Bedroom Area
+000B1628: House Bedroom Area
+000B1624: House Den Area
+00090EB3: House Dining Area
+000B157F: House Dining Area
+000B158D: House Dining Area
+000B15B3: House Dining Area
+000B15D8: House Dining Area
+000B1621: House Dining Area
+00092022: House Dining Area
+000B15D9: House Dining Upgrade
+000B162B: House Display Case Upgrade
+000B15AE: House Dressing Area
+00090EB2: House Kitchen Area
+000B1583: House Kitchen Area
+000B158E: House Kitchen Area
+000B15B1: House Kitchen Area
+000B15D5: House Kitchen Area
+000B1622: House Kitchen Area
+0009202C: House Kitchen Area
+000B1594: House Lower Storage Area
+000B1595: House Lower Wall Hangings
+000B15B5: House Lower Wall Hangings
+000B15DD: House Lower Wall Hangings
+000B162E: House Lower Wall Hangings
+000B15DE: House Middle Wall Hangings
+00090EB5: House Racks Assortment
+00090629: House Reading Area
+000B1580: House Reading Area
+000B15DB: House Servants Quarters
+000B162D: House Servants Quarters
+000B15B2: House Sitting Area
+000B15D6: House Sitting Area
+000B1623: House Sitting Area
+0009202E: House Sitting Area
+00090EB4: House Storage Area
+000B1584: House Storage Area
+000B15B0: House Storage Area
+000B162C: House Storage Area
+00092023: House Storage Area
+000B1582: House Study Area
+000B1592: House Study Area
+000B15B4: House Study Area
+000B15D7: House Study Area
+000B162A: House Study Area
+000B15DC: House Suite Area
+000B15AF: House Upper Hall Area
+000B1625: House Upper Hall Area
+000B1590: House Upper Sitting Area
+000B1629: House Upper Sitting Area
+000B158F: House Upper Storage Area
+000B1591: House Upper Wall Hangings
+000B15B6: House Upper Wall Hangings
+000B15DF: House Upper Wall Hangings
+000B162F: House Upper Wall Hangings
+00090EB6: House Wall Hangings
+000B1585: House Wall Hangings
+00092027: House Wall Hangings
+00024404: How Orsinium Passed to Orcs
+0008AD8F: Hush
+0002440C: Ice and Chitin
+000888EA: Ice Blast
+000888E9: Ice Bolt
+000888F0: Ice Shield
+000888E4: Ice Storm
+000152FD: Imbel Genealogy
+000898FC: Immobilize
+000888C2: Immolating Blast
+000243FC: Immortal Blood
+00024408: Incident in Necrom
+000898FE: Inspiration
+00089900: Inspiring Touch
+0006B5C6: Instructions
+00014740: Instructions: the Gray Cowl
+0002B458: Invitation from Umbacano
+0000C026: Jearl's Orders
+00072296: Journal of Claudius Arcadia
+00038B2F: Journal of the Lord Lovidicus
+000243F0: King
+00022E65: Knightfall
+0008ADAD: Lake Stride
+000243DA: Last Scabbard of Akrash
+000849DA: Leech Health
+00024549: Legend of Krately House
+00088890: Legendary Detect Life
+00088898: Legendary Dispel
+000888AC: Legendary Magicka Drain
+0008AD96: Legendary Soul Trap
+0008AD99: Legendary Spell Absorption
+00089904: Legendary Spell Reflection
+000C654D: Letter
+0006B5C0: Letter
+0006B5C1: Letter
+0006B5C2: Letter
+0006B5C3: Letter
+0006B5C4: Letter
+0006B5C5: Letter
+0006B5C7: Letter
+000A9668: Letter from Branwen
+000AA084: Letter to Mother
+000624D4: Letter to the Guild of Mages
+000624DB: Letter to the Guild of Mages
+000624DC: Letter to the Guild of Mages
+00073A67: Light Armor Repair
+000888B7: Lighten Load
+00089921: Lightning Ball
+00089926: Lightning Blast
+00089925: Lightning Bolt
+0008992A: Lightning Grasp
+00089922: Lightning Storm
+0008992B: Lightning Surge
+0008992E: Lightning Wall
+00073A60: Liminal Bridges
+0000C04A: List of Candidates
+00028D78: List of Death
+00028D79: List of Death
+00028D7B: List of Death
+00028D7C: List of Death
+00028D7F: List of Death
+00028D80: List of Death
+00028D82: List of Death
+00185377: Lithnilian's Research Notes
+000366B1: Log of the Emma May
+000B6C0A: Long Forgotten Note
+0002440D: Lord Jornibret's Last Dance
+000C4A2B: Lost Histories of Tamriel
+0000BF8C: Lost Histories of Tamriel
+0001E084: Love Letter from Relfina
+00015727: Lynch's Instructions
+0001D046: Macabre Manifest
+00073A66: Mace Etiquette
+00026D8B: Mages Guild Charter
+00078563: Magic from the Sky
+0008888D: Major Detect Life
+000888A3: Major Enervation
+000B11FF: Major Heal Other
+000888AA: Major Magicka Drain
+00088884: Major Sever Magicka
+0008AD93: Major Soul Trap
+000888A6: Major Wound
+000243D0: Mannimarco, King of Worms
+000AA288: Manual of Armor
+0002456A: Manual of Arms
+0002456B: Manual of Spellcraft
+0006DDA1: Manual of Spellcraft
+0008ADAE: March of the Sea
+00024400: Master Zoaraym's Tale
+00084AF2: Mesmerizing Grasp
+0001C16C: Messenger's Diary
+0008888C: Minor Detect Life
+000888A2: Minor Enervation
+000B11FE: Minor Heal Other
+000888A9: Minor Magicka Drain
+0008AD92: Minor Soul Trap
+000888A5: Minor Wound
+0002456C: Mixed Unit Tactics
+00026B1D: Modern Heretics
+000898ED: Moonlight
+0002453A: More Than Mortal
+0008ADA2: Movement Mastery
+0008AD90: Mute
+0002456E: Mysterious Akavir
+000355E0: Mysterious Note
+00094085: Mysterious Scroll
+00005599: Mysterium Xarxes
+0008B60A: Mysterium Xarxes
+000243CE: Mystery of Talara, v 1
+00024540: Mystery of Talara, v 2
+000243FB: Mystery of Talara, v 3
+0002440A: Mystery of Talara, v 4
+00024580: Mystery of Talara, v 5
+0002458B: Mysticism
+0001F113: Myth or Menace?
+00022B04: Mythic Dawn Commentaries 1
+00022B05: Mythic Dawn Commentaries 2
+00022B06: Mythic Dawn Commentaries 3
+00022B07: Mythic Dawn Commentaries 4
+00002DD1: Necromancer's Moon
+0002458C: Nerevar Moon and Star
+0006BD47: New 'Doomstones' Series!
+0006D6F2: New Watch Captain Named
+0002458D: N'Gasta! Kvata! Kvakis!
+000243EF: Night Falls on Sentinel
+0007BEA0: Night Mother Rituals!
+0004E95E: Nirnroot Missive
+00068C10: Note
+00068C11: Note
+00068C12: Note
+00068C13: Note
+00068C14: Note
+00068C15: Note
+00068C16: Note
+00068C17: Note
+0002C524: Note
+000B073C: Note
+000738D8: Note from First Mate Filch
+0000A1B1: Note from Gray Fox
+0000A23B: Note from Raminus Polus
+000B073D: Note of Bounty
+000C6548: Note of Exception
+00022B83: Note to Gwinas
+0002453D: Notes on Racial Phylogeny
+000950E2: Notes: Captain Montrose
+0008ADAF: Oceanic Journey
+000228F1: Oghma Infinium
+0002456D: On Morrowind
+0002457E: On Oblivion
+000898F9: Open Average Lock
+000898F8: Open Easy Lock
+000898FA: Open Hard Lock
+000898F7: Open Very Easy Lock
+000CBF7B: Open Very Hard Lock
+00084AE5: Oppressing Grasp
+00035E03: Orders From Lucien Lachance
+0002458F: Origin of the Mages Guild
+00084AE8: Pacification
+000888B8: Pack Mule
+0006D6F4: Palace Break-In?
+00066CD2: Pale Pass Discovery!
+00066D69: Pale Pass Map
+00024409: Palla, volume 1
+000243DD: Palla, volume 2
+000898FD: Paralyze
+000CAA9A: Parchment
+000982F0: Pension of the Ancestor Moth
+00022DB4: Plan for the Big Heist
+0006D6F0: Poor Burdened by Taxes!
+00098689: Pranks Spoils Society Gathering!
+00073A64: Proper Lock Design
+0008991B: Protect
+0002457F: Provinces of Tamriel
+0008ADA0: Psychic Motion
+00071D50: Public Notice
+0002454A: Purloined Shadows
+000888E0: Rage
+00098683: Rain of Burning Dogs!
+0003D06B: Ramblings of Audens Avidius
+00073A69: Reality & Other Falsehoods
+0008ADA5: Rebuke Undead
+0006DBBA: Recipe
+0006DBBB: Recipe
+0006DBBC: Recipe
+000BF1CF: Remanada
+0008AD9F: Remote Manipulation
+00024558: Report: Disaster at Ionith
+0008ADA4: Repulse Undead
+000243F8: Response to Bero's Speech
+00089905: Restore Agility
+00089907: Restore Endurance
+00089909: Restore Intelligence
+0008990B: Restore Luck
+0008990D: Restore Personality
+0008990F: Restore Speed
+00089911: Restore Strength
+00089913: Restore Willpower
+0003001B: Reverse Invisibility
+0002440F: Rislav The Righteous
+0008ADAC: River Walk
+00024575: Ruins of Kemel-Ze
+00024548: Sacred Witness
+000888C6: Scorching Blow
+00003A9B: Scrap from Lorgren's Diary
+0000C22A: Sealed Forged Candidate List
+00022173: Sealed Note
+000888C5: Searing Grasp
+00084AF9: Seductive Charm
+00084AE7: Serenity
+00088883: Sever Magicka
+00084AEC: Shadow
+000898E9: Shadow Shape
+0008991E: Shield
+00089924: Shock
+00089920: Shocking Burst
+00089928: Shocking Touch
+000C4284: Shop Hours
+0006DBBD: Shopping List
+0006DBBE: Shopping List
+00154CD6: Shopping List
+00154CD7: Shopping List
+00154CD8: Shopping List
+00154CD9: Shopping List
+00154CDA: Shopping List
+00154CDB: Shopping List
+00154CDC: Shopping List
+00154CDD: Shopping List
+0008AD91: Silence
+000243D6: Sithis
+0002AF00: Sketch of the High Fane
+0018BC23: Slythe's Journal, page 1
+0018D25B: Slythe's Journal, page 2
+0018D25D: Slythe's Journal, page 3
+000888E6: Snowball
+000243E6: Song Of Hrormir
+000243D1: Song of the Alchemists
+00084AE9: Soothing Touch
+00073A6B: Souls, Black and White
+00089923: Spark
+000898EB: Spectral Form
+0008AD97: Spell Absorption
+00024582: Spirit of the Daedra
+000898EC: Starlight
+000CA120: Stormrider Scroll
+001778D9: Suicide Note
+00015AD9: Summon Clannfear
+00015ADA: Summon Daedroth
+00015AD8: Summon Dremora
+00015AD7: Summon Flame Atronach
+00015ADC: Summon Frost Atronach
+00015AD0: Summon Ghost
+0008AD9E: Summon Headless Zombie
+00015AD3: Summon Lich
+0009190F: Summon Rufio's Ghost
+00015AD5: Summon Scamp
+00015ACF: Summon Skeleton
+0008AD9A: Summon Skeleton Archer
+0008AD9B: Summon Skeleton Champ
+0008AD9C: Summon Skeleton Hero
+00015AD6: Summon Spider Daedra
+00015ADD: Summon Storm Atronach
+00015AD2: Summon Wraith
+0008AD9D: Summon Wraith Gloom
+00015AD4: Summon Xivilai
+00015AD1: Summon Zombie
+00015ADB: Summoning Dremora Lord
+000C7668: Superior Convalescence
+0008888E: Superior Detect Life
+000888AB: Superior Magicka Drain
+00088897: Superior Self
+0008AD95: Superior Soul Trap
+0008AD98: Superior Spell Absorption
+00089903: Superior Spell Reflection
+000888A8: Superior Wound
+00024545: Surfeit of Thieves
+0003C37E: Suspicious Letter
+0002457A: Tamrielic Lore
+000C47BD: Tavern Hours
+00175F62: Telaendril's Ocheeva Note
+0008ADA1: Telekinesis
+00024577: Ten Commands: Nine Divines
+00088889: Terrifying Presence
+00024578: The Amulet of Kings
+000243E2: The Argonian Account, Book 1
+00024559: The Argonian Account, Book 2
+00024407: The Argonian Account, Book 3
+0002455A: The Argonian Account, Book 4
+000243D9: The Armorer's Challenge
+000243FA: The Art of War Magic
+000243CD: The Black Arrow, v 1
+00024531: The Black Arrow, v 2
+00024539: The Black Arts On Trial
+00024563: The Book of Daedra
+00024586: The Brothers of Darkness
+00024532: The Buying Game
+000243F2: The Doors of Oblivion
+000243D5: The Dragon Break
+00024565: The Eastern Provinces
+0002453E: The Exodus
+0002457B: The Firmament
+00024537: The Firsthold Revolt
+00024596: The Five Tenets
+00024410: The Gold Ribbon of Merit
+000243F7: The Horrors of Castle Xyr
+000243EE: The Importance of Where
+00058EEE: The Last King of the Ayleids
+00073A62: The Legendary Sancre Tor
+00024583: The Legendary Scourge
+00024541: The Locked Room
+000243D8: The Lunar Lorkhan
+00078562: The Lusty Argonian Maid
+0002457D: The Madness of Pelagius
+000243E9: The Mirror
+0002458E: The Old Ways
+0003647E: The Path of Transcendence
+00024590: The Pig Children
+00024585: The Posting of the Hunt
+000243DE: The Ransom of Zarek
+00024570: The Real Barenziah, v 1
+00024571: The Real Barenziah, v 2
+00024572: The Real Barenziah, v 3
+00024573: The Real Barenziah, v 4
+00024574: The Real Barenziah, v 5
+0002440B: The Rear Guard
+00024591: The Red Book of Riddles
+000243E0: The Red Kitchen Reader
+0002440E: The Refugees
+000243FF: The Seed
+000243F3: The Third Door
+00024592: The True Nature of Orcs
+000243EC: The Warp in the West
+000243F6: The Warrior's Charge
+00024593: The Waters of Oblivion
+00024594: The Wild Elves
+00024542: The Wolf Queen, v 1
+000243FD: The Wolf Queen, v 2
+00024406: The Wolf Queen, v 3
+00024533: The Wolf Queen, v 4
+0002454C: The Wolf Queen, v 5
+00024546: The Wolf Queen, v 6
+0002454E: The Wolf Queen, v 7
+00024581: The Wolf Queen, v 8
+000243CA: Thief
+0001F112: Thief of Virtue
+00003AA3: Tome of Unlife
+000898EF: Torchlight
+0008888A: Touch of Fear
+000888E1: Touch of Frenzy
+000888E2: Touch of Rage
+000732B7: Tragic Accident! Baenlin Dead!
+00003968: Traitor's Diary
+000C4A29: Transfer Orders
+000982F1: Transfer Orders
+00024579: Trials of St. Alessia
+0008ADA3: Turn Undead
+000C794B: Undelivered Letter
+0006D6F3: Vampire Nest in the City!
+0002457C: Varieties of Daedra
+0002452F: Vernaccus and Bourlor
+000693D2: Vicente's Note to Ocheeva
+00088887: Voice of Dread
+00084AF0: Voice of Rapture
+000982EF: Wanted Poster
+000243EB: Warrior
+0008ADA7: Water Breathing
+0006D6F1: Waterfront Raid Fails!
+000C4A2A: Waterfront Tax Records
+00034875: Waterfront Tax Records
+00073A6A: Way of the Exposed Palm
+0008ADB0: Weakness to Disease
+0008ADB1: Weakness to Fire
+0008ADB2: Weakness to Frost
+0008ADB3: Weakness to Magicka
+0008ADB5: Weakness to Poison
+0008ADB6: Weakness to Shock
+0008ADB4: Weakness to Weapons
+000624D9: Weathered Journal
+000888ED: Winter's Grasp
+0008729F: Withering Bolt
+00088882: Withering Touch
+0002453C: Withershins
+000243E3: Words and Philosophy
+0002C500: Worn, Faded Note
+#INGREDIENTS#
+0003365C: Alkanet Flower
+000A7924: Aloe Vera Leaves
+000704A0: Ambrosia
+0003365D: Apple
+0003365E: Arrowroot
+000977DD: Ashes of Hindaril
+0003365F: Beef
+000A7933: Bergamot Seeds
+00033663: Blackberry
+00033664: Bloodgrass
+00033665: Boar Meat
+0008446C: Bog Beacon Asco Cap
+00048734: Bonemeal
+0001EBFF: Bonemeal
+00023D89: Bread Loaf
+0006251E: Cairn Bolete Cap
+00033666: Carrot
+00082DE2: Carrot of Seeing
+00033668: Cheese Wedge
+00033669: Cheese Wheel
+0008529C: Cinnabar Polypore Red Cap
+0008529B: Cinnabar Polypore Yellow Cap
+0003366A: Clannfear Claws
+00084472: Clouded Funnel Cap
+000A7925: Columbine Root Pulp
+0003366B: Corn
+0003366C: Crab Meat
+0001EC8F: Daedra Heart
+00033670: Daedra Silk
+00033671: Daedra Venin
+00033672: Daedroth Teeth
+00025039: Dragon's Tongue
+00033673: Dreugh Wax
+0008529D: Dryad Saddle Polypore Cap
+0001EBFE: Ectoplasm
+0008529E: Elf Cup Cap
+0008529F: Emetic Russula Cap
+000A7926: Fennel Seeds
+00033675: Fire Salts
+000A7927: Flax Seeds
+00033674: Flour
+00084471: Fly Amanita Cap
+00033687: Foxglove Nectar
+00022E5B: Frost Salts
+00033677: Garlic
+00033678: Ginkgo Leaf
+00033679: Ginseng
+0001EBE8: Glow Dust
+0003367B: Grapes
+0008446A: Green Stain Cup Cap
+0008529A: Green Stain Shelf Cap
+0003367C: Ham
+0003367D: Harrada
+000CD51C: Human Heart
+00071F36: Human Heart
+00071F35: Human Skin
+000549BE: Imp Fluid
+0002EE72: Imp Gall
+0003367E: Ironwood Nut
+00177A2A: Jumbo Potato
+000A7928: Lady's Mantle Leaves
+000A7929: Lady's Smock Leaves
+000A792A: Lavender Sprig
+00033680: Leek
+00033681: Lettuce
+0007049E: Lichor
+00033683: Mandrake Root
+000A792C: Milk Thistle Seeds
+00033568: Minotaur Horn
+000A792E: Monkshood Root Pulp
+000A792F: Morning Glory Root Pulp
+00033685: Mort Flesh
+000A7930: Motherwort Sprig
+000A7931: Mugwort Seeds
+00033686: Mutton
+00033688: Nightshade
+0004E940: Nirnroot
+00033689: Ogre's Teeth
+0003368A: Onion
+0007588E: Orange
+0009209E: Painted Troll Fat
+0003368B: Pear
+000A7932: Peony Seeds
+000CBD45: Pinarus' Prize Minotaur Horn
+000918F0: Poisoned Apple
+0003368C: Potato
+000A7934: Primrose Leaves
+0003368D: Pumpkin
+0003368E: Radish
+0003368F: Rat Meat
+00026B08: Rat Poison
+0002503A: Redwort Flower
+00022F1A: Refined Frost Salts
+00033690: Rice
+00033691: Root Pulp
+00185FE2: Rumare Slaughterfish Scales
+000A7936: Sacred Lotus Seeds
+00033692: Scales
+00033693: Scamp Skin
+000B97E9: Shepherd's Pie
+00177A29: S'jirra's Famous Potato Bread
+00033696: Somnalius Frond
+00033697: Spiddal Stick
+000A7939: St. Jahn's Wort Nectar
+0008446B: Steel-Blue Entoloma Cap
+0008446D: Stinkhorn Cap
+00033699: Strawberry
+00084470: Summer Bolete Cap
+0003369A: Sweetcake
+0003369B: Sweetroll
+000AF06E: Taproot
+000A792B: Tiger Lily Nectar
+0008446F: Tinder Polypore Cap
+0003369D: Tobacco
+0003369E: Tomato
+00026B5C: Troll Fat
+0001EC5B: Unicorn Horn
+0004872C: Vampire Dust
+00009182: Vampire Dust
+0002229B: Venison
+000A793B: Viper's Bugloss Leaves
+0003369F: Void Salts
+000A793C: Water Hyacinth Nectar
+000336A0: Watermelon
+000336A1: Wheat Grain
+000336A2: White Seed Pod
+0006251F: Wisp Stalk Caps
+000A793E: Wormwood Leaves
+#KEYS#
+00024FE9: A Rusty Key
+0000A076: A Warlock's Luck Key
+000034F3: Abandoned House Key
+0001777A: Adrian Decanius' House
+00067DD4: Aelwin's Key
+00022BB6: Agarmir's House Key
+00029187: Agnete's Key
+00038EE9: Agronak's Mysterious Key
+00035989: Ahdarji 's House Key
+0001C17C: Akaviri Fort Key
+0002921A: Alberic Litte's Key
+000034E3: Aldos Othran's Key
+0001D35C: Algot's House Key
+0001DA89: Allectus' Key
+00035982: Alval Uvani's Key
+0009DAC6: Ancestor Moth Key
+00098307: Ancestor Moth Temple
+0000A080: Andragil's Key
+00022BB2: Angelie's House Key
+000693D9: Antoinetta Marie's Key
+0000A261: Anvil Chapel Key
+0000A264: Anvil Dungeon Key
+00092155: Arcane Univ. Enchanter's Key
+0000A077: Archer's Paradox Key
+00005297: Arch-Mage's Key
+00022BDF: Aredil's House Key
+00090746: Aren's Strange Key
+00098308: Aren's Tower Key
+00091ADA: Arkay Chapel Undercroft Key
+00093555: Arnora's Chest Key
+00035E51: Arnora's Key
+000242B6: Arriana Valga's Key
+000C5581: Arriana Valga's Quarters Key
+0000A26A: Arvena Thelas' Key
+0009824D: Arvin Dalvilu's Key
+00022BC3: Astinia Atius' Key
+00022BB9: Athram House Key
+000A6570: Ayleid Cask Key
+00035E48: Baenlin's Key
+0000C0F4: Baeralorn's Key
+00022BB4: Bantien's Key
+000513C1: Barash House Key
+00035E50: Basement Key
+0001E702: Baurus' Key
+0005E182: Beldaburo Key
+00003A97: Benirus Manor Key
+00029185: Bernadette Peneles' Key
+0001D1FF: Bit and Bridle Key
+00085960: Black Brugo's Key
+00035705: Blackwood Co. Basement Key
+00098251: Bleak Mine Key
+000034E7: Borba's Goods Key
+000385A4: Bradon's Key
+0000A268: Bradus' Key
+000034EE: Bralin's Key
+000C47B3: Branwen and Saliith's Key
+0000A073: Bravil Castle Key
+0000A078: Bravil Chapel Key
+0000A113: Bravil Dungeon Key
+00035E4D: Brolus' Key
+00035E56: Brotch Calus' Key
+00036243: Bruma Chapel Key
+00036261: Bruma Dungeon Key
+0000A95A: Caminalda's Key
+00029184: Canne's Key
+000738E0: Captain Patneim's Key
+00049357: Captain's Key
+0000A07A: Carandial's Key
+0002921C: Casta Scribonia's Key
+0000A263: Castle Anvil Interior Key
+0000A262: Castle Anvil Key
+0000A074: Castle Bravil Interior Key
+00035E45: Castle Bruma Interior Key
+00035E44: Castle Bruma Key
+0003597E: Castle Leyawiin Interior Key
+0003597D: Castle Leyawiin Key
+0000C585: Catacombs Key
+000242B5: Chanel's Key
+0008BA68: Charcoal Cave Key
+000034E6: Cheydinhal Bridge Inn Key
+000034EB: Cheydinhal Castle
+000034EC: Cheydinhal Castle Interior
+000034EA: Cheydinhal Chapel Key
+000055D7: Cheydinhal Dungeon Key
+000242B2: Chorrol Castle Private Area
+00029214: Chorrol Chapel Undercroft Key
+0002917D: Chorrol Dungeon Key
+0002AD2A: Chorrol Jail Key
+00035988: Cingor's Key
+0000A07D: City-Swimmer's Key
+00022BDE: Claudius Arcadia's House Key
+0003598C: Coast Guard Station Key
+00093485: Commander's Chest Key
+0004798A: Commerce Office Key
+0001D5B2: Curtis' House Key
+0001781C: Cyronin Sintav's House Key
+00033910: Dagon Shrine Key
+000534F3: Damian Magius' Key
+00035980: Dar Jee's Key
+000534F4: Dareloth's Key
+0005BEA0: Dark Fissure Cell Key
+00035983: Derics' Key
+00049D21: Display Case Key
+0008DD5F: Display Case Key
+0001D205: Divine Elegance Key
+00022BC6: Dorian's House Key
+000177D3: Dovyn Aren's Key
+0002CF34: Dro'shanji's Key
+00017779: Dul gro-Shug's Key
+0006507C: Dust Eater Cell Key
+00022BBF: Dynari Amnis' Key
+0001648F: Echo Cave Key
+00022A72: Edgar's Discount Spells
+00028EDE: Escape Route Key
+00029212: Estelle Renoit's Key
+0002921B: Eugal Belette's Key
+0002E99F: Falcar's Key
+0000CBDC: Faregyl Inn Key
+0001781A: Fathis Ules' Key
+00022A71: Feed Bag Key
+0002229E: Fighters Guild Key
+0001D157: Fighting Chance Key
+0001D155: First Edition Key
+0018D13E: First Hunter's Run Key
+0002917B: Flanau Hlaalu's Key
+0000BC68: Fo'c's'le Key
+00074A8F: Forgotten Key
+0003CD2D: Fort Blueblood Key
+0001FEEE: Fort Grief Door Key
+0001FEF0: Fort Grief Real Key
+0004ECEC: Fort Ontus Key
+0009D2D6: Fort Redman Key
+00032665: Fort Sutch Gate Key
+00029218: Francois Motierre's Key
+0005B47F: Fyre Light Cave Key
+00033C71: Gallenus Rosentia's Key
+000034F2: Ganredhel's Key
+0003C2C1: Garrus Darelliun's Key
+0001EB81: Geem Jasaiin's Key
+000385A2: Gelebourne's Key
+000034E2: Gharz House Key
+0001D35E: Gilen Norvalo's Key
+0001DC48: Glarthir's Key
+000831BB: Glarthir's Secret Key
+00064202: Gogan's House Key
+0006C677: Gogron gro-Bolmog's Key
+0001D35D: Graman's House Key
+0001DA91: Grey Throat's House Key
+0018D83F: Guildmaster's Key
+0006E2EA: Guildmaster's Key
+0003598D: Gundalas' Key
+00029186: Gunder's Key
+0008696D: Gweden Basement Key
+00028B7B: Hackdirt Key
+0001DA94: Hagaer's House Key
+00085083: Hame Dungeon Key
+00035E43: Hammer and Axe Key
+00189D0F: Harm's Folly Key
+0001D35B: Hastrel Ottus' House Key
+00035E54: Helvius Cecia's Key
+00022BB0: Helvo Atius' Key
+0002CF33: Henantier's Key
+000177F2: Herminia Cinna's House Key
+0002AF06: High Fane Key
+00035E47: Honmund's Key
+0005B609: Horn Cave Cellar Key
+0005BC2A: Horn Cave Storage Key
+00098293: Hrol Ulfgar's Key
+000177EE: Ida Vlinorman's House Key
+000152FF: Imbel Family Crypt Key
+0009DB17: Imbel House Key
+0009096C: Imperial City Lighthouse Key
+0004F61A: Imperial City Sewers Key
+00115E05: Imperial Palace Key
+00092D8A: Imperial Prison Key
+000950C2: Imperial Prison Key
+00027477: Imperial Sewer Key
+000534F5: Imperial Trading Company Key
+00015EAF: Imperial Watch Key
+00086967: Imperial Watch Office Key
+00017775: Iniel Sintav's House Key
+0000A267: Inventius' Key
+0001777C: Irene Metric's House Key
+00159826: Iron Key
+000477E4: Jair's Key
+00022BC8: Jakben Imbel's House Key
+00017819: Jastia Sintav's House Key
+00035981: J'bari's Key
+0002007F: Jearl's Key
+000A5650: Jeetum Ze's Room Key
+00064615: Jenseric's Cabin Key
+0001DB08: Jenseric's House Key
+0001D201: Jensine's Merchandise
+0000A26D: Jesan Sextius' Key
+0000A9D7: Jewelry Box Key
+00035E55: J'Ghasta's Key
+00029219: Jirolin Doran's Key
+00022BE0: J'mhad's House Key
+0000CF21: Kalthar's Key
+00017817: Kastus Sintav's House Key
+0006DF2E: Key
+0003EE5D: Key
+000C59A2: Key of Hidden Wealth
+00022B6E: King and Queen Tavern Key
+00031D31: Kvatch Guard House Key
+000477E3: Kvinchal's Key
+00029190: Lazare Milvan's Key
+0000A25F: Lelles' Quality Mercandise Key
+00069B16: Leyawiin Chapel Key
+0003597F: Leyawiin City Watch Key
+00035F8C: Leyawiin Dungeon Key
+00092156: Leyawiin Secret Room Key
+00054031: Lighthouse Cellar Key
+0000A25E: Lighthouse Key
+000A55FC: Lindai's Royal Tomb Key
+00035E4B: Lirrians' Key
+000034E4: Llevana Nedaren's Key
+0000A081: Loche's House Key
+00017776: Lorkmir's House Key
+00017833: Lorkmir's House Key
+000998CF: Lost Boy's Key
+0000A07F: Luciana Galena's Key
+0001DA8F: Luronk's House Key
+00035E49: Lyra Rosentia's Key
+000034E8: Mach-Na's Key
+0002229C: Mages Guild Key
+000034E1: Magul House Key
+00098298: Malyani Dalvilu's Key
+0001DA96: Marana Rian's House Key
+00035985: Margarte's Key
+000177EF: Marinus Catiotus' House
+00022BBB: Matthias' House Key
+0000C32A: Medrike's Key
+0005202F: Methredhel's House Key
+0000295D: Mine Key
+0000A265: Mirabelle Monet's Key
+000C58B6: Miscarcand Key
+00029220: Modryn Oreyn's Key
+00051871: Moranda Gate Key
+0006FDA7: Mraaj-Dar's Key
+0002921E: Murgakh gro-Ushag's Key
+0004ED80: My Bravil House Key
+0004ED88: My Bruma House Key
+0004ED87: My Cheydinhal House Key
+0004ED8A: My Chorrol House Key
+0005319E: My Imperial City House Key
+0004ED86: My Leyawiin House Key
+0004ED89: My Skingrad House Key
+0001D1FE: Mystic Emporium Key
+00053FF3: NE Watch Tower Key
+0005B912: Necromancer's Moss Rock Key
+000852DB: Neville's Chest Key
+0000A269: Newheim's Key
+000034E5: Newlands Lodge Key
+00051F8D: Ninedava Gate Key
+0009829E: Nivan Dalvilu's Key
+00035E3F: Nord Winds Key
+00035E3E: Novaroma Key
+00053FF4: NW Watch Tower Key
+0000A266: Oaken-Hull's Key
+000C89DD: Odiil Farm Key
+000034F1: Ohtimbar's Key
+00035E4E: Ongars Key
+00022BBA: Ontus Vanin's Key
+0000C1FE: Ormils Cabin Key
+0007BAE0: Ormils Cabin Key
+0000C329: Orthes Key
+000034EF: Orum House Key
+000177F0: Othrelos House Key
+0003598A: Otumeels Key
+0001D5B3: Pennus Mallius' House Key
+0003598B: Plotius Key
+0005BD64: Pot Hole Cell Key
+00023FFD: Prison Cell Key
+0000A26B: Quill-Weaves Key
+00035987: Ra'Jahirr's Key
+000177F3: Ra'jhan's House Key
+00022BC1: Ra'jiradhs House Key
+0000A07E: Ranaline's Key
+00029213: Rasheda's Key
+000385A3: Raynil's Key
+00038449: Raynil's Room Key
+000982A3: Redas Dalvilu's Key
+00070248: Redwater Slough Key
+00035E53: Regner's Key
+00029188: Reman Broder's Key
+0002921D: Reynald Jemane's Key
+00029216: Rimalus Bruiant's Key
+0001D152: Rindir's Staffs Key
+00033911: Ritual Key
+000034F0: Riverview Key
+000A564F: Ri'Zakar's Room Key
+00017816: Roderic Pierrane's Key
+00026CD5: Roebeck Bridge Room Key
+0001DA92: Ruslan's House Key
+00074A8D: Rusty Key
+0001BC2C: Rythe's Studio Key
+00029189: Salmo's Key
+0001DA8B: Salomon Geonette's House Key
+0000A23F: Sancre Tor Key
+0000B258: Sanctuary Well Key
+000982A7: Satha Dalvilu's Key
+000568AD: Scinia Crypt Key
+000738DF: Sea Tub Clarabella Key
+0018D13F: Second Hunter's Run Key
+000838CE: Secret Cell Key
+00029211: Seed-Neeus' Key
+0001DA8E: Seridur's House Key
+0007B73E: Serpent's Wake Captain's Key
+0000A26E: Serpent's Wake Key
+00022BAF: Severius Atius' Key
+000274F5: Sewer Gate Key
+0002918A: Shameer's Key
+0018BA0E: Shardrock Key
+0001EC48: Shiny Ogre Cage Key
+0001F14C: Shrine of Dagon Key
+00093EF5: Sigil Keep Key
+0009504C: Sigil Key
+0009C225: Sigil Key
+00068B05: Sinderion's Key
+0002C461: Skingrad Castle Key
+0002C460: Skingrad Castle Silver Key
+00069B17: Skingrad Chapel Key
+00035F8D: Skingrad Dungeon Key
+0002ADAC: Skingrad Guardhouse Key
+0000A07C: S'krivva's Key
+0001D200: Slash 'N Smash Key
+0000525D: Sleeping Mare Key
+00083FB5: Smoke Tomb Inner Key
+00083FB4: Smoke Tomb Outer Key
+000A943C: Smuggler's Key
+0002C677: Soris Arenim's Key
+00053FF2: South Watch Tower Key
+00026085: Southern Books Key
+00022BC5: S'rathad's House Key
+0001D359: Stantus Varrid's House Key
+0001D156: Stonewall Shields Key
+0000C1FC: Storage Room Key
+00025099: Storeroom Key
+000837D1: Summitmist Manor Key
+0009588D: Sunken Sewers Key
+0002918B: Surilie's House Key
+0001DA98: Surius Afranius' House Key
+0009853D: Talasma's Key
+0002918C: Tamika's Key
+0001EC41: Tarnished Ogre Cage Key
+00025067: Teekeeus' Key
+000693DA: Teinaava's Key
+0006FDA8: Telaendril's Key
+000177F1: Tertius Favonius' House Key
+00022BC0: Thamriel's House Key
+0001D204: The Best Defense Key
+000677DB: The Bloodwork's Sewer Key
+0001D154: The Copious Coinpurse Key
+0000A075: The Fair Deal Key
+00014D63: The First Key of Dark Hate
+0001D202: The Gilded Carafe Key
+0001D153: The Main Ingredient Key
+000034E9: The March Rider Key
+00014D64: The Second Key of Dark Hate
+0001D206: Three Brothers Trade Goods Key
+000974E8: Toadstool Grog Key
+0000C1FD: Top Deck Key
+0002918D: Toutius Sextius' Key
+000CA22C: Trentius Mausoleum Key
+0001D35A: Trenus Duronius' House Key
+0003597C: Tun-Zeeus' Key
+0003F31A: Ulrich Leland's Key
+000982AA: Ulrika Ulfgar's Key
+0002B455: Umbacano Manor Key
+0002B456: Umbacano's Key
+0002918E: Undena Orethi's Key
+0004E151: Underpall Gate Key
+0000A07B: Ungolim's Key
+000CA6DF: Urasek Lockup Key
+00022BC4: Usheeja's House Key
+0002918F: Uuras' Key
+0005401E: Vahtacen Ruins Key
+000950C0: Valen Dreth's Cell Key
+000693D8: Valtieri's Key
+0002921F: Valus Odiil's Key
+0000A260: Varel Morvayn's Key
+0000A079: Varon Vamori's Key
+00029217: Vilena Donton's Key
+0006C323: Vilverin Chamber Key
+000C76CD: Vilverin Sepulcher Key
+00035DAB: Warden Kastav's Key
+0001D203: Warehouse Key
+00026836: Wariel's Key
+00026089: Waterfront Sewers Key
+00035986: Weebam-Na's Key
+000084D3: Well Key
+0006B396: Wellspring Cave Key
+000979ED: West Weald Inn Key
+000908C1: White Stallion Lodge Key
+0000CBEC: Whitmond Farm Key
+000034ED: Willow Bank Key
+0001EB7E: Wumeek's Key
+#MISC.#
+0001D0AF: Agarmir's Shovel
+000785E0: Akaviri Orders
+0003558F: Argonian Heart
+000844C4: Ayleid Statue
+00024D91: Basket
+000228E3: Bear Pelt
+001192AE: Blood Potion
+000D3B25: Blue Cheese
+0001DE26: Bone
+00023882: Bones
+00049CFD: Bouquet of Flowers
+0001F1DB: Bowl
+00019113: Broom
+0001BBCB: Brush Jar
+0001BB36: Brush of Truepaint
+0001C66C: Calipers
+0002AF03: Carved Panel
+0002507A: Ceramic Bowl
+0002507B: Ceramic Cup
+0002507C: Ceramic Goblet
+0002507D: Ceramic Pitcher
+0002507F: Ceramic Plate
+0002724F: Ceramic Tankard
+00025080: Ceramic Urn
+00025081: Ceramic Vase
+000D3B2F: Cheddar Cheese
+00022299: Clay Bowl
+00022538: Clay Cup
+00022539: Clay Cup
+0002253C: Clay Goblet
+00022543: Clay Pitcher
+0002254C: Clay Plate
+00022559: Clay Tankard
+00022553: Clay Urn
+00022557: Clay Vase
+000008E6: Cloth
+00007E9C: Colossal Black Soul Gem
+000105DF: Covered Pot
+000105E0: Covered Pot
+000BF14D: Crumpled Piece of Paper
+0001C60D: Crystal Ball
+00038BA7: Diamond
+0009F8FD: Dirty Shoes
+0002C6EF: Element of Courage
+0002C6EE: Element of Patience
+0002C6F0: Element of Perception
+0002C6ED: Element of Resolve
+00038BA4: Emerald
+0008996E: Empty Hist Bottle
+00026AC9: Eye of Nocturnal
+00007E9D: Filled Colossal Black Soul Gem
+001778DB: Finger of Adamus Phillida
+0000510D: Fingers of the Mountain
+00038BA8: Flawed Diamond
+00038BA6: Flawed Emerald
+00038B99: Flawed Pearl
+00038B9F: Flawed Ruby
+00038BA2: Flawed Sapphire
+00038B9C: Flawed Topaz
+00038BA9: Flawless Diamond
+00038BA5: Flawless Emerald
+00038B9A: Flawless Pearl
+00038BA0: Flawless Ruby
+00038BA3: Flawless Sapphire
+00038B9D: Flawless Topaz
+00000D76: Folded Cloth
+00019116: Fork
+00025B33: Garridan's Tear
+0007BE48: Garridan's Tear
+0002A60B: Glass of Time
+0000000F: Gold
+00049808: Gold Nugget
+0003844E: Great Sigil Stone
+000345AF: Great Welkynd Stone
+00025100: Hand Scythe
+0008B61E: Hermaeus Mora's Soul Gem
+00025101: Hoe
+0001C666: Hourglass
+0000C22C: Imperial Legion Seal
+00023D61: Inkwell
+0001482C: Key-Shaped Arrowhead
+00019117: Knife
+000105DB: Ladle
+00028276: Languorwine Antidote
+000228E4: Lion Pelt
+0001E861: Llathasa's Bust
+0000000A: Lockpick
+00089783: Loose Pipe
+001192AF: Magicka Potion
+000613C0: Marana Rian's Coin
+000D3B2A: Marble Cheese
+000CD400: Metal Bowl
+000CD401: Metal Goblet
+000CD402: Metal Plate
+000CD407: Metal Tankard
+000CD4E9: Metal Urn
+0006AAA5: Mother's Head
+00002E90: Newheim's Heirloom
+000CBD41: Oaken-Hall Heirloom
+00025102: Oar
+0008C26A: Olroy Cheese
+0001EC18: Orb of Vaermina
+0001BBCA: Paint Brush
+0001BBCC: Paint Palette
+00038B98: Pearl
+0001C624: Pewter Bowl
+000104C1: Pewter Cup
+0001C622: Pewter Fork
+0001C620: Pewter Knife
+0000FD93: Pewter Mug
+0001C61F: Pewter Pitcher
+0001C626: Pewter Plate
+0001C61A: Pewter Pot
+0001C623: Pewter Spoon
+000180E0: Pickaxe
+00025113: Pitchfork
+00015BBB: Planter
+00019118: Plate
+00023D63: Quill
+00025116: Rake
+0009F8FA: Recently Used Pickaxe
+000836CE: Red Bowl
+0000000C: Repair Hammer
+00034E62: Reward Painting
+00030FD7: Roderick's Medicine
+00030FD6: Roderick's Poison
+00034E52: Rolled Up Portrait
+00038B9E: Ruby
+000918FA: Rufio's Skull
+0002FB3F: Sands of Resolve
+00038BA1: Sapphire
+00014706: Savilla's Stone
+000105F3: Scales
+000918FD: Scales of Pitiless Justice
+0002511A: Scythe
+0002511C: Shears
+000251A8: Shovel
+00000C08: Silver Bowl
+00019107: Silver Carafe
+0001924A: Silver Fork
+0001DBFC: Silver Glass
+0001DCCC: Silver Goblet
+00023C13: Silver Knife
+00049809: Silver Nugget
+00023C15: Silver Pitcher
+00023C19: Silver Plate
+00023C1B: Silver Spoon
+00023C1D: Silver Tankard
+00023C21: Silver Urn
+00023C23: Silver Vase
+00003A99: Skeletal Hand
+0000000B: Skeleton Key
+00023F6E: Skull
+00019119: Spoon
+0007B7B0: Statuette of a Dog
+0002594A: Stone Brick
+00019115: Stone Cup
+000104CB: Stone Mug
+00003949: Stone of St. Alessia
+000105DD: Stone Pitcher
+000C55E1: Svenja's Arm
+000C55E2: Svenja's Head
+000C55E0: Svenja's Leg
+000C55E3: Svenja's Torso
+000836CF: Tan Bowl
+0001F1DE: Tan Cup
+00022542: Tan Goblet
+0001F1E4: Tan Jug
+0001F1E5: Tan Mug
+0001F1E6: Tan Pitcher
+0001F1E7: Tan Plate
+00022550: Tan Tankard
+00022554: Tan Urn
+00022558: Tan Vase
+000251AC: Tongs
+00038B9B: Topaz
+0002CF9F: Torch
+00022551: Urn
+0009812D: Vampirism Cure Potion
+00000194: Varla Stone
+00095A38: Varulae's Crystal Ball
+000CBD43: Wedding Gift
+0001C5ED: Weight
+00000191: Welkynd Stone
+0018AE3F: West Weald Bear Fang
+000228E2: Wolf Pelt
+00025205: Yarn
+#NPCS#
+0000A2A5: A Stranger
+000389B8: Abhuki
+000A3166: Achille
+0002FB2B: Adamus Phillida
+001778DC: Adamus Phillida's Bodyguard
+0001FB56: Adanrel
+000AED40: Adoring Fan
+0002F865: Adosi Serethi
+00016057: Adrian Decanius
+0002950A: Adrienne Berene
+0018ABFB: Adventurer
+00185FE0: Aelwin Merowald
+000514C4: Aengvir
+00035726: Aenvir
+00098254: Afflicted Brethren
+0001FC54: Agarmir
+0002D028: Agata
+000C55E5: Agnar the Unwavering
+00028F9B: Agnete the Pickled
+00037FF8: Agronak gro-Malog
+000293D5: Ah-Malz
+00034E87: Ahdarji
+000356CD: Ajum-Kajin
+0001C48D: Akaviri Commander Mishaxhi
+0003C15F: Alawen
+0004F125: Alban Corinis
+0002DF5F: Alban Justinius
+000222B8: Alberic Litte
+000034DE: Aldos Othran
+0000A110: Aleron Loche
+0001D346: Alessia Ottus
+00035EC4: Alga
+0001D344: Algot the Northerner
+0018D2B4: Alix Lencolia
+0008595D: Alonzo
+00031867: Aloys Bincal
+00030196: Alval Uvani
+0002D027: Alves Uvenim
+000097A5: Amantius Allectus
+00028E75: Ambroise Canne
+00026B4C: Amir
+0003CD19: Amkaos
+000A369F: Amminus Gregori
+0003563B: Amusei
+0002F86D: Ancotar
+0001D354: Ancus Afranius
+0000A10B: Andragil
+000C56E4: Andre Labouche
+00030FDB: Andreas Draconis
+00026B36: Anedhel
+000234BB: Angalmo
+00026ADB: Angalsama
+0001FC51: Angelie
+0000A299: Anguilon
+000488F3: Antoine Branck
+00023E36: Antoinetta Marie
+00067418: Antus Flonius
+000222A0: Antus Odiil
+0000A0AE: Anvil Guard
+0000BE55: Anvil Jailor
+00026EB4: Anvil Soldier
+000A3163: Arcturus
+0002D01B: Ardaline
+0001FDD5: Areldil
+000274CC: Arena Champion
+00082DE5: Arena Contestant
+00046653: Arena Mouth
+00035EB9: Arentus Falvius
+0000556D: Argonian Chieftain
+00005569: Argonian Shaman
+00005560: Argonian Tribesman
+000222B0: Ariela Doran
+0002FD6E: Arielle Jurard
+0006BD2B: Ariente
+00027066: Arkana
+0001EC12: Arkved
+00034870: Armand Christophe
+0005383F: Arnora
+00035ECD: Arnora Auria
+00036308: Arquen
+00035A18: Arterion
+0003571D: Arvena Thelas
+0001ECC9: Arvin Dalvilu
+0002D01D: Aryarie
+000C526B: Ascended Immortal
+00009C39: Ashanta
+0009700C: Ashni
+0001E783: Ashtus Chenius
+00014A27: Assassin
+00059D2F: Astante
+00026093: Astav Wirich
+0000A29E: Astia Inventius
+0001FDD1: Astinia Atius
+000479F7: Atahba
+000234BA: Athragar
+0002D6FD: Athrelor
+0002F876: Atraena
+00026D9A: Audens Avidius
+0002F874: Augusta Calidia
+0008ADCC: Aviera Nirol
+00034E6A: Avrus Adas
+0008521C: Ayisha
+00014F16: Ayleid Guardian
+00026B7B: Aymar Douar
+0002C623: Azani Blackheart
+0002C6C0: Azura's Voce for Recording
+00024166: Azzan
+00023F0B: Baenlin
+0000A28C: Baeralorn
+000055BD: Bandit
+00069AD2: Bandit Bowman
+00069AD4: Bandit Hedge Wizard
+00009ABE: Bandit Ringleader
+0003630A: Banus Alor
+000A3167: Baragon
+0003186C: Barthel Gernand
+0001EC0E: Basil Ernarde
+0002D6FB: Batul gra-Sharob
+0003001D: Baurion
+00023F2A: Baurus
+000034DD: Bazur gro-Gharz
+000982F9: Beatrice Gene
+00026ADA: Beewos
+0001ECCF: Beirir
+00034E84: Bejeen
+00025264: Belgarr
+00037572: Belisarius
+00036309: Belisarius Arius
+00016065: Beran Sintav
+00028036: Berich Inian
+000294AF: Bernadette Peneles
+00034E89: Betto Plotius
+000091F5: Biene Amelion
+000234A7: Bittneld the Curse-Bringer
+00185FE3: Bjalfi the Contemptible
+000908AC: Black Bow Bandit
+000908B6: Black Bow Ringleader
+0008595A: Black Brugo
+000CA18E: Black Rock Captain
+000CA18D: Black Rock Pirate
+00001734: Blackwood Company Guard
+0003B302: Blackwood Company Member
+000B11D6: Blanche Mastien
+0001EC4C: Bleak Mine Guard
+0001EC4B: Bleak Mine Guard Captain
+0014C46E: Blind Moth Prelate
+0014C466: Blind Moth Priest
+0004872A: Bloodcrust Vampire
+0002ACD2: Blue Team Combatant
+0014683C: Blue Team Gladiator
+00034EB3: Boderi Farano
+000A2ADD: Boethia's Chosen
+0009F98A: Boethia's Voice for Recording
+0000A082: Bogrum Gro-Galash
+0002D6F6: Boldon
+00016483: Bolor Savel
+000234B6: Bongond
+000034C4: Borba gra-Uzgash
+00034EB0: Borissean
+0002319F: Boromir
+00098252: Boroneth
+0001BC2A: Bosmer Thief
+00034EB7: Bothiel
+00035EC6: Bradon Lirrian
+00027F95: Brag gro-Bharg
+0003E92F: Bralsa Andaren
+000A713B: Branwen
+0000A17D: Bravil Jailor
+00031BC7: Bremman Senyan
+0006845A: Brielus Gawey
+0001C166: Britta Invel
+00034E72: Brodras
+0000A085: Brokil gro-Shatur
+000477DB: Bronsila Kvinchal
+000231A0: Brooke
+0002991E: Brotch Calus
+000982FC: Brother Hjar
+000982FE: Brother Holger
+000982FD: Brother Hridi
+00033907: Brother Martin
+000223AD: Brother Piner
+00015D85: Bruccius the Orphan
+00025237: Bruce
+0002AF42: Brucetus Festinius
+0004630B: Bruma Guard
+00037F74: Bruma Investigator Guard
+000362ED: Bruma Jailor
+000272C5: Bruma Militia
+000277A5: Bruma Soldier
+0005D517: Bruscius Longus
+00037C33: Bugak gro-Bol
+00035EC2: Bumph gra-Gash
+0009786B: Bur-Meema
+00035EBE: Burd
+00024167: Burz gro-Khash
+00030FD9: Caelia Draconis
+00073279: Caenlin
+0000A27D: Caenlorn
+00027E03: Caldwyn
+00015EA9: Calindil
+00031869: Callia Bincal
+000038B5: Camilla Lollia
+0002DC08: Caminalda
+00009236: Camonna Tong Thug
+000243C8: Candice Corgine
+00094BE8: Captain Baszone Patneim
+00095331: Captain Gepard Montrose
+0002349F: Captain Renault
+00020078: Captain Steffan
+0002CD1E: Carahil
+0000A108: Carandial
+00034EAD: Caranya
+0001E796: Cargas Laftrius
+00037F73: Carius Runellius
+00035C83: Carmalo Truiand
+0001605A: Carmana Sintav
+000222AE: Carmen Litte
+00037575: Caroline
+000039AE: Carsten
+0001E10E: Cartrus Gavinius
+0001FB57: Carwen
+000A9487: Casta Flavus
+000222AC: Casta Scribonia
+000479F5: Cat-Face
+0001D34C: Caula Allectus
+000355F8: Celedaen
+0000A08C: Chana Mona
+000222BA: Chanel
+0001E831: Chapel Guard
+00031C31: Cheydinhal Gate Guard
+000055C2: Cheydinhal Guard
+000055D6: Cheydinhal Jailor
+00026F0D: Cheydinhal Soldier
+000222BB: Chorrol Guard
+00028C80: Chorrol Jailor
+000270F6: Chorrol Soldier
+0002DC04: Christophe Marane
+00015EA7: Cicero Verus
+0001ECD8: Ciindil
+00002E95: Cingaer
+00034E86: Cingor
+00035EB8: Cirroc
+0000A109: City-Swimmer
+0002AF05: Claude Maric
+00015EAB: Claudette Perrick
+00071D4B: Claudius Arcadia
+0003E0DF: Clesa
+000982F8: Colin Stedrine
+0002B529: Collatinus Vedius
+0004B92D: Conjurer
+00009AC0: Conjurer Adept
+000222B7: Contumeliorus Florius
+00189D01: Corrick Northwode
+00073A2F: Corrupted Clone
+0000C22D: Corvus Umbranox
+00015D81: Cosmus the Cheat
+000034CA: Count Andel Indarys
+00034E6D: Count Marius Caro
+0000A08E: Count Regulus Terentius
+0002B7D0: Count Tyrone Rugen
+000055D4: Count's Bodyguard
+00034E8C: Countess Alessia Caro
+000234AA: Countess Arriana Valga
+0000A288: Countess Millona Umbranox
+00035EBB: Countess Narina Carvain
+0003597A: Countess' Bodyguard
+0000C0F3: Countess's Bodyguard
+000BE330: Courier
+0001D34A: Curtis
+000947BB: Cylben Dolovas
+00016059: Cyronin Sintav
+0001DB3E: Cyrus
+0000A089: Daenlin
+0002CD22: Dagail
+0000A289: Dairihill
+0001DFB1: Damian Magius
+00028FB9: Danus Artellian
+00034E76: Dar Jee
+000280C9: Dar-Ma
+00086753: Dark Brotherhood Murderer
+0008ADCA: DAVaerminaVoice
+0003AB4E: Davela Hlaren
+000294BF: Davide Surilie
+0003558B: Dead Argonian Agent
+0006BFA4: Dead Bandit
+00095A40: Dead Captain
+00064C1D: Dead Captive
+00095A41: Dead Crewmember
+00065E39: Dead Marauder
+000980E0: Dead Meat
+000C8808: Dead Scholar
+000CA005: Dead Treasure Hunter
+00034E8B: Decentius Opsius
+00015D89: Deeh the Scalawag
+0002D021: Deetsan
+000514C5: Deetum-Ja
+000B11D4: Degil
+00034EB4: Delmar
+00015EA2: Delos Fandas
+0002CB2D: Delphine Jend
+0005D545: Demetrius
+00035F52: Denel
+00002E9B: Dennilwen
+00025266: Denyiir
+000342C3: derek
+000034C0: Dervera Romalen
+00025350: Dewey Decimal
+00085110: Dhola
+0000A281: Didier Aumilie
+00028FB2: Dion
+0002F864: Diram Serethi
+0001F106: Doorkeeper
+0001FDD3: Dorian
+000277D2: Dovesi Dran
+0001605C: Dovyn Aren
+0001FC56: Dralora Athram
+00035728: Dranas Lerano
+000477EC: Dranas Llethro
+0000BEA7: Drarana Thelis
+0001ECD6: Dredena Hlavel
+00009C3A: Dreet-Lai
+0000A093: Drels Theran
+00014686: Dremora Archer
+00000FCE: Dremora Caitiff
+0003ABAD: Dremora Captain
+00000FCB: Dremora Churl
+0000C57C: Dremora Feydnaz
+00014D61: Dremora Hatred Keeper
+00000FD8: Dremora Kynmarcher
+00000FD5: Dremora Kynreeve
+00000FD1: Dremora Kynval
+0003B3DC: Dremora Lord
+00000FDB: Dremora Markynaz
+00014C59: Dremora Scout
+00093EF0: Dremora Sigil Keeper
+00000FC8: Dremora Valkynaz
+0000A08F: Dro'Nahrahe
+0002CA36: Dro'shanji
+000293EE: Druja
+0002C7C5: Dubok gro-Shagk
+00016056: Dul gro-Shug
+000034D4: Dulfish gro-Orum
+0000A287: Dumania Jirich
+0001FC57: Dynari Amnis
+000224E2: Earana
+00015E9D: Edgar Vautrine
+00035ECF: Edla Dark-Heart
+00034597: Eduard Denile
+00074A94: Eduard Hodge
+000327BA: Eduard Retiene
+0002D023: Eilonwy
+00034E82: Eitar
+00003435: Elante of Alinor
+0003C806: Eldamil
+000352B3: Eletta
+00027F93: Elidor
+00016063: Elisa Pierrane
+0001FDD0: Elragail
+00028F96: Else God-Hater
+0003E183: Elsynia
+000234B7: Emfrid
+00023F2E: Emperor Uriel Septim
+0001C150: Engorm
+00036307: Enilroth
+00009C3B: Enrion
+0001ECB1: Er-Teeus
+000039A6: Eridor
+00028F90: Erina Jeranus
+0002C0EB: Erissare Arenim
+00035EC7: Erline Lirrian
+0003E0DE: Ernest
+0001FDCF: Ernest Manis
+000223AF: Eronor
+000034C8: Errandil
+0002D6E6: Erthor
+000234B0: Estelle Renoit
+000280C7: Etira Moslin
+000222AD: Eugal Belette
+0014C715: Evangeline Beanique
+0003E193: Eyja
+000293DB: Fadus Calidius
+0002F875: Faelian
+000837D0: Fafnir
+00028E73: Falanu Hlaalu
+0002CD21: Falcar
+00071B91: Fallen Knight of the Thorn
+00031BC5: Farwil Indarys
+0000A090: Fathis Aren
+0002BA47: Fathis Ules
+0009700A: Faurinthil
+0003AA89: Faustina Cartia
+0002D019: Felen Relas
+000A3165: Ferrum
+00026AD6: Ferul Ravel
+00015D84: Fetid Jofnhild
+000947A9: Fighters Guild Porter
+000738DB: First Mate Filch
+00048962: First Mate Malvulis
+0000BEE6: Fithragaer
+00035EB6: Fjotreid
+000B167D: Floyd Nathans
+0005DC98: Forgotten One
+0003AB51: Foroch
+000A3162: Fortis
+00015D8B: Foul Fagus
+0001C459: Fralav the Faker
+0008510F: Francine Velain
+0002C0C6: Francois Motierre
+0002D728: Galtus Previa
+00035EC0: Gan Luseph
+000034DB: Ganredhel
+00031C23: Garrus Darelliun
+00034EB1: Gaspar Stegine
+000294C0: Gaston Surilie
+00025299: Gaston Tussaud
+000234B5: Gaturn gro-Gonk
+00034E7D: Geel
+0001EB82: Geem Jasaiin
+00015EA3: Gelephor
+0000A092: Gellius Terentius
+0001FDD4: Gemellus Axius
+0003832F: Genghis
+00038331: GenghisClad
+00028FA6: Gerard Melie
+00035EBF: Gerich Senarel
+0009828B: Ghorub gro-Ugdub
+00033CD8: Ghost of Alain
+000364B8: Ghost of Casnar
+000364B9: Ghost of Rielus
+000364B7: Ghost of Valdemar
+0001D24E: Gilen Norvalo
+0000A084: Gilgondorin
+0003E92D: Gin-Wulm
+00037E8D: Giovanni Civello
+00002E99: Githriian
+000294C3: Glarthir
+00023F2B: Glenroy
+000222A3: Glistel
+00031317: Goblin Jim
+0003B3D3: Gogan
+00023E38: Gogron gro-Bolmog
+0000A2A4: Gorgo gro-Shura
+00028F92: Graklak gro-Buglump
+0000C1D5: Graman gro-Marad
+000347B2: Grantham Blakeley
+00026ADC: Gregory Arne
+0001D252: Grey-Throat
+00023F0C: Gromm
+000034C9: Gruiand Garrana
+00027FCD: Guard
+00023E86: Guilbert Jemane
+0018AD6B: Guilbert Selone
+00026B38: Gul gro-Burbog
+00034E68: Gundalas
+00028F98: Gunder
+000234AD: Gureryne Selvilo
+000837CF: Gwendolyn
+00022466: Gwinas
+000280C6: Hackdirt Brethren
+00026B53: Haekwon
+00035EB0: Hafid Hollowleg
+0001D352: Hagaer
+00028FB0: Hal-Liurz
+00015EA0: Hamlof Red-Tooth
+00034E16: Hannibal Traven
+0000A091: Hans Black-Nail
+000B167F: Hanz gro-Hubrag
+00033905: Harrow
+0000A29C: Hasathil
+0001FDCE: Hassiri
+0001D345: Hastrel Ottus
+0000A297: Hauls-Ropes-Faster
+000301AC: Havilstein Hoar-Blood
+00027064: Hawkeye
+000B1670: Hears-Voices-In-The-Air
+0000A29B: Heinrich Oaken-Hull
+00035ED0: Helvius Cecia
+0001FC50: Helvo Atius
+000245A5: HEMale
+0002CA35: Henantier
+0002E5C6: Herminia Cinna
+000234B3: Hides-His-Heart
+0003486E: Hieronymus Lex
+00014699: High Chancellor Ocato
+000C5229: Highwayman
+000034C6: Hil the Tall
+000477ED: Hillod the Outlaw
+000977DA: Hindaril
+00051EDB: Hircine's Voice for Recording
+0002D6FF: Hirtel
+0001E70C: Hjolfrodi the Harrier
+00064DA4: Hlaro Dren
+00034E8D: Hlidara Mothril
+00009C38: Hlofgar
+000234B1: Homraz gra Morgrump
+000234B9: Honditar
+00035EC3: Honmund
+0001ECD0: Hrol Ulfgar
+0003C97A: Humilis Nonius
+00029D75: Hundolin
+00098295: Hunting Tail
+0000A294: Huurwen
+00085E4B: I walk up and down stairs
+0001D347: Ida Ottus
+0001605D: Ida Vlinorman
+00002E9A: Idrolian
+0002D6EC: Ilav Dralgoner
+0009812F: Ilend Vonius
+0001ECAD: Ilvel Romayn
+0018D1F4: Imperial Jailor
+00001145: Imperial Legion Archer
+0009263B: Imperial Legion Battlemage
+0004892F: Imperial Legion Captain
+00035DFD: Imperial Legion Centurion
+00061444: Imperial Legion Forester
+000146EA: Imperial Legion Messenger
+00001144: Imperial Legion Soldier
+0009061A: Imperial Legionnaire
+00045F7E: Imperial Prison Guard
+0001C34B: Imperial Watch
+00015D82: Imus the Dull
+00016055: Iniel Sintav
+0002B7CE: Inigo Montoya
+00016058: Irene Metrick
+00014674: Irlav Jarol
+00026B14: Irroke the Wide
+00035EB7: Isa Raman
+00026B4F: Isabeau Bienne
+000477E5: Isleif the Open Handed
+0000A298: Isolde
+00035EC8: Istirus Brolus
+0002D01C: Ita Rienus
+00026D98: Itius Hayn
+000151FC: Iver
+0009346E: J'baana
+0008521B: J'Baasha
+00034E77: J'bari
+00030148: J'Ghasta
+000221C3: J'mhad
+000897DD: J'riska
+0002D01E: J'skar
+0000A10C: J'zin-Dar
+00034E7A: Ja'Fazir
+000477D4: Jair
+000148D5: Jakben, Earl of Imbel
+000C80FD: Jalbert
+0004F77D: Janonia Aurunceia
+00035EC9: Jantus Brolus
+0004F77E: Januarius Aurunceia
+00028FAE: Janus Hassildor
+0001C168: Jaras Invel
+00016067: Jastia Sintav
+00023999: Jauffre
+0005D547: Javolia Maborel
+0000A086: Jean-Pierre Lemonds
+0002CD20: Jeanne Frasoric
+00035ECB: Jearl
+0002FF2A: Jee-Tah
+00024E0A: Jeelius
+000356EC: Jeetum-Ze
+00037576: Jena
+00016068: Jena Sintav
+00015EA4: Jensine
+0002800B: Jesan Rilian
+0000A2A3: Jesan Sextius
+000335B1: Jhared Strongblade
+000234AC: Jirolin Doran
+000280CA: Jiv Hiriel
+000327BF: Jolie Retiene
+0002AB4C: Jollring
+00015D83: Jorck the Outcast
+00036244: Jorundr
+00034EAF: Julienne Fanis
+00034E8A: Julitta Plotius
+00003946: K'Sharr
+0002D8C0: Kalthar
+00034E6C: Kantav Cheynoslin
+0003E188: Karinnarre
+000477DD: Kastav Kvinchal
+00016064: Kastus Sintav
+0003C805: Kathutet
+000034CF: Keld of the Isles
+0001ECA9: Kewan
+0002DC06: Kiara
+0001ECD2: Kirsten
+0000A296: Krognak gro-Brok
+Kud-Ei 0002CD1F -
+0001F428: Kurdan gro-Dragol
+0001FEEA: Kurdan's Imperial Hunter
+0001FEEC: Kurdan's Nord Hunter
+0001FEEF: Kurdan's Orc Hunter
+000234BE: Kurz gro-Baroth
+00026F18: Kvatch Soldier
+00181C64: Kylius Lonavo
+0002AB55: Lackey
+0001EC33: Lady Drad
+0000BE80: Lady Rogbut gra-Shurgak
+00028FA7: Laenafil
+0000A28B: Langley
+0000A286: Laralthir
+0000BD60: Larthjar the Laggard
+0006BD2D: Lashana
+000038CA: Laythe Wavrick
+00028E72: Lazare Milvan
+00015D87: Lazy Kaslowyn
+0018AD70: Lenka Valus
+00181C68: Lerexus Callidus
+00016053: Ley Marillin
+0000A0B8: Leyawiin City Watch
+00034E71: Leyawiin Guard
+00035F8F: Leyawiin Jailor
+00026F20: Leyawiin Soldier
+00185374: Lithnilian
+0000A293: Llensi Llaram
+000034DF: Llevana Nedaren
+00035EB1: Logvaar
+00023D7E: Lonely Man
+0001EC31: Lord Drad
+00038EDD: Lord Lovidicus
+0000BE7F: Lord Rugdumph gro-Shurgak
+0003E915: LordGenghis
+0006E7EF: Lorgren Benirus
+0004DE82: Lorkmir
+0000A10A: Luciana Galena
+000034AF: Lucien Lachance
+00015D86: Luckless Lucina
+000234BF: Lum gro-Baroth
+0001DFB3: Lumdum gro-Golpok
+00022BBD: Lurio Maenius
+0001D350: Luronk gro-Glurzog
+00023DE6: Luther Broad
+0000C1D8: Lynch
+000CD302: Lynda Carter
+00035EC5: Lyra Rosentia
+000C47EC: M'aiq the Liar
+000897DF: M'dasha
+000897E1: M'dirr
+00023E35: M'raaj-Dar
+00026B37: Ma'Raska
+00023FEA: Mach-Na
+0000A2A2: Maelona
+0000A27C: Maenlorn
+00185FE5: Maeva the Buxom
+00032940: Mage
+0006AAAF: Mage Apprentice
+0006A82E: Mage Scholar
+00024165: Maglir
+0003E190: Magra gro-Naybek
+000034D5: Magub gro-Orum
+00034E7F: Mahei
+000034DA: Maknok gro-Coblug
+00051EE2: Malacath's Voice for Recording
+0003001C: Malene
+000222A6: Malintus Ancrus
+0001ECCC: Malyani Dalvilu
+00016060: Mandil
+000224EE: Manheim Maulhand
+00033908: Mankar Camoran
+00016487: Mannimarco
+0001D353: Marana Rian
+00069AD7: Marauder
+00069AD9: Marauder Archer
+00069AD6: Marauder Battlemage
+0003CD2B: Marauder Warlord
+0002D01A: Marc Gulitte
+000A345B: Marcel Amelion
+0001ECAB: Maren the Seal
+00034E81: Margarte
+00033904: Marguerite Diel
+000034C2: Mariana Ancharia
+000327BB: Marie Alouette
+00028F9F: Marie Palielle
+000038B3: Mariette Rielle
+0001605E: Marinus Catiotus
+000280CB: Marlena Brussiner
+00015EAC: Maro Rufus
+00034EB5: Martina Floria
+0000A08B: Marz
+0000398A: Mathieu Bellamont
+000277D5: Matilde Petit
+00030FDA: Matthias Draconis
+0006BD29: Mattius Wotrus
+00085969: Mazoga the Orc
+0003E931: Melisande
+0001EBF7: Mels Maryon
+00026B46: Melus Petilius
+0009812E: Menien Goneld
+0008521D: Mensa Selas
+00051EE3: Mephala's Voice for Recording
+00028035: Merandil
+00035649: Mercator Hosidus
+000C7944: Mercenary
+000151FE: Merete
+00059D2E: Merildor
+00034E99: Methredhel
+000025FD: Miner
+000224EF: Minerva
+0000C1D9: Minx
+0000A295: Mirabelle Monet
+0001ECAF: Mirie
+00031540: Mirisa
+0004E887: Mivryna Arano
+000234C0: Modryn Oreyn
+00028F8C: Mog gra-Mogakh
+0008521A: Mogens Wind-Shifter
+00035A16: Mondrar Henim
+00026ACC: Mor gra-Gamorn
+0009829B: Mug gro-Murgak
+000919C8: Murdered Beggar
+00094E88: Mythic Dawn Acolyte
+0002F108: Mythic Dawn Agent
+00022C82: Mythic Dawn Guard
+0002F101: Mythic Dawn Leader
+00026FC9: Mythic Dawn Storeroom Guard
+0003529A: Myvryna Arano
+0000A095: Nahsi
+0004D83C: Nardhil
+000034CB: Naspia Cosma
+000280CC: Natch Pinder
+0001EC05: Necromancer
+0004B948: Necromancer Adept
+00002E97: Nedhelfin
+00028FAC: Neesha
+000277D4: Nels the Naughty
+00015D88: Nermus the Mooch
+000BB9CB: Nerussa
+000277D1: Neville
+00035740: Newheim the Portly
+000C509C: Night Child
+00015D8C: Nigidius the Needy
+0000A087: Nilawen
+00002E96: Niraegaer
+0001ECC8: Nivan Dalvilu
+0001C45A: No-Coins Draninus
+0005D516: Norasa Adus
+00035724: Norbert Lelles
+0003E17E: Nordinor
+00029916: NormalHead
+000353DF: Noveni Othran
+00034E7E: Numeen
+000224EC: Ocheeva
+000034DC: Oghash gra-Magul
+00015E9A: Ogier Georick
+000034C7: Ohtesse
+000034D0: Ohtimbar
+00035EAC: Olav
+0000A08D: Olava the Fair
+00034E7C: Oleed-Ei
+00090AB3: Oleta
+00035EB5: Olfand
+00026B4D: Olyn Seran
+00033906: On-Staya Sundew
+00035ECA: Ongar the World-Weary
+0001CF33: Ontus Vanin
+000234AE: Orag gra-Bargol
+000222B9: Orgnolf Hairy-Legs
+0002D022: Orintur
+00031E96: Ormellius Goldwine
+0000C1D4: Ormil
+000234A8: Orok gro-Ghoth
+0000A2A1: Orrin
+0003CD1B: Orthe
+00026AD9: Ortis
+0001605F: Othrelos
+000234AB: Otius Loran
+00034E88: Otumeel
+000222B6: Owyn
+000A3833: Pajeen
+00115DFE: Palace Guard
+0004B76F: Pale Lady
+00015EA8: Palonirya
+000293E4: Parwen
+000A3164: Pelagius
+00015D7F: Penniless Olvus
+0001D356: Pennus Mallius
+00030FDC: Perennia Draconis
+00035EAD: Petrine
+000B1681: Philip Franc
+00015E9B: Phintias
+0000A29D: Pinarus Inventius
+000738DE: Pirate
+00016054: Pista Marillin
+000389BD: Pranal
+0001D355: Praxedes Afranius
+0001CEAA: Priest of Arkay
+000277D3: Primo Antonius
+0002B7D2: Prince Humperdinck
+000223AB: Prior Maborel
+0003EAAD: Prisoner
+000165ED: Puny Ancus
+0000A2A0: Quill-Weave
+0000A10D: R'vanni
+00034E85: Ra'Jahirr
+0001E750: Ra'Jhan
+000CD327: Ra'jhera the Keeneye
+0001FDCC: Ra'jiradh
+000034CE: Ra'qanar
+00185378: Raelynn the Gravefinder
+0001C45B: Ragbag Buntara
+0002229F: Rallus Odiil
+00097865: Ralsa Nethan
+0001D343: Ralsa Norvalo
+00034E15: Raminus Polus
+00034E7B: Rana
+0000A083: Ranaline
+00015D8A: Rancid Ra'dirsha
+0003CD1A: Ranyu
+000234AF: Rasheda
+0000ABB5: Raven Camoran
+00035EAE: Raynil Dralas
+0001ECCA: Redas Dalvilu
+0000A112: Reenum
+00035ECE: Regner
+0000A10E: Reistr the Rotted
+0002C7C6: Rellian
+000294A2: Reman Broder
+000222B2: Rena Bruiant
+00034EB6: Renald Viernis
+0001D34E: Renee Geonette
+00068459: Restita Statlilia
+000222A8: Reynald Jemane
+0000A290: Rhano
+00026AED: Ri'Bassa
+0001C13D: Ri'Jirr
+00035703: Ri'Zakar
+00027F94: Rienna
+00035EC1: Right-Wind
+0002AF3C: Rigmor
+000222B3: Rimalus Bruiant
+00015E9C: Rindir
+00015EA1: Ris Fralmoton
+0001FC53: Rochelle Bantien
+0001623A: Roderic Pierrane
+00028FA4: Roderick
+000034D9: Rogmesh gra-Coblug
+0001C14C: Rohssan
+0001D34B: Roland Jenseric
+0001D0AC: Rolgarel
+00037573: Roliand
+0002FD70: Roliand Hanus
+00016062: Romana Faleria
+000982A5: Rona
+0003E956: Rona Hassildor
+00033C74: Rosentia Gallenus
+0000A10F: Roxanne Brigette
+0008595B: Roxy Aric
+000224F0: Rufio
+0000A291: Rufrius Vinicius
+0002952D: Ruma Camoran
+0000A29F: Rusia Bradus
+0001D351: Ruslan
+000034D2: Rythe Lythandas
+0002D026: S'drassa
+00177A2B: S'jirra
+00067417: S'kasha
+00035DD6: S'Krivva
+000514C6: S'mirra
+0001FDD2: S'rathad
+0002AF3E: S'razirr
+0000A280: S'shani
+000897E7: S'thasa
+000234BD: Sabine Laul
+0002F85F: Sakeepa
+000A713C: Saliith
+00029495: Salmo
+0001D34D: Salomon Geonette
+0001FC52: Samuel Bantien
+00048968: Sanctuary Door Voice
+0001ECCB: Satha Dalvilu
+00035ECC: Saveri Faram
+00028007: Savlian Matius
+0003558A: Scar-Tail
+00024412: Schlera Sestius
+000234B8: Seed-Neeus
+0002D020: Selena Orania
+0000C1D7: Selene
+00015EA6: Sergius Verus
+0001CF76: Seridur
+00026D99: Servatius Quintilius
+0001FC4F: Severius Atius
+000C45B5: Shady Sam
+00026B2C: Shafaye
+0002F861: Shagol gro-Bumph
+0003018E: Shaleez
+00034E66: Shamada
+000039AB: Shamar
+000294B7: Shameer
+000034C3: Shelley
+00034E73: Sherina
+0001EC37: Shobob gro-Rugdush
+00034E67: Shomara
+00027065: Shows-His-Arrow-Quickly
+00028FB6: Shum gro-Yarug
+00034E65: Shuravi
+00030FD8: Sibylla Draconis
+0009C26A: Siege Crawler Sentry
+0009504D: Sigil Keeper
+0003AA85: Signy Home-Wrecker
+0002D701: Sigrid
+00034E6B: Silana Blandia
+0001C458: Simplicia the Slow
+0003E92B: Sinderion
+000B166E: Sings-Like-Thunder
+000ACE6D: Sister Angrond
+000ACE73: Sister Phebe Jeanard
+00035F43: Skaleel
+0000C03E: Skingrad Guard
+0002C0B7: Skingrad Jailor
+00026F25: Skingrad Soldier
+00035EB4: Skjorta
+00185DC9: Slythe Seringi
+0006B32B: Snak gra-Bura
+00035EB2: Snar the Cook
+0002F1FD: Soris Arenim
+0001ECB2: Soul of Er-Teeus
+0001ECAE: Soul of Ilvel Romayn
+0001ECAA: Soul of Kewan
+0001ECAC: Soul of Maren the Seal
+0001ECB0: Soul of Mirie
+0001D349: Stantus Varrid
+0000A292: Sten the Ugly
+00035727: Storn the Burly
+00033900: Styrbjorn
+000293ED: Sulinus Vassinus
+0002B5EB: Surius Afranius
+00035EB3: Suurootan
+0000A096: Tadrose Helas
+000234B4: Talasma
+000294CC: Tamika
+000034D8: Tanasa Arano
+000153B9: Tandilwe
+00132AEB: Tar-Meena
+0002D6F9: Tavia
+000234BC: Teekeeus
+00023E34: Teinaava
+000251CE: Telaendril
+0008ADCB: Tenville
+0001C16D: Termanwe
+000034C5: Tertia Viducia
+00016061: Tertius Favonius
+00015EA5: Tertullian Verus
+000151FA: Thalfin
+0001FDCB: Thamriel
+0002D018: Thaurron
+000347B1: The Forlorn Watchman
+00014653: The Gray Fox
+0000922B: The Night Mother
+0001624C: Theranis
+00002E94: Thiirchel
+0018AFD9: Thorley Aethelred
+00015E9E: Thoronir
+00002E98: Thrangirfin
+0002576B: Thulsa Doom
+0000A29A: Thurindil
+00028034: Tierra
+000545D9: Tilmo
+0002991A: Timothee LaRouche
+000034D3: Tivela Lythandas
+0001C494: Tolgan
+000034D7: Tolisi Girith
+000A3832: Tolvasa Sendas
+0003C165: Tooth-in-the-Sea
+00026F96: Torbal the Sufficient
+000613B8: Torbern
+000293F7: Toutius Sextius
+000034E0: Tovas Selvani
+0002D024: Trayvond the Redguard
+0001D348: Trenus Duronius
+0000A285: Trevaia
+000897E3: Tsalajma
+0003AA83: Tsarrina
+00034E6F: Tsavi
+000897E5: Tsramla
+00034E78: Tsrava
+00028F9D: Tumindil
+00034E69: Tun-Zeeus
+0005378D: Tyrellius Logellus
+00028F8D: Ugak gra-Mogakh
+0001FC55: Ulen Athram
+000034CD: Ulene Hlervu
+0000A27B: Ulfgar Fog-Eye
+00028FA9: Ulmug gro-Cromgog
+000034CC: Ulrich Leland
+0001ECD1: Ulrika Ulfgar
+0002AB4E: Umbacano
+00026B1B: Umbra
+0002B528: Umog gra-Marad
+00028E7D: Undena Orethi
+0000A088: Ungarion
+000301C4: Ungolim
+0008592F: Unknown Victim
+0000A08A: Uravasa Othrelas
+00015EAA: Urbul gro-Orkulg
+0001FDCD: Urjabhi
+0002F866: Urnsi Serethi
+0000A111: Ursanne Loche
+0002B5EA: Usheeja
+00028E84: Uuras the Shepherd
+Uurwen 0002D025 -
+0001FB55: Uzul gro-Grulam
+0001EC5D: Vajhira
+00028FA1: Valandrus Abor
+00025200: Valen Dreth
+0002DF7A: Valen Dreth
+000222A1: Valus Odiil
+0003DB99: Vamp Chow
+00003A8A: Vampire
+0003264A: Vampire Acrobat
+00032648: Vampire Agent
+00032645: Vampire Archer
+00032649: Vampire Assassin
+00032641: Vampire Barbarian
+0003264D: Vampire Bard
+00032651: Vampire Battlemage
+00032642: Vampire Crusader
+00069AF0: Vampire Knight
+0003264E: Vampire Mage
+0003264B: Vampire Monk
+00032654: Vampire Nightblade
+00032BFE: Vampire Patriarch
+0003264C: Vampire Pilgrim
+00032646: Vampire Rogue
+00032644: Vampire Scout
+00032650: Vampire Sorcerer
+00032653: Vampire Spellsword
+00032647: Vampire Thief
+00032640: Vampire Warrior
+00032652: Vampire Witchhunter
+00028FB7: Vandorallen Trebatius
+0002C7C7: Vantus Prelius
+0000A283: Varel Morvayn
+00015EAD: Varnado
+0002991C: Varon Vamori
+00095A45: Varulae
+0001DFB0: Velan Andus
+00015EAE: Velus Hosidius
+0003628D: Velwyn Benirus
+00015E9F: Viator Accius
+00023E39: Vicente Valtieri
+0002E5AF: Vidkun
+0000A25C: Viera Lerus
+0000A28F: Vigdis
+000293F3: Vigge the Cautious
+000234C1: Vilena Donton
+0000A094: Vincent Galien
+00047720: Vinicia Melissaeia
+0002D71F: Viranus Donton
+000477DC: Vlanarus Kvinchal
+000280C8: Vlanhonder Moslin
+0001C16A: Vlarimil Orius
+0000A09A: Volanaro
+00016066: Vontan Sintav
+000039B1: Vontus Idolus
+000034D6: Voranil
+000234B2: Wallace
+00034E83: Weebam-Na
+0002D6EE: Weedum-Ja
+00029915: Widehead
+0000A27E: Wilbur
+0000A282: Wilhelm the Worm
+0001D340: Willet
+0001605B: Winson
+0002C8D8: Witseidutsei
+000336F6: Worm Anchorite
+0000C1DA: Wrath
+00015D80: Wretched Aia
+0001EB7F: Wumeek
+00029908: Yellow Team Bloodletter
+00029234: Yellow Team Brawler
+0002996B: Yellow Team Champion
+0002ACD1: Yellow Team Combatant
+0002994E: Yellow Team Gladiator
+00029968: Yellow Team Hero
+00029912: Yellow Team Myrmidon
+0002A2B3: Yellow Team Pit Dog
+00029938: Yellow Team Warrior
+00037CDD: Ysabel Andronicus
+00026B4E: Yushi
+00035EBC: Yvara Channitte
+00026AEF: Zabhila
+000352B1: Zahrasha
+#RINGS, AMULETS, AND CLOTHING#
+00048981: Acrobatics Pants
+00098457: Acrobat's Amulet
+0000552C: Aegis Robe
+00035E95: Ahdarji's Ring
+0009843E: Amulet of Absorption
+00098453: Amulet of Axes
+00092AC6: Amulet of Illusion
+000C04D6: Amulet of Interrogation
+000250A0: Amulet of Kings
+00091AD5: Amulet of Luck
+0009845B: Amulet of Reflection
+00187BBF: Amulet of the Ansei
+00030135: Ancotar's Ring of Protection
+00094ECB: Apron of Adroitness
+000CA122: Apron of the Master Artisan
+00071022: Aqua Silk Hood
+00071021: Aqua Silk Robes
+00064FE0: Arch-Mage's Hood
+00064FDF: Arch-Mage's Robe
+00093551: Arnora's Amulet
+00053787: Arnora's True Amulet
+000CBD53: Astia's Necklace
+0009843D: Base Amulet of Absorption
+00092AC5: Base Amulet of Illusion
+00091AD4: Base Amulet of Luck
+000937FA: Base Amulet of Reflection
+00092AAD: Base Necklace of Mercantile
+00091AD1: Base Necklace of Personality
+00098443: Base Necklace of Seawalking
+00092AB6: Base Necklace of Speechcraft
+00098440: Base Necklace of the Sea
+00091C3C: Base Ring of Acrobatics
+00098437: Base Ring of Aegis
+00091AC8: Base Ring of Agility
+00092AB9: Base Ring of Alchemy
+00092ABC: Base Ring of Alteration
+00091C2A: Base Ring of Athletics
+00091C2D: Base Ring of Blades
+00091C30: Base Ring of Block
+00091C33: Base Ring of Blunt Force
+00091C36: Base Ring of Brawling
+00092ABF: Base Ring of Conjuration
+0009DED3: Base Ring of Destruction
+00091AB6: Base Ring of Detect Life
+00091ACE: Base Ring of Endurance
+00091AB9: Base Ring of Feather
+00091ABD: Base Ring of Fire Shield
+00098419: Base Ring of Firewalking
+0009845D: Base Ring of Fortitude
+00098425: Base Ring of Freedom
+000937EF: Base Ring of Frost Shield
+00091C21: Base Ring of Health
+00091C39: Base Ring of Heavy Armor
+00091AC2: Base Ring of Intelligence
+000937F2: Base Ring of Light
+00091C3F: Base Ring of Light Armor
+00091C24: Base Ring of Magicka
+00092AC8: Base Ring of Mysticism
+000937F5: Base Ring of Nighteye
+0009841F: Base Ring of Nihilism
+00092ACB: Base Ring of Restoration
+00091AAF: Base Ring of Retribution
+00092AB0: Base Ring of Security
+00091AAE: Base Ring of Shadows
+0009843A: Base Ring of Shock Shield
+00092AB3: Base Ring of Sneak
+00091ACB: Base Ring of Speed
+00098422: Base Ring of Steelskin
+0009842B: Base Ring of Storms
+00091ABF: Base Ring of Strength
+00092AAA: Base Ring of the Archer
+00091C27: Base Ring of the Armorer
+0009841C: Base Ring of the North
+00098428: Base Ring of the Viper
+00091AD7: Base Ring of Vigor
+00091AC5: Base Ring of Willpower
+00064F7E: Beggar's Shirt
+0002B90B: Belted Braies
+0002B90C: Belted Vest
+0001C887: Black & Burgundy Outfit
+0002FF34: Black Band
+000651D3: Black Hand Hood
+000651D2: Black Hand Robe
+00064FE3: Black Hood
+00064FE2: Black Robe
+00064F7B: Black Wide Pants
+0002C633: Blackheart's Ring
+000229A6: Blacksmith's Apron
+000229A7: Blacksmith's Pants
+00098175: Blackwood Ring of Silence
+0001C884: Blue & Green Outfit
+0000C59E: Blue Collar Shirt
+00064FE5: Blue Silk Shirt
+00064FE4: Blue Silks
+0002319E: Blue Suede Shoes
+0002319D: Blue Velvet Outfit
+000148D4: Boots of Springheel Jak
+0002B90D: Braided Leather Sandals
+00038017: Brass Pearl Ring
+00038011: Brass Ring
+00038018: Brass Topaz Ring
+00028587: Breeches
+0003802D: Bronze Amulet
+00038027: Bronze Necklace
+000229AD: Brown Shirt
+00028733: Buckled Shoes
+00000B86: Burgundy Linen Shirt
+0001047C: Burgundy Linens
+0002C0F8: Burlap Vest
+0000844D: Chameleon Robe
+000CAAA1: Child Overalls
+00088FED: Circlet of Omnipotence
+0002858E: Clogs
+0001C82E: Coarse Linen Shirt
+0001C82C: Coarse Linens
+00028732: Collared Shirt
+00032DA0: Colovian Signet Ring
+0003802E: Copper Amulet
+00038028: Copper Necklace
+00038019: Copper Pearl Ring
+00038012: Copper Ring
+0003801B: Copper Ruby Ring
+0003801A: Copper Topaz Ring
+000CA12C: Councilor's Hood
+000CA121: Cowl of the Druid
+000347E3: Cruelty's Heart
+000229AA: Dark Green Shirt
+00064F7D: Dark Shirt
+0001C883: Doeskin Shoes
+0007304D: Draconian Madstone
+0001C172: Draconian Madstone
+00089008: Dreamworld Amulet
+0002CDC6: Dreamworld Amulet
+00038026: Ebony Diamond Ring
+00038025: Ebony Emerald Ring
+00038016: Ebony Ring
+00098450: Elemental Ring
+00023D33: Emperor's Robe
+0000BC2D: Emperor's Robe
+00023D53: Emperor's Shoes
+00064F76: Ernest's Best Shirt
+000CBD37: Ernest's Fancy Pants
+000CBD39: Ernest's Shoes
+00082DE0: Eye of Sithis
+00048991: Feather Shoes
+0002ECAC: Fishing Waders
+0009844C: Flame Ring
+0002C0FA: Flax Tunic
+00064F79: Forester's Shirt
+00048992: Fortify Fatigue Pants
+0000552D: Fortify Magicka Pants
+0009844D: Frost Ring
+00038031: Gold Amulet
+00038024: Gold Diamond Ring
+00038023: Gold Emerald Ring
+0003802B: Gold Necklace
+00038015: Gold Ring
+00038022: Gold Sapphire Ring
+0001C888: Gold Trimmed Shoes
+0009843F: Grand Amulet of Absorption
+00092AC7: Grand Amulet of Illusion
+00091AD6: Grand Amulet of Luck
+0009845C: Grand Amulet of Reflection
+00092AAF: Grand Necklace of Mercantile
+00091AD3: Grand Necklace of Personality
+00098445: Grand Necklace of Seawalking
+00092AB8: Grand Necklace of Speechcraft
+00098441: Grand Necklace of the Sea
+00091C3E: Grand Ring of Acrobatics
+00098439: Grand Ring of Aegis
+00091ACA: Grand Ring of Agility
+00092ABB: Grand Ring of Alchemy
+00092ABE: Grand Ring of Alteration
+00091C2C: Grand Ring of Athletics
+00091C2F: Grand Ring of Blades
+00091C32: Grand Ring of Block
+00091C35: Grand Ring of Blunt Force
+00091C38: Grand Ring of Brawling
+00092AC1: Grand Ring of Conjuration
+00092AC4: Grand Ring of Destruction
+00091AB8: Grand Ring of Detect Life
+00091AD0: Grand Ring of Endurance
+00091ABB: Grand Ring of Feather
+00091ABE: Grand Ring of Fire Shield
+0009841B: Grand Ring of Firewalking
+00098418: Grand Ring of Fortitude
+00098427: Grand Ring of Freedom
+000937F1: Grand Ring of Frost Shield
+00091C23: Grand Ring of Health
+00091C3B: Grand Ring of Heavy Armor
+00091AC4: Grand Ring of Intelligence
+000937F4: Grand Ring of Light
+00091C41: Grand Ring of Light Armor
+00091C26: Grand Ring of Magicka
+00092ACA: Grand Ring of Mysticism
+000937F7: Grand Ring of Nighteye
+00098421: Grand Ring of Nihilism
+00092ACD: Grand Ring of Restoration
+000937F9: Grand Ring of Retribution
+00092AB2: Grand Ring of Security
+00091AB2: Grand Ring of Shadows
+0009843C: Grand Ring of Shock Shield
+00092AB5: Grand Ring of Sneak
+00091ACD: Grand Ring of Speed
+00098424: Grand Ring of Steelskin
+0009842D: Grand Ring of Storms
+00091AC1: Grand Ring of Strength
+00092AAC: Grand Ring of the Archer
+00091C29: Grand Ring of the Armorer
+0009841E: Grand Ring of the North
+0009842A: Grand Ring of the Viper
+00091AD9: Grand Ring of Vigor
+00091AC7: Grand Ring of Willpower
+00022E81: Gray Cowl of Nocturnal
+000C04D7: Greater Amulet of Interrogation
+000229B0: Green Brocade Doublet
+00028731: Green Felt Linens
+0007101B: Green Robe
+0007101C: Green Robe Hood
+000229B1: Green Silk Garment
+000229B2: Green Velvet Shoes
+0002ECB0: Green Wool Shirt
+0012DD1E: Grey Robe
+0012DD1F: Grey Robe Hood
+000CBD3D: Heinrich's Pants
+000CBD3F: Heinrich's Shirt
+000CBD47: Heinrich's Shoes
+00064FE6: Highwayman's Shirt
+0006A82D: Hood of the Apprentice
+00000857: Huntsman Leather Pants
+0001C82B: Huntsman Moccasin
+00000883: Huntsman Vest
+000CA125: Imperial Breeches
+000335A8: Indarys Signet Ring
+00189CFE: Jade Amulet
+0003802F: Jade Amulet
+00038029: Jade Necklace
+00038013: Jade Ring
+0003801D: Jade Ruby Ring
+0003801E: Jade Sapphire Ring
+0003801C: Jade Topaz Ring
+000856EF: Jewel of the Rumare
+00038032: Jeweled Amulet
+0003802C: Jeweled Necklace
+001885CC: King of Worms' Hood
+001885CA: King of Worms' Robes
+000335A9: Knights of the Thorn Medallion
+00189181: Kylius Lonavo's Ring
+000229AB: Laced Leather Pants
+000C04D5: Lesser Amulet of Interrogation
+00048990: Lesser Chameleon Robe
+00048982: Light Armor Vest
+000229AE: Light Brown Linens
+00064FE1: Mage's Hood
+00064F7F: Mage's Robe
+000347C8: Manduin's Amulet
+000BE31F: Mankar Camoran's Robe
+000CA129: Mantle of the Woodsman
+00048983: Marksman Quilted Doublet
+00048984: Mercantile Black Outfit
+000366C1: Mind and Body Ring
+0001E7FF: Monk Robe
+00038B07: Mundane Amulet
+0009844B: Mundane Ring
+0008D755: Mythic Dawn Hood
+00024DE2: Mythic Dawn Robe
+00092AAE: Necklace of Mercantile
+00091AD2: Necklace of Personality
+00098444: Necklace of Seawalking
+00092AB7: Necklace of Speechcraft
+00098452: Necklace of Swords
+00098442: Necklace of the Sea
+0007BE2B: Necromancer's Amulet
+001885CB: Necromancer's Hood
+001885C9: Necromancer's Robes
+000CA12B: Nistor's Boots
+0001C82F: Oiled Linen Shoes
+0002C0F4: Olive Vest
+00000015: Pants
+0002ECAD: Patched Vest
+000385A0: Phylactery of Litheness
+000229AF: Pigskin Shoes
+000CBD51: Pinarus' Shirt
+00064F78: Plaid Shirt
+0001C831: Quilted Doublet
+0001C886: Quilted Shoes
+00071020: Red Silk Hood
+0007101F: Red Silk Robes
+00003A94: Red Velvet Blouse
+00003A93: Red Velvet Garment
+000A498E: Red Velvet Outfit
+0000844E: Resist Cold Pants
+00048989: Resist Disease Burgundy Linen Shirt
+0004898A: Resist Fire Burgundy Linens
+0004898B: Resist Normal Weapons Quilted Doublet
+0004898C: Resist Poison Blue & Green Outfit
+00091C3D: Ring of Acrobatics
+00098438: Ring of Aegis
+00091AC9: Ring of Agility
+00092ABA: Ring of Alchemy
+00092ABD: Ring of Alteration
+00091C2B: Ring of Athletics
+00091C2E: Ring of Blades
+00091C31: Ring of Block
+00091C34: Ring of Blunt Force
+00091C37: Ring of Brawling
+0002E5AC: Ring of Burden
+00092AC0: Ring of Conjuration
+00092AC3: Ring of Destruction
+00091AB7: Ring of Detect Life
+0004F9E5: Ring of Eidolon's Edge
+00091ACF: Ring of Endurance
+00091ABA: Ring of Feather
+00091ABC: Ring of Fire Shield
+0009841A: Ring of Firewalking
+00098417: Ring of Fortitude
+00098426: Ring of Freedom
+000937F0: Ring of Frost Shield
+00091C22: Ring of Health
+00091C3A: Ring of Heavy Armor
+00091AC3: Ring of Intelligence
+00027110: Ring of Khajiiti
+000937F3: Ring of Light
+00091C40: Ring of Light Armor
+00091C25: Ring of Magicka
+00092AC9: Ring of Mysticism
+0001C10A: Ring of Namira
+000937F6: Ring of Nighteye
+00098420: Ring of Nihilism
+00098446: Ring of Perfection
+00092ACC: Ring of Restoration
+000937F8: Ring of Retribution
+00092AB1: Ring of Security
+00091AB1: Ring of Shadows
+0009843B: Ring of Shock Shield
+00098456: Ring of Skimming
+00092AB4: Ring of Sneak
+00091ACC: Ring of Speed
+00098447: Ring of Stamina
+00098423: Ring of Steelskin
+0009842C: Ring of Storms
+00091AC0: Ring of Strength
+0001E0FA: Ring of Sunfire
+00092AAB: Ring of the Archer
+00091C28: Ring of the Armorer
+0000CCC8: Ring of the Gray
+00098458: Ring of the Iron Fist
+0009841D: Ring of the North
+00098429: Ring of the Viper
+0001C4DA: Ring of the Vipereye
+00098455: Ring of Thieves
+000CA126: Ring of Transmutation
+00098449: Ring of Treachery
+00091AD8: Ring of Vigor
+0009844F: Ring of Vitality
+00098448: Ring of War
+00091AC6: Ring of Willpower
+0009844A: Ring of Wizardry
+000CA128: Ring of Wortcraft
+000CA127: Robe of Creativity
+00005529: Robe of Defense
+00005519: Robe of Deflection
+000478A5: Robe of Glib Tongues
+00005527: Robe of Protection
+000C8536: Robe of the Apprentice
+000748AB: Robe of the Conjurer
+0000551C: Robe of Warding
+000229A8: Rough Leather Shoes
+00064F7A: Rugged Pants
+000352BA: Russet Felt Outfit
+0000844C: Russet Felt Shirt of Blade Turning
+000352BB: Russet Felt Shoes
+00027318: Sack Cloth Pants
+0002731A: Sack Cloth Sandals
+00027319: Sack Cloth Shirt
+00048985: Security Russet Felt Shirt
+0007B7A6: Shield Ring
+00000017: Shirt
+00064F77: Shirt with Suspenders
+00000016: Shoes
+000CBD33: Shop Keep's Shirt
+00064F7C: Short Britches
+00038030: Silver Amulet
+00038021: Silver Emerald Ring
+0003802A: Silver Necklace
+0003801F: Silver Ring
+00038014: Silver Ruby Ring
+00038020: Silver Sapphire Ring
+00048986: Sneak Blue Suede Shoes
+00098454: Sorcerer's Ring
+000CA12A: Spectre Ring
+00048987: Speechcraft Green Brocade Doublet
+00095A71: Spelldrinker Amulet
+0002C0F6: Stitched Green Shirt
+000229AC: Stitched Leather Shoes
+0009844E: Storm Ring
+0001C830: Tan Linens
+00071019: Tan Robe
+0007101A: Tan Robe Hood
+0003EAAB: Tattered Pants
+0007101D: Tattered Robe
+0007101E: Tattered Robe Hood
+0003EAAC: Tattered Shirt
+000348A5: The Deceiver's Finery
+00000BEA: Thick Cowhide Shoes
+0001ECE4: Ulfgar Family Ring
+000CA124: Veil of the Seer
+000CA123: Vest of the Bard
+00005530: Vest of Warding
+0004898F: Waterwalking Gold Trimmed Shoes
+0006BD75: Weatherward Circlet
+00022E6D: Wedding Ring
+000A498F: White Mage's Robes
+000A4990: White Mage's Shoes
+00071047: White Monk Robe
+000BE335: Wrist Irons
+#SOUL GEMS#
+00000193: Azura's Star (Reusable, always empty until filled)
+00000192: Black Soul Gem (Empty, can be filled with Grand souls)
+000382E0: Black Soul Gem (Can be filled with human souls)
+0003C7FC: Black Soul Gem (Can be filled with human souls)
+0001EC14: Black Soul Gem (Can be filled with human souls)
+000C6988: Colossal Black Soul Gem (Filled)
+00015208: Colossal Black Soul Gem (Filled)
+00015B8B: Common Soul Gem (Empty)
+000382D4: Common Soul Gem (Can be filled with souls up to Common)
+000382D5: Common Soul Gem (Can be filled with souls up to Common)
+000382D6: Common Soul Gem (Can be filled with souls up to Common)
+00015B8E: Grand Soul Gem (Empty)
+000382DB: Grand Soul Gem (Can be filled with any non-human souls)
+000382DC: Grand Soul Gem (Can be filled with any non-human souls)
+000382DD: Grand Soul Gem (Can also be filled with Common souls)
+000382DE: Grand Soul Gem (Can be filled with any non-human souls)
+000382DF: Grand Soul Gem (Can be filled with any non-human souls)
+00015B8C: Greater Soul Gem (Empty)
+000382D7: Greater Soul Gem (Can be filled with souls up to Greater)
+000382D8: Greater Soul Gem (Can also be filled with Lesser souls)
+000382D9: Greater Soul Gem (Can be filled with souls up to Greater)
+000382DA: Greater Soul Gem (Can be filled with souls up to Greater)
+00023D69: Lesser Soul Gem (Empty)
+000382D2: Lesser Soul Gem (Can also be filled with Petty souls)
+000382D3: Lesser Soul Gem (Can be filled with souls up to Lesser)
+00023D67: Petty Soul Gem (Empty)
+000382D1: Petty Soul Gem (Can only be filled with Petty souls)
+#WEAPONS#
+000CA154: Akavari Sunderblade
+000CA155: Akavari Warblade
+0009DAC5: Akaviri Dai-Katana
+00024DCA: Akaviri Katana
+000977C9: Akaviri Katana
+000387B5: Akaviri Warhammer Burden
+000E78E5: Ancient Akaviri Katana
+000CA153: Apotheosis
+0003CCFF: Axe of Hazards
+0003BF64: Axe of Icy Darkness
+00014F14: Ayleid Long Sword
+00014F15: Ayleid Mace
+0003841F: Battle Axe of Absorption
+0003539C: Battle Axe of Beguilement
+0002308B: Battle Axe of Blizzards
+000220A8: Battle Axe of Cold
+000353C2: Battle Axe of Damnation
+0003B407: Battle Axe of Decay
+0003539A: Battle Axe of Deception
+000387AE: Battle Axe of Depletion
+0003D7D3: Battle Axe of Diminishing
+0003D7CB: Battle Axe of Dispel
+0003B40A: Battle Axe of Dissolution
+0003DAE7: Battle Axe of Embers
+0003CD09: Battle Axe of Enfeeblement
+0003B402: Battle Axe of Feeding
+0003DB0C: Battle Axe of Fire
+0003DB03: Battle Axe of Flames
+000225D9: Battle Axe of Freezing
+0003DB8F: Battle Axe of Frost
+0003AB6F: Battle Axe of Jinxing
+0002C278: Battle Axe of Lightning
+0003B40C: Battle Axe of Putrification
+0003B40E: Battle Axe of Rending
+0003D7E2: Battle Axe of Sapping
+0003DAFA: Battle Axe of Scorching
+0002B8D6: Battle Axe of Shocking
+0003B3FF: Battle Axe of Siphoning
+000353CA: Battle Axe of Soul Snares
+00035397: Battle Axe of Soul Traps
+00035C27: Battle Axe of Souls
+0002B561: Battle Axe of Sparks
+0002C286: Battle Axe of Storms
+0003DB15: Battle Axe of the Blaze
+0002BFFA: Battle Axe of the Dynamo
+00022738: Battle Axe of the Glacier
+0003DB1E: Battle Axe of the Inferno
+0003B403: Battle Axe of Transmogrify
+0002BDDD: Battle Axe of Voltage
+0003AB43: Battle Axe of Weakness
+000230D9: Battle Axe of Winter
+000CA152: Battleaxe of Hatred
+0006B843: Baurus's Akaviri Katana
+000908AD: Black Bow
+0000C201: Blackwater Blade
+0003BF60: Blade of Fiery Light
+00091905: Blade of Woe
+0003CD06: Blizzard Bow
+0003CD05: Boreal
+00026276: Bound Axe
+0002627D: Bound Bow
+0002627C: Bound Dagger
+00026274: Bound Mace
+00026273: Bound Sword
+0002308D: Bow of Blizzards
+0003DAF2: Bow of Burning
+000220F6: Bow of Cold
+0003AB87: Bow of Curses
+0003AC88: Bow of Despair
+0003DAE9: Bow of Embers
+0003DB0D: Bow of Fire
+0003DB04: Bow of Flames
+000225DA: Bow of Freezing
+0003DB91: Bow of Frost
+0003AC89: Bow of Gloom
+0003AB6C: Bow of Harm
+00082DE4: Bow of Infernal Frost
+000CA156: Bow of Infliction
+0002B585: Bow of Jolts
+0002C27A: Bow of Lightning
+0003DB7B: Bow of Numbing
+0002B558: Bow of Quietus
+0003DAFB: Bow of Scorching
+0002B8D7: Bow of Shocking
+0002B559: Bow of Silence
+0002B562: Bow of Sparks
+0002C287: Bow of Storms
+0003DB16: Bow of the Blaze
+0002BFFB: Bow of the Dynamo
+00022854: Bow of the Glacier
+0003DB1F: Bow of the Inferno
+0002BEB2: Bow of Voltage
+0003AB6B: Bow of Weariness
+000230DD: Bow of Winter
+0002D72B: Broken Sword
+000091FB: Brusef Amelion's Sword
+00014953: Burden of Agnosticism
+0001494F: Burden of Anger
+00014950: Burden of Arrogance
+00014952: Burden of Flesh
+00014951: Burden of Secrecy
+00014954: Burden of Sin
+000C7610: Burz's Glass Mace
+0006AA99: Caelia's Steel Longsword
+000CB6F3: Calliben's Grim Retort
+000CA158: Captain Kordan's Saber
+0008DA4A: Ceremonial Dagger
+00068C01: Chillrend
+00023095: Claymore of Blizzards
+0003D7BB: Claymore of Brittleness
+0003DAF3: Claymore of Burning
+0002224D: Claymore of Cold
+0003AB75: Claymore of Depletion
+0003D7E8: Claymore of Depletion
+0003D7C7: Claymore of Disintegration
+0003D7CC: Claymore of Dispel
+0003DAEA: Claymore of Embers
+0003DB0E: Claymore of Fire
+0003DB05: Claymore of Flames
+0003D7BF: Claymore of Fracturing
+0003D7B8: Claymore of Fragments
+000225F6: Claymore of Freezing
+0003DB73: Claymore of Frost
+0003AB74: Claymore of Jinxing
+0002B586: Claymore of Jolts
+0002C27B: Claymore of Lightning
+0003DB7C: Claymore of Numbing
+0003D7DE: Claymore of Pain
+0003D7E3: Claymore of Sapping
+0003DAFC: Claymore of Scorching
+0003D7C3: Claymore of Shattering
+0002B8D8: Claymore of Shocking
+0002B563: Claymore of Sparks
+0002C289: Claymore of Storms
+0003DB17: Claymore of the Blaze
+0002BFFC: Claymore of the Dynamo
+00022A2B: Claymore of the Glacier
+0003DB20: Claymore of the Inferno
+0002BFF3: Claymore of Voltage
+0003D7DA: Claymore of Weariness
+000230DE: Claymore of Winter
+00159829: Club
+00026F98: Cursed Mace
+00035E77: Daedric Battle Axe
+000733DD: Daedric Bow
+00035E7C: Daedric Bow
+00035E78: Daedric Claymore
+00035E72: Daedric Dagger
+00035E76: Daedric Longsword
+00035E75: Daedric Mace
+00035E73: Daedric Shortsword
+00035E74: Daedric War Axe
+00035E79: Daedric Warhammer
+0003841A: Dagger of Absorption
+00023098: Dagger of Blizzards
+0003D7BC: Dagger of Brittleness
+0003DAF4: Dagger of Burning
+0002257F: Dagger of Cold
+0003D7E9: Dagger of Depletion
+0003D7D4: Dagger of Diminishing
+000C891F: Dagger of Discipline
+0003D7C8: Dagger of Disintegration
+0003D7CD: Dagger of Dispel
+0003DAEB: Dagger of Embers
+000389E6: Dagger of Enfeeblement
+0003DB0F: Dagger of Fire
+0003DB06: Dagger of Flames
+0003D7C0: Dagger of Fracturing
+0003D7B7: Dagger of Fragments
+000225FC: Dagger of Freezing
+0003DB74: Dagger of Frost
+0003AB6E: Dagger of Jinxing
+0002B588: Dagger of Jolts
+0002C27D: Dagger of Lightning
+0003DB7D: Dagger of Numbing
+0003BF61: Dagger of Pacification
+0003D7DF: Dagger of Pain
+0002B560: Dagger of Paralysis
+0003D7E4: Dagger of Sapping
+0003DAFD: Dagger of Scorching
+0003D7C4: Dagger of Shattering
+0002B8D9: Dagger of Shocking
+0002B564: Dagger of Sparks
+0002C28D: Dagger of Storms
+0003DB18: Dagger of the Blaze
+0002BFFD: Dagger of the Dynamo
+00022A2C: Dagger of the Glacier
+0003DB21: Dagger of the Inferno
+0002BFF4: Dagger of Voltage
+0003AB3F: Dagger of Weakness
+0003D7DB: Dagger of Weariness
+000230DF: Dagger of Winter
+0001ECE5: Dalvilu Cermonial Dagger
+0001D0B4: Debaser
+0003CB6B: Defiler
+000CA159: Destarine's Cleaver
+0003CD04: Dragon's Bow
+000872AA: Dremora Bow
+0003E9C4: Dremora Claymore
+000872AB: Dremora Heavy Bow
+000872A9: Dremora Light Bow
+0003E9C3: Dremora Longsword
+0003E9C2: Dremora Mace
+00035DCD: Dwarven Battle Axe
+00035DCE: Dwarven Bow
+000C7979: Dwarven Bow Replica
+00035DCF: Dwarven Claymore
+000C5606: Dwarven Claymore Replica
+00035DD0: Dwarven Dagger
+000732B6: Dwarven Longsword
+00035DD2: Dwarven Mace
+00035DD3: Dwarven Shortsword
+00035DD4: Dwarven War Axe
+000C5602: Dwarven War Axe Replica
+00035DD5: Dwarven Warhammer
+00035E6F: Ebony Battle Axe
+00027109: Ebony Blade
+00035E7B: Ebony Bow
+00035E70: Ebony Claymore
+00035E6A: Ebony Dagger
+000C5616: Ebony Dagger Replica
+000732DE: Ebony Longsword
+00035E6D: Ebony Mace
+000C561F: Ebony Mace Replica
+00035E6B: Ebony Shortsword
+000C798A: Ebony Shortsword Replica
+00035E6C: Ebony War Axe
+00035E71: Ebony Warhammer
+000C5604: Ebony Warhammer Replica
+00035E67: Elven Battle Axe
+000229BF: Elven Bow
+00035E68: Elven Claymore
+00035E63: Elven Dagger
+000977CD: Elven Long Sword
+000C55FF: Elven Long Sword Replica
+00035E66: Elven Mace
+00035E64: Elven Shortsword
+000C7985: Elven Shortsword Replica
+00035E65: Elven War Axe
+00035E69: Elven Warhammer
+0003FBCE: Enchanted Dagger
+00014963: Essence of Regret
+0003A85F: Fine Iron Battle Axe
+0003A860: Fine Iron Bow
+0003A861: Fine Iron Claymore
+0003A862: Fine Iron Dagger
+0003A863: Fine Iron Longsword
+0003A864: Fine Iron Mace
+0003A865: Fine Iron Shortsword
+0003A866: Fine Iron War Axe
+0003A867: Fine Iron Warhammer
+0003A856: Fine Steel Battle Axe
+0003A857: Fine Steel Bow
+0003A858: Fine Steel Claymore
+0003A859: Fine Steel Dagger
+0003A85A: Fine Steel Longsword
+0003A85B: Fine Steel Mace
+0003A85C: Fine Steel Shortsword
+0003A85D: Fine Steel War Axe
+0003A85E: Fine Steel Warhammer
+000C55E4: Frostwyrm Bow
+0003CD07: Ghost Axe
+0001494C: Gift of Flame
+0003E45B: Gladiator's Sword
+00035E60: Glass Battle Axe
+000C5608: Glass Battle Axe Replica
+000733DC: Glass Bow
+00035E61: Glass Claymore
+00035E5B: Glass Dagger
+000C7973: Glass Dagger Replica
+000732DD: Glass Longsword
+000C5601: Glass Longsword Replica
+00035E5E: Glass Mace
+00035E5C: Glass Shortsword
+000C7989: Glass Shortsword Replica
+00035E5D: Glass War Axe
+000977CB: Glass Warhammer
+00022F82: Glenroy's Akaviri Katana
+00066C45: Goblin Shaman Staff
+000AA01F: Goblin Totem Staff
+00027105: Goldbrand
+00091322: Greater Staff of Anarchy
+000912EC: Greater Staff of Apathy
+000912D4: Greater Staff of Blundering
+000912BF: Greater Staff of Burden
+000912C2: Greater Staff of Calm
+000912E3: Greater Staff of Catastrophe
+000912C8: Greater Staff of Charm
+000912F2: Greater Staff of Confusion
+000912FC: Greater Staff of Corrosion
+000912F6: Greater Staff of Demoralize
+000912FF: Greater Staff of Dispel
+000912D1: Greater Staff of Domination
+000912DA: Greater Staff of Fatigue
+000912D7: Greater Staff of Feeblemind
+00091326: Greater Staff of Fire
+00091329: Greater Staff of Fireball
+0009131F: Greater Staff of Fragility
+000912EF: Greater Staff of Frailty
+0009132C: Greater Staff of Frost
+0009132F: Greater Staff of Ice Storm
+0009131C: Greater Staff of Lethargy
+00091332: Greater Staff of Light
+000914B6: Greater Staff of Lightning
+00091335: Greater Staff of Open
+00091302: Greater Staff of Ruin
+000912E6: Greater Staff of Severing
+000912DD: Greater Staff of Sickness
+000914BC: Greater Staff of Silence
+00091338: Greater Staff of Stopping
+000914B9: Greater Staff of Storms
+00091316: Greater Staff of Sundering
+000912CE: Greater Staff of Taming
+000914BF: Greater Staff of Telekinesis
+00091310: Greater Staff of the Dazed
+00091313: Greater Staff of the Doomed
+000914C2: Greater Staff of the Grave
+00091305: Greater Staff of the Oaf
+000912E9: Greater Staff of the Pariah
+00091308: Greater Staff of the Plague
+0009130A: Greater Staff of the Weary
+000912E1: Greater Staff of Weakness
+00014D6A: Hatreds Soul
+00014960: Heat of Sinfulness
+00028BA0: Honorblade of Chorrol
+00002DDF: Hrormir's Icestaff
+0003CD01: Immolator
+00000D7F: Iron Battle Axe
+00025231: Iron Bow
+0001C6CD: Iron Claymore
+00019171: Iron Dagger
+000977D1: Iron Longsword
+00000D82: Iron Mace
+00000C0D: Iron Shortsword
+00000D81: Iron War Axe
+00019172: Iron Warhammer
+00028277: Languorwine Blade
+00091323: Lesser Staff of Anarchy
+000912ED: Lesser Staff of Apathy
+000912D2: Lesser Staff of Blundering
+000912D8: Lesser Staff of Burden
+000912C0: Lesser Staff of Calm
+000912E4: Lesser Staff of Catastrophe
+000912C6: Lesser Staff of Charm
+000912F3: Lesser Staff of Confusion
+000912FA: Lesser Staff of Corrosion
+000912F4: Lesser Staff of Demoralize
+000912FD: Lesser Staff of Dispel
+000912CF: Lesser Staff of Domination
+000912DB: Lesser Staff of Fatigue
+000912E0: Lesser Staff of Feeblemind
+00091324: Lesser Staff of Fire
+00091327: Lesser Staff of Fireball
+00091320: Lesser Staff of Fragility
+000912F0: Lesser Staff of Frailty
+0009132A: Lesser Staff of Frost
+0009132D: Lesser Staff of Ice Storm
+0009131D: Lesser Staff of Lethargy
+00091330: Lesser Staff of Light
+000914CA: Lesser Staff of Lightning
+00091334: Lesser Staff of Open
+00091300: Lesser Staff of Ruin
+000912E7: Lesser Staff of Severing
+000912DE: Lesser Staff of Sickness
+000914BA: Lesser Staff of Silence
+00091336: Lesser Staff of Stopping
+000914B7: Lesser Staff of Storms
+00091317: Lesser Staff of Sundering
+000912CC: Lesser Staff of Taming
+000914BD: Lesser Staff of Telekinesis
+00091311: Lesser Staff of the Dazed
+00091314: Lesser Staff of the Doomed
+000914C0: Lesser Staff of the Grave
+00091303: Lesser Staff of the Oaf
+000912EA: Lesser Staff of the Pariah
+00091306: Lesser Staff of the Plague
+00091309: Lesser Staff of the Weary
+000912D5: Lesser Staff of Weakness
+0003D7BD: Long Sword of Brittleness
+0003D7EA: Long Sword of Depletion
+0003DB07: Long Sword of Flames
+0002263D: Long Sword of Freezing
+0002BFF5: Long Sword of Voltage
+0003841D: Longsword of Absorption
+000230A6: Longsword of Blizzards
+0003DAF5: Longsword of Burning
+00022580: Longsword of Cold
+000387AC: Longsword of Depletion
+0003D7D5: Longsword of Diminishing
+0003D7C9: Longsword of Disintegration
+0003D7CE: Longsword of Dispel
+0003DAEC: Longsword of Embers
+000389E8: Longsword of Enfeeblement
+0003DB10: Longsword of Fire
+0003D7C1: Longsword of Fracturing
+0003D7B9: Longsword of Fragments
+000B0705: Longsword of Frost
+0003AB70: Longsword of Jinxing
+0002B589: Longsword of Jolts
+0002C27E: Longsword of Lightning
+0003DB7E: Longsword of Numbing
+0003D7E0: Longsword of Pain
+0003D7E5: Longsword of Sapping
+0003DAFE: Longsword of Scorching
+0003D7C5: Longsword of Shattering
+0002B8DD: Longsword of Shocking
+0002B565: Longsword of Sparks
+0002C28F: Longsword of Storms
+0003DB19: Longsword of the Blaze
+0002C00C: Longsword of the Dynamo
+00022A2E: Longsword of the Glacier
+0003DB22: Longsword of the Inferno
+0003AB41: Longsword of Weakness
+0003D7DC: Longsword of Weariness
+000230E0: Longsword of Winter
+000359E7: Mace of Abeyance
+0003841C: Mace of Absorption
+000353D1: Mace of Aversion
+000230AB: Mace of Blizzards
+000387B6: Mace of Burden
+0003DAF6: Mace of Burning
+0002258C: Mace of Cold
+000387BE: Mace of Deadweight
+0003AF07: Mace of Decay
+000387AD: Mace of Depletion
+0003D7D6: Mace of Diminishing
+0003D7CF: Mace of Dispel
+0003AF08: Mace of Dissolution
+0003DAED: Mace of Embers
+000387BA: Mace of Encumbrance
+000389E9: Mace of Enfeeblement
+000387BC: Mace of Excess
+000387A8: Mace of Feeding
+0003DB11: Mace of Fire
+0003DB08: Mace of Flames
+0003AF0A: Mace of Fracturing
+00022642: Mace of Freezing
+0003DB76: Mace of Frost
+00035A64: Mace of Holy Light
+0003AB73: Mace of Jinxing
+0002B58A: Mace of Jolts
+0003BF65: Mace of Legion
+0002C280: Mace of Lightning
+00027117: Mace of Molag Bal
+0003DB7F: Mace of Numbing
+000387B7: Mace of Overload
+0003AF0D: Mace of Putrification
+0003AF0E: Mace of Rending
+000353CC: Mace of Repelling
+0003D7E6: Mace of Sapping
+0003DAFF: Mace of Scorching
+0002BAAA: Mace of Shocking
+000387A7: Mace of Siphoning
+0002B566: Mace of Sparks
+0002C290: Mace of Storms
+000387B4: Mace of Strain
+0003DB1A: Mace of the Blaze
+0002C00D: Mace of the Dynamo
+00022A2F: Mace of the Glacier
+0003DB23: Mace of the Inferno
+00035AB3: Mace of the Undead
+0003B404: Mace of Transmogrify
+000353D4: Mace of Turning
+0002BFF6: Mace of Voltage
+000353D0: Mace of Warding
+0003AB40: Mace of Weakness
+000387B1: Mace of Weight
+000230E1: Mace of Winter
+0003E45D: Mage's Mace
+0002C6A8: Mages Staff
+0001FE11: Mage's Staff of Charm
+0001FE16: Mage's Staff of Dispel
+000E9448: Mage's Staff of Fire
+000E944C: Mage's Staff of Frost
+0001FE12: Mage's Staff of Paralysis
+0001FE10: Mage's Staff of Shock
+0001FE13: Mage's Staff of Silence
+0001FE14: Mage's Staff of Soul Trap
+0001FE15: Mage's Staff of Telekinesis
+000BE322: Mankar Camoran's Staff
+00187BC7: Mishaxhi's Cleaver
+0003E45E: Naked Axe
+0001493D: Nearness of Evil
+00187BC4: Northwind
+00014962: Oblivion's Caress
+000149E2: Oblivion's Embrace
+00014966: Penance of Animosity
+0001496A: Penance of Deception
+0001496B: Penance of Faithlessness
+00014967: Penance of Hatred
+00014968: Penance of Larceny
+00014969: Penance of Pride
+00082DE3: Perdition's Wrath
+0003BF66: Pounder
+00014961: Purging Flame
+0003DAF1: Quality Battle Axe Ember
+0003DB7A: Quality Battle Axe Shiver
+00035385: Quality Battle Axe Soul Trap
+0002B573: Quality Battle Axe Spark
+000149E5: Quintessence of Remorse
+00095A3F: Redwave
+00066C44: Renault's Akaviri Katana
+000149ED: Retaliation of Blood
+000149EF: Retaliation of Spirit
+000149E7: Retribution of Aggression
+000149E6: Retribution of Cowardness
+000149E9: Retribution of Hubris
+000149EA: Retribution of Hypocrisy
+000149E8: Retribution of Rapacity
+000149EC: Retribution of Treachery
+0001494E: Revealer of Iniquity
+00014EC6: Rockshatter
+0001C14B: Rohssan's Antique Cutlass
+0000BEA6: Rugdumph's Sword
+000980DF: Ruined Akaviri Katana
+0001FB1C: Ruma's Staff
+00047ACA: Rusty Iron Bow
+00090616: Rusty Iron Dagger
+00090614: Rusty Iron Mace
+00090615: Rusty Iron Shortsword
+00090613: Rusty Iron War Axe
+000228EF: Sanguine Rose
+00034897: Shadowhunt
+000055AB: Sharpened Cutlass
+0002990E: Shimmerstrike
+0003841E: Shortsword of Absorption
+000230AC: Shortsword of Blizzards
+0003D7BE: Shortsword of Brittleness
+0003DAF7: Shortsword of Burning
+0002259C: Shortsword of Cold
+000387AB: Shortsword of Depletion
+0003D7EB: Shortsword of Depletion
+0003D7D7: Shortsword of Diminishing
+0003D7CA: Shortsword of Disintegration
+0003D7D0: Shortsword of Dispel
+0003DAEE: Shortsword of Embers
+000389E7: Shortsword of Enfeeblement
+0003DB12: Shortsword of Fire
+0003DB09: Shortsword of Flames
+0003D7C2: Shortsword of Fracturing
+0003D7BA: Shortsword of Fragments
+00022643: Shortsword of Freezing
+0003DB77: Shortsword of Frost
+0003AB71: Shortsword of Jinxing
+0002D72E: Shortsword of Jolts
+0002C281: Shortsword of Lightning
+0003DB80: Shortsword of Numbing
+0003D7E1: Shortsword of Pain
+0002B55F: Shortsword of Paralysis
+0003D7E7: Shortsword of Sapping
+0003DB00: Shortsword of Scorching
+0003D7C6: Shortsword of Shattering
+0002BB17: Shortsword of Shocking
+0002B567: Shortsword of Sparks
+0002C292: Shortsword of Storms
+0003DB1B: Shortsword of the Blaze
+0002C00E: Shortsword of the Dynamo
+0003CB6A: Shortsword of the Fang
+00022EBD: Shortsword of the Glacier
+0003DB24: Shortsword of the Inferno
+0002BFF7: Shortsword of Voltage
+0003AB42: Shortsword of Weakness
+0003D7DD: Shortsword of Weariness
+000230E2: Shortsword of Winter
+00025221: Silver BattleAxe
+00025227: Silver Bow
+00025226: Silver Claymore
+00025224: Silver Dagger
+0002521F: Silver Longsword
+00025223: Silver Mace
+00025220: Silver Shortsword
+00025222: Silver War Axe
+00025225: Silver Warhammer
+0000172E: Sinweaver
+00027116: Skull of Corruption
+00027112: Spellbreaker
+00091321: Staff of Anarchy
+000912EB: Staff of Apathy
+000914D2: Staff of Banishment
+000912D3: Staff of Blundering
+000912BE: Staff of Burden
+000912C1: Staff of Calm
+000912E2: Staff of Catastrophe
+000912C7: Staff of Charm
+000914C5: Staff of Conflagration
+000912F1: Staff of Confusion
+000912FB: Staff of Corrosion
+000912F5: Staff of Demoralize
+000914C4: Staff of Diminishing
+000914CD: Staff of Discord
+000912FE: Staff of Dispel
+000912D0: Staff of Domination
+000912D9: Staff of Fatigue
+000912DF: Staff of Feeblemind
+00091325: Staff of Fire
+00091328: Staff of Fireball
+0001CECC: Staff of Flame
+0009131E: Staff of Fragility
+000912EE: Staff of Frailty
+0009132B: Staff of Frost
+000914C6: Staff of Hoarfrost
+0009132E: Staff of Ice Storm
+0006B66D: Staff of Indarys
+000914CC: Staff of Legion
+0009131B: Staff of Lethargy
+00091331: Staff of Light
+000914B5: Staff of Lightning
+00058EEC: Staff of Nenalata
+00091333: Staff of Open
+000914C9: Staff of Pacification
+00091337: Staff of Paralyzing Burst
+00091301: Staff of Ruin
+000912E5: Staff of Severing
+000912DC: Staff of Sickness
+000914BB: Staff of Silence
+000914B8: Staff of Storms
+000914CB: Staff of Submission
+00091315: Staff of Sundering
+000912CD: Staff of Taming
+000914BE: Staff of Telekinesis
+000493BD: Staff of the Battlemage
+0009130F: Staff of the Dazed
+00091312: Staff of the Doomed
+0004F790: Staff of the Everscamp
+000914C1: Staff of the Grave
+000914D1: Staff of the Healer
+000914D0: Staff of the Mundane
+00091304: Staff of the Oaf
+000912E8: Staff of the Pariah
+00091307: Staff of the Plague
+0009130B: Staff of the Weary
+000914C7: Staff of Thunderbolts
+00056E50: Staff of Unholy Terror
+000914CF: Staff of Vulnerability
+000912D6: Staff of Weakness
+000914C3: Staff of Withering
+0004A24E: Staff of Worms
+000229B6: Steel Battle Axe
+000229B7: Steel Bow
+000229B8: Steel Claymore
+0003AA82: Steel Cutlass
+000229B9: Steel Dagger
+000229BA: Steel Longsword
+000229BB: Steel Mace
+00047ABF: Steel Shortsword
+000229BD: Steel War Axe
+000229BE: Steel Warhammer
+0003CD08: Storm Bow
+000347EB: Sufferthorn
+000347F1: Sufferthorn
+0003BF63: Sword of Submission
+0003CD02: Sword of Wounding
+0003CCFE: Tempest
+0003E45C: Thieve's Dagger
+0006B661: Thornblade
+000CA157: Truncheon of Submission
+00026B22: Umbra
+000355A6: Unfinished Staff
+00027108: Volendrung
+0003BF62: Voltag
+000228F0: Wabbajack
+00038420: War Axe of Absorption
+0004F036: War Axe of Beguilement
+000230AD: War Axe of Blizzards
+0003DAF8: War Axe of Burning
+000225B4: War Axe of Cold
+000353C5: War Axe of Damnation
+0003B408: War Axe of Decay
+0003539B: War Axe of Deception
+000387AF: War Axe of Depletion
+0003D7D8: War Axe of Diminishing
+0003D7D1: War Axe of Dispel
+0003B409: War Axe of Dissolution
+0003DAEF: War Axe of Embers
+000389EB: War Axe of Enfeeblement
+0003B401: War Axe of Feeding
+0003DB13: War Axe of Fire
+0003DB0A: War Axe of Flames
+0003B40B: War Axe of Fracturing
+00022647: War Axe of Freezing
+0003DB78: War Axe of Frost
+0003AB72: War Axe of Jinxing
+0002B58B: War Axe of Jolts
+0002C283: War Axe of Lightning
+0003DB81: War Axe of Numbing
+0003B40D: War Axe of Putrification
+0003B40F: War Axe of Rending
+0004F038: War Axe of Sapping
+0003DB01: War Axe of Scorching
+00035396: War Axe of Seduction
+0002BD0F: War Axe of Shocking
+0003B400: War Axe of Siphoning
+000353CB: War Axe of Soul Snares
+00035398: War Axe of Soul Traps
+0003537A: War Axe of Souls
+0002B571: War Axe of Sparks
+0002C296: War Axe of Storms
+0003DB1C: War Axe of the Blaze
+0002C020: War Axe of the Dynamo
+00023003: War Axe of the Glacier
+0003DB25: War Axe of the Inferno
+0003B405: War Axe of Transmogrify
+0002BFF8: War Axe of Voltage
+0003AB44: War Axe of Weakness
+000230E3: War Axe of Winter
+00035A24: Warhammer of Abeyance
+0003841B: Warhammer of Absorption
+000353D2: Warhammer of Aversion
+000230D3: Warhammer of Blizzards
+0003DAF9: Warhammer of Burning
+000225D8: Warhammer of Cold
+000387BD: Warhammer of Deadweight
+0003AF06: Warhammer of Decay
+000387B0: Warhammer of Depletion
+0003D7D9: Warhammer of Diminishing
+0003D7D2: Warhammer of Dispel
+0003AF09: Warhammer of Dissolution
+0003DAF0: Warhammer of Embers
+000387B9: Warhammer of Encumbrance
+000389EA: Warhammer of Enfeeblement
+000387BB: Warhammer of Excess
+000387A9: Warhammer of Feeding
+0003DB14: Warhammer of Fire
+0003DB0B: Warhammer of Flames
+0003AF0B: Warhammer of Fracturing
+00022650: Warhammer of Freezing
+0003DB79: Warhammer of Frost
+00035AAE: Warhammer of Holy Light
+0003AB6D: Warhammer of Jinxing
+0002B58C: Warhammer of Jolts
+0002C284: Warhammer of Lightning
+0003DB82: Warhammer of Numbing
+000387B8: Warhammer of Overload
+0003AF0C: Warhammer of Putrification
+0003AF0F: Warhammer of Rending
+0004F03A: Warhammer of Sapping
+0003DB02: Warhammer of Scorching
+0002BD6B: Warhammer of Shocking
+000387A6: Warhammer of Siphoning
+0002B572: Warhammer of Sparks
+0002C298: Warhammer of Storms
+000387B3: Warhammer of Strain
+0003DB1D: Warhammer of the Blaze
+0002C025: Warhammer of the Dynamo
+00023087: Warhammer of the Glacier
+000353CE: Warhammer of the Grave
+0003DB26: Warhammer of the Inferno
+00035AB6: Warhammer of the Undead
+0003B406: Warhammer of Transmogrify
+00035644: Warhammer of Turning
+0002BFF9: Warhammer of Voltage
+000353CF: Warhammer of Warding
+0003AB3E: Warhammer of Weakness
+000387B2: Warhammer of Weight
+000230E4: Warhammer of Winter
+0001494D: Weight of Guilt
+0006B1C4: Witsplinter

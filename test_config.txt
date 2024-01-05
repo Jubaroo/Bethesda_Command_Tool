@@ -1,0 +1,5 @@
+theme=fallout
+game=Fallout 4
+window_size=768x1900
+window_position=+1536+380
+monitor=1

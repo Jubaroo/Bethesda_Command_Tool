@@ -1,0 +1,416 @@
+#SOUL GEMS#
+0002E4E2: Petty Soul Gem (Empty)
+0002E4E4: Lesser Soul Gem (Empty)
+0002E4E6: Common Soul Gem (Empty)
+0002E4F4: Greater Soul Gem (Empty)
+0002E4FC: Grand Soul Gem (Empty)
+0002E500: Black Soul Gem (Empty)
+00043E26: Wylandriah's Soul Gem (Empty)
+00063B27: Azura's Star (Empty)
+00063B29: The Black Star (Empty)
+00094E40: Treated Soul Gem (Empty)
+0002E4E3: Petty Soul Gem (Full)
+0002E4E5: Lesser Soul Gem (Full)
+0002E4F3: Common Soul Gem (Full)
+0002E4FB: Greater Soul Gem (Full)
+0002E4FF: Grand Soul Gem (Full)
+0002E504: Black Soul Gem (Full)
+
+#POTIONS#
+000AE723: Potion of Cure Disease
+00065A64: Potion of Cure Poison
+0003EADD: Potion of Minor Healing
+0003EADE: Potion of Healing
+0003EADF: Potion of Plentiful Healing
+0003EAE3: Potion of Vigorous Healing
+00039BE4: Potion of Extreme Healing
+00039BE5: Potion of Ultimate Healing
+0003EB36: Potion of Alteration
+0003988E: Draught of Alteration
+00039899: Philter of Alteration
+0003989A: Elixir of Alteration
+0003EB35: Potion of Haggling
+00039970: Draught of Haggling
+00039971: Philter of Haggling
+00039973: Elixir of Haggling
+0003EB32: Potion of the Defender
+0003989B: Draught of the Defender
+000398AB: Philter of the Defender
+000398AC: Elixir of the Defender
+0003EB02: Potion of Strength
+0003EB05: Draught of Strength
+0003EB03: Solution of Strength
+0003EB04: Philter of Strength
+000FF9FE: Elixir of Strength
+0003EB37: Conjurer's Potion
+000398AD: Conjurer's Draught
+000398EC: Conjurer's Philter
+000398ED: Conjurer's Elixir
+0003EB38: Potion of Destruction
+000398EE: Draught of Destruction
+000398F1: Philter of Destruction
+000398F3: Elixir of Destruction
+00039CFB: Enchanter's Potion
+00039D02: Enchanter's Draught
+00039D0A: Enchanter's Philter
+00039D12: Enchanter's Elixir
+0003EAF2: Potion of Health
+0003EAF4: Draught of Health
+0003EAF6: Solution of Health
+0003EAF5: Philter of Health
+000FF9FC: Elixir of Health
+0003EB2F: Potion of the Knight
+000398F4: Draught of the Knight
+000398F5: Philter of the Knight
+000398F6: Elixir of the Knight
+0003EB39: Potion of Illusion
+0003994F: Draught of Illusion
+00039950: Philter of Illusion
+00039951: Elixir of Illusion
+0003EB30: Skirmisher's Potion
+000398FD: Skirmisher's Draught
+00039903: Skirmisher's Philter
+00039904: Skirmisher's Elixir
+00039930: Potion of Lockpicking
+00039945: Draught of Lockpicking
+00039946: Philter of Lockpicking
+00039948: Elixir of Lockpicking
+0003EAF7: Potion of Extra Magicka
+0003EAFA: Draught of Extra Magicka
+0003EAFB: Solution of Extra Magicka
+0003EAFC: Philter of Extra Magicka
+000FF9FD: Elixir of Extra Magicka
+0003EB2C: Potion of True Shot
+00039949: Draught of True Shot
+0003994B: Philter of True Shot
+0003994E: Elixir of True Shot
+0003EB2A: Potion of the Warrior
+00039954: Draught of the Warrior
+00039955: Philter of the Warrior
+00039956: Elixir of the Warrior
+0003EB31: Potion of Pickpocketing
+00039957: Draught of Pickpocketing
+00039959: Philter of Pickpocketing
+00039958: Elixir of Pickpocketing
+0003EB3A: Potion of the Healer
+0003995A: Draught of the Healer
+0003995B: Philter of the Healer
+0003995C: Elixir of the Healer
+0003EB2E: Blacksmith's Potion
+0003995D: Blacksmith's Draught
+00039962: Blacksmith's Philter
+00039967: Blacksmith's Elixir
+0003EB33: Potion of Light Feet
+00039968: Draught of Light Feet
+00039969: Philter of Light Feet
+0003996F: Elixir of Light Feet
+000D6948: Potion of Glibness
+000D6949: Draught of Glibness
+000D697F: Philter of Glibness
+000D6980: Elixir of Glibness
+0003EAFD: Potion of Enhanced Stamina
+0003EB00: Draught of Enhanced Stamina
+0003EAFE: Solution of Enhanced Stamina
+0003EAFF: Philter of Enhanced Stamina
+000FFA01: Elixir of Enhanced Stamina
+0003EB2B: Potion of the Berserker
+00039974: Draught of the Berserker
+00039980: Philter of the Berserker
+00039AA6: Elixir of the Berserker
+0003EB3E: Potion of Brief Invisibility
+0003EB40: Potion of Extended Invisibility
+0003EB3F: Potion of Enduring Invisibility
+0003EB41: Potion of Prolonged Invisibility
+0003EB09: Potion of Regeneration
+0003EB0A: Draught of Regeneration
+0003EB0B: Solution of Regeneration
+0003EB0C: Philter of Regeneration
+000FF9FF: Elixir of Regeneration
+0003EB0D: Potion of Lasting Potency
+0003EB0E: Draught of Lasting Potency
+0003EB0F: Solution of Lasting Potency
+0003EB10: Philter of Lasting Potency
+000FFA00: Elixir of Lasting Potency
+0003EB11: Potion of Vigor
+0003EB12: Draught of Vigor
+00039B0C: Solution of Vigor
+0003EB14: Philter of Vigor
+000FFA02: Elixir of Vigor
+00039B4A: Potion of Resist Fire
+0003EAE9: Draught of Resist Fire
+00039B4B: Philter of Resist Fire
+0003EAEF: Elixir of Resist Fire
+00039B8A: Potion of Resist Cold
+0003EAED: Draught of Resist Cold
+00039BDF: Philter of Resist Cold
+0003EAF0: Elixir of Resist Cold
+00039E52: Potion of Resist Magic
+00039E53: Draught of Resist Magic
+00039E54: Philter of Resist Magic
+00039BE1: Potion of Resist Shock
+0003EAEE: Draught of Resist Shock
+00039BE3: Philter of Resist Shock
+0003EAF1: Elixir of Resist Shock
+0003EAE0: Potion of Minor Magicka
+0003EAE1: Potion of Magicka
+0003EAE2: Potion of Plentiful Magicka
+0003EAE4: Potion of Vigorous Magicka
+00039BE6: Potion of Extreme Magicka
+00039BE7: Potion of Ultimate Magicka
+0003EAE5: Potion of Minor Stamina
+00039BE8: Potion of Stamina
+0003EAE7: Potion of Plentiful Stamina
+0003EAE8: Potion of Vigorous Stamina
+0003EAE6: Potion of Extreme Stamina
+00039CF3: Potion of Ultimate Stamina
+0003AC2E: Potion of Waterbreathing
+0003AC2F: Draught of Waterbreathing
+0003AC30: Philter of Waterbreathing
+0003AC31: Elixir of Waterbreathing
+XX0390E0: Potion of Waterwalking
+XX01AADD: Potion of Minor Well-being
+XX01AADE: Potion of Well-being
+XX01AADF: Potion of Plentiful Well-being
+XX01AAE0: Potion of Vigorous Well-being
+XX01AAE1: Potion of Extreme Well-being
+XX01AAE2: Potion of Ultimate Well-being
+000F84C1: Potion of Plunder
+000F84C2: Draught of Plunder
+000F84C3: Philter of Plunder
+000F84C4: Elixir of Plunder
+000F84C5: Grand Elixir of Plunder
+000F84C6: Prime Elixir of Plunder
+000F84B5: Potion of Conflict
+000F84B6: Draught of Conflict
+000F84B7: Philter of Conflict
+000F84B8: Elixir of Conflict
+000F84B9: Grand Elixir of Conflict
+000F84BA: Prime Elixir of Conflict
+000F84A7: Potion of Larceny
+000F84A8: Draught of Larceny
+000F84A9: Philter of Larceny
+000F84AA: Elixir of Larceny
+000F84AB: Grand Elixir of Larceny
+000F84AC: Prime Elixir of Larceny
+000F84BB: Potion of Keenshot
+000F84BC: Draught of Keenshot
+000F84BD: Philter of Keenshot
+000F84BE: Elixir of Keenshot
+000F84BF: Grand Elixir of Keenshot
+000F84C0: Prime Elixir of Keenshot
+000F84AE: Potion of Escape
+000F84AF: Draught of Escape
+000F84B0: Philter of Escape
+000F84B1: Elixir of Escape
+000F84B2: Grand Elixir of Escape
+000F84B3: Prime Elixir of Escape
+000E6DF5: Esbern's Potion
+00076F17: Falmer Blood Elixir
+000F9642: Ice Wraith Essence
+000663E1: Philter of the Phantom
+XX018EF3: Potion of Blood DG
+XX015A1E: Soul Husk Extract DG
+0005F6DF: Vaermina's Torpor
+0002C25A: White Phial
+
+#INGREDIENTS#
+00106E1B: Abecean Longfin
+0006BC02: Bear Claws
+000A9195: Bee
+000A9191: Beehive Husk
+000705B7: Berit's Ashes
+0004DA20: Bleeding Crown
+0004DA25: Blisterwort
+000727DE: Blue Butterfly Wing
+000E4F0C: Blue Dartwing
+00077E1C: Blue Mountain Flower
+00034CDD: Bone Meal
+0003AD61: Briar Heart
+000727E0: Butterfly Wing
+0006ABCB: Canis Root
+00052695: Charred Skeever Hide
+0003AD56: Chaurus Eggs
+00023D77: Chicken's Egg
+000B2183: Creep Cluster
+000B701A: Crimson Nirnroot
+00106E19: Cyrodilic Spadetail
+0003AD5B: Daedra Heart
+000516C8: Deathbell
+000889A2: Dragons Tongue
+000F11C0: Dwarven Oil
+0003AD63: Ectoplasm
+00034D31: Elves Ear
+0006BC07: Eye of Sabre Cat
+0003AD5D: Falmer Ear
+0003AD5E: Fire Salts
+0004DA00: Fly Amanita
+00034D32: Frost Mirriam
+0003AD5F: Frost Salts
+00034D22: Garlic
+0007E8C1: Giant Lichen
+0003AD64: Giant's Toe
+0003AD73: Glow Dust
+0007EE01: Glowing Mushroom
+00083E64: Grass Pod
+0006B689: Hagraven Claw
+0003AD66: Hagraven Feathers
+00057F91: Hanging Moss
+000E7EBC: Hawk Beak
+000E7ED0: Hawk Feathers
+00106E18: Histcarp
+000B08C5: Honeycomb
+001016B3: Human Flesh
+000B18CD: Human Heart
+0003AD6A: Ice Wraith Teeth
+0004DA23: Imp Stool
+0001BCBC: Jarrin Root
+0006AC4A: Jazbay Grapes
+0005076E: Juniper Berries
+0006BC0A: Large Antlers
+00045C28: Lavender
+000727DF: Luna Moth Wing
+000D8E3F: Moon Sugar
+000EC870: Mora Tapinella
+0006BC00: Mudcrab Chitin
+0004DA24: Namira's Rot
+0002F44C: Nightshade
+00059B86: Nirnroot
+0007EDF5: Nordic Barnacle
+000BB956: Orange Dartwing
+000854FE: Pearl
+00023D6F: Pine Thrush Egg
+0006BC10: Powdered Mammoth Tusk
+00077E1E: Purple Mountain Flower
+00077E1D: Red Mountain Flower
+00106E1A: River Betty
+0007E8C8: Rock Warbler Egg
+0006BC04: Sabre Cat Tooth
+00034CDF: Salt Pile
+0006F950: Scaly Pholiota
+00106E1C: Silverside Perch
+0003AD6F: Skeever Tail
+0007E8C5: Slaughterfish Egg
+0003AD70: Slaughterfish Scales
+0006BC0B: Small Antlers
+00085500: Small Pearl
+0001B3BD: Snowberries
+0009151B: Spider Egg
+00063B5F: Spriggan Sap
+0007E8B7: Swamp Fungal Pod
+0003AD71: Taproot
+000134AA: Thistle Branch
+0004DA73: Torchbug Thorax
+0003AD72: Troll Fat
+0003F7F8: Tundra Cotton
+0003AD76: Vampire Dust
+0003AD60: Void Salts
+0004B0BA: Wheat
+0004DA22: White Cap
+0006BC0E: Wisp Wrappings
+
+#INGOTS & ORE#
+0003ADA4: Dragon Bone
+0003ADA3: Dragon Scales
+0005AD93: Corundum Ingot
+000DB8A2: Dwarven Metal Ingot
+0005AD9D: Ebony Ingot
+0005AD9E: Gold Ingot
+0005ACE4: Iron Ingot
+0005AD99: Orichalcum Ingot
+0005ADA0: Quicksilver Ingot
+0005ADA1: Refined Malachite
+0005AD9F: Refined Moonstone
+0005ACE3: Silver Ingot
+0005ACE5: Steel Ingot
+0005ACDB: Corundum Ore
+0005ACDC: Ebony Ore
+0005ACDE: Gold Ore
+00071CF3: Iron Ore
+0005ACE1: Malachite Ore
+0005ACE0: Moonstone Ore
+0005ACDD: Orichalcum Ore
+0005ACE2: Quicksilver Ore
+0005ACDF: Silver Ore
+
+#FOOD#
+000EBA01: Apple Cabbage Stew
+00064B43: Apple Pie
+00064B3A: Baked Potatoes
+000F4314: Beef Stew
+00064B30: Boiled Creme Treat
+00065C97: Bread
+00064B3F: Cabbage
+000F431B: Cabbage Potato Soup
+000EBA02: Cabbage Soup
+00064B40: Carrot
+000E8448: Charred Skeever Meat
+000F2011: Chicken Breast
+000EBA03: Clam Meat
+000721E8: Cooked Beef
+000EDB2E: Dog Meat
+00064B32: Eidar Cheese Wedge
+00064B34: Eidar Cheese Wheel
+000F4320: Elsweyr Fondue
+00064B31: Goat Cheese Wedge
+00064B33: Goat Cheese Wheel
+0010D666: Gourd
+00064B2F: Green Apple
+000E8947: Grilled Chicken Breast
+00064B3E: Grilled Leeks
+000CD614: Homecooked Meal
+0010394D: Honey
+00064B38: Honey Nut Treat
+0007224E: Horker Loaf
+00065C9B: Horker Meat
+000F4315: Horker Stew
+000722B0: Horse Haunch
+00065C9C: Horse Meat
+000669A5: Leek
+00065C9A: Leg of Goat
+0007224C: Leg of Goat Roast
+00064B39: Long Taffy Treat
+000669A3: Mammoth Cheese Bowl
+000669A4: Mammoth Snout
+000722BB: Mammoth Steak
+00065C9D: Pheasant Breast
+000722C7: Pheasant Roast
+00064B41: Potato
+000722C2: Rabbit Haunch
+00065C99: Raw Beef
+00065C9E: Raw Rabbit Leg
+00064B2E: Red Apple
+00065C9F: Salmon Meat
+00064B3B: Salmon Steak
+00064B3C: Seared Slaughterfish
+00064B35: Sliced Goat Cheese
+000CADFB: Spiced Beef
+00064B3D: Sweetroll
+00064B42: Tomato
+000F431C: Tomato Soup
+000F431E: Vegetable Soup
+000669A2: Venison
+000722BD: Venison Chop
+000F431D: Venison Stew
+
+#MISC#
+0004F006: Arm Bandages
+00033760: Charcoal
+000AEBF1: Dwemer Cog
+0006F993: Firewood
+00060797: Generic Saddle
+0003AD68: Horker Tusk
+00040975: Imperial Saddle
+000318EC: Lantern
+00034CD6: Linen Wrap
+0000000A: Lockpick
+0003AD6C: Mammoth Tusk
+000E3C16: Pickaxe
+00033761: Roll of Paper
+0006BC04: Sabre Cat Tooth
+000AF5FD: Skull
+0001D4EC: Torch
+000319E4: Troll Skull
+0002F2F4: Woodcutter's Axe
+
+#GOLD#
+0000000F: Gold
