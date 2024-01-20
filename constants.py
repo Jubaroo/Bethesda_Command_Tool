@@ -1,4 +1,5 @@
 # constants.py
+import os
 
 SOUL_GEM_TYPES = {
     "Petty": "Misc_SoulGem_Petty",
@@ -24,3 +25,7 @@ DEFAULT_THEME = "dark"
 DEFAULT_GAME = "Fallout 3"
 DEFAULT_WINDOW_SIZE = "768x1400"
 DEFAULT_WINDOW_POSITION = "+100+100"
+CONFIG_PATH = 'utilities/config.txt'
+GAME_IDS_PATH = 'game_ids/default_item_ids.txt'
+SOUL_GEM_CREATURES_PATH = 'game_ids/soul_gem_creatures.txt'
+ABSOLUTE_PATH = os.path.abspath(CONFIG_PATH)

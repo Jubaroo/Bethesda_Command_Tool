@@ -5,8 +5,8 @@ from tkinter import ttk, messagebox, font
 
 import pyperclip
 
-import keybind_handler
 import constants
+import keybind_handler
 import ui_components
 import utilities
 from color_schemes import color_schemes
@@ -16,10 +16,11 @@ from utilities import save_settings
 
 # TODO Fix dropdown menu text changing to white after changing category
 # TODO make items and such searchable by ID instead of name (as an option)
+# TODO Make the search function auto correct based on the closest match to the written text
+# TODO if two items have the same name but different IDs, it will only give the ID of the first entry
 
-
-SHIP_MESSAGE_SHOWN = False
 selected_game = "None"
+global settings
 
 
 # Function to update the item list when the game changes
@@ -62,13 +63,13 @@ def on_game_change(event=None):
         center_listbox_contents()
     ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
                                       add_item_radiobutton, place_item_radiobutton)
-    settings1 = {
+    settings = {
         "theme": current_scheme,
         "game": game_var.get(),
         "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
         "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
     }
-    save_settings(settings1)
+    save_settings(settings, current_scheme, game_var, root)
 
 
 def search_item(*args):
@@ -154,7 +155,7 @@ def copy_item_ids():
         else:
             # Handle item selection
             item_id = next((id for id, desc in bethesda_items.items() if desc.strip().lower() == selected_text), None)
-            print(f"Item ID: {item_id}")  # Debug print
+            print(f"Item ID: {item_id}")
             if item_id and quantity_var.get().isdigit():
                 quantity = int(quantity_var.get())
                 chosen_game = game_var.get()
@@ -219,8 +220,10 @@ def center_listbox_contents(event=None):
 def update_list_for_category(event=None):
     global is_creature_list
     selected_category = category_var.get()
+
+    # Populate the listbox with items from the selected category
     ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,
-                                              creature_names, center_listbox_contents, category="ALL")
+                                              creature_names, center_listbox_contents, category=selected_category)
 
     if selected_category == "ALL":
         # Count all entries across all categories and subcategories
@@ -259,6 +262,9 @@ def update_list_for_category(event=None):
 
     # Apply combobox style updates here
     combostyle = ttk.Style()
+    ui_components.configure_combobox_style(current_scheme, color_schemes,
+                                           add_item_radiobutton, place_item_radiobutton)
+
     combostyle.configure('TCombobox',
                          fieldbackground=color_schemes[current_scheme]['combobox']['fieldbackground'],
                          background=color_schemes[current_scheme]['combobox']['background'],
@@ -268,14 +274,24 @@ def update_list_for_category(event=None):
     # Update dropdown colors directly (for when the dropdown is open)
     root.option_add("*TCombobox*Listbox*Background", color_schemes[current_scheme]['combobox']['fieldbackground'])
     root.option_add("*TCombobox*Listbox*Foreground", color_schemes[current_scheme]['combobox']['foreground'])
+    # Print current style properties
+    current_style = combostyle.lookup('TCombobox', 'foreground')
+    print("Current Combobox Foreground Style:", current_style)
+    # Reapply the combobox style
+    ui_components.configure_combobox_style(current_scheme, color_schemes, add_item_radiobutton, place_item_radiobutton)
 
 
-# Before the root.mainloop() call
 def on_close():
     x = root.winfo_x()
     y = root.winfo_y()
     print(f"Closing at position: x={x}, y={y}")
-    save_settings(settings)
+    settings = {
+        "theme": current_scheme,
+        "game": game_var.get(),
+        "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
+        "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
+    }
+    save_settings(settings, current_scheme, game_var, root)
     root.destroy()
 
 
@@ -286,7 +302,7 @@ def load_theme_setting():
         "game": selected_game
     }
     try:
-        with open('utilities/config.txt', 'r', encoding='utf-8') as file:
+        with open(constants.CONFIG_PATH, 'r', encoding='utf-8') as file:
             for setting in file:
                 if setting.startswith('theme='):
                     _, theme_value = setting.strip().split('=', 1)
@@ -349,11 +365,18 @@ def update_theme_menu():
 
 def change_theme(theme_name):
     """Change the color scheme of the application to the selected theme."""
-    global current_scheme
+    global current_scheme, settings
 
     if theme_name in color_schemes:
         if theme_name != current_scheme:
             current_scheme = theme_name
+            settings = {
+                "theme": current_scheme,
+                "game": game_var.get(),
+                "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
+                "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
+            }
+
             ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
                                               add_item_radiobutton, place_item_radiobutton)
             ui_components.configure_combobox_style(current_scheme, color_schemes,
@@ -364,7 +387,7 @@ def change_theme(theme_name):
 
             category_dropdown.config(background=scheme["search_item_field"], foreground=scheme["text"])
             update_theme_menu()
-            save_settings(settings)
+            save_settings(settings, current_scheme, game_var, root)
 
             # Format the theme name for display
             pretty_theme_name = theme_name.replace("_", " ").title().replace("'", "")
@@ -432,6 +455,9 @@ def on_leave(e):
 def select_command():
     selected_command = command_var.get()
     console_print(f"Selected command: {selected_command}", feedback=True)
+
+
+SHIP_MESSAGE_SHOWN = False
 
 
 # Function to update command radiobuttons based on the selected game
@@ -517,12 +543,6 @@ if __name__ == "__main__":
             ok_button.bind("<Enter>", on_enter)
             ok_button.bind("<Leave>", on_leave)
 
-
-        def on_exit():
-            if messagebox.askokcancel("Quit", "Do you want to quit?"):
-                root.destroy()
-
-
         # Create the menubar
         menubar = tk.Menu(root)
         # Create the File menu
@@ -552,7 +572,6 @@ if __name__ == "__main__":
 
         # Add a separator before the Exit command
         filemenu.add_separator()
-
 
         # Function to handle exiting the application
         def on_exit():
@@ -590,7 +609,6 @@ if __name__ == "__main__":
 
         # Display the menubar
         root.config(menu=menubar)
-
 
         # Define the console_print function
         def console_print(*args, **kwargs):

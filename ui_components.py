@@ -1,3 +1,5 @@
+# ui_components.py
+
 import tkinter as tk
 from tkinter import ttk
 
@@ -115,6 +117,10 @@ def configure_combobox_style(current_scheme, color_schemes, add_item_radiobutton
             }
         })
     combostyle.theme_use(theme_name)
+
+    # Extract and print the color scheme being applied
+    scheme = color_schemes[current_scheme]['combobox']
+    print(f"Applying Combobox colors for scheme '{current_scheme}':", scheme)
 
     # Update radio buttons style for the current theme
     add_item_radiobutton.config(selectcolor=color_schemes[current_scheme]['background'])
