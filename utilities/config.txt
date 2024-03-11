@@ -1,4 +1,4 @@
 theme=starfield
 game=Starfield
-window_size=725x616
-window_position=+1123+99
+window_size=725x700
+window_position=+935+268

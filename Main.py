@@ -532,7 +532,7 @@ def show_pygame_animation():
 
     # Load a font and render the text
     font = pygame.font.Font(None, 74)
-    text = font.render('BigSkyDesignworks', True, (255, 255, 255))
+    text = font.render('Big Sky Designworks', True, (255, 255, 255))
     text_rect = text.get_rect(center=(screen_width/2, screen_height/2))
 
     start_time = time.time()
@@ -556,7 +556,7 @@ def show_pygame_animation():
         pygame.display.flip()
 
         # Auto-close after 3 seconds
-        if time.time() - start_time > 30:
+        if time.time() - start_time > 3:
             running = False
 
         clock.tick(60)
