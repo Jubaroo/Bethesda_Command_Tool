@@ -1,5 +1,10 @@
 # main.py
+import math
+import random
+import time
 
+import pygame
+import tkinter
 import tkinter as tk
 from tkinter import ttk, messagebox, font
 
@@ -12,15 +17,26 @@ import utilities
 from color_schemes import color_schemes
 from creature_manager import load_creature_names
 from item_manager import read_item_ids
+from particle import Particle
 from utilities import save_settings
 
 # TODO Fix dropdown menu text changing to white after changing category
 # TODO make items and such searchable by ID instead of name (as an option)
 # TODO Make the search function auto correct based on the closest match to the written text
 # TODO if two items have the same name but different IDs, it will only give the ID of the first entry
+# TODO fix the radio buttons from changing places
 
+# Global Variables
+current_scheme = None
+game_var = None
+category_var = None
+quantity_var = None
+soul_gem_type_var = None
+command_var = None
+item_listbox = None
 selected_game = "None"
-global settings
+settings = None
+color_schemes['random'] = None
 
 
 # Function to update the item list when the game changes
@@ -28,44 +44,61 @@ def on_game_change(event=None):
     global bethesda_items, item_categories, is_creature_list, selected_game
     current_game = game_var.get()
     root.title(f"Bethesda Command Tool - {current_game}")
-    current_category = category_var.get()
-    # Reset the creature list flag when changing games
-    is_creature_list = False
-    filename = utilities.get_standardized_filename(current_game)
+
+    # Load game-specific data and update UI components
+    load_game_data(current_game)
+    update_ui_for_game_change(current_game)
+
+    # Update settings and save
+    update_settings_and_save(current_game)
+
+
+def load_game_data(game_name):
+    global bethesda_items, item_categories
+    filename = utilities.get_standardized_filename(game_name)
     bethesda_items, item_categories = read_item_ids(filename)
-    ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,
-                                              creature_names, center_listbox_contents)
-    sorted_category_list = sorted(list(item_categories.keys()))
+    sorted_category_list = sorted(item_categories.keys())
     category_dropdown['values'] = ["ALL"] + sorted_category_list
     category_dropdown.current(0)
+    ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,
+                                              creature_names, center_listbox_contents)
     update_list_for_category()
-    # Update command options based on the selected category
-    update_command_options(current_game, current_category)
-    # Reset the keybind with the new game
+
+
+def update_ui_for_game_change(game_name):
+    global is_creature_list
+    is_creature_list = False
+    update_command_options(game_name, category_var.get())
     keybind_handler.setup_keybind(selected_game)
-    # Show or hide the soul gem quality UI elements based on the selected game
-    if current_game == "Morrowind":
-        # Check if the currently selected item is a soul gem
-        selected_index = item_listbox.curselection()
-        if selected_index:
-            selected_item = item_listbox.get(selected_index)
-            if "soul gem" in selected_item.lower():
-                is_creature_list = True
-                soul_gem_label.pack(side=tk.LEFT, padx=(10, 2))
-                soul_gem_type_dropdown.pack(side=tk.LEFT, padx=(2, 10), pady=5)
-            else:
-                soul_gem_label.pack_forget()
-                soul_gem_type_dropdown.pack_forget()
+
+    if game_name == "Morrowind":
+        update_soul_gem_ui_for_morrowind()
     else:
-        # Hide the soul gem quality dropdown for other games
         soul_gem_label.pack_forget()
         soul_gem_type_dropdown.pack_forget()
         center_listbox_contents()
-    ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
-                                      add_item_radiobutton, place_item_radiobutton)
+
+    ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes)
+
+
+def update_soul_gem_ui_for_morrowind():
+    global is_creature_list
+    selected_index = item_listbox.curselection()
+    if selected_index:
+        selected_item = item_listbox.get(selected_index)
+        is_creature_list = "soul gem" in selected_item.lower()
+        if is_creature_list:
+            soul_gem_label.pack(side=tk.LEFT, padx=(10, 2))
+            soul_gem_type_dropdown.pack(side=tk.LEFT, padx=(2, 10), pady=5)
+        else:
+            soul_gem_label.pack_forget()
+            soul_gem_type_dropdown.pack_forget()
+
+
+def update_settings_and_save(game_name):
     settings = {
         "theme": current_scheme,
-        "game": game_var.get(),
+        "game": game_name,
         "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
         "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
     }
@@ -76,114 +109,97 @@ def search_item(*args):
     search_term = search_var.get().strip().lower()
     selected_category = category_var.get()
 
-    item_listbox.delete(0, tk.END)  # Clear the listbox
+    item_listbox.delete(0, tk.END)
 
     if not search_term:
-        # Repopulate the listbox with items if the search field is cleared
-        ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,
-                                                  creature_names, center_listbox_contents, category="ALL")
+        ui_components.populate_listbox_with_items(
+            item_listbox, root, item_categories, bethesda_items, game_var,
+            creature_names, center_listbox_contents, category="ALL"
+        )
         return
 
     search_results = []
 
-    if selected_category == "ALL":
-        # Loop over all categories and their items if "ALL" is selected
-        for category, subcategories in item_categories.items():
-            for subcategory, items_list in subcategories.items():
-                for item_id in items_list:
-                    item_desc = bethesda_items.get(item_id, "Unknown Item")
-                    if search_term in item_desc.lower():
-                        search_results.append(item_desc)
-    else:
-        # Only search within the selected category
-        subcategories = item_categories.get(selected_category, {})
-        if isinstance(subcategories, dict):  # If there are subcategories
-            for subcategory, items_list in subcategories.items():
-                for item_id in items_list:
-                    item_desc = bethesda_items.get(item_id, "Unknown Item")
-                    if search_term in item_desc.lower():
-                        search_results.append(item_desc)
-        elif isinstance(subcategories, list):  # If it's directly a list of items
-            for item_id in subcategories:
-                item_desc = bethesda_items.get(item_id, "Unknown Item")
-                if search_term in item_desc.lower():
-                    search_results.append(item_desc)
+    categories_to_search = (item_categories.items() if selected_category == "ALL"
+                            else [(selected_category, item_categories.get(selected_category, {}))])
+
+    for _, subcategories in categories_to_search:
+        if isinstance(subcategories, dict):
+            items_list = [item for items in subcategories.values() for item in items]
+        elif isinstance(subcategories, list):
+            items_list = subcategories
         else:
-            # This should not happen but is a safeguard
             console_print("Unexpected data structure for category items.", feedback=True)
+            return
+
+        search_results.extend(
+            bethesda_items.get(item_id, "Unknown Item")
+            for item_id in items_list
+            if search_term in bethesda_items.get(item_id, "").lower()
+        )
 
     # Display the search results in the listbox
-    if search_results:
-        for item_desc in sorted(search_results):
-            item_listbox.insert(tk.END, item_desc)
-    else:
-        item_listbox.insert(tk.END, "No matching items found.")
+    for item_desc in sorted(search_results) or ["No matching items found."]:
+        item_listbox.insert(tk.END, item_desc)
+
     center_listbox_contents()
+
+
+def get_creature_command(selected_text, game_key):
+    creature_id = next((cid for cid, name in creature_names[game_key].items()
+                        if name.strip().lower() == selected_text), None)
+    selected_soul_gem_type = soul_gem_type_var.get()
+    if not creature_id or selected_soul_gem_type not in constants.SOUL_GEM_TYPES:
+        console_print("Creature ID not found or soul gem type not selected.", feedback=True)
+        return None
+
+    soul_gem_type_id = constants.SOUL_GEM_TYPES[selected_soul_gem_type]
+    quantity = quantity_var.get()
+    if not quantity.isdigit():
+        console_print("Invalid quantity", feedback=True)
+        return None
+
+    return f'player->addsoulgem "{creature_id}" "{soul_gem_type_id}" {quantity}'
+
+
+def get_item_command(selected_text, chosen_game, selected_command):
+    item_id = next((id for id, desc in bethesda_items.items() if desc.strip().lower() == selected_text), None)
+    if not item_id or not quantity_var.get().isdigit():
+        console_print("Invalid quantity or item", feedback=True)
+        return None
+
+    quantity = int(quantity_var.get())
+    command_options = {
+        "Morrowind": {
+            "player->additem": f"player->additem {item_id} {quantity}",
+            "placeatpc": f"placeAtPC, '{item_id}', {quantity}"
+        },
+        "default": {
+            "player.additem": f"player.additem {item_id} {quantity}",
+            "player.placeatme": f"player.placeatme {item_id} {quantity}"
+        }
+    }
+
+    return command_options.get(chosen_game, command_options["default"]).get(selected_command)
 
 
 def copy_item_ids():
     global is_creature_list
     selected_index = item_listbox.curselection()
-    if selected_index:
-        # Retrieve the selected text, remove leading/trailing whitespace, and convert to lowercase
-        selected_text = item_listbox.get(selected_index[0]).strip().lower()
-        print(f"Selected Text after trimming: '{selected_text}'")  # Debug print
-
-        # Print the first few items from the dictionary for debugging
-        # for i, (id, desc) in enumerate(bethesda_items.items()):
-        #     print(f"{id}: {desc.strip().lower()}")  # Show trimmed and lowercased descriptions
-        #     if i > 10: break  # Adjust this number based on how many items you want to preview
-
-        if is_creature_list:
-            # Handle creature selection
-            game_key = game_var.get().upper()
-            creature_id = next((creature_id for creature_id, name in creature_names[game_key].items()
-                                if name.strip().lower() == selected_text), None)
-            selected_soul_gem_type = soul_gem_type_var.get()
-            if creature_id and selected_soul_gem_type in constants.SOUL_GEM_TYPES:
-                soul_gem_type_id = constants.SOUL_GEM_TYPES[selected_soul_gem_type]
-                quantity = quantity_var.get()
-                if quantity.isdigit():
-                    # Format the soul gem command
-                    command = f'player->addsoulgem "{creature_id}" "{soul_gem_type_id}" {quantity}'
-                    pyperclip.copy(command)
-                    console_print(f"Soul gem command copied to clipboard:\n{command}", feedback=True)
-                else:
-                    console_print("Invalid quantity", feedback=True)
-            else:
-                console_print("Creature ID not found or soul gem type not selected.", feedback=True)
-        else:
-            # Handle item selection
-            item_id = next((id for id, desc in bethesda_items.items() if desc.strip().lower() == selected_text), None)
-            print(f"Item ID: {item_id}")
-            if item_id and quantity_var.get().isdigit():
-                quantity = int(quantity_var.get())
-                chosen_game = game_var.get()
-                selected_command = command_var.get()
-
-                if chosen_game == "Morrowind":
-                    if selected_command == "player->additem":
-                        command = f"player->additem {item_id} {quantity}"
-                    elif selected_command == "placeatpc":
-                        command = f"placeAtPC, '{item_id}', {quantity}"
-                    else:
-                        console_print("No command selected", feedback=True)
-                        return
-                else:
-                    if selected_command == "player.additem":
-                        command = f"player.additem {item_id} {quantity}"
-                    elif selected_command == "player.placeatme":
-                        command = f"player.placeatme {item_id} {quantity}"
-                    else:
-                        console_print("No command selected", feedback=True)
-                        return
-
-                pyperclip.copy(command)
-                console_print(f"Command copied to clipboard:\n{command}", feedback=True)
-            else:
-                console_print("Invalid quantity or item", feedback=True)
-    else:
+    if not selected_index:
         console_print("No item selected.", feedback=True)
+        return
+
+    selected_text = item_listbox.get(selected_index[0]).strip().lower()
+    chosen_game = game_var.get()
+    selected_command = command_var.get()
+
+    command = get_creature_command(selected_text, chosen_game.upper()) if is_creature_list \
+        else get_item_command(selected_text, chosen_game, selected_command)
+
+    if command:
+        pyperclip.copy(command)
+        console_print(f"Command copied to clipboard:\n{command}", feedback=True)
 
 
 # Global flag to indicate if the listbox is showing creatures
@@ -191,111 +207,77 @@ is_creature_list = False
 
 
 def center_listbox_contents(event=None):
-    # Get the width of the listbox
     lb_width = item_listbox.winfo_width()
-
-    # Get the font used in the listbox
     listbox_font = font.Font(font=item_listbox['font'])
 
-    # Estimate the number of characters that fit into the listbox width
     char_width = listbox_font.measure('M')  # Use a wide character for estimation
     num_chars = lb_width // char_width
 
-    # Temporarily hold the centered items
-    temp_items = []
+    # Use list comprehension for efficient text centering
+    centered_items = ['{:^{width}}'.format(item_listbox.get(i).strip(), width=num_chars)
+                      for i in range(item_listbox.size())]
 
-    # Center each item in the listbox
-    for i in range(item_listbox.size()):
-        item = item_listbox.get(i)
-        item = item.strip()
-        centered_item = '{:^{width}}'.format(item, width=num_chars)
-        temp_items.append(centered_item)
-
-    # Clear and reinsert the centered items
+    # Update the listbox in one operation
     item_listbox.delete(0, tk.END)
-    for item in temp_items:
-        item_listbox.insert(tk.END, item)
+    item_listbox.insert(tk.END, *centered_items)
 
 
 def update_list_for_category(event=None):
     global is_creature_list
     selected_category = category_var.get()
 
-    # Populate the listbox with items from the selected category
-    ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,
-                                              creature_names, center_listbox_contents, category=selected_category)
+    # Optimize listbox update
+    ui_components.populate_listbox_with_items(
+        item_listbox, root, item_categories, bethesda_items, game_var,
+        creature_names, center_listbox_contents, category=selected_category
+    )
 
-    if selected_category == "ALL":
-        # Count all entries across all categories and subcategories
-        entry_count = sum(len(items) for subcategory in item_categories.values() for items in subcategory.values())
-    else:
-        # Calculate the count for the selected category, considering subcategories
-        category_items = item_categories.get(selected_category, {})
-        if isinstance(category_items, dict):
-            # Sum the counts of all subcategories
-            entry_count = sum(len(items) for items in category_items.values())
-        else:
-            # This shouldn't happen with the current structure, but it's a safeguard
-            entry_count = 0
-
+    # Efficient entry count calculation
+    entry_count = len(item_listbox.get(0, tk.END))
     entry_count_label.config(text=f"Entries: {entry_count}")
 
-    currently_selected_game = game_var.get()
-    selected_index = item_listbox.curselection()
+    # Simplify soul gem UI visibility logic
+    show_soul_gem_ui = False
+    if game_var.get() == "Morrowind" and item_listbox.curselection():
+        selected_item = item_listbox.get(item_listbox.curselection())
+        show_soul_gem_ui = "soul gem" in selected_item.lower()
 
-    # Check if a soul gem is currently selected and if the game is Morrowind
-    if selected_index and currently_selected_game == "Morrowind":
-        selected_item = item_listbox.get(selected_index)
-        if "soul gem" in selected_item.lower():
-            is_creature_list = True
-            soul_gem_label.pack(side=tk.LEFT, padx=(10, 2))
-            soul_gem_type_dropdown.pack(side=tk.LEFT, padx=(2, 10), pady=5)
-            return  # Keep the dropdown visible under the right conditions
+    if show_soul_gem_ui:
+        soul_gem_label.pack(side=tk.LEFT, padx=(10, 2))
+        soul_gem_type_dropdown.pack(side=tk.LEFT, padx=(2, 10), pady=5)
+    else:
+        soul_gem_label.pack_forget()
+        soul_gem_type_dropdown.pack_forget()
 
-    # If not the right conditions, hide the dropdown and reset the flag
-    is_creature_list = False
-    soul_gem_label.pack_forget()
-    soul_gem_type_dropdown.pack_forget()
+    is_creature_list = show_soul_gem_ui
 
-    # Update command options based on the selected category
+    # Defer non-critical updates to improve responsiveness
+    root.after_idle(lambda: deferred_updates(selected_category))
+
+
+def deferred_updates(selected_category):
+    scheme = color_schemes[current_scheme]
     update_command_options(game_var.get(), selected_category)
-
-    # Apply combobox style updates here
-    combostyle = ttk.Style()
     ui_components.configure_combobox_style(current_scheme, color_schemes,
                                            add_item_radiobutton, place_item_radiobutton)
-
-    combostyle.configure('TCombobox',
-                         fieldbackground=color_schemes[current_scheme]['combobox']['fieldbackground'],
-                         background=color_schemes[current_scheme]['combobox']['background'],
-                         foreground=color_schemes[current_scheme]['combobox']['foreground'],
-                         arrowcolor=color_schemes[current_scheme]['combobox']['arrowcolor'])
-
-    # Update dropdown colors directly (for when the dropdown is open)
-    root.option_add("*TCombobox*Listbox*Background", color_schemes[current_scheme]['combobox']['fieldbackground'])
-    root.option_add("*TCombobox*Listbox*Foreground", color_schemes[current_scheme]['combobox']['foreground'])
-    # Print current style properties
-    current_style = combostyle.lookup('TCombobox', 'foreground')
-    print("Current Combobox Foreground Style:", current_style)
-    # Reapply the combobox style
-    ui_components.configure_combobox_style(current_scheme, color_schemes, add_item_radiobutton, place_item_radiobutton)
+    ui_components.apply_combobox_style(scheme, root)
 
 
 def on_close():
-    x = root.winfo_x()
-    y = root.winfo_y()
-    print(f"Closing at position: x={x}, y={y}")
-    settings = {
-        "theme": current_scheme,
-        "game": game_var.get(),
-        "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
-        "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
-    }
-    save_settings(settings, current_scheme, game_var, root)
-    root.destroy()
+    if tkinter.messagebox.askokcancel("Quit", "Do you want to quit?"):
+        x = root.winfo_x()
+        y = root.winfo_y()
+        print(f"Closing at position: x={x}, y={y}")
+        settings = {
+            "theme": current_scheme,
+            "game": game_var.get(),
+            "window_size": f"{root.winfo_width()}x{root.winfo_height()}",
+            "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
+        }
+        save_settings(settings, current_scheme, game_var, root)
+        root.destroy()
 
 
-# Update the `load_theme_setting` to also load the selected game
 def load_theme_setting():
     theme_settings = {
         "theme": color_schemes[current_scheme],
@@ -303,15 +285,12 @@ def load_theme_setting():
     }
     try:
         with open(constants.CONFIG_PATH, 'r', encoding='utf-8') as file:
-            for setting in file:
-                if setting.startswith('theme='):
-                    _, theme_value = setting.strip().split('=', 1)
-                    theme_settings["theme"] = theme_value if theme_value in color_schemes else "dark"
-                elif setting.startswith('game='):
-                    _, game_value = setting.strip().split('=', 1)
-                    theme_settings["game"] = game_value
+            settings = dict(setting.strip().split('=', 1) for setting in file if '=' in setting)
+        theme_settings["theme"] = settings.get("theme", theme_settings["theme"])
+        theme_settings["game"] = settings.get("game", theme_settings["game"])
     except (FileNotFoundError, ValueError):
-        pass
+        print(f"Error loading theme settings from {constants.CONFIG_PATH}")
+
     return theme_settings
 
 
@@ -322,50 +301,80 @@ def load_theme_setting_and_create_menu():
     global current_scheme
     current_scheme = current_theme  # Set the global variable for the current theme
 
-    # Create a submenu for black and xx themes
-    black_xx_theme_menu1 = tk.Menu(theme_menu, tearoff=0)
+    if current_scheme == 'random':
+        # Exclude 'random' from the list of themes to choose from
+        available_themes = [theme for theme in color_schemes.keys() if theme != 'random']
+        # Select a random theme from the available themes
+        current_scheme = random.choice(available_themes)
 
-    # Create the theme menu with a checkmark next to the current theme
+    # Check if the current theme is a black and colored theme
+    is_black_and_colored_theme = current_scheme.startswith('black_and_')
+
+    # Create a submenu for black and colored themes
+    black_xx_theme_menu = tk.Menu(theme_menu, tearoff=0)
+
+    # Add the submenu items
     for theme in sorted(color_schemes.keys()):
-        theme_name = theme.replace("_", " ").title()
-        menu_to_use = black_xx_theme_menu1 if theme.startswith('black_and_') else theme_menu
-        if theme == current_scheme:
-            menu_to_use.add_command(label=f"✔ {theme_name}",
-                                    command=lambda theme_name=theme: change_theme(theme_name))
-        else:
-            menu_to_use.add_command(label=f"  {theme_name}",
-                                    command=lambda theme_name=theme: change_theme(theme_name))
+        if theme.startswith('black_and_'):
+            theme_name = theme.replace("_", " ").title()
+            menu_label = f"✔ {theme_name}" if theme == current_scheme else f"  {theme_name}"
+            black_xx_theme_menu.add_command(label=menu_label,
+                                            command=lambda theme_name=theme: change_theme(theme_name))
 
-    # Add the submenu to the main theme menu
-    theme_menu.add_cascade(label="Black & Other Themes", menu=black_xx_theme_menu1)
+    # Add the "Black & Colored" submenu to the main menu
+    black_colored_indicator = "✔ " if is_black_and_colored_theme else ""
+    theme_menu.add_cascade(label=f"{black_colored_indicator}Black & Colored", menu=black_xx_theme_menu)
 
-    ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
-                                      add_item_radiobutton, place_item_radiobutton)
+    # Add other theme items to the main menu
+    for theme in sorted(color_schemes.keys()):
+        if not theme.startswith('black_and_'):
+            theme_name = theme.replace("_", " ").title()
+            menu_label = f"✔ {theme_name}" if theme == current_scheme else f"  {theme_name}"
+            theme_menu.add_command(label=menu_label,
+                                   command=lambda theme_name=theme: change_theme(theme_name))
+
+    ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes)
 
 
 def update_theme_menu():
     # Clear the existing menu items
     theme_menu.delete(0, 'end')
-    black_xx_theme_menu.delete(0, 'end')  # If you keep a reference to this submenu
 
-    # Re-add the menu items with a checkmark next to the active theme
+    # Check if the current theme is a black and colored theme
+    is_black_and_colored_theme = current_scheme.startswith('black_and_')
+
+    # Create a submenu for black and colored themes
+    black_xx_theme_menu = tk.Menu(theme_menu, tearoff=0)
+
+    # Add the submenu items
     for theme in themes_list:
-        theme_name = theme.replace("_", " ").title()
-        menu_to_use = black_xx_theme_menu if theme.startswith('black_and_') else theme_menu
-        if theme == current_scheme:
-            menu_to_use.add_command(label=f"✔ {theme_name}",
-                                    command=lambda theme_name=theme: change_theme(theme_name))
-        else:
-            menu_to_use.add_command(label=f"  {theme_name}",
-                                    command=lambda theme_name=theme: change_theme(theme_name))
+        if theme.startswith('black_and_'):
+            theme_name = theme.replace("_", " ").title()
+            menu_label = f"✔ {theme_name}" if theme == current_scheme else f"  {theme_name}"
+            black_xx_theme_menu.add_command(label=menu_label,
+                                            command=lambda theme_name=theme: change_theme(theme_name))
 
-    # Add the submenu to the main theme menu again
-    theme_menu.add_cascade(label="Black & Other Themes", menu=black_xx_theme_menu)
+    # Add the "Black & Colored" submenu to the main menu
+    black_colored_indicator = "✔ " if is_black_and_colored_theme else ""
+    theme_menu.add_cascade(label=f"{black_colored_indicator}Black & Colored", menu=black_xx_theme_menu)
+
+    # Add other theme items to the main menu
+    for theme in themes_list:
+        if not theme.startswith('black_and_'):
+            theme_name = theme.replace("_", " ").title()
+            menu_label = f"✔ {theme_name}" if theme == current_scheme else f"  {theme_name}"
+            theme_menu.add_command(label=menu_label,
+                                   command=lambda theme_name=theme: change_theme(theme_name))
 
 
 def change_theme(theme_name):
     """Change the color scheme of the application to the selected theme."""
     global current_scheme, settings
+
+    # If the selected theme is "random", choose a random theme that is not "random" and not the current scheme
+    if theme_name == 'random':
+        available_themes = [theme for theme in color_schemes.keys() if theme != 'random' and theme != current_scheme]
+        theme_name = random.choice(available_themes)
 
     if theme_name in color_schemes:
         if theme_name != current_scheme:
@@ -377,8 +386,7 @@ def change_theme(theme_name):
                 "window_position": f"+{root.winfo_x()}+{root.winfo_y()}",
             }
 
-            ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
-                                              add_item_radiobutton, place_item_radiobutton)
+            ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes)
             ui_components.configure_combobox_style(current_scheme, color_schemes,
                                                    add_item_radiobutton, place_item_radiobutton)
 
@@ -489,15 +497,94 @@ def update_command_options(current_game, current_category):
             place_item_radiobutton.config(text='Spawn Item on Ground', value="player.placeatme")
 
 
+def update_about_window(about_window):
+    # Retrieve the current game and theme
+    current_game = selected_game if selected_game != 'None' else 'No Game Selected'
+    current_theme = current_scheme.replace("_", " ").title()
+
+    # Format the game and theme information
+    game_and_theme_info = f"Current Game: {current_game}\nCurrent Theme: {current_theme}"
+
+    # Create or update the label in the About window
+    game_theme_label = tk.Label(about_window, text=game_and_theme_info,
+                                bg=color_schemes[current_scheme]['background'],
+                                fg=color_schemes[current_scheme]['text'],
+                                font=("Helvetica", 10))
+    game_theme_label.pack(pady=5)
+
+
+def show_pygame_animation():
+    pygame.init()
+
+    screen_width, screen_height = 800, 600
+    screen = pygame.display.set_mode([screen_width, screen_height], pygame.SRCALPHA)
+    clock = pygame.time.Clock()
+
+    # Colors for particles
+    colors = [(255, 100, 100), (100, 255, 100), (100, 100, 255), (255, 255, 100)]
+
+    # Create particles
+    particles = [Particle(random.randrange(screen_width), random.randrange(screen_height),
+                          random.randint(2, 6), random.choice(colors), screen_width, screen_height) for _ in range(50)]
+
+    # Set a dark background color
+    background_color = (10, 10, 10)
+
+    # Load a font and render the text
+    font = pygame.font.Font(None, 74)
+    text = font.render('BigSkyDesignworks', True, (255, 255, 255))
+    text_rect = text.get_rect(center=(screen_width/2, screen_height/2))
+
+    start_time = time.time()
+
+    running = True
+    while running:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                running = False
+
+        screen.fill(background_color)
+
+        # Update and draw particles
+        for particle in particles:
+            particle.move()
+            particle.draw(screen)
+
+        # Draw the text
+        screen.blit(text, text_rect)
+
+        pygame.display.flip()
+
+        # Auto-close after 3 seconds
+        if time.time() - start_time > 30:
+            running = False
+
+        clock.tick(60)
+
+    pygame.quit()
+
+
 if __name__ == "__main__":
     try:
+        show_pygame_animation()
+
         # Create the main window
         root = tk.Tk()
+        # Create a ttk style object
+        style = ttk.Style()
 
         # Load initial settings
         settings = utilities.load_settings(root)
         current_scheme = settings.get("theme", constants.DEFAULT_THEME)
-        selected_game = settings.get("game", selected_game)  # Assume "None" if no game is saved
+        selected_game = settings.get("game", selected_game)
+        window_size = settings.get('window_size', '')
+        window_position = settings.get('window_position', '')
+        geometry_setting = f"{window_size}{window_position}"
+
+        # Define a specific font
+        my_font = font.Font(family='Consolas', size=12, weight='bold')
+        # Define a global bold font
+        bold_font = font.Font(family='Consolas', size=12, weight='bold')
 
         root.title(f"Bethesda Command Tool - {selected_game if selected_game != 'None' else 'No Game Selected'}")
 
@@ -531,6 +618,7 @@ if __name__ == "__main__":
             about_label = tk.Label(about_window, text="Bethesda Command Tool", font=("Helvetica", 12, "bold"),
                                    bg=scheme['background'], fg=scheme['text'])
             about_label.pack(pady=15)
+            update_about_window(about_window)
             version_label = tk.Label(about_window, text="Version 1.0", font=("Helvetica", 10),
                                      bg=scheme['background'], fg=scheme['text'])
             version_label.pack()
@@ -633,7 +721,6 @@ if __name__ == "__main__":
             else:
                 print("Console not yet initialized:", *args, **kwargs)
 
-
         # Add a dropdown for game selection
         game_var = tk.StringVar(value=selected_game)
 
@@ -641,21 +728,23 @@ if __name__ == "__main__":
         game_var.set(selected_game)
         update_game_menu()  # This will set the initial checkmark
 
-        # Apply saved window size and position
-        geometry_setting = f"{settings['window_size']}{settings['window_position']}"
-        root.geometry(geometry_setting)
-
         # Validate and apply the window geometry
         if utilities.valid_geometry(geometry_setting):
             root.geometry(geometry_setting)
-        else:
-            messagebox.showwarning(f"Invalid geometry setting found: {geometry_setting}. "
-                                   f"Reverting to defaults (768, 800).")
+        elif utilities.valid_geometry(window_size) and utilities.valid_geometry(window_position):
+            geometry_setting = f"{window_size}{window_position}"
             root.geometry(f"{constants.DEFAULT_WINDOW_SIZE}{constants.DEFAULT_WINDOW_POSITION}")
+            print('centering the window')
+        else:
+            messagebox.showwarning("Invalid Geometry Setting",
+                                   f"Invalid geometry setting found: {geometry_setting}. "
+                                   f"Reverting to defaults: "
+                                   f"{constants.DEFAULT_WINDOW_SIZE, constants.DEFAULT_WINDOW_POSITION}.")
+            utilities.center_window_on_screen(root)
 
-        window_width, window_height = 768, 1100
         screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
-        x_coordinate, y_coordinate = (screen_width - window_width) // 2, (screen_height - window_height) // 2
+        x_coordinate, y_coordinate = ((screen_width - constants.DEFAULT_WINDOW_WIDTH) // 2,
+                                      (screen_height - constants.DEFAULT_WINDOW_HEIGHT) // 2)
 
         # Frame for game selection dropdown and toggle theme button
         top_frame = tk.Frame(root, bg=color_schemes[current_scheme]['background'])
@@ -664,6 +753,9 @@ if __name__ == "__main__":
         # Frame for the soul gem interaction button
         soul_gem_button_frame = tk.Frame(root, bg=color_schemes[current_scheme]['background'])
         soul_gem_button_frame.pack(fill='x', padx=10, pady=(5, 5))
+
+        # Configure the TCombobox style to use the bold font
+        style.configure('Bold.TCombobox', font=bold_font)
 
         # Frame for the category dropdown
         category_frame = tk.Frame(root, bg=color_schemes[current_scheme]['background'])
@@ -675,7 +767,7 @@ if __name__ == "__main__":
         category_label.pack(side=tk.LEFT, padx=(10, 2))
         category_var = tk.StringVar()
         category_dropdown = ttk.Combobox(category_frame, textvariable=category_var, state="readonly", width=37,
-                                         height=15)
+                                         height=15, style='Bold.TCombobox')
         bethesda_items, item_categories = read_item_ids(utilities.get_standardized_filename(selected_game))
         sorted_categories = sorted(list(item_categories.keys()))
         category_dropdown['values'] = ["ALL"] + sorted_categories
@@ -700,13 +792,8 @@ if __name__ == "__main__":
         search_var = tk.StringVar()
         search_var.trace("w", lambda name, index, mode, sv=search_var: search_item())
 
-        search_entry = tk.Entry(search_frame, textvariable=search_var, width=50)
+        search_entry = tk.Entry(search_frame, textvariable=search_var, width=50, font=bold_font)
         search_entry.pack(side=tk.LEFT, padx=(2, 10), pady=15)
-
-        # Define a specific font
-        my_font = font.Font(family='Consolas', size=12, weight='bold')
-        # Define a global bold font
-        bold_font = font.Font(family='Consolas', size=12, weight='bold')
 
         # Frame for the listbox and scrollbar
         listbox_frame = tk.Frame(root, bg=color_schemes[current_scheme]['background'])
@@ -728,6 +815,16 @@ if __name__ == "__main__":
         quantity_soul_gem_frame = tk.Frame(root, bg=color_schemes[current_scheme]['background'])
         quantity_soul_gem_frame.pack(fill='x', padx=10, pady=(5, 5))
 
+        # Validation command for quantity entry
+        def validate_quantity(P):
+            # Check if the string is either empty or consists only of digits
+            if P.isdigit() or P == "":
+                return True
+            else:
+                return False
+
+        vcmd = (root.register(validate_quantity), '%P')
+
         # Quantity label and entry
         quantity_label = tk.Label(quantity_soul_gem_frame, text="Quantity:",
                                   bg=color_schemes[current_scheme]['background'],
@@ -735,7 +832,8 @@ if __name__ == "__main__":
                                   font=("Helvetica", 10, "bold"))
         quantity_label.pack(side=tk.LEFT, padx=(10, 2))
         quantity_var = tk.StringVar()
-        quantity_entry = tk.Entry(quantity_soul_gem_frame, textvariable=quantity_var, width=15)
+        quantity_entry = tk.Entry(quantity_soul_gem_frame, textvariable=quantity_var, width=15, font=bold_font,
+                                  validate='key', validatecommand=vcmd)
         quantity_entry.pack(side=tk.LEFT, padx=(2, 10), pady=20)
 
         # Soul Gem Quality label and dropdown
@@ -850,8 +948,7 @@ if __name__ == "__main__":
 
         # Load data and apply initial configurations
         creature_names = load_creature_names()
-        ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes,
-                                          add_item_radiobutton, place_item_radiobutton)
+        ui_components.update_color_scheme(root, frames_to_update, widgets_to_update, current_scheme, color_schemes)
         ui_components.configure_combobox_style(current_scheme, color_schemes,
                                                add_item_radiobutton, place_item_radiobutton)
         ui_components.populate_listbox_with_items(item_listbox, root, item_categories, bethesda_items, game_var,

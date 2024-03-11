@@ -1,3 +1,5 @@
+# color_schemes.py
+
 color_schemes = {
     "dark": {
         "background": "#121212",

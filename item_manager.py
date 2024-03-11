@@ -9,23 +9,23 @@ def read_item_ids(filename):
             for line in file:
                 line = line.strip()
                 if line.startswith("#") and line.endswith("#"):
-                    current_category = line[1:-1]
+                    current_category = line.strip("#")
                     categories[current_category] = {}
-                    current_subcategory = None  # Reset subcategory when a new category starts
+                    current_subcategory = None
                 elif line.startswith("***") and line.endswith("***"):
-                    current_subcategory = line[1:-1]
-                    if current_category:  # Ensure a category is set
+                    current_subcategory = line.strip("*")
+                    if current_category:
                         categories[current_category][current_subcategory] = []
                 else:
                     parts = line.split(':')
                     if len(parts) == 2:
-                        item_id, item_desc = parts
-                        item_id = item_id.strip()
-                        item_ids[item_id] = item_desc.strip()
-                        if current_subcategory and current_category:
-                            categories[current_category][current_subcategory].append(item_id)
-                        elif current_category:  # No subcategory, but there's a main category
-                            categories[current_category].setdefault('No Subcategory', []).append(item_id)
+                        item_id, item_desc = map(str.strip, parts)
+                        item_ids[item_id] = item_desc
+                        category = categories[current_category]
+                        if current_subcategory:
+                            category[current_subcategory].append(item_id)
+                        else:
+                            category.setdefault('No Subcategory', []).append(item_id)
     except FileNotFoundError:
-        pass
+        print(f"File not found: {filename}")
     return item_ids, categories

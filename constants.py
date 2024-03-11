@@ -1,4 +1,5 @@
 # constants.py
+
 import os
 
 SOUL_GEM_TYPES = {
@@ -20,12 +21,21 @@ FILENAME_MAP = {
     "Fallout: New Vegas": "game_ids/fallout_newvegas_item_ids.txt"
 }
 
+
 GAMES = sorted(FILENAME_MAP.keys())
-DEFAULT_THEME = "dark"
-DEFAULT_GAME = "Fallout 3"
-DEFAULT_WINDOW_SIZE = "768x1400"
+DEFAULT_THEME = "starfield"
+DEFAULT_GAME = "Starfield"
+DEFAULT_WINDOW_SIZE = "768x800"
 DEFAULT_WINDOW_POSITION = "+100+100"
 CONFIG_PATH = 'utilities/config.txt'
 GAME_IDS_PATH = 'game_ids/default_item_ids.txt'
 SOUL_GEM_CREATURES_PATH = 'game_ids/soul_gem_creatures.txt'
 ABSOLUTE_PATH = os.path.abspath(CONFIG_PATH)
+DEFAULT_WINDOW_WIDTH, DEFAULT_WINDOW_HEIGHT = 768, 800
+
+DEFAULT_SETTINGS = {
+    "theme": DEFAULT_THEME,
+    "game": DEFAULT_GAME,
+    "window_size": DEFAULT_WINDOW_SIZE,
+    "window_position": DEFAULT_WINDOW_POSITION
+}
